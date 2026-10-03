@@ -1,0 +1,486 @@
+{
+  "asset_name": "LUA_SI_OPR_SKILL_KOREA_g",
+  "root_name": "m_dicString",
+  "data": [
+    [
+      "SI_SKILL_DESC_OPR_PASSIVE_VS_AIR_DMG",
+      "아군 유닛이 <color=#ffd34c>적 공중 유닛에게 받는 피해 {value1}% 감소</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_PASSIVE_VS_AIR_DMG",
+      "공중 피해 감소"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_PASSIVE_VS_LAND_DMG",
+      "아군 유닛이 <color=#ffd34c>적 지상 유닛에게 받는 피해량 {value1}% 감소</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_PASSIVE_VS_LAND_DMG",
+      "지상 피해 감소"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_PASSIVE_HIT",
+      "아군 유닛 <color=#ffd34c>명중 능력치 {value1} 증가</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_PASSIVE_HIT",
+      "명중 증가"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_PASSIVE_EVADE",
+      "아군 유닛 <color=#ffd34c>회피 능력치 {value1} 증가</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_PASSIVE_EVADE",
+      "회피 증가"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_PASSIVE_BONUS_DMG",
+      "아군 유닛 <color=#ffd34c>상성 추가 피해량 {value1}% 강화</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_PASSIVE_BONUS_DMG",
+      "상성 피해 강화"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_PASSIVE_DMG",
+      "아군 유닛 <color=#ffd34c>공격 능력치 100 증가 (레벨당 +10)</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_PASSIVE_DMG",
+      "공격력 증가"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_PASSIVE_CRI_DMG",
+      "아군 유닛 <color=#ffd34c>치명타 피해량 {value1}% 증가</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_PASSIVE_CRI_DMG",
+      "치명타 피해 증가"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_PASSIVE_CC_RESIST",
+      "아군 유닛 <color=#ffd34c>상태 이상 저항 능력 {value1}% 증가</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_PASSIVE_CC_RESIST",
+      "상태 이상 저항 능력 증가"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_PASSIVE_BARRIER",
+      "아군 유닛 <color=#ffd34c>받는 배리어 증가 {value1}%</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_PASSIVE_BARRIER",
+      "받는 배리어 증가"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_PASSIVE_CRI_DMG_RESIST",
+      "아군 유닛 <color=#ffd34c>치명타 피해 저항 {value1}% 증가</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_PASSIVE_CRI_DMG_RESIST",
+      "치명타 피해 저항"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_PASSIVE_VS_LONG_DMG",
+      "아군 유닛이 <color=#ffd34c>받는 원거리 피해량 {value1}% 감소</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_PASSIVE_VS_LONG_DMG",
+      "원거리 피해 감소"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_PASSIVE_VS_SHORT_DMG",
+      "아군 유닛이 <color=#ffd34c>받는 근거리 피해량 {value1}% 감소</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_PASSIVE_VS_SHORT_DMG",
+      "근거리 피해 감소"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_PASSIVE_VS_WIDE_DMG",
+      "아군 유닛이 <color=#ffd34c>받는 광역 피해량 {value1}% 감쇄</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_PASSIVE_VS_WIDE_DMG",
+      "광역 감쇄"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_PASSIVE_ATK_SPD",
+      "아군 유닛 <color=#ffd34c>공격 속도 {value1}% 증가</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_PASSIVE_ATK_SPD",
+      "공격 속도 증가"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_PASSIVE_MOVE_SPD",
+      "아군 유닛 <color=#ffd34c>이동 속도 {value1}% 증가</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_PASSIVE_MOVE_SPD",
+      "이동 속도 증가"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_LEE_SUYEON",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 아군 스트라이커</color>에게 <color=#ffd34c>스턴◇ 면역</color>과 함께 <color=#ffd34c>{stat1} {factor1}%, {stat2} {value2}% 증가</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_LEE_SUYEON",
+      "오퍼레이션 : 스트라이크"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_OLIVIA_PARK",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>아군 카운터</color>의 <color=#ffd34c>디버프를 무효화</color>하고 <color=#ffd34c>{stat1} {value1}%, {stat2} {value2}%</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_OLIVIA_PARK",
+      "Ph.D 에스테"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_ANASTASIA",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 아군 메카닉</color>에게 <color=#ffd34c>{stat1} {value1}% 증가</color> 효과를 부여하고 지휘 기술 발동 시간 동안 아군 메카닉 유닛이 출격할 때마다 <color=#ffd34c>{stat2} {value2}% 증가</color> 효과를 부여한다(최대 5중첩). {stat2} 증가 최대치 도달 시 <color=#ffd34c>{stat3} {value3}% 증가</color> 효과를 추가로 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_ANASTASIA",
+      "강제박리"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_CHLOE",
+      "<color=#ffd34c>모든 적</color>의 <color=#ffd34c>배리어를 해제</color>하고, <color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>{stat1} {factor1}% 감소와 수면</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않으며,</color> 보스에게는 수면 효과가 적용되지 않는다."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_CHLOE",
+      "달의 저주"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_LENA",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 아군</color>에게 <color=#ffd34c>{stat1},{stat2} {factor1}% 증가</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_LENA",
+      "정확한 공격명령"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_KIMHANA",
+      "출격 코스트 <color=#ffd34c>1</color>을 즉시 회복하고, <color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>출격중인 모든 아군</color>에게 <color=#ffd34c>수면 면역</color>과 함께 <color=#ffd34c>{stat1} {value1}%</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_KIMHANA",
+      "업무효율 극대화"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_JANG_WEI",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 적</color>에게 <color=#ffd34c>{stat1},명중 능력치 {value1}% 감소</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_JANG_WEI",
+      "발목 잡기"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_MARK_FINRI",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 아군</color>에게 <color=#ffd34c>{stat1} {value1}% 증가, 명중 능력치 {factor2}% 증가</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_MARK_FINRI",
+      "일제 사격"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_LEE_YOONJUNG",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 아군</color>에게 <color=#ffd34c>{stat1} {factor1}% 증가</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_LEE_YOONJUNG",
+      "조교의 자양강장제"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_NAHIRIN",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>아군 메카닉</color>의 <color=#ffd34c>디버프를 무효화</color>하고 <color=#ffd34c>{stat1} {value1}% 증가</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_NAHIRIN",
+      "정지,정지! 그만하세요!"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_REPLACER_COMMANDAR",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 아군</color>에게 <color=#ffd34c>{stat1} {value1}% 증가</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_REPLACER_COMMANDAR",
+      "모두 퍼부어라!"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_ALICIA",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>적</color>에게 <color=#ffd34c>받는 피해 증폭 {value1}% 증가</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_ALICIA",
+      "약점 노출"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_ACADEMY_FRESHMAN",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 아군</color>에게 <color=#ffd34c>{stat1} {factor1}% 증가</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_ACADEMY_FRESHMAN",
+      "베이직 인커리지"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_AUTOMATA",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 아군</color>에게 <color=#ffd34c>{stat1} {value1}% 증가</color> 효과를 부여한다.  이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_AUTOMATA",
+      "세이프 시퀀스"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_OLD_ALICIA",
+      "<color=#ffd34c>12초</color> 동안 <color=#ffd34c>보스를 제외한 적 유닛</color>에게 <color=#ffd34c> 회복 불가◇</color> 상태를 부여한다. <color=#ffd34c>16초</color> 동안 <color=#ffd34c>모든 아군 유닛</color>에게 <color=#ffd34c> 회복 불가◇</color> 상태와 <color=#ffd34c>{stat1} {factor1}%, {stat2} {factor2}% 증가</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_OLD_ALICIA",
+      "스테빌라이저 가동"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_REPLACER_KING",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 아군</color>에게 <color=#ffd34c>공격속도 감소 면역</color>과 함께 <color=#ffd34c>{stat1} {value1}%, {stat2} {value2}% 증가</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_REPLACER_KING",
+      "임무 강행"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_RAS_TOWER",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 아군</color>에게 <color=#ffd34c> 최대 체력 {barrierhp}%의 해제되지 않는 배리어</color>를 부여하고 배리어가 유지되는 동안 <color=#ffd34c>{stat1} {value1}% 증가</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_RAS_TOWER",
+      "오버클럭 매트릭스"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_MASTER",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 아군</color>에게 <color=#ffd34c>특수기 이하 경직 면역</color> 효과와 <color=#ffd34c>{stat1} {value1}%</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_MASTER",
+      "라비린스 가든"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_SERINA_SUMMER",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 적</color>의 영구 효과를 제외한 <color=#ffd34c>버프를 무효화</color>한다(보스 제외). 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_SERINA_SUMMER",
+      "서비스, 나갑니다!"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_GRAFFITI",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 아군 솔저</color>에게 <color=#ffd34c>{stat1} {value1}% 증가</color> 효과를 부여하고 발동 시점에 전장에 존재하는 아군 솔저 유닛 1기당 <color=#ffd34c>{stat2} {value2}% 증가</color> 효과를 부여한다(최대 10중첩). 공격력 증가 최대치 도달 시 <color=#ffd34c>{stat3} {value3}% 증가</color> 효과를 추가로 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_GRAFFITI",
+      "예쁘게 꾸며줄게☆"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_MOMO",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 적</color>에게 <color=#ffd34c>받는 회복량의 100% 역류</color>와 <color=#ffd34c> {stat1} {value1}% 감소</color> 효과를 부여한다. (보스 제외) 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_MOMO",
+      "이것이 마왕 필살… 엑!"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_MOTHER",
+      "<color=#ffd34c>180초</color> 동안 [#UNIT_OPR_MOTHER_SUMMON#]가 아군 함선에서 <color=#ffd34c>{time}초</color>마다 생성되며 [펭귄 모네] 사망 시 전장의 모든 적에게 <color=#ffd34c>받는 피해 증폭 {value1}% 증가</color> 효과를 부여한다.(최대 60%, 건틀렛에서는 함선 제외)"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_MOTHER",
+      "엄마가 잘할게"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_REPLACER_LOOK",
+      "<color=#ffd34c>12초 </color>동안 <color=#ffd34c>보스를 제외한 적 유닛</color>에게 <color=#ffd34c>완전 회피◇</color> 상태를 부여한다. <color=#ffd34c>15초 </color>동안 <color=#ffd34c>모든 아군 유닛</color>에게 <color=#ffd34c>완전 회피◇</color> 상태를 부여하고 <color=#ffd34c>{stat1} {factor1}%, {stat2} {value2}% 증가</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_REPLACER_LOOK",
+      "공간 장악 연산"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_VILLETTA1",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 아군</color>에게 <color=#ffd34c> 최대 체력 {barrierhp}%의 해제되지 않는 배리어</color>를 부여하고 배리어가 유지되는 동안 <color=#ffd34c>{stat1} {value1}%</color> 효과를 부여한다. "
+    ],
+    [
+      "SI_SKILL_DESC_OPR_VILLETTA2",
+      "추가로 메카닉 유닛에게는 <color=#ffd34c>해제되지 않는 특수기 증폭 20%</color> 효과를 부여한다."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_VILLETTA",
+      "미소녀부터 관능적인 숙녀까지"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_DAIN1",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 아군</color>에게 <color=#ffd34c> {stat1} {value1}% 증가</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다.</color>"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_DAIN2",
+      "추가로 <color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 아군 스나이퍼</color>에게는 <color=#ffd34c>최대 체력 {barrierhp}%</color>의 해제되지 않는 배리어를 부여한다."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_DAIN",
+      "귀여운 건 정의라고요!"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_VIVIEN1",
+      "<color=#ffd34c>15초</color> 동안 <color=#ffd34c>지상의 아군 스트라이커와 스나이퍼</color>에게 <color=#ffd34c>{stat1} {factor1}% 증가, {stat2} {value2}% 증가</color> 효과를 부여한다. 해당 효과는 <color=#ffd34c>{time}초</color>마다 <color=#ffd34c>최대치의 1/5씩</color> 점차 감소된 후 사라진다. "
+    ],
+    [
+      "SI_SKILL_DESC_OPR_VIVIEN2",
+      "추가로 <color=#ffd34c>효과를 받은 대상이 4코스트 이상</color>일 경우 <color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>공격속도 감소와 스턴◇에 면역</color> 효과를 부여한다. 모든 효과는 <color=#ffd34c>해제되지 않는다.</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_VIVIEN",
+      "왕립군 제식 전술"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_SYSOP",
+      "출격 코스트를 즉시 <color=#ffd34c>{costpumpresult}</color> 회복하고, <color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>출격중인 모든 아군</color>에게 <color=#ffd34c>{stat1} {value1}% 증가</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_SYSOP",
+      "입실론 타입 – 001 인과계산기"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_MITCH1",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 아군 스트라이커</color>에게 <color=#ffd34c>피해반사 33% </color>버프를 부여한다. <color=#ffd34c>출격자원이 4이상인 스트라이커</color>에게는 수치가<color=#ffd34c>66%</color>로 적용된다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>. "
+    ],
+    [
+      "SI_SKILL_DESC_OPR_MITCH2",
+      "(피해반사는 다른 피해반사 버프와 <color=#ffd34c>합산되지 않으며 가장 높은 수치만 적용</color>된다.) "
+    ],
+    [
+      "SI_SKILL_NAME_OPR_MITCH",
+      "건풍선 빵빵 터지는데★"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_CANARY_STAFF",
+      "<color=#ffd34c>12초</color> 동안 <color=#ffd34c>아군 레인저와 스나이퍼</color>에게 <color=#ffd34c>{stat1} {value1}% 증가, {stat2} {value2}% 증가</color> 효과를 부여한다. 해당 효과는 <color=#ffd34c>{time}초</color>마다 <color=#ffd34c>최대치의 1/4씩</color> 점차 감소된 후 사라진다. 이 효과는 <color=#ffd34c>해제되지 않는다.</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_CANARY_STAFF",
+      "스태프의 필수 소양"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_SHASHA",
+      "출격 코스트를 즉시 <color=#ffd34c>{costpumpresult}</color> 회복하고, <color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>출격중인 모든 아군 레인저</color>에게 <color=#ffd34c>{stat1} {value1}%, {stat2} {factor2}% 증가</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_SHASHA",
+      "활약할 찬스!"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_ROOT_DRUID",
+      "<color=#ffd34c>16초</color> 동안 <color=#ffd34c>아군 디펜더와 스트라이커</color>에게 <color=#ffd34c>{stat1} {factor1}%, {stat2} {value2}% 증가</color> 효과를 부여한다. <color=#ffd34c>{stat1}</color>는 <color=#ffd34c>{time}초</color>마다 <color=#ffd34c>최대치의 1/4씩</color> 점차 감소된 후 사라진다. 이 효과는 <color=#ffd34c>해제되지 않는다.</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_ROOT_DRUID",
+      "검과 방패의 계절"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_SPEAKER",
+      "<color=#ffd34c>레인저와 스트라이커를 제외한 모든 아군</color>에게 <color=#ffd34c>1회 피격 시 해제되는 배리어</color>를 <color=#ffd34c>8회</color> 부여한다. 배리어는 횟수당 <color=#ffd34c>{time}</color>초 동안 유지되고 배리어가 유지되는 동안 <color=#ffd34c>공격력 30% 증가</color> 효과를 부여한다. 이 효과는<color=#ffd34c> 해제되지 않는다.</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_SPEAKER",
+      "일단 진행시켜!"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_ASHA",
+      "<color=#ffd34c>4초</color> 동안 <color=#ffd34c>메카닉을 포함한 모든 적 유닛</color>에게 <color=#ffd34c>스턴◇</color>을 부여하고 (보스 제외) <color=#ffd34c>메카닉을 제외한 4코스트 이상의 지상 아군 유닛</color>에게 <color=#ffd34c>12초</color> 동안 <color=#ffd34c>{stat1} {value1}%, {stat2} {value2}% 증가</color> 효과를 부여한다. <color=#ffd34c>vs지상 피해 증가</color> 효과는 <color=#ffd34c>3초</color>마다 <color=#ffd34c>최대치의 1/4씩</color> 점차 감소된 후 사라진다. 건틀렛에서는 스턴 효과가 <color=#ffd34c>4코스트 이하의 적</color>에게만 적용된다. <color=#ffd34c>이 효과는 해제되지 않는다.</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_ASHA",
+      "최적의 코스로 안내할게요"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_HESTIA",
+      "<color=#ffd34c>16초</color> 동안 <color=#ffd34c>아군 카운터 디펜더와 스트라이커</color>의 <color=#ffd34c>디버프를 무효화</color>하고 <color=#ffd34c>{stat1} {value1}%</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다.</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_HESTIA",
+      "처녀신의 가호"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_DAIN_PR",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>아군 레인저, 스나이퍼</color>에게 <color=#ffd34c>필중◇</color> 상태를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다.</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_DAIN_PR",
+      "서포트는 필수교양이란다."
+    ],
+    [
+      "SI_SKILL_DESC_OPR_BOOK",
+      "<color=#ffd34c>1초</color> 동안 <color=#ffd34c>적군 디펜더와 스트라이커</color>에게 <color=#ffd34c>속박◇</color> 상태를 부여하고(보스 제외), <color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>아군 레인저와 스나이퍼</color>에게 <color=#ffd34c> {stat1} {value1}%, {stat2} {factor2}% 증가</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다.</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_BOOK",
+      "부끄러운 소프트커버"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_AGNES",
+      "<color=#ffd34c>20초</color> 동안 <color=#ffd34c>아군 스나이퍼</color>에게 <color=#ffd34c>{stat1} {value1}% 증가</color> 효과를 부여한다.(최대 3중첩) 최대 중첩일 때 추가로 효과가 발동되면 <color=#ffd34c>공격력 최대 중첩 효과에 치명 능력치 10% 증가</color>가 추가된 효과로 변경되며 다시 갱신되지 않는다. 4코스트 이상의 아군 스나이퍼</color>에게는 <color=#ffd34c>공격력 증가 효과가 2배로 적용</color>된다. 이 효과는 <color=#ffd34c>해제되지 않는다.</color>"
+    ],
+    [
+      "SI_SKILL_NAME_OPR_AGNES",
+      "수도원의 비밀 레시피"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_RAT",
+      "<color=#ffd34c>12초</color> 동안 <color=#ffd34c>모든 아군 레인저</color>에게 <color=#ffd34c>{stat1} {factor1}%, {stat2} {value2}% 증가</color> 효과를 부여한다. 추가로 효과를 받은 대상이 <color=#ffd34c>4코스트 이상</color>일 경우 <color=#ffd34c>궁극기 이하 경직 면역</color> 효과를 부여하고, <color=#ffd34c>공격력 및 스킬충전속도 증가</color> 효과가 <color=#ffd34c>2배</color>로 적용된다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_RAT",
+      "본때를 보여주는 겁니다요!"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_GRACE",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 적</color>에게 <color=#ffd34c>받는 피해 증폭 {value1}% 증가</color> 효과를 부여한다(보스 제외). 이 효과는 <color=#ffd34c>해제되지 않는다.</color> 그리고 [#UNIT_OPR_GRACE_SUMMON#]이 아군 함선 인근에서 전장 전체에 <color=#ffd34c>궁극기 판정의 범위 피해</color>를 가한다(유효타격수 3, 건틀렛에서는 함선에 피해를 입히지 않음). 범위 피해를 가할 때 최초에는 <color=#ffd34c>주는 피해 증폭이 {value2}% 증가</color>하며, 이후 발동할 때마다 <color=#ffd34c>수치가 2배 증가</color>한다(최대 96%)."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_GRACE",
+      "글로리아 아스테리즘"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_LEEJISOO",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 적 디펜더, 스트라이커</color>에게 <color=#ffd34c>버프 무효화(보스 제외)</color> 효과와 함께 <color=#ffd34c>받는 피해 증폭 {factor1}% 증가</color> 효과를 부여한다. 효과를 받은 대상이 <color=#ffd34c>5코스트 이상</color>일 경우 지속시간과 받는 피해 증폭 수치가 <color=#ffd34c>2배</color> 증가한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_LEEJISOO",
+      "흉살: 괴강절멸"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_NATALIA",
+      "<color=#ffd34c>16초</color> 동안 <color=#ffd34c>모든 아군 스나이퍼와 레인저</color>에게 <color=#ffd34c>치명타 피해 {value1}% 증가</color> 효과를 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>.\n[#UNIT_OPR_NATALIA_SUMMON#]가 아군 함선 인근에서 전방으로 이동하며 대상과 그 주변에 <color=#ffd34c>궁극기 판정의 범위 피해</color>를 가한 후 퇴각한다(유효타격수 4, 건틀렛에서는 함선에 피해를 입히지 않음). 마지막 타격에 피해 받은 대상에게 <color=#ffd34c>8초</color> 동안 <color=#ffd34c>회피 불가◇ </color>를 부여한다."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_NATALIA",
+      "지, 지금이야! 폭실아!"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_DOGABI",
+      "<color=#ffd34c>8초</color> 동안 <color=#ffd34c>보스를 제외한 모든 적 유닛</color>에게 <color=#ffd34c>스킬봉인◇</color> 상태를 부여한다. <color=#ffd34c>16초</color> 동안 <color=#ffd34c>모든 아군 유닛</color>에게 <color=#ffd34c>스킬봉인◇</color> 상태와 <color=#ffd34c>{stat1} {factor1}%, {stat2} {value2}% 증가</color> 효과를 부여한다. <color=#ffd34c>아군 디펜더와 스트라이커</color>에게는 지속시간을 제외한 효과 수치가 <color=#ffd34c>1/3</color>로 적용된다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_DOGABI",
+      "화흉위길: 대수옥살"
+    ],
+    [
+      "SI_SKILL_DESC_OPR_CREW",
+      "<color=#ffd34c>{time}초</color> 동안 <color=#ffd34c>모든 아군 유닛</color>에게 <color=#ffd34c>{stat1} {factor1}% 증가</color> 효과를 부여한다. 버프가 유지되는 동안 <color=#ffd34c>아군 스트라이커</color>에게 [#UNIT_OPR_CREW_STRIKER#], <color=#ffd34c>아군 디펜더</color>에게 [#UNIT_OPR_CREW_DEFENDER#]을 부여한다. 이 효과는 <color=#ffd34c>해제되지 않는다</color>."
+    ],
+    [
+      "SI_SKILL_NAME_OPR_CREW",
+      "출항할 준비는 되었니?"
+    ]
+  ]
+}

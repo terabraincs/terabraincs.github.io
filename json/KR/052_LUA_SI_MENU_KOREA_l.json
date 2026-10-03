@@ -1,0 +1,574 @@
+{
+  "asset_name": "LUA_SI_MENU_KOREA_l",
+  "root_name": "m_dicString",
+  "data": [
+    [
+      "SI_MENU_LOBBY_RIGHT_MENU_OPERATION",
+      "작전"
+    ],
+    [
+      "SI_MENU_LOBBY_RIGHT_MENU_DECKVIEW",
+      "편성"
+    ],
+    [
+      "SI_MENU_LOBBY_RIGHT_MENU_PVP",
+      "건틀렛"
+    ],
+    [
+      "SI_MENU_LOBBY_RIGHT_MENU_CONTRACT",
+      "채용"
+    ],
+    [
+      "SI_MENU_LOBBY_RIGHT_MENU_BASE",
+      "본사"
+    ],
+    [
+      "SI_MENU_LOBBY_RIGHT_MENU_WORLDMAP",
+      "월드맵"
+    ],
+    [
+      "SI_MENU_LOBBY_RIGHT_MENU_OPTION",
+      "옵션"
+    ],
+    [
+      "SI_MENU_LOBBY_RIGHT_MENU_UNITLIST",
+      "관리부"
+    ],
+    [
+      "SI_MENU_LOBBY_RIGHT_MENU_ALBUM",
+      "도감"
+    ],
+    [
+      "SI_MENU_LOBBY_RIGHT_MENU_INVENTORY",
+      "창고"
+    ],
+    [
+      "SI_MENU_LOBBY_RIGHT_MENU_OFFICE",
+      "임대문의"
+    ],
+    [
+      "SI_MENU_LOBBY_RIGHT_MENU_FRIEND",
+      "협력사"
+    ],
+    [
+      "SI_MENU_LOBBY_RIGHT_MENU_GUILD",
+      "임대문의"
+    ],
+    [
+      "SI_MENU_LOBBY_TOPBAR_HOME",
+      "홈"
+    ],
+    [
+      "SI_MENU_LOBBY_TOPBAR_MANAGEMENT",
+      "관리부"
+    ],
+    [
+      "SI_MENU_LOBBY_TOPBAR_COMMUNITY",
+      "커뮤니티"
+    ],
+    [
+      "SI_MENU_LOBBY_SUB_BTNS_SHOP",
+      "상점"
+    ],
+    [
+      "SI_MENU_LOBBY_SUB_BTNS_ATTENDANCE",
+      "출근체크"
+    ],
+    [
+      "SI_MENU_LOBBY_SUB_BTNS_MISSION",
+      "미션"
+    ],
+    [
+      "SI_VOICE_BUTTON_BATTLE_READY",
+      "전역 배치"
+    ],
+    [
+      "SI_VOICE_BUTTON_BATTLE_READY_LIFETIME",
+      "전역 배치"
+    ],
+    [
+      "SI_VOICE_BUTTON_BATTLE_START",
+      "전투 투입"
+    ],
+    [
+      "SI_VOICE_BUTTON_BATTLE_ATTACK",
+      "평타"
+    ],
+    [
+      "SI_VOICE_BUTTON_BATTLE_ATTACK_CRITICAL",
+      "평타 크리티컬"
+    ],
+    [
+      "SI_VOICE_BUTTON_BATTLE_ACTIVE",
+      "스킬_액티브"
+    ],
+    [
+      "SI_VOICE_BUTTON_BATTLE_HYPER",
+      "스킬_하이퍼"
+    ],
+    [
+      "SI_VOICE_BUTTON_BATTLE_DAMAGE",
+      "신음_피격"
+    ],
+    [
+      "SI_VOICE_BUTTON_BATTLE_DEATH",
+      "신음_사망"
+    ],
+    [
+      "SI_VOICE_BUTTON_BATTLE_VICTORY",
+      "전역 승리"
+    ],
+    [
+      "SI_VOICE_BUTTON_BATTLE_FAIL",
+      "전역 패배"
+    ],
+    [
+      "SI_VOICE_BUTTON_BATTLE_VICTORY_LIFETIME",
+      "전역 승리"
+    ],
+    [
+      "SI_VOICE_BUTTON_BATTLE_FAIL_LIFETIME",
+      "전역 패배"
+    ],
+    [
+      "SI_VOICE_BUTTON_GET_01",
+      "획득"
+    ],
+    [
+      "SI_VOICE_BUTTON_LOBBY_CAPTAIN",
+      "대장 임명"
+    ],
+    [
+      "SI_VOICE_BUTTON_LOBBY_CAPTAIN_SUB",
+      "부장 임명"
+    ],
+    [
+      "SI_VOICE_BUTTON_LOBBY_CONNECT",
+      "접속"
+    ],
+    [
+      "SI_VOICE_BUTTON_LOBBY_CONNECT_LIFETIME",
+      "접속"
+    ],
+    [
+      "SI_VOICE_BUTTON_LOBBY_RETURN",
+      "앱 복귀"
+    ],
+    [
+      "SI_VOICE_BUTTON_LOBBY_RETURN_LIFETIME",
+      "앱 복귀"
+    ],
+    [
+      "SI_VOICE_BUTTON_LOBBY_TOUCH_NORMAL_1",
+      "터치 1"
+    ],
+    [
+      "SI_VOICE_BUTTON_LOBBY_TOUCH_NORMAL_2",
+      "터치 2"
+    ],
+    [
+      "SI_VOICE_BUTTON_LOBBY_TOUCH_NORMAL_3",
+      "터치 3"
+    ],
+    [
+      "SI_VOICE_BUTTON_LOBBY_TOUCH_NORMAL_4",
+      "터치 4"
+    ],
+    [
+      "SI_VOICE_BUTTON_LOBBY_TOUCH_NORMAL_5",
+      "터치 5"
+    ],
+    [
+      "SI_VOICE_BUTTON_LOBBY_TOUCH_LIFETIME_1",
+      "터치 1"
+    ],
+    [
+      "SI_VOICE_BUTTON_LOBBY_TOUCH_LIFETIME_2",
+      "터치 2"
+    ],
+    [
+      "SI_VOICE_BUTTON_LOBBY_TOUCH_LIFETIME_3",
+      "터치 3"
+    ],
+    [
+      "SI_VOICE_BUTTON_LOBBY_TOUCH_LIFETIME_4",
+      "터치 4"
+    ],
+    [
+      "SI_VOICE_BUTTON_WORLDMAP_CHECK",
+      "지부장 임명"
+    ],
+    [
+      "SI_VOICE_BUTTON_WORLDMAP_MISSION_START",
+      "미션 수행"
+    ],
+    [
+      "SI_VOICE_BUTTON_WORLDMAP_MISSION_COMPLETE",
+      "미션 복귀"
+    ],
+    [
+      "SI_VOICE_BUTTON_SQUAD_ENTER",
+      "소대원 편성"
+    ],
+    [
+      "SI_VOICE_BUTTON_SQUAD_LEADER",
+      "소대 리더 지정"
+    ],
+    [
+      "SI_VOICE_BUTTON_GROWTH_EQUIP",
+      "장비 장착"
+    ],
+    [
+      "SI_VOICE_BUTTON_GROWTH_SKILL",
+      "스킬 훈련"
+    ],
+    [
+      "SI_VOICE_BUTTON_GROWTH_STATUS",
+      "능력치 강화"
+    ],
+    [
+      "SI_VOICE_BUTTON_GROWTH_ASCEND",
+      "초월"
+    ],
+    [
+      "SI_VOICE_BUTTON_LIFETIME_COMPLETE",
+      "종신 계약"
+    ],
+    [
+      "SI_VOICE_BUTTON_NEGOTIATE_READY",
+      "연봉 협상 호출"
+    ],
+    [
+      "SI_VOICE_BUTTON_NEGOTIATE_SUCCESS_EPIC",
+      "연봉 협상 초대성공"
+    ],
+    [
+      "SI_VOICE_BUTTON_NEGOTIATE_SUCCESS_GREAT",
+      "연봉 협상 대성공"
+    ],
+    [
+      "SI_VOICE_BUTTON_NEGOTIATE_SUCCESS",
+      "연봉 협상 성공"
+    ],
+    [
+      "SI_VOICE_BUTTON_NEGOTIATE_FAIL",
+      "연봉 협상 실패"
+    ],
+    [
+      "SI_VOICE_BUTTON_STOCK_DESPAIR",
+      "한숨"
+    ],
+    [
+      "SI_VOICE_BUTTON_STOCK_DISAPPROVAL",
+      "불만"
+    ],
+    [
+      "SI_VOICE_BUTTON_STOCK_LAUGH",
+      "웃음"
+    ],
+    [
+      "SI_VOICE_BUTTON_STOCK_COUGH",
+      "헛기침"
+    ],
+    [
+      "SI_VOICE_BUTTON_STOCK_SURPRISE",
+      "놀람"
+    ],
+    [
+      "SI_VOICE_BUTTON_STOCK_ANGER",
+      "분노"
+    ],
+    [
+      "SI_VOICE_BUTTON_STOCK_DOUBT",
+      "의심"
+    ],
+    [
+      "SI_VOICE_BUTTON_STOCK_HAPPY",
+      "기쁨"
+    ],
+    [
+      "SI_VOICE_BUTTON_STOCK_SAD",
+      "슬픔"
+    ],
+    [
+      "SI_VOICE_BUTTON_STOCK_NERVOUS",
+      "불안"
+    ],
+    [
+      "SI_VOICE_BUTTON_STOCK_INTEREST",
+      "흥미"
+    ],
+    [
+      "SI_TOAST_PVP_BANLIST_RENEWED",
+      "금주의 밴 리스트가 갱신되었습니다."
+    ],
+    [
+      "SI_TOOLTIP_PVP_PRACTICE_INFO_GET_POINT_NORMAL",
+      "연습전은 승점에 영향을 미치지 않습니다.\n연습전으로 PVP포인트를 하루에 100포인트까지 획득할 수 있습니다."
+    ],
+    [
+      "SI_TOOLTIP_PVP_PRACTICE_INFO_GET_POINT_FRIEND",
+      "협력사와의 연습전에서는 PVP 포인트를 획득할 수 없습니다."
+    ],
+    [
+      "SI_TOAST_PVP_FRIENDLY_CODE_COPY",
+      "친선전 참가 코드가 복사되었습니다."
+    ],
+    [
+      "SI_POPUP_PVP_FRIENDLY_MANAGER_QUIT",
+      "친선전 주최자가 대기실에서 나갔습니다."
+    ],
+    [
+      "SI_POPUP_PVP_FRIENDLY_CANNOT_ENTER_SECRET",
+      "초대로만 참가할 수 있는 친선전입니다."
+    ],
+    [
+      "SI_POPUP_PVP_FRIENDLY_CANNOT_ENTER_ALREADY_START",
+      "친선전이 이미 시작되었습니다."
+    ],
+    [
+      "SI_POPUP_PVP_FRIENDLY_CANNOT_ENTER_EXPIRE",
+      "친선전이 존재하지 않습니다."
+    ],
+    [
+      "SI_TOAST_PVP_FRIENDLY_ROOM_WARNING_QUIT",
+      "친선전 대기실에서는 이용할 수 없습니다."
+    ],
+    [
+      "SI_POPUP_PVP_FRIENDLY_EXIT_CONFIRM",
+      "친선전 대기실에서 나가시겠습니까?"
+    ],
+    [
+      "SI_POPUP_PVP_FRIENDLY_EXIT_CONFIRM_MANAGER",
+      "주최자가 나가면 대기실이 사라집니다.\n정말로 친선전 대기실에서 나가시겠습니까?"
+    ],
+    [
+      "SI_TOAST_PVP_FRIENDLY_EXIT_OPTION_CHANGED",
+      "친선전 설정이 변경되었습니다."
+    ],
+    [
+      "SI_POPUP_PVP_ASYNC_NEED_DEF_DECK",
+      "방어소대를 먼저 편성해야 합니다.\n지금 편성하시겠습니까?"
+    ],
+    [
+      "SI_POPUP_UNIT_INFO_LOYALTY",
+      "애사심이 가득 찬 사원은 모든 능력치가 2% 증가합니다.\n애사심이 가득 찬 사원은 종신계약을 할 수 있습니다."
+    ],
+    [
+      "SI_POPUP_UNIT_INFO_LOYALTY_100",
+      "이 사원은 애사심으로 가득차서 다음 효과를 받습니다.\n모든 능력치 +2%\n\n종신계약을 진행하시겠습니까?"
+    ],
+    [
+      "SI_POPUP_REPEAT_REPEAT_EXIT",
+      "진행 중인 반복 작전이 중지됩니다.\n계속하시겠습니까?"
+    ],
+    [
+      "SI_TOAST_REPEAT_UNABLE_BY_RECONNECT",
+      "배치 정보가 초기화되었습니다. 다음 전역부터 반복 작전을 설정할 수 있습니다."
+    ],
+    [
+      "SI_TOAST_REPEAT_UNABLE_BY_RECONNECT_DUNGEON",
+      "출격 정보가 초기화되었습니다. 다음 전투부터 반복 작전을 설정할 수 있습니다."
+    ],
+    [
+      "SI_TOAST_REPEAT_APP_EXIT",
+      "5초 뒤 게임을 종료합니다\n취소하려면 화면을 터치하세요"
+    ],
+    [
+      "SI_TOAST_REPEAT_APP_EXIT_CANCEL",
+      "종료가 취소되었습니다."
+    ],
+    [
+      "SI_POPUP_REPEAT_FAIL_DEFEAT",
+      "소대가 전멸했습니다."
+    ],
+    [
+      "SI_POPUP_REPEAT_GO_EPISODE",
+      "{0}초 뒤 작전 메뉴로 돌아갑니다.\n창을 닫으면 취소됩니다."
+    ],
+    [
+      "SI_POPUP_REPEAT_QUIT_FINISH",
+      "반복 작전이 완료되었습니다."
+    ],
+    [
+      "SI_POPUP_REPEAT_QUIT_TITLE",
+      "반복 작전 종료"
+    ],
+    [
+      "SI_POPUP_REPEAT_REWARD_TITLE",
+      "반복 작전 종료"
+    ],
+    [
+      "SI_POPUP_REPEAT_REWARD_DESC",
+      "아래의 보상을 획득했습니다."
+    ],
+    [
+      "SI_POPUP_WEEKLY_RESULT_TITLE",
+      "주간 보상"
+    ],
+    [
+      "SI_POPUP_PVP_RANK_RESULT_DESC",
+      "소속 리그에 따른 보상을 획득했습니다."
+    ],
+    [
+      "SI_POPUP_WEEKLY_RESULT_DAY_LEFT",
+      "시즌 종료까지 {0}일 남았습니다."
+    ],
+    [
+      "SI_POPUP_SEASON_RESULT_TITLE",
+      "시즌 보상"
+    ],
+    [
+      "SI_BUTTON_PVP_RANK_SEASON_RESULT_OK",
+      "확인"
+    ],
+    [
+      "SI_POPUP_SEASON_NEW_TITLE",
+      "{0}(이)가 시작되었습니다!"
+    ],
+    [
+      "SI_POPUP_PVP_RANK_SEASON_NEW_DESC",
+      "새로운 시즌이 시작되어 기준 이상의 승점은 재조정됩니다."
+    ],
+    [
+      "SI_POPUP_PVP_RANK_SEASON_NEW_BEFORE",
+      "지난 시즌"
+    ],
+    [
+      "SI_POPUP_PVP_RANK_SEASON_NEW_NEW",
+      "새로운 시즌"
+    ],
+    [
+      "SI_DUNGEON_EMOTICON_BLOCK",
+      "감정표현 차단하기"
+    ],
+    [
+      "SI_DUNGEON_EMOTICON_NEED_UNBLOCK",
+      "감정표현 차단을 해제하세요"
+    ],
+    [
+      "SI_TOAST_EP_CATEGORY_HAVE_NO_EVENT",
+      "진행 중인 이벤트가 없습니다."
+    ],
+    [
+      "SI_MENU_EMOTICON_CHANGE_TITLE",
+      "감정표현 설정"
+    ],
+    [
+      "SI_TOAST_EQUIP_SLOT_ACC2_IS_LOCKED",
+      "한계 초월을 모두 완료하면 개방됩니다."
+    ],
+    [
+      "SI_VOICE_BUTTON_FIELD_READY",
+      "전역 시작"
+    ],
+    [
+      "SI_VOICE_BUTTON_BULLET_LACK",
+      "탄약 고갈"
+    ],
+    [
+      "SI_VOICE_BUTTON_BULLET_FILL",
+      "보급 성공"
+    ],
+    [
+      "SI_VOICE_BUTTON_BACK_LACK",
+      "퇴각"
+    ],
+    [
+      "SI_VOICE_BUTTON_SHIP_RECALL",
+      "긴급 배치"
+    ],
+    [
+      "SI_VOICE_BUTTON_SHIP_SELECT_A",
+      "소대 선택 1"
+    ],
+    [
+      "SI_VOICE_BUTTON_SHIP_SELECT_B",
+      "소대 선택 2"
+    ],
+    [
+      "SI_VOICE_BUTTON_SHIP_MEET",
+      "적 함선 조우"
+    ],
+    [
+      "SI_VOICE_BUTTON_FIGHT_START_A",
+      "전투 개시 1"
+    ],
+    [
+      "SI_VOICE_BUTTON_FIGHT_START_B",
+      "전투 개시 2"
+    ],
+    [
+      "SI_VOICE_BUTTON_COST_LACK",
+      "출격 자원 부족"
+    ],
+    [
+      "SI_VOICE_BUTTON_COST_FULL",
+      "출격 자원 최대"
+    ],
+    [
+      "SI_VOICE_BUTTON_WAVE_START",
+      "다음 웨이브 시작"
+    ],
+    [
+      "SI_VOICE_BUTTON_COUNT_DOWN",
+      "제한 시간 종료 임박"
+    ],
+    [
+      "SI_VOICE_BUTTON_SHIP_SKILL_A",
+      "함선 스킬 사용 가능 1"
+    ],
+    [
+      "SI_VOICE_BUTTON_SHIP_SKILL_B",
+      "함선 스킬 사용 가능 2"
+    ],
+    [
+      "SI_VOICE_BUTTON_SHIP_OUR_AREA_2ND",
+      "아군 출격 영역 확대 1"
+    ],
+    [
+      "SI_VOICE_BUTTON_SHIP_OUR_AREA_3RD",
+      "아군 출격 영역 확대 2"
+    ],
+    [
+      "SI_VOICE_BUTTON_SHIP_ENEMY_AREA_2ND",
+      "적군 출격 영역 확대 1"
+    ],
+    [
+      "SI_VOICE_BUTTON_SHIP_ENEMY_AREA_3RD",
+      "적군 출격 영역 확대 2"
+    ],
+    [
+      "SI_VOICE_BUTTON_COST_SPEED",
+      "임계 돌파"
+    ],
+    [
+      "SI_VOICE_BUTTON_FIGHT_LOSE_A",
+      "전투 패배 1"
+    ],
+    [
+      "SI_VOICE_BUTTON_FIGHT_LOSE_B",
+      "전투 패배 2"
+    ],
+    [
+      "SI_VOICE_BUTTON_FIGHT_VICTORY_A",
+      "전투 승리 1"
+    ],
+    [
+      "SI_VOICE_BUTTON_FIGHT_VICTORY_B",
+      "전투 승리 2"
+    ],
+    [
+      "SI_VOICE_BUTTON_COMBO_COMPLETE_A",
+      "지휘 기술 발동 1"
+    ],
+    [
+      "SI_VOICE_BUTTON_COMBO_COMPLETE_B",
+      "지휘 기술 발동 2"
+    ],
+    [
+      "SI_VOICE_BUTTON_LOBBY_INTRO_ORIGINAL",
+      "로그인 컷인"
+    ]
+  ]
+}

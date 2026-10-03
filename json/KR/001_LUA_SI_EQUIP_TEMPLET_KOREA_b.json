@@ -1,0 +1,7414 @@
+{
+  "asset_name": "LUA_SI_EQUIP_TEMPLET_KOREA_b",
+  "root_name": "m_dicString",
+  "data": [
+    [
+      "SI_ITEM_MOLD_NAME_NORMAL_T1_WEAPON",
+      "T1 표준 무기 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_NORMAL_T1_DEFENCE",
+      "T1 표준 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_NORMAL_T2_WEAPON",
+      "T2 표준 무기 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_NORMAL_T2_DEFENCE",
+      "T2 표준 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_NORMAL_T2_ACC",
+      "T2 표준 보조장비 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_NORMAL_T3_WEAPON",
+      "T3 표준 무기 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_NORMAL_T3_DEFENCE",
+      "T3 표준 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_NORMAL_T3_ACC",
+      "T3 표준 보조장비 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_NORMAL_T4_WEAPON",
+      "T4 표준 무기 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_NORMAL_T4_DEFENCE",
+      "T4 표준 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_NORMAL_T4_ACC",
+      "T4 표준 보조장비 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_NORMAL_T5_WEAPON",
+      "T5 표준 무기 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_NORMAL_T5_DEFENCE",
+      "T5 표준 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_NORMAL_T5_ACC",
+      "T5 표준 보조장비 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_FIELD1_1_T6_DEFENCE",
+      "T5-6 아이언 테일러 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_FIELD1_2_T6_ACC",
+      "T5-6 프로핏 인더스트리 보조장비 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_FIELD1_3_T6_DEFENCE",
+      "T5-6 맥스웰 코퍼레이션 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_SHADOW1_T6_SSR_MAX",
+      "초정밀 T6 스펙트럴 통합 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_SHADOW1_T6_MAX",
+      "T6 스펙트럴 통합 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_SHADOW1_T6_WEAPON",
+      "T6 스펙트럴 무기 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_SHADOW1_T6_DEFENCE",
+      "T6 스펙트럴 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_SHADOW1_T6_ACC",
+      "T6 스펙트럴 보조장비 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_PHANTOM_T6_SSR_MAX",
+      "초정밀 T6 팬텀 통합 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_PHANTOM_T6_MAX",
+      "T6 팬텀 통합 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T3_MAX",
+      "T3 초전도 장비 통합금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T3_WEAPON",
+      "T3 초전도 장비 무기 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T3_DEFENCE",
+      "T3 초전도 장비 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T3_ACC",
+      "T3 초전도 장비 보조장비 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T4_MAX",
+      "T4 초전도 장비 통합금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T4_WEAPON",
+      "T4 초전도 장비 무기 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T4_DEFENCE",
+      "T4 초전도 장비 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T4_ACC",
+      "T4 초전도 장비 보조장비 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T5_MAX",
+      "T5 초전도 장비 통합금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T5_WEAPON",
+      "T5 초전도 장비 무기 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T5_DEFENCE",
+      "T5 초전도 장비 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T5_ACC",
+      "T5 초전도 장비 보조장비 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T6_MAX",
+      "T6 초전도 장비 통합금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T6_WEAPON",
+      "T6 초전도 장비 무기 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T6_DEFENCE",
+      "T6 초전도 장비 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T6_ACC",
+      "T6 초전도 장비 보조장비 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T5-6_MAX",
+      "T5-6 초전도 장비 통합금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T5-6_WEAPON",
+      "T5-6 초전도 장비 무기 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T5-6_DEFENCE",
+      "T5-6 초전도 장비 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID_T5-6_ACC",
+      "T5-6 초전도 장비 보조장비 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_SCAVENGER_EVOLVE_WEAPON",
+      "[이볼브 원] 서브 코어 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_SCAVENGER_HAMMER_WEAPON",
+      "[오버플로] 게르투르디스 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_SCAVENGER_CUTLASS_DEFENCE",
+      "[글리치] 정열의 콤파니아 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_ALPHA_T6_ALL",
+      "[알파트릭스] 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_SCHOOL_T6_ALL",
+      "[아카데미 총학생회] 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_ALT_T6_ALL",
+      "[알트 소대] 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_JAPAN_T6_ALL",
+      "[나나하라 가문연합] 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_YG_T6_ALL",
+      "[화이트 래빗] 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_ADMIN_C_T6_ALL",
+      "[구 관리국 : 카운터] 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_SOF_T6_ALL",
+      "[메이슨 용병 사무소] 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_HORIZON_T6_ALL",
+      "[호라이즌 파이낸스] 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_FALLEN_T6_ALL",
+      "[폴른 호크] 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_VATICAN_T6_ALL",
+      "[제 9호 기적심의회] 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_BAR_T6_ALL",
+      "[그레모리 바] 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MAID_T6_ALL",
+      "[플로라 메이드 서비스] 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_ESPR_T6_ALL",
+      "[ESPR] 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_KNIGHT_T6_ALL",
+      "[구원기사단] 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_HB_T6_ALL",
+      "[하트 베리] 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_CANARY_T6_ALL",
+      "[카나리아 스쿼드] 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_SWIFT_RELIC_T7_WEAPON",
+      "T7 스위프트 렐릭 무기 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_SWIFT_RELIC_T7_DEFENCE",
+      "T7 스위프트 렐릭 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_SWIFT_RELIC_T7_ACC",
+      "T7 스위프트 렐릭 보조장비 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_TRIM_RELIC_JUNGLE_T7_ALL",
+      "T7 와일드 렐릭 통합금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_TRIM_RELIC_VOLCANO_T7_ALL",
+      "T7 플레임 렐릭 통합금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID1_T5-T7_MAX",
+      "T5-7 초전도 장비 통합금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID1_T5-T7_WEAPON",
+      "T5-7 초전도 장비 무기 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID1_T5-T7_DEFENCE",
+      "T5-7 초전도 장비 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID1_T5-T7_ACC",
+      "T5-7 초전도 장비 보조장비 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID2_T5-T7_MAX",
+      "T5-7 고분자 장비 통합금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID2_T5-T7_WEAPON",
+      "T5-7 고분자 장비 무기 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID2_T5-T7_DEFENCE",
+      "T5-7 고분자 장비 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID2_T5-T7_ACC",
+      "T5-7 고분자 장비 보조장비 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID3_T7_MAX",
+      "T7 변형된 통합금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID1_MAX_T7",
+      "T7 브리트라 렐릭 통합금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID1_WEAPON_T7",
+      "T7 브리트라 렐릭 무기 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID1_DEFENCE_T7",
+      "T7 브리트라 렐릭 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID1_ACC_T7",
+      "T7 브리트라 렐릭 보조장비 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID2_MAX_T7",
+      "T7 인히비터 렐릭 통합금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID2_WEAPON_T7",
+      "T7 인히비터 렐릭 무기 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID2_DEFENCE_T7",
+      "T7 인히비터 렐릭 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID2_ACC_T7",
+      "T7 인히비터 렐릭 보조장비 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID3_MAX_WEAPON_T7",
+      "T7 변형된 특수 무기 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID3_MAX_DEFENCE_T7",
+      "T7 변형된 특수 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_RAID3_MAX_ACC_T7",
+      "T7 변형된 특수 보조장비 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_SPECIAL_T6_MAX",
+      "메이즈 장비 통합금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_SL_T6_ALL",
+      "[햄스워스] 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_SPECIAL_T6_ALL_VER2",
+      "메이즈 통합 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_SPECIAL_T6_WEAPON",
+      "메이즈 무기 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_SPECIAL_T6_DEFENCE",
+      "메이즈 방어구 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_SPECIAL_T6_ACC",
+      "메이즈 보조장비 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_COUNTER_BY_SOLDIER",
+      "카운터 적성핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_COUNTER_BY_MECHANIC",
+      "카운터 적성핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_COUNTER_S_BY_SOLDIER_S",
+      "카운터 특수적성핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_COUNTER_S_BY_MECHANIC_S",
+      "카운터 특수적성핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_SOLDIER_BY_COUNTER",
+      "솔저 적성핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_SOLDIER_BY_MECHANIC",
+      "솔저 적성핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_SOLDIER_S_BY_COUNTER_S",
+      "솔저 특수적성핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_SOLDIER_S_BY_MECHANIC_S",
+      "솔저 특수적성핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_MECHANIC_BY_COUNTER",
+      "메카닉 적성핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_MECHANIC_BY_SOLDIER",
+      "메카닉 적성핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_MECHANIC_S_BY_COUNTER_S",
+      "메카닉 특수적성핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_MECHANIC_S_BY_SOLDIER_S",
+      "메카닉 특수적성핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_COUNTER_S_BY_COUNTER",
+      "카운터 특수적성핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_SOLDIER_S_BY_SOLDIER",
+      "솔저 특수적성핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_MECHANIC_S_BY_MECHANIC",
+      "메카닉 특수적성핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_BY_LIMITBREAK_S",
+      "특수적성핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_AWAKEN_BY_COUNTER_S",
+      "융합핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_AWAKEN_BY_SOLDIER_S",
+      "융합핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_AWAKEN_BY_MECHANIC_S",
+      "융합핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_AWAKEN_BY_AWAKEN_PIECE",
+      "융합핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_MISC_LIMITBREAK_AWAKEN_S_BY_AWAKEN",
+      "특수융합핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_UNIT_SKILL_TRAING_2_BY_SKILL_TRAING_1",
+      "기밀 훈련 자료"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_SHIP_BUILD_DRAWING_02_BY_BUILD_DRAWING_01",
+      "특별 함선 설계도면"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_EQUIP_MAKE_MATERIAL_2_BY_EQUIP_MAKE_MATERIAL_1",
+      "표준 장비 소재"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_EQUIP_MAKE_MATERIAL_3_BY_EQUIP_MAKE_MATERIAL_1",
+      "고급 장비 소재"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_EQUIP_MAKE_MATERIAL_4_BY_EQUIP_MAKE_MATERIAL_1",
+      "정예 장비 소재"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_UNIT_NEGOTIATE_DOC_3",
+      "특별 역량 평가서"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_UNIT_NEGOTIATE_DOC_2",
+      "우수 역량 평가서"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_LIMITBREAK_REACTOR_BY_COUNTER",
+      "조정핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_LIMITBREAK_REACTOR_BY_SOLDIER",
+      "조정핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_LIMITBREAK_REACTOR_BY_MECHANIC",
+      "조정핵"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_MATERIAL_RAID_1_BY_MATERIAL_RAID_2",
+      "특수 장비 코어"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_PACKAGE_2020_PICNIC_SET_BOX",
+      "스페셜 피크닉 세트"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_PACKAGE_1ST_ANNIVERSARY_GIFT_BOX",
+      "리본 묶인 선물 상자"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_OPERATOR_NEGOTIATE_DOC_1_BY_UNIT_NEGOTIATE_DOC_1",
+      "오퍼레이터 전술 자료 [초급]"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_OPERATOR_NEGOTIATE_DOC_2_BY_UNIT_NEGOTIATE_DOC_2",
+      "오퍼레이터 전술 자료 [중급]"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_OPERATOR_NEGOTIATE_DOC_3_BY_UNIT_NEGOTIATE_DOC_3",
+      "오퍼레이터 전술 자료 [고급]"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_SHIP_UPGRADE_MATERIAL_4_BY_SHIP_UPGRADE_MATERIAL_1",
+      "함선 고급 자재"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_SHIP_UPGRADE_MATERIAL_3_BY_SHIP_UPGRADE_MATERIAL_4",
+      "블랙박스 파편"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_SHIP_UPGRADE_MATERIAL_3_BY_SHIP_UPGRADE_MATERIAL_2",
+      "블랙박스 파편"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_ASSULT_BY_CRUISER",
+      "고탄성 장갑"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_ASSULT_BY_HEAVY",
+      "고탄성 장갑"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_ASSULT_SPECIAL",
+      "고탄성 장갑"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_CRUISER_BY_ASSULT",
+      "함포장약"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_CRUISER_BY_HEAVY",
+      "함포장약"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_CRUISER_BY_SPECIAL",
+      "함포장약"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_HEAVY_BY_ASSULT",
+      "중장 외피"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_HEAVY_BY_CRUISER",
+      "중장 외피"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_HEAVY_BY_SPECIAL",
+      "중장 외피"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_SPECIAL_BY_ASSULT",
+      "초전도 핵심"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_SPECIAL_BY_CRUISER",
+      "초전도 핵심"
+    ],
+    [
+      "SI_ITEM_MOLD_NAME_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_SPECIAL_BY_HEAVY",
+      "초전도 핵심"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_NORMAL_T1_WEAPON",
+      "T1 표준 무기를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_NORMAL_T1_DEFENCE",
+      "T1 표준 방어구를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_NORMAL_T2_WEAPON",
+      "T2 표준 무기를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_NORMAL_T2_DEFENCE",
+      "T2 표준 방어구를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_NORMAL_T2_ACC",
+      "T2 표준 보조장비를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_NORMAL_T3_WEAPON",
+      "T3 표준 무기를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_NORMAL_T3_DEFENCE",
+      "T3 표준 방어구를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_NORMAL_T3_ACC",
+      "T3 표준 보조장비를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_NORMAL_T4_WEAPON",
+      "T4 표준 무기를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_NORMAL_T4_DEFENCE",
+      "T4 표준 방어구를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_NORMAL_T4_ACC",
+      "T4 표준 보조장비를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_NORMAL_T5_WEAPON",
+      "T5 표준 무기를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_NORMAL_T5_DEFENCE",
+      "T5 표준 방어구를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_NORMAL_T5_ACC",
+      "T5 표준 보조장비를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_FIELD1_1_T6_DEFENCE",
+      "T5-6 아이언 테일러 방어구를 제작 할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_FIELD1_2_T6_ACC",
+      "T5-6 프로핏 인더스트리 보조장비를 제작 할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_FIELD1_3_T6_DEFENCE",
+      "T5-6 맥스웰 코퍼레이션 방어구를 제작 할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_SHADOW1_T6_SSR_MAX",
+      "T6 SSR 스펙트럴 장비를 모두 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_SHADOW1_T6_MAX",
+      "T6 SR-SSR 스펙트럴 장비를 모두 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_SHADOW1_T6_WEAPON",
+      "T6 R-SSR 스펙트럴 무기를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_SHADOW1_T6_DEFENCE",
+      "T6 R-SSR 스펙트럴 방어구를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_SHADOW1_T6_ACC",
+      "T6 R-SSR 스펙트럴 보조장비를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_PHANTOM_T6_SSR_ALL",
+      "T6 SSR 팬텀 장비를 모두 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_PHANTOM_T6_ALL",
+      "T6 SR-SSR 팬텀 장비를 모두 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T3_MAX",
+      "T3 초전도 장비를 모두 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T3_WEAPON",
+      "T3 초전도 무기를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T3_DEFENCE",
+      "T3 초전도 방어구를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T3_ACC",
+      "T3 초전도 보조장비를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T4_MAX",
+      "T4 초전도 장비를 모두 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T4_WEAPON",
+      "T4 초전도 무기를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T4_DEFENCE",
+      "T4 초전도 방어구를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T4_ACC",
+      "T4 초전도 보조장비를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T5_MAX",
+      "T5 초전도 장비를 모두 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T5_WEAPON",
+      "T5 초전도 무기를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T5_DEFENCE",
+      "T5 초전도 방어구를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T5_ACC",
+      "T5 초전도 보조장비를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T6_MAX",
+      "T6 초전도 장비를 모두 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T6_WEAPON",
+      "T6 초전도 무기를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T6_DEFENCE",
+      "T6 초전도 방어구를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T6_ACC",
+      "T6 초전도 보조장비를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T5-6_MAX",
+      "T5-6 초전도 장비를 모두 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T5-6_WEAPON",
+      "T5-6 초전도 무기를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T5-6_DEFENCE",
+      "T5-6 초전도 방어구를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID_T5-6_ACC",
+      "T5-6 초전도 보조장비를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_SCAVENGER_EVOLVE_WEAPON",
+      "서브 코어를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_SCAVENGER_HAMMER_WEAPON",
+      "게르투르디스를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_SCAVENGER_CUTLASS_DEFENCE",
+      "정열의 콤파니아를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_ALPHA_T6_ALL",
+      "알파트릭스 이노베이션의 전용 장비를 제작할 수 있는 금형."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_SCHOOL_T6_ALL",
+      "아카데미 총학생회의 전용 장비를 제작할 수 있는 금형."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_ALT_T6_ALL",
+      "알트 소대의 전용 장비를 제작할 수 있는 금형."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_JAPAN_T6_ALL",
+      "나나하라 가문연합의 전용 장비를 제작할 수 있는 금형."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_YG_T6_ALL",
+      "화이트 래빗의 전용 장비를 제작할 수 있는 금형."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_ADMIN_C_T6_ALL",
+      "구 관리국 : 카운터의 전용 장비를 제작할 수 있는 금형."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_SOF_T6_ALL",
+      "메이슨 용병 사무소의 전용 장비를 제작할 수 있는 금형."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_HORIZON_T6_ALL",
+      "호라이즌 파이낸스의 전용 장비를 제작할 수 있는 금형."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_FALLEN_T6_ALL",
+      "폴른 호크의 전용 장비를 제작할 수 있는 금형."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_VATICAN_T6_ALL",
+      "제 9호 기적심의회의 전용 장비를 제작할 수 있는 금형."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_BAR_T6_ALL",
+      "그레모리 바의 전용 장비를 제작할 수 있는 금형."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MAID_T6_ALL",
+      "플로라 메이드 서비스의 전용 장비를 제작할 수 있는 금형."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_ESPR_T6_ALL",
+      "ESPR의 전용 장비를 제작할 수 있는 금형."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_KNIGHT_T6_ALL",
+      "구원기사단의 전용 장비를 제작할 수 있는 금형."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_HB_T6_ALL",
+      "하트 베리의 전용 장비를 제작할 수 있는 금형."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_CANARY_T6_ALL",
+      "카나리아 스쿼드의 전용 장비를 제작할 수 있는 금형."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_SWIFT_RELIC_T7_WEAPON",
+      "T7 스위프트 렐릭 무기를 제작 할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_SWIFT_RELIC_T7_DEFENCE",
+      "T7 스위프트 렐릭 방어구를 제작 할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_SWIFT_RELIC_T7_ACC",
+      "T7 스위프트 렐릭 보조장비를 제작 할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_TRIM_JUNGLE_RELIC_T7_ALL",
+      "T7 와일드 렐릭 장비를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_TRIM_VOLCANO_RELIC_T7_ALL",
+      "T7 플레임 렐릭 장비를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID1_MAX",
+      "T5-7 초전도 장비를 모두 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID1_WEAPON",
+      "T5-7 초전도 무기를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID1_DEFENCE",
+      "T5-7 초전도 방어구를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID1_ACC",
+      "T5-7 초전도 보조장비를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID2_MAX",
+      "T5-7 고분자 장비를 모두 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID2_WEAPON",
+      "T5-7 고분자 무기를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID2_DEFENCE",
+      "T5-7 고분자 방어구를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID2_ACC",
+      "T5-7 고분자 보조장비를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID3_MAX",
+      "T7 초전도, 고분자 장비를 모두 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID1_MAX_T7",
+      "T7 브리트라 렐릭 장비를 모두 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID1_WEAPON_T7",
+      "T7 브리트라 렐릭 무기를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID1_DEFENCE_T7",
+      "T7 브리트라 렐릭 방어구를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID1_ACC_T7",
+      "T7 브리트라 렐릭 보조장비를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID2_MAX_T7",
+      "T7 인히비터 렐릭 장비를 모두 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID2_WEAPON_T7",
+      "T7 인히비터 렐릭 무기를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID2_DEFENCE_T7",
+      "T7 인히비터 렐릭 방어구를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID2_ACC_T7",
+      "T7 인히비터 렐릭 보조장비를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID3_MAX_WEAPON_T7",
+      "T7 브리트라, 인히비터 렐릭 무기를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID3_MAX_DEFENCE_T7",
+      "T7 브리트라, 인히비터 렐릭 방어구를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_RAID3_MAX_ACC_T7",
+      "T7 브리트라, 인히비터 렐릭 보조장비를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_SPECIAL_T6_ALL",
+      "T6 메이즈 장비를 모두 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_SL_T6_ALL",
+      "기간병의 전용 장비를 제작할 수 있는 금형."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_SPECIAL_T6_ALL_VER2",
+      "T6 메이즈 장비를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_SPECIAL_T6_WEAPON",
+      "T6 메이즈 무기를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_SPECIAL_T6_DEFENCE",
+      "T6 메이즈 방어구를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_SPECIAL_T6_ACC",
+      "T6 메이즈 보조장비를 제작할 수 있는 금형"
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_COUNTER_BY_SOLDIER",
+      "솔저 적성핵을 카운터 적성핵으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_COUNTER_BY_MECHANIC",
+      "메카닉 적성핵을 카운터 적성핵으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_COUNTER_S_BY_SOLDIER_S",
+      "솔저 특수적성핵을 카운터 특수적성핵으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_COUNTER_S_BY_MECHANIC_S",
+      "메카닉 특수적성핵을 카운터 특수적성핵으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_SOLDIER_BY_COUNTER",
+      "카운터 적성핵을 솔저 적성핵으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_SOLDIER_BY_MECHANIC",
+      "메카닉 적성핵을 솔저 적성핵으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_SOLDIER_S_BY_COUNTER_S",
+      "카운터 특수적성핵을 솔저 특수적성핵으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_SOLDIER_S_BY_MECHANIC_S",
+      "메카닉 특수적성핵을 솔저 특수적성핵으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_MECHANIC_BY_COUNTER",
+      "카운터 적성핵을 메카닉 적성핵으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_MECHANIC_BY_SOLDIER",
+      "솔저 적성핵을 메카닉 적성핵으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_MECHANIC_S_BY_COUNTER_S",
+      "카운터 특수적성핵을 메카닉 특수적성핵으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_MECHANIC_S_BY_SOLDIER_S",
+      "솔저 특수적성핵을 메카닉 특수적성핵으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_COUNTER_S_BY_COUNTER",
+      "카운터 적성핵을 카운터 특수적성핵으로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_SOLDIER_S_BY_SOLDIER",
+      "솔저 적성핵을 솔저 특수적성핵으로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_MECHANIC_S_BY_MECHANIC",
+      "메카닉 적성핵을 메카닉 특수적성핵으로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_BY_LIMITBREAK_S",
+      "적성핵을 특수적성핵으로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_AWAKEN_BY_COUNTER_S",
+      "카운터 특수적성핵을 융합핵으로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_AWAKEN_BY_SOLDIER_S",
+      "솔저 특수적성핵을 융합핵으로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_AWAKEN_BY_MECHANIC_S",
+      "메카닉 특수적성핵을 융합핵으로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_AWAKEN_BY_AWAKEN_PIECE",
+      "융합핵 파편을 융합핵으로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_AWAKEN_BY_LIMITBREAK_S",
+      "특수적성핵을 융합핵으로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_MISC_LIMITBREAK_AWAKEN_S_BY_AWAKEN",
+      "융합핵을 특수융합핵으로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_UNIT_SKILL_TRAING_2_BY_SKILL_TRAING_1",
+      "표준 훈련 자료를 기밀 훈련 자료로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_SHIP_BUILD_DRAWING_02_BY_BUILD_DRAWING_01",
+      "일반 함선 설계도면을 특별 함선 설계도면으로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_EQUIP_MAKE_MATERIAL_2_BY_EQUIP_MAKE_MATERIAL_1",
+      "훈련 장비 소재를 표준 장비 소재로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_EQUIP_MAKE_MATERIAL_3_BY_EQUIP_MAKE_MATERIAL_1",
+      "표준 장비 소재를 고급 장비 소재로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_EQUIP_MAKE_MATERIAL_4_BY_EQUIP_MAKE_MATERIAL_1",
+      "고급 장비 소재를 정예 장비 소재로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_UNIT_NEGOTIATE_DOC_3",
+      "우수 역량 평가서를 특별 역량 평가서로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_UNIT_NEGOTIATE_DOC_2",
+      "역량 평가서를 우수 역량 평가서로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_LIMITBREAK_REACTOR_BY_COUNTER",
+      "카운터 적성핵을 조정핵으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_LIMITBREAK_REACTOR_BY_SOLDIER",
+      "솔저 적성핵을 조정핵으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_LIMITBREAK_REACTOR_BY_MECHANIC",
+      "메카닉 적성핵을 조정핵으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_LIMITBREAK_REACTOR_BY_LIMITBREAK_ALL",
+      "적성핵을 조정핵으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_MATERIAL_RAID_1_BY_MATERIAL_RAID_2",
+      "초전도 이터니움 소재를 특수 장비 코어로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_PACKAGE_2020_PICNIC_SET_BOX",
+      "놀러 나갈 준비가 완료되었음을 알려주는 스페셜 피크닉 세트\n해당 상자를 개봉하면 랜덤한 아이템 1종을 획득할 수 있습니다.\n해당 아이템은 2020. 05. 07 정기점검 이후 삭제됩니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_PACKAGE_1ST_ANNIVERSARY_GIFT_BOX",
+      "정성스럽게 리본으로 묶인 감사의 선물 상자\n해당 상자를 개봉하면 랜덤한 아이템 1종을 획득할 수 있습니다.\n해당 아이템은 2020. 05. 28 정기점검 이후 삭제됩니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_OPERATOR_NEGOTIATE_DOC_1_BY_UNIT_NEGOTIATE_DOC_1",
+      "역량 평가서를 오퍼레이터 전술 자료 [초급]으로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_OPERATOR_NEGOTIATE_DOC_2_BY_UNIT_NEGOTIATE_DOC_2",
+      "우수 역량 평가서를 오퍼레이터 전술 자료 [중급]으로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_OPERATOR_NEGOTIATE_DOC_3_BY_UNIT_NEGOTIATE_DOC_3",
+      "특별 역량 평가서를 오퍼레이터 전술 자료 [고급]으로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_SHIP_UPGRADE_MATERIAL_4_BY_SHIP_UPGRADE_MATERIAL_1",
+      "함선 자재를 함선 고급 자재로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_SHIP_UPGRADE_MATERIAL_3_BY_SHIP_UPGRADE_MATERIAL_4",
+      "함선 고급 자재를 블랙박스 파편으로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_SHIP_UPGRADE_MATERIAL_3_BY_SHIP_UPGRADE_MATERIAL_2",
+      "이터니움 추진체를 블랙박스 파편으로 합성합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_ASSULT_BY_CRUISER",
+      "함포장약을 고탄성 장갑으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_ASSULT_BY_HEAVY",
+      "중장 외피를 고탄성 장갑으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_ASSULT_SPECIAL",
+      "초전도 핵심을 고탄성 장갑으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_CRUISER_BY_ASSULT",
+      "고탄성 장갑을 함포장약으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_CRUISER_BY_HEAVY",
+      "중장 외피를 함포장약으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_CRUISER_BY_SPECIAL",
+      "초전도 핵심을 함포 장약으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_HEAVY_BY_ASSULT",
+      "고탄성 장갑을 중장 외피로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_HEAVY_BY_CRUISER",
+      "함포장약을 중장 외피로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_HEAVY_BY_SPECIAL",
+      "초전도 핵심을 중장 외피로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_SPECIAL_BY_ASSULT",
+      "고탄성 장갑을 초전도 핵심으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_SPECIAL_BY_CRUISER",
+      "함포장약을 초전도 핵심으로 전환합니다."
+    ],
+    [
+      "SI_ITEM_MOLD_DESC_IMI_ITEM_MISC_SHIP_REACTIVATE_MATERIAL_SPECIAL_BY_HEAVY",
+      "중장 외피를 초전도 핵심으로 전환합니다."
+    ],
+    [
+      "SI_SET_NORMAL_2P_ATK_RATE",
+      "공격"
+    ],
+    [
+      "SI_SET_NORMAL_2P_HP_RATE",
+      "체력"
+    ],
+    [
+      "SI_SET_NORMAL_2P_DEF_RATE",
+      "방어"
+    ],
+    [
+      "SI_SET_NORMAL_2P_CRI_RATE",
+      "치명"
+    ],
+    [
+      "SI_SET_NORMAL_2P_HIT_RATE",
+      "명중"
+    ],
+    [
+      "SI_SET_NORMAL_2P_EVADE_RATE",
+      "회피"
+    ],
+    [
+      "SI_SET_NORMAL_4P_CRI_DMG",
+      "치명타 피해"
+    ],
+    [
+      "SI_SET_NORMAL_4P_ATK_SPD",
+      "공격속도"
+    ],
+    [
+      "SI_SET_NORMAL_4P_COOL",
+      "스킬충전속도"
+    ],
+    [
+      "SI_SET_NORMAL_2P_VS_STRIKER_DMG",
+      "안티 스트라이커"
+    ],
+    [
+      "SI_SET_NORMAL_2P_VS_DEFFENDER_DMG",
+      "안티 디펜더"
+    ],
+    [
+      "SI_SET_NORMAL_2P_VS_RANGER_DMG",
+      "안티 레인저"
+    ],
+    [
+      "SI_SET_NORMAL_2P_VS_SNIPER_DMG",
+      "안티 스나이퍼"
+    ],
+    [
+      "SI_SET_NORMAL_2P_VS_SUPPOERTER_DMG",
+      "안티 서포터"
+    ],
+    [
+      "SI_SET_NORMAL_2P_VS_SIEGE_DMG",
+      "안티 시즈"
+    ],
+    [
+      "SI_SET_NORMAL_2P_VS_TOWER_DMG",
+      "안티 타워"
+    ],
+    [
+      "SI_SET_NORMAL_2P_CC_RESIST_RATE",
+      "상태이상 저항"
+    ],
+    [
+      "SI_SET_NORMAL_2P_BARRIER_UP",
+      "받는 배리어 증가"
+    ],
+    [
+      "SI_SET_NORMAL_2P_HEAL_REDUCE_RATE",
+      "받는 회복량 증가"
+    ],
+    [
+      "SI_SET_NORMAL_2P_VS_AIR_REDUCE",
+      "vs공중 피해감소"
+    ],
+    [
+      "SI_SET_NORMAL_2P_VS_LAND_REDUCE",
+      "vs지상 피해감소"
+    ],
+    [
+      "SI_SET_NORMAL_2P_S_RANGE_DMG_REG",
+      "vs근거리 피해감소"
+    ],
+    [
+      "SI_SET_NORMAL_2P_L_RANGE_DMG_REG",
+      "vs원거리 피해감소"
+    ],
+    [
+      "SI_SET_NORMAL_2P_BONUS_DMG",
+      "상성 피해 강화"
+    ],
+    [
+      "SI_SET_NORMAL_2P_BONUS_DMG_REDUCE",
+      "상성 피해 저항"
+    ],
+    [
+      "SI_SET_NORMAL_4P_DEF_PENETRATE",
+      "방어 관통률"
+    ],
+    [
+      "SI_SET_NORMAL_4P_HEAL_RATE",
+      "회복 강화"
+    ],
+    [
+      "SI_SET_NORMAL_4P_VS_AIR_DMG",
+      "vs공중 피해"
+    ],
+    [
+      "SI_SET_NORMAL_4P_VS_LAND_DMG",
+      "vs지상 피해"
+    ],
+    [
+      "SI_SET_NORMAL_4P_MOVE_SPEED_RATE",
+      "이동속도"
+    ],
+    [
+      "SI_SET_NORMAL_4P_NORMAL_SKILL_DMG",
+      "특수기 증폭"
+    ],
+    [
+      "SI_SET_NORMAL_4P_HYPER_SKILL_DMG",
+      "궁극기 증폭"
+    ],
+    [
+      "SI_SET_TRIM_2P_COOL",
+      "스킬충전속도Ⅱ"
+    ],
+    [
+      "SI_SET_TRIM_2P_ATK_SPD",
+      "공격속도Ⅱ"
+    ],
+    [
+      "SI_SET_TRIM_4P_HP_RATE",
+      "체력Ⅱ"
+    ],
+    [
+      "SI_SET_SPECIAL_4P_VS_LAND_DMG",
+      "안티 그라운드"
+    ],
+    [
+      "SI_SET_SPECIAL_4P_VS_AIR_DMG",
+      "안티 에어"
+    ],
+    [
+      "SI_SET_SPECIAL_2P_VS_COUNTER_DMG",
+      "안티 카운터"
+    ],
+    [
+      "SI_SET_SPECIAL_2P_VS_SOLDIER_DMG",
+      "안티 솔저"
+    ],
+    [
+      "SI_SET_SPECIAL_2P_VS_MECHANIC_DMG",
+      "안티 메카닉"
+    ],
+    [
+      "SI_SET_SPECIAL_2P_L_RANGE_DMG_REG",
+      "원거리 공격 방어"
+    ],
+    [
+      "SI_SET_SPECIAL_2P_S_RANGE_DMG_REG",
+      "근거리 공격 방어"
+    ],
+    [
+      "SI_SET_SPECIAL_2P_CRI_DMG_REG",
+      "치명타 피해 저항"
+    ],
+    [
+      "SI_SET_SPECIAL_4P_DEF_PENETRATE",
+      "방어 관통"
+    ],
+    [
+      "SI_SET_SPECIAL_2P_BARRIER_UP",
+      "받는 배리어 증가"
+    ],
+    [
+      "SI_SET_SPECIAL_4P_NORMAL_SKILL_DMG",
+      "특수기 피해량 증가"
+    ],
+    [
+      "SI_SET_SPECIAL_4P_HYPER_SKILL_DMG",
+      "궁극기 피해 증가"
+    ],
+    [
+      "SI_SET_SPECIAL_4P_ATK_RATE",
+      "맹공"
+    ],
+    [
+      "SI_SET_SPECIAL_2P_DMG_REG",
+      "받는 피해 감소"
+    ],
+    [
+      "SI_SET_SHADOW_2P_ATK_RATE_HIT_RATE",
+      "스펙트럴 불렛"
+    ],
+    [
+      "SI_SET_SHADOW_2P_ATK_RATE_EVADE_RATE",
+      "스펙트럴 기어"
+    ],
+    [
+      "SI_SET_SHADOW_2P_ATK_RATE_CRI_RATE",
+      "스펙트럴 체인"
+    ],
+    [
+      "SI_SET_SHADOW_4P_ATK_RATE_CRI_DMG",
+      "스펙트럴 스마이트"
+    ],
+    [
+      "SI_SET_SHADOW_4P_ATK_RATE_ATK_SPD",
+      "스펙트럴 블레이즈"
+    ],
+    [
+      "SI_SET_SHADOW_4P_ATK_RATE_COOL",
+      "스펙트럴 스피릿"
+    ],
+    [
+      "SI_SET_PHANTOM_2P_HP_RATE_DEF_RATE",
+      "팬텀 아머"
+    ],
+    [
+      "SI_SET_PHANTOM_2P_HP_RATE_EVADE_RATE",
+      "팬텀 샤프트"
+    ],
+    [
+      "SI_SET_PHANTOM_2P_HP_RATE_BARRIER_UP",
+      "팬텀 배리어"
+    ],
+    [
+      "SI_SET_PHANTOM_4P_HP_RATE_CRI_DMG_REG",
+      "팬텀 프로텍션"
+    ],
+    [
+      "SI_SET_PHANTOM_4P_HP_RATE_ATK_SPD",
+      "팬텀 글레어"
+    ],
+    [
+      "SI_SET_PHANTOM_4P_HP_RATE_COOL",
+      "팬텀 소울"
+    ],
+    [
+      "SI_SET_STARTER_4P_COOL",
+      "레플리카 타입S"
+    ],
+    [
+      "SI_SET_STARTER_4P_ATK_SPD",
+      "레플리카 타입A"
+    ],
+    [
+      "SI_SET_STARTER_4P_HP_RATE",
+      "레플리카 타입H"
+    ],
+    [
+      "SI_SET_TFPLAN_4P_HP_RATE",
+      "이니셔티브 타입H"
+    ],
+    [
+      "SI_SET_TFPLAN_4P_COOL",
+      "이니셔티브 타입S"
+    ],
+    [
+      "SI_SET_TFPLAN_4P_ATK_SPD",
+      "이니셔티브 타입A"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ENCHANT_MODULE_T1",
+      "강화 모듈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ENCHANT_MODULE_T1_CHOCO",
+      "빼빼로맛 강화 모듈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ENCHANT_MODULE_T7_PURCHASE",
+      "익시드 튜너"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_212",
+      "스위프트 테스트 MIN - 무기"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_213",
+      "스위프트 테스트 MIN - 방어구"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_214",
+      "스위프트 테스트 MIN - 보조장비A"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_215",
+      "스위프트 테스트 MIN - 보조장비B"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_216",
+      "스위프트 테스트 33% - 무기"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_217",
+      "스위프트 테스트 33% - 방어구"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_218",
+      "스위프트 테스트 33% - 보조장비A"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_219",
+      "스위프트 테스트 33% - 보조장비B"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_220",
+      "스위프트 테스트 50% - 무기"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_221",
+      "스위프트 테스트 50% - 방어구"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_222",
+      "스위프트 테스트 50% - 보조장비A"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_223",
+      "스위프트 테스트 50% - 보조장비B"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_224",
+      "스위프트 테스트 66% - 무기"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_225",
+      "스위프트 테스트 66% - 방어구"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_226",
+      "스위프트 테스트 66% - 보조장비A"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_227",
+      "스위프트 테스트 66% - 보조장비B"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_228",
+      "스위프트 테스트 MAX - 무기"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_229",
+      "스위프트 테스트 MAX - 방어구"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_230",
+      "스위프트 테스트 MAX - 보조장비A"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_231",
+      "스위프트 테스트 MAX - 보조장비B"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_232",
+      "와일드 테스트 MIN - 무기"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_233",
+      "와일드 테스트 MIN - 방어구"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_234",
+      "와일드 테스트 MIN - 보조장비A"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_235",
+      "와일드 테스트 MIN - 보조장비B"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_236",
+      "와일드 테스트 33% - 무기"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_237",
+      "와일드 테스트 33% - 방어구"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_238",
+      "와일드 테스트 33% - 보조장비A"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_239",
+      "와일드 테스트 33% - 보조장비B"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_240",
+      "와일드 테스트 50% - 무기"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_241",
+      "와일드 테스트 50% - 방어구"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_242",
+      "와일드 테스트 50% - 보조장비A"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_243",
+      "와일드 테스트 50% - 보조장비B"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_244",
+      "와일드 테스트 66% - 무기"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_245",
+      "와일드 테스트 66% - 방어구"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_246",
+      "와일드 테스트 66% - 보조장비A"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_247",
+      "와일드 테스트 66% - 보조장비B"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_248",
+      "와일드 테스트 MAX - 무기"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_249",
+      "와일드 테스트 MAX - 방어구"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_250",
+      "와일드 테스트 MAX - 보조장비A"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_251",
+      "와일드 테스트 MAX - 보조장비B"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_252",
+      "플레임 테스트 MIN - 무기"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_253",
+      "플레임 테스트 MIN - 방어구"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_254",
+      "플레임 테스트 MIN - 보조장비A"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_255",
+      "플레임 테스트 MIN - 보조장비B"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_256",
+      "플레임 테스트 33% - 무기"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_257",
+      "플레임 테스트 33% - 방어구"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_258",
+      "플레임 테스트 33% - 보조장비A"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_259",
+      "플레임 테스트 33% - 보조장비B"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_260",
+      "플레임 테스트 50% - 무기"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_261",
+      "플레임 테스트 50% - 방어구"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_262",
+      "플레임 테스트 50% - 보조장비A"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_263",
+      "플레임 테스트 50% - 보조장비B"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_264",
+      "플레임 테스트 66% - 무기"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_265",
+      "플레임 테스트 66% - 방어구"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_266",
+      "플레임 테스트 66% - 보조장비A"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_267",
+      "플레임 테스트 66% - 보조장비B"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_268",
+      "플레임 테스트 MAX - 무기"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_269",
+      "플레임 테스트 MAX - 방어구"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_270",
+      "플레임 테스트 MAX - 보조장비A"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_271",
+      "플레임 테스트 MAX - 보조장비B"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_272",
+      "각성 딜러 전용 장비 - 무기"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_273",
+      "각성 딜러 전용 장비 - 방어구"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_274",
+      "각성 딜러 전용 장비 - 보조장비A"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_275",
+      "각성 딜러 전용 장비 - 보조장비B"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_01",
+      "업그레이드 1단계"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_02",
+      "업그레이드 2단계"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_03",
+      "업그레이드 3단계"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_276",
+      "각성 체력 전용 장비 - 무기"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_277",
+      "각성 체력 전용 장비 - 방어구"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_278",
+      "각성 체력 전용 장비 - 보조장비A"
+    ],
+    [
+      "SI_NAME_IQI_EQUIP_TEST_279",
+      "각성 체력 전용 장비 - 보조장비B"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_11",
+      "렐릭 1번"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_12",
+      "렐릭 2번"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_13",
+      "렐릭 3번"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_04",
+      "정수 변경 후 메이즈 6티어"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_07",
+      "정수 변경 후 메이즈 7티어"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_14",
+      "렐릭 7티어"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_17",
+      "정수 변경 후 허밍 6티어"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_18",
+      "정수 변경 후 고르디 6티어"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_19",
+      "체퍼옵 적용된 메이즈 6티어"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_20",
+      "T7 스충/공속 메이즈 무기"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_21",
+      "T7 스충/공속 메이즈 방어구"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_22",
+      "T7 스충/공속 메이즈 보조장비A"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_23",
+      "T7 스충/공속 메이즈 보조장비B"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_24",
+      "T7 스충/스충 메이즈 무기"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_25",
+      "T7 스충/스충 메이즈 방어구"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_26",
+      "T7 스충/스충 메이즈 보조장비A"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_27",
+      "T7 스충/스충 메이즈 보조장비B"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_28",
+      "T7 스충/체력 허밍 무기"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_29",
+      "T7 스충/체력 메이즈 방어구"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_30",
+      "T7 스충/체력 고르디 보조장비A"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_31",
+      "T7 스충/체력 고르디 보조장비B"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_32",
+      "T7 공속/공속 렐릭 무기"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_33",
+      "T7 공속/공속 렐릭 방어구"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_34",
+      "T7 공속/공속 렐릭 보조장비A"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_35",
+      "T7 공속/공속 렐릭 보조장비B"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_36",
+      "T7 체퍼/체력 렐릭 무기"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_37",
+      "T7 체퍼/체력 렐릭 방어구"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_38",
+      "T7 체퍼/체력 렐릭 보조장비A"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_39",
+      "T7 체퍼/체력 렐릭 보조장비B"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_40",
+      "T7 체퍼/스충 렐릭 무기"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_41",
+      "T7 체퍼/스충 렐릭 방어구"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_42",
+      "T7 체퍼/스충 렐릭 보조장비A"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_43",
+      "T7 체퍼/스충 렐릭 보조장비B"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_44",
+      "T7 스충/스충 허밍 무기"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_46",
+      "T7 스충/스충 고르디 보조장비A"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_47",
+      "T7 스충/스충 고르디 보조장비B"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_48",
+      "정글 카운터 무기 상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_49",
+      "정글 카운터 방어구 상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_50",
+      "정글 카운터 보조장비 A 상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_51",
+      "정글 카운터 보조장비 B 상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_52",
+      "정글 솔저 무기 상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_53",
+      "정글 솔저 방어구 상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_54",
+      "정글 솔저 보조장비 A 상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_55",
+      "정글 솔저 보조장비 B 상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_56",
+      "정글 메카닉 무기 상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_57",
+      "정글 메카닉 방어구 상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_58",
+      "정글 메카닉 보조장비 A 상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_59",
+      "정글 메카닉 보조장비 B 상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_60",
+      "정글 카운터 무기 받는 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_61",
+      "정글 카운터 방어구 받는 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_62",
+      "정글 카운터 보조장비 A 받는 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_63",
+      "정글 카운터 보조장비 B 받는 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_64",
+      "정글 솔저 무기 받는 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_65",
+      "정글 솔저 방어구 받는 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_66",
+      "정글 솔저 보조장비 A 받는 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_67",
+      "정글 솔저 보조장비 B 받는 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_68",
+      "정글 메카닉 무기 받는 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_69",
+      "정글 메카닉 방어구 받는 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_70",
+      "정글 메카닉 보조장비 A 받는 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_71",
+      "정글 메카닉 보조장비 B 받는 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_72",
+      "정글 카운터 무기 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_73",
+      "정글 카운터 방어구 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_74",
+      "정글 카운터 보조장비 A 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_75",
+      "정글 카운터 보조장비 B 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_76",
+      "정글 솔저 무기 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_77",
+      "정글 솔저 방어구 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_78",
+      "정글 솔저 보조장비 A 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_79",
+      "정글 솔저 보조장비 B 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_80",
+      "정글 메카닉 무기 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_81",
+      "정글 메카닉 방어구 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_82",
+      "정글 메카닉 보조장비 A 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_83",
+      "정글 메카닉 보조장비 B 회복 강화"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_84",
+      "정글 카운터 무기 배리어 강화율"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_85",
+      "정글 카운터 방어구 배리어 강화율"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_86",
+      "정글 카운터 보조장비 A 배리어 강화율"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_87",
+      "정글 카운터 보조장비 B 배리어 강화율"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_88",
+      "정글 솔저 무기 배리어 강화율"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_89",
+      "정글 솔저 방어구 배리어 강화율"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_90",
+      "정글 솔저 보조장비 A 배리어 강화율"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_91",
+      "정글 솔저 보조장비 B 배리어 강화율"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_92",
+      "정글 메카닉 무기 배리어 강화율"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_93",
+      "정글 메카닉 방어구 배리어 강화율"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_94",
+      "정글 메카닉 보조장비 A 배리어 강화율"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_95",
+      "정글 메카닉 보조장비 B 배리어 강화율"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_96",
+      "화산 카운터 무기 방어 관통률"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_97",
+      "화산 카운터 방어구 방어 관통률"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_98",
+      "화산 카운터 보조장비 A 방어 관통률"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_99",
+      "화산 카운터 보조장비 B 방어 관통률"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_100",
+      "화산 솔저 무기 방어 관통률"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_101",
+      "화산 솔저 방어구 방어 관통률"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_102",
+      "화산 솔저 보조장비 A 방어 관통률"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_103",
+      "화산 솔저 보조장비 B 방어 관통률"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_104",
+      "화산 메카닉 무기 방어 관통률"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_105",
+      "화산 메카닉 방어구 방어 관통률"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_106",
+      "화산 메카닉 보조장비 A 방어 관통률"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_107",
+      "화산 메카닉 보조장비 B 방어 관통률"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_108",
+      "화산 카운터 무기Vs 카운터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_109",
+      "화산 카운터 방어구Vs 카운터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_110",
+      "화산 카운터 보조장비 AVs 카운터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_111",
+      "화산 카운터 보조장비 BVs 카운터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_112",
+      "화산 솔저 무기Vs 카운터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_113",
+      "화산 솔저 방어구Vs 카운터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_114",
+      "화산 솔저 보조장비 AVs 카운터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_115",
+      "화산 솔저 보조장비 BVs 카운터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_116",
+      "화산 메카닉 무기Vs 카운터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_117",
+      "화산 메카닉 방어구Vs 카운터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_118",
+      "화산 메카닉 보조장비 AVs 카운터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_119",
+      "화산 메카닉 보조장비 BVs 카운터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_120",
+      "화산 카운터 무기 Vs 솔저"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_121",
+      "화산 카운터 방어구 Vs 솔저"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_122",
+      "화산 카운터 보조장비 A Vs 솔저"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_123",
+      "화산 카운터 보조장비 B Vs 솔저"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_124",
+      "화산 솔저 무기 Vs 솔저"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_125",
+      "화산 솔저 방어구 Vs 솔저"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_126",
+      "화산 솔저 보조장비 A Vs 솔저"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_127",
+      "화산 솔저 보조장비 B Vs 솔저"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_128",
+      "화산 메카닉 무기 Vs 솔저"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_129",
+      "화산 메카닉 방어구 Vs 솔저"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_130",
+      "화산 메카닉 보조장비 A Vs 솔저"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_131",
+      "화산 메카닉 보조장비 B Vs 솔저"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_132",
+      "화산 카운터 무기 Vs 메카닉"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_133",
+      "화산 카운터 방어구 Vs 메카닉"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_134",
+      "화산 카운터 보조장비 A Vs 메카닉"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_135",
+      "화산 카운터 보조장비 B Vs 메카닉"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_136",
+      "화산 솔저 무기 Vs 메카닉"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_137",
+      "화산 솔저 방어구 Vs 메카닉"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_138",
+      "화산 솔저 보조장비 A Vs 메카닉"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_139",
+      "화산 솔저 보조장비 B Vs 메카닉"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_140",
+      "화산 메카닉 무기 Vs 메카닉"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_141",
+      "화산 메카닉 방어구 Vs 메카닉"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_142",
+      "화산 메카닉 보조장비 A Vs 메카닉"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_143",
+      "화산 메카닉 보조장비 B Vs 메카닉"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_144",
+      "화산 카운터 무기상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_145",
+      "화산 카운터 방어구상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_146",
+      "화산 카운터 보조장비 A상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_147",
+      "화산 카운터 보조장비 B상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_148",
+      "화산 솔저 무기상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_149",
+      "화산 솔저 방어구상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_150",
+      "화산 솔저 보조장비 A상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_151",
+      "화산 솔저 보조장비 B상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_152",
+      "화산 메카닉 무기상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_153",
+      "화산 메카닉 방어구상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_154",
+      "화산 메카닉 보조장비 A상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TEST_155",
+      "화산 메카닉 보조장비 B상태 이상 저항"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_101001",
+      "택티컬 홀스터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101002",
+      "달을 쫓는 늑대"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_101003",
+      "독니"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_101004",
+      "리더의 책임"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_101005",
+      "사냥개의 이빨"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101006",
+      "틀림없는 전령"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101007",
+      "요정의 무한탄창"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_101008",
+      "헴스워스 매거진"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_101009",
+      "포인트 테이커"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_101014",
+      "언브레이커블"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_101018",
+      "머쉬멜로우 샌드"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_101040",
+      "독립형 TCS 모듈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_101041",
+      "씬 메이커"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_101042",
+      "가비야"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101043",
+      "쇼 스타터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_101044",
+      "원 핸드 로데오"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101045",
+      "댄싱 캣"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_101059",
+      "상흔"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_101060",
+      "카리스마"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101061",
+      "전술 통신기"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101062",
+      "게임 메이커"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_101085",
+      "버고 소드"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101087",
+      "아쿠아리우스 보틀"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_101088",
+      "스콜피오 랜스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101090",
+      "고대의 마도서"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_101091",
+      "베아트릭스 로브"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_101092",
+      "드 마리니의 낫"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101093",
+      "마녀의 비약"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_101098",
+      "스피드 드라이버"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_101099",
+      "그라인딩 패들"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101112",
+      "선물받은 팔찌"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101113",
+      "쌍생의 증표"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101114",
+      "바람꽂이"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_101115",
+      "다리미"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101116",
+      "사공의 열쇠"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101117",
+      "베스트 초이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101118",
+      "침묵"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_101121",
+      "밸런스 브레이커"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101122",
+      "알파 비전"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_101123",
+      "칠색의 파사검"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101124",
+      "흠없는 전리품"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_101125",
+      "레어 비디오 테이프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_101135",
+      "첫번째 친구"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_101136",
+      "마크 상병"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_101137",
+      "IVORY 클로버-17"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_101142",
+      "용병의 부적"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_101151",
+      "섭리음양"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101152",
+      "안드레아스 소령"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101181",
+      "마술 모자"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_101182",
+      "기어 세포 억제 장치"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_101183",
+      "커다란 닻"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_101184",
+      "고양이 브로치"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101185",
+      "벨파&베누스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_101186",
+      "마를렌"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DEFENCE_101187",
+      "정열의 콤파니아"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_101188",
+      "게르투르디스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_101190",
+      "서브 코어 : 궤도"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_111190",
+      "서브 코어 : 탄성"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_121190",
+      "서브 코어 : 인력"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_101157",
+      "거함거포"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101158",
+      "다정한 결의"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_101063",
+      "스승의 은혜"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_101064",
+      "펄스 블래스터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_101068",
+      "샐러맨더 오토캐넌"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_101069",
+      "키메라 스케일"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_101170",
+      "메모리얼 플레이트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_101096",
+      "빛바랜 유품"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_101097",
+      "완전범죄"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_101145",
+      "콰트로포르테"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_JOO_SHI_YOON_AP_WEAPON",
+      "수라"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_DELTA_KYLE_AP_ACC",
+      "전술 컴퓨터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_101179",
+      "퇴근 후의 벗"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_101180",
+      "압류재산 11호"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_101196",
+      "열혈 변호사"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_FALLEN_YUMA_DEFENCE",
+      "우두머리 증표"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_FALLEN_DOMA_ACC",
+      "혈석 반지"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_FALLEN_ROSARIA_ACC",
+      "재의 옥좌"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_VATICAN_BENEDICT_ACC",
+      "수상한 경전"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_VATICAN_CINDY_WEAPON",
+      "수다쟁이"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_VATICAN_CLOUDIA_DEFENCE",
+      "전투 예복"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_BAR_C_CEO_ACC",
+      "암흑가 점쟁이"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_BAR_S_BARTENDER_WEAPON",
+      "성총 아가테"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_VATICAN_BOOK_WEAPON",
+      "심판의 서"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_GEASS_MA_SEITEN_ACC",
+      "홍련의 열쇠"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_GEASS_C_LELOUCH_ACC",
+      "제로의 가면"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_GEASS_M_LANCELOT_DEFENCE",
+      "새하얀 구속복"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MAID_S_LEADER_ACC",
+      "택티컬 벨트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MAID_C_SPEAR_WEAPON",
+      "스파이시 헬 스피어"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MAID_C_TONFA_WEAPON",
+      "워싱 배트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MAID_C_MASK_DEFENCE",
+      "자장가"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ESPR_SHADOW_ACC",
+      "니토크리스의 혜안"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ESPR_PILE_WEAPON",
+      "빛나는 나선말뚝"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ESPR_FROZEN_ACC",
+      "백색의 침묵"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_KNIGHT_C_HOLY_WEAPON",
+      "부활의 지팡이"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_KNIGHT_C_FLAG_WEAPON",
+      "선봉의 깃발"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_KNIGHT_C_EMPEROR_WEAPON",
+      "용검 라르고"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_JUNIOR_C_POLEARM_WEAPON",
+      "에이프릴"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CANARY_S_SHIELD_WEAPON",
+      "스포츠맨쉽"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CANARY_S_ASSAULT_ACC",
+      "안티테제"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_GUILTY_CA_JACKO_WEAPON",
+      "잭 오의 가면"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_DANMACHI_C_RYU_WEAPON",
+      "알브스 루미나"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_DANMACHI_CA_AIS_WEAPON",
+      "데스퍼러트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_DANMACHI_C_BELL_WEAPON",
+      "헤스티아 나이프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ADMIN_CA_BIRDCAGE_WEAPON",
+      "날개 없는 꽃"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ADMIN_CA_BIRDCAGE_DEFENCE",
+      "첫 생일"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ADMIN_CA_BIRDCAGE_ACC_A",
+      "여섯 번째 생일"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ADMIN_CA_BIRDCAGE_ACC_B",
+      "정원 노래"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ESPR_CA_SHADOW_WEAPON",
+      "검은 어린 양"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ESPR_CA_SHADOW_DEFENCE",
+      "성찬 예복"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ESPR_CA_SHADOW_ACC_A",
+      "이브를 위한 헌사"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ESPR_CA_SHADOW_ACC_B",
+      "기억나지 않는 인형"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ESPR_CA_BLUE_WEAPON",
+      "드잔의 모닝스타"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ESPR_CA_BLUE_DEFENCE",
+      "파수꾼의 의복"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ESPR_CA_BLUE_ACC_A",
+      "지혜의 눈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ESPR_CA_BLUE_ACC_B",
+      "주식의 바이블"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_YOO_MI_NA_WEAPON",
+      "울브즈베인"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_YOO_MI_NA_DEFENCE",
+      "나노 컴뱃 재킷 : 도르마"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_YOO_MI_NA_ACC_A",
+      "베테랑의 품격"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_YOO_MI_NA_ACC_B",
+      "신의 이중성"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_HILDE_WEAPON",
+      "발키리의 검"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_HILDE_DEFENCE",
+      "해를 쫓는 늑대"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_HILDE_ACC_A",
+      "버스터 코어"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_HILDE_ACC_B",
+      "버스터 모듈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_FENRIR_CA_INTERN_WEAPON",
+      "바즈라 플라벨룸"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_FENRIR_CA_INTERN_DEFENCE",
+      "세라프 윙"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_FENRIR_CA_INTERN_ACC_A",
+      "희망찬 발걸음"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_FENRIR_CA_INTERN_ACC_B",
+      "한정판 아이러브펜릴 굿즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_STREGA_YOO_NA_WEAPON",
+      "엘리노어 스태프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_STREGA_YOO_NA_DEFENCE",
+      "대마녀의 증명"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_STREGA_YOO_NA_ACC_A",
+      "생명의 고리"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_STREGA_YOO_NA_ACC_B",
+      "솔라 코덱스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ALT_CA_SEO_YOON_WEAPON",
+      "미스틸테인"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ALT_CA_SEO_YOON_DEFENCE",
+      "굴절 코트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ALT_CA_SEO_YOON_ACC_A",
+      "비밀 도우미"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ALT_CA_SEO_YOON_ACC_B",
+      "달콤한 승리"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ZODIAC_CA_CHARLOTTE_WEAPON",
+      "아스트라이아 소드"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ZODIAC_CA_CHARLOTTE_DEFENCE",
+      "흑색제복"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ZODIAC_CA_CHARLOTTE_ACC_A",
+      "바스티온 쉴드"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ZODIAC_CA_CHARLOTTE_ACC_B",
+      "니어 아스트라이아"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CORRUPTED_CA_MINISTRA_WEAPON",
+      "분해의 계율"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CORRUPTED_CA_MINISTRA_DEFENCE",
+      "고독의 사슬"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CORRUPTED_CA_MINISTRA_ACC_A",
+      "자매의 증거"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CORRUPTED_CA_MINISTRA_ACC_B",
+      "녹슨 마음"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_C_SIXWING_LEE_JISOO_WEAPON",
+      "귀살검"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_C_SIXWING_LEE_JISOO_DEFENCE",
+      "빛바랜 연"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_C_SIXWING_LEE_JISOO_ACC_A",
+      "뒤집힌 이치"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_C_SIXWING_LEE_JISOO_ACC_B",
+      "군소리꾼"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_JOO_SHI_YOON_WEAPON",
+      "용아"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_JOO_SHI_YOON_DEFENCE",
+      "먹장막"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_JOO_SHI_YOON_ACC_A",
+      "먹비도"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_JOO_SHI_YOON_ACC_B",
+      "완성된 운명"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ADMIN_CA_CLOUD_WEAPON",
+      "용아"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ADMIN_CA_CLOUD_DEFENCE",
+      "오작교"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ADMIN_CA_CLOUD_ACC_A",
+      "구름꽃"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ADMIN_CA_CLOUD_ACC_B",
+      "홍련"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ESPR_CA_FROZEN_WEAPON",
+      "지식의 성정"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ESPR_CA_FROZEN_DEFENCE",
+      "잠복자의 송장"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ESPR_CA_FROZEN_ACC_B",
+      "텅 빈 바구니"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_ADMIN_LEE_SUYEON_WEAPON",
+      "성과주의"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_ADMIN_LEE_SUYEON_DEFENCE",
+      "전술예장 - 에이스 오브 코핀"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_ADMIN_LEE_SUYEON_ACC_A",
+      "전술예장 - 아스널 윙"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_CA_ADMIN_LEE_SUYEON_ACC_B",
+      "지난날의 맹세"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_REPLACER_CA_QUEEN_WEAPON",
+      "CRF 포인터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_REPLACER_CA_QUEEN_DEFENCE",
+      "퀸메이커"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_REPLACER_CA_QUEEN_ACC_A",
+      "신성 발현"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_REPLACER_CA_QUEEN_ACC_B",
+      "충의의 증표"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ALPHA_CA_JIA_WEAPON",
+      "퍼펙트 큐브"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ALPHA_CA_JIA_DEFENCE",
+      "퓨어 하트 이노베이션"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ALPHA_CA_JIA_ACC_A",
+      "페어리 윙"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ALPHA_CA_JIA_ACC_B",
+      "순백의 날갯짓"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ESPR_CA_KNIGHT_WEAPON",
+      "배반의 사슬"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ESPR_CA_KNIGHT_DEFENCE",
+      "명예의 흔적"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ESPR_CA_KNIGHT_ACC_A",
+      "워스트 초이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ESPR_CA_KNIGHT_ACC_B",
+      "에이전트 심볼"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_C_SIXWING_NA_YUBIN_WEAPON",
+      "펄스 블래스터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_C_SIXWING_NA_YUBIN_DEFENCE",
+      "적당한 신분"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_C_SIXWING_NA_YUBIN_ACC_A",
+      "사라지지 않은 깃털"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_C_SIXWING_NA_YUBIN_ACC_B",
+      "2급 관리자 권한"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SIXWING_CA_ACTOR_WEAPON",
+      "어느 탐정의 유산"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SIXWING_CA_ACTOR_DEFENCE",
+      "우아한 발버둥"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SIXWING_CA_ACTOR_ACC_A",
+      "기억의 편린"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SIXWING_CA_ACTOR_ACC_B",
+      "오래된 각오"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_JAPAN_CA_SENHIME_WEAPON",
+      "수선과 명부검"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_JAPAN_CA_SENHIME_DEFENCE",
+      "제법무아"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_JAPAN_CA_SENHIME_ACC_A",
+      "두려워할 죽음"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_JAPAN_CA_SENHIME_ACC_B",
+      "결계옥"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_FENRIR_CA_HILDE_PR_WEAPON",
+      "노퉁"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_FENRIR_CA_HILDE_PR_DEFENCE",
+      "발키리 수의"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_FENRIR_CA_HILDE_PR_ACC_A",
+      "승천"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_FENRIR_CA_HILDE_PR_ACC_B",
+      "해맞이꽃"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_RAS_MA_TOWER_PR_WEAPON",
+      "뭐든지 막는 커다란 손"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_RAS_MA_TOWER_PR_DEFENCE",
+      "시그마 프로토콜: 파이널 페이즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_RAS_MA_TOWER_PR_ACC_A",
+      "연산 보조 모듈: 크리켓"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_RAS_MA_TOWER_PR_ACC_B",
+      "한 인형의 이야기"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_DELTA_CA_JAKE_WEAPON",
+      "스톰 브링거"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_DELTA_CA_JAKE_DEFENCE",
+      "맨 오브 스톰"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_DELTA_CA_JAKE_ACC_A",
+      "폭풍의 눈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_DELTA_CA_JAKE_ACC_B",
+      "낡은 수첩"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ADMIN_CA_CAT_WEAPON",
+      "비스트 클로"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ADMIN_CA_CAT_DEFENCE",
+      "푸슈파카 비마나"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ADMIN_CA_CAT_ACC_A",
+      "아스트라 드라이브"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ADMIN_CA_CAT_ACC_B",
+      "집고양이"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_VARUNA_CA_CHAKRAM_WEAPON",
+      "수리야스트라"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_VARUNA_CA_CHAKRAM_DEFENCE",
+      "파드마"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_VARUNA_CA_CHAKRAM_ACC_A",
+      "정의함으로써 존재하는 것"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_VARUNA_CA_CHAKRAM_ACC_B",
+      "인도"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ANAPLS_CA_SCYTHE_WEAPON",
+      "가을 끝무렵"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ANAPLS_CA_SCYTHE_DEFENCE",
+      "황혼에 물든 밤"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ANAPLS_CA_SCYTHE_ACC_A",
+      "흰서리꽃"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_ANAPLS_CA_SCYTHE_ACC_B",
+      "새벽인사"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DEFENCE_863241",
+      "벨레자 슈트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_862341",
+      "위습 프로토콜"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_861241",
+      "헥사 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_211111",
+      "브론즈 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_211211",
+      "브론즈 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_211311",
+      "브론즈 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_211312",
+      "브론즈 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_212111",
+      "고폭탄"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_212211",
+      "슬랫 아머"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_212311",
+      "조준경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_212312",
+      "감시경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_213111",
+      "AR-15"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DEFENCE_213211",
+      "전투조끼"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_213311",
+      "레이저사이트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_213312",
+      "구식 외골격"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_221111",
+      "실버 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_221211",
+      "실버 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_221311",
+      "실버 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_221312",
+      "실버 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_222111",
+      "경심철갑탄"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_222211",
+      "공간장갑"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_222311",
+      "다초점 조준경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_222312",
+      "이중 감시경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_223111",
+      "A26 돌격소총 "
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DEFENCE_223211",
+      "방탄판"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_223311",
+      "도트사이트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_223312",
+      "민수용 외골격"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_231111",
+      "해밍턴 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_231211",
+      "해밍턴 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_231311",
+      "해밍턴 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_231312",
+      "해밍턴 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_232111",
+      "대전차 고폭탄"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_232211",
+      "복합장갑판"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_232311",
+      "정밀 조준경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_232312",
+      "사중 감시경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_233111",
+      "C36 제식소총"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DEFENCE_233211",
+      "경량 방탄복"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_233311",
+      "홀로사이트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_233312",
+      "군용 외골격"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_241111",
+      "알렉스 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_241211",
+      "알렉스 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_241311",
+      "알렉스 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_241312",
+      "알렉스 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_242111",
+      "날개안정 철갑탄"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_242211",
+      "반응 장갑"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_242311",
+      "열감지 조준경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_242312",
+      "동작 감시경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_243111",
+      "AX29 복합소총"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DEFENCE_243211",
+      "다기능 방탄복"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_243311",
+      "고배율 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_243312",
+      "특수전 외골격"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_251111",
+      "단테 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_251211",
+      "단테 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_251311",
+      "단테 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_251312",
+      "단테 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_252111",
+      "정밀유도 포탄"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_252211",
+      "전기 반응 장갑"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_252311",
+      "학습식 조준경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_252312",
+      "통합 감시경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_253111",
+      "W11 무반동 소총"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DEFENCE_253211",
+      "복합 강화복"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_253311",
+      "레이저 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_253312",
+      "차세대 외골격"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_331131",
+      "초전도 실버 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_331231",
+      "초전도 실버 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_331331",
+      "초전도 실버 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_331332",
+      "초전도 실버 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_332131",
+      "초전도 경심철갑탄"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_332231",
+      "초전도 공간장갑"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_332331",
+      "초전도 다초점 조준경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_332332",
+      "초전도 이중 감시경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_333131",
+      "초전도 A26 돌격소총 "
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DEFENCE_333231",
+      "초전도 방탄판"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_333331",
+      "초전도 도트사이트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_333332",
+      "초전도 민수용 외골격"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_341131",
+      "초전도 해밍턴 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_341231",
+      "초전도 해밍턴 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_341331",
+      "초전도 해밍턴 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_341332",
+      "초전도 해밍턴 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_342131",
+      "초전도 대전차 고폭탄"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_342231",
+      "초전도 복합장갑판"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_342331",
+      "초전도 정밀 조준경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_342332",
+      "초전도 사중 감시경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_343131",
+      "초전도 C36 제식소총"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DEFENCE_343231",
+      "초전도 경량 방탄복"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_343331",
+      "초전도 홀로사이트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_343332",
+      "초전도 군용 외골격"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_351131",
+      "초전도 알렉스 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_351231",
+      "초전도 알렉스 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_351331",
+      "초전도 알렉스 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_351332",
+      "초전도 알렉스 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_352131",
+      "초전도 날개안정 철갑탄"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_352231",
+      "초전도 반응 장갑"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_352331",
+      "초전도 열감지 조준경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_352332",
+      "초전도 동작 감시경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_353131",
+      "초전도 AX29 복합소총"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DEFENCE_353231",
+      "초전도 다기능 방탄복"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_353331",
+      "초전도 고배율 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_353332",
+      "초전도 특수전 외골격"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_361131",
+      "초전도 단테 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_361231",
+      "초전도 단테 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_361331",
+      "초전도 단테 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_361332",
+      "초전도 단테 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_362131",
+      "초전도 정밀유도 포탄"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_362231",
+      "초전도 전기 반응 장갑"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_362331",
+      "초전도 학습식 조준경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_362332",
+      "초전도 통합 감시경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_363131",
+      "초전도 W11 무반동 소총"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DEFENCE_363231",
+      "초전도 복합 강화복"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_363331",
+      "초전도 레이저 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_363332",
+      "초전도 차세대 외골격"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_441141",
+      "고분자 해밍턴 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_451141",
+      "고분자 알렉스 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_461141",
+      "고분자 단테 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_441241",
+      "고분자 해밍턴 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_451241",
+      "고분자 알렉스 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_461241",
+      "고분자 단테 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_441341",
+      "고분자 해밍턴 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_441342",
+      "고분자 해밍턴 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_451341",
+      "고분자 알렉스 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_451342",
+      "고분자 알렉스 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_461341",
+      "고분자 단테 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_461342",
+      "고분자 단테 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_442141",
+      "고분자 대전차 고폭탄"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_452141",
+      "고분자 날개안정 철갑탄"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_462141",
+      "고분자 정밀유도 포탄"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_442241",
+      "고분자 복합장갑판"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_452241",
+      "고분자 반응 장갑"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_462241",
+      "고분자 전기 반응 장갑"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_442341",
+      "고분자 정밀 조준경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_442342",
+      "고분자 사중 감시경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_452341",
+      "고분자 열감지 조준경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_452342",
+      "고분자 동작 감시경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_462341",
+      "고분자 학습식 조준경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_462342",
+      "고분자 통합 감시경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_443141",
+      "고분자 C36 제식소총"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_453141",
+      "고분자 AX29 복합소총"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_463141",
+      "고분자 W11 무반동 소총"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DEFENCE_443241",
+      "고분자 경량 방탄복"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DEFENCE_453241",
+      "고분자 다기능 방탄복"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DEFENCE_463241",
+      "고분자 복합 강화복"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_443341",
+      "고분자 홀로사이트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_443342",
+      "고분자 군용 외골격"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_453341",
+      "고분자 고배율 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_453342",
+      "고분자 특수전 외골격"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_463341",
+      "고분자 레이저 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_551241",
+      "제프티 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_552241",
+      "제프티 아머"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DEFENCE_553241",
+      "제프티 재킷"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_561141",
+      "메이즈 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_561241",
+      "메이즈 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_561341",
+      "메이즈 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_562141",
+      "메이즈 정밀유도 포탄"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_562241",
+      "메이즈 반응 장갑"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_562341",
+      "메이즈 학습식 조준경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_563141",
+      "메이즈 무반동 소총"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DEFENCE_563241",
+      "메이즈 복합 강화복"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_563341",
+      "메이즈 레이저 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_561342",
+      "고르디우스 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_563342",
+      "고르디우스 특수전 외골격"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_562342",
+      "고르디우스 통합 감시경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_663141",
+      "RSHSR"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_661341",
+      "웰시 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_661101",
+      "허밍버드 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_662102",
+      "허밍버드 쉘"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_663103",
+      "허밍버드 트리거"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_661304",
+      "고르디우스 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_662305",
+      "고르디우스 통합 조준경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_663306",
+      "고르디우스 특수전 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_661107",
+      "대적자의 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_661208",
+      "대적자의 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_661309",
+      "대적자의 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_661310",
+      "대적자의 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_651141",
+      "데빌 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_651241",
+      "데빌 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_651341",
+      "데빌 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_651342",
+      "데빌 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_652141",
+      "데빌 포탄"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_652241",
+      "데빌 장갑"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_652341",
+      "데빌 조준경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_652342",
+      "데빌 감시경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_653141",
+      "데빌 소총"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DEFENCE_653241",
+      "데빌 강화복"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_653341",
+      "데빌 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_653342",
+      "데빌 외골격"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_671141",
+      "도전자의 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_671241",
+      "도전자의 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_672141",
+      "도전자의 아틸러리 쉘"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_672342",
+      "도전자의 디텍터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_681141",
+      "로얄 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_681141",
+      "디보션 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_681341",
+      "커리지 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_681342",
+      "신시어 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_682141",
+      "로얄 셸"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_682241",
+      "디보션 패널"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_682341",
+      "커리지 사이트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_681342",
+      "신시어 레이더"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_683141",
+      "로얄 트리거"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DEFENCE_683241",
+      "디보션 슈트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_683341",
+      "커리지 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_681342",
+      "신시어 스켈레톤"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_761141",
+      "스펙트럴 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_761241",
+      "스펙트럴 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_761341",
+      "스펙트럴 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_763141",
+      "스펙트럴 라이플"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DEFENCE_763241",
+      "스펙트럴 슈츠"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_763341",
+      "스펙트럴 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_762141",
+      "스펙트럴 셸"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DEFENCE_762241",
+      "스펙트럴 플레이트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_762341",
+      "스펙트럴 모듈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_PHANTOM_COUNTER_WEAPON",
+      "팬텀 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_PHANTOM_COUNTER_DEFENCE",
+      "팬텀 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_PHANTOM_COUNTER_ACC_A",
+      "팬텀 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_PHANTOM_MECHANIC_WEAPON",
+      "팬텀 셸"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_PHANTOM_MECHANIC_DEFENCE",
+      "팬텀 플레이트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_PHANTOM_MECHANIC_ACC_A",
+      "팬텀 모듈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_PHANTOM_SOLDIER_WEAPON",
+      "팬텀 라이플"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_PHANTOM_SOLDIER_DEFENCE",
+      "팬텀 슈츠"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_PHANTOM_SOLDIER_ACC_A",
+      "팬텀 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_STRATER1_COUNTER_WEAPON",
+      "R-메이즈 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_STRATER1_COUNTER_DEFENCE",
+      "R-메이즈 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_STRATER1_COUNTER_ACC_A",
+      "R-메이즈 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_STRATER1_COUNTER_ACC_B",
+      "R-고르디우스 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_STRATER1_MECHANIC_WEAPON",
+      "R-메이즈 정밀유도 포탄"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_STRATER1_MECHANIC_DEFENCE",
+      "R-메이즈 반응 장갑"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_STRATER1_MECHANIC_ACC_A",
+      "R-메이즈 학습식 조준경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_STRATER1_MECHANIC_ACC_B",
+      "R-고르디우스 통합 감시경"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_STRATER1_SOLDIER_WEAPON",
+      "R-메이즈 무반동 소총"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_STRATER1_SOLDIER_DEFENCE",
+      "R-메이즈 복합 강화복"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_STRATER1_SOLDIER_ACC_A",
+      "R-메이즈 레이저 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_STRATER1_SOLDIER_ACC_B",
+      "R-고르디우스 특수전 외골격"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TFPLAN_COUNTER_WEAPON",
+      "이니셔티브 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TFPLAN_COUNTER_DEFENCE",
+      "이니셔티브 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TFPLAN_COUNTER_ACC_A",
+      "이니셔티브 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TFPLAN_COUNTER_ACC_B",
+      "이니셔티브 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TFPLAN_MECHANIC_WEAPON",
+      "이니셔티브 셸"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TFPLAN_MECHANIC_DEFENCE",
+      "이니셔티브 플레이트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TFPLAN_MECHANIC_ACC_A",
+      "이니셔티브 사이트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TFPLAN_MECHANIC_ACC_B",
+      "이니셔티브 카메라"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TFPLAN_SOLDIER_WEAPON",
+      "이니셔티브 라이플"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TFPLAN_SOLDIER_DEFENCE",
+      "이니셔티브 슈츠"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TFPLAN_SOLDIER_ACC_A",
+      "이니셔티브 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_TFPLAN_SOLDIER_ACC_B",
+      "이니셔티브 버디"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_561141_PACKAGE",
+      "메이즈 핸즈 타입S"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DEFENCE_561241_PACKAGE",
+      "메이즈 케이스 타입S"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_561341_PACKAGE",
+      "메이즈 크라운 타입S"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_2161141",
+      "스위프트 렐릭 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DFFENCE_2161241",
+      "스위프트 렐릭 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_2161341",
+      "스위프트 렐릭 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_2161441",
+      "스위프트 렐릭 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_2162141",
+      "스위프트 렐릭 셀"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DFFENCE_2162241",
+      "스위프트 렐릭 플레이트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_2162341",
+      "스위프트 렐릭 모듈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_2162441",
+      "스위프트 렐릭 디텍터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_2163141",
+      "스위프트 렐릭 라이플"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DFFENCE_2163241",
+      "스위프트 렐릭 슈츠"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_2163341",
+      "스위프트 렐릭 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_2163441",
+      "스위프트 렐릭 스켈레톤"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_2461141",
+      "인히비터 렐릭 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DFFENCE_2461241",
+      "인히비터 렐릭 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_2461341",
+      "인히비터 렐릭 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_2461342",
+      "인히비터 렐릭 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_2462141",
+      "인히비터 렐릭 셀"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DFFENCE_2462241",
+      "인히비터 렐릭 플레이트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_2462341",
+      "인히비터 렐릭 모듈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_2462342",
+      "인히비터 렐릭 디텍터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_2463141",
+      "인히비터 렐릭 라이플"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DFFENCE_2463241",
+      "인히비터 렐릭 슈츠"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_2463341",
+      "인히비터 렐릭 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_2463342",
+      "인히비터 렐릭 스켈레톤"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_2361141",
+      "브리트라 렐릭 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DFFENCE_2361241",
+      "브리트라 렐릭 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_2361341",
+      "브리트라 렐릭 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_2361342",
+      "브리트라 렐릭 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_2362141",
+      "브리트라 렐릭 셀"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DFFENCE_2362241",
+      "브리트라 렐릭 플레이트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_2362341",
+      "브리트라 렐릭 모듈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_2362342",
+      "브리트라 렐릭 디텍터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_2363141",
+      "브리트라 렐릭 라이플"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DFFENCE_2363241",
+      "브리트라 렐릭 슈츠"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_2363341",
+      "브리트라 렐릭 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_2363342",
+      "브리트라 렐릭 스켈레톤"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_2561141",
+      "레거시 와일드 렐릭 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DFFENCE_2561241",
+      "레거시 와일드 렐릭 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_2561341",
+      "레거시 와일드 렐릭 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_2561342",
+      "레거시 와일드 렐릭 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_2563141",
+      "레거시 와일드 렐릭 라이플"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DFFENCE_2563241",
+      "레거시 와일드 렐릭 슈츠"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_2563341",
+      "레거시 와일드 렐릭 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_2563342",
+      "레거시 와일드 렐릭 스켈레톤"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_2562141",
+      "레거시 와일드 렐릭 셀"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DFFENCE_2562241",
+      "레거시 와일드 렐릭 플레이트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_2562341",
+      "레거시 와일드 렐릭 모듈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_2562342",
+      "레거시 와일드 렐릭 디텍터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_2661141",
+      "레거시 플레임 렐릭 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DFFENCE_2661241",
+      "레거시 플레임 렐릭 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_2661341",
+      "레거시 플레임 렐릭 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_2661342",
+      "레거시 플레임 렐릭 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_2663141",
+      "레거시 플레임 렐릭 라이플"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DFFENCE_2663241",
+      "레거시 플레임 렐릭 슈츠"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_2663341",
+      "레거시 플레임 렐릭 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_2663342",
+      "레거시 플레임 렐릭 스켈레톤"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_2662141",
+      "레거시 플레임 렐릭 셀"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DFFENCE_2662241",
+      "레거시 플레임 렐릭 플레이트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_2662341",
+      "레거시 플레임 렐릭 모듈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_2662342",
+      "레거시 플레임 렐릭 디텍터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_2761141",
+      "와일드 렐릭 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DFFENCE_2761241",
+      "와일드 렐릭 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_2761341",
+      "와일드 렐릭 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_2761342",
+      "와일드 렐릭 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_2763141",
+      "와일드 렐릭 라이플"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DFFENCE_2763241",
+      "와일드 렐릭 슈츠"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_2763341",
+      "와일드 렐릭 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_2763342",
+      "와일드 렐릭 스켈레톤"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_2762141",
+      "와일드 렐릭 셀"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DFFENCE_2762241",
+      "와일드 렐릭 플레이트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_2762341",
+      "와일드 렐릭 모듈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_2762342",
+      "와일드 렐릭 디텍터"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_WEAPON_2861141",
+      "플레임 렐릭 핸즈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_DFFENCE_2861241",
+      "플레임 렐릭 케이스"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_2861341",
+      "플레임 렐릭 크라운"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_COUNTER_ACC_2861342",
+      "플레임 렐릭 무브먼트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_WEAPON_2863141",
+      "플레임 렐릭 라이플"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_DFFENCE_2863241",
+      "플레임 렐릭 슈츠"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_2863341",
+      "플레임 렐릭 스코프"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_SOLDIER_ACC_2863342",
+      "플레임 렐릭 스켈레톤"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_WEAPON_2862141",
+      "플레임 렐릭 셀"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_DFFENCE_2862241",
+      "플레임 렐릭 플레이트"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_2862341",
+      "플레임 렐릭 모듈"
+    ],
+    [
+      "SI_ITEM_NAME_IQI_EQUIP_MECHANIC_ACC_2862342",
+      "플레임 렐릭 디텍터"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ENCHANT_MODULE_T1",
+      "장비 강화에 사용시 대량의 장비 경험치를 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ENCHANT_MODULE_T1_CHOCO",
+      "장비 강화에 사용시 대량의 경험치를 획득할 수 있습니다. 빼빼로데이 이벤트 기간에만 획득 가능합니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ENCHANT_MODULE_T7_PURCHASE",
+      "접촉한 물질의 분자구조에 간섭하는 희귀 소재. SSR T7 장비에 사용하여 +7로 강화할 수 있다."
+    ],
+    [
+      "SI_DESC_IQI_EQUIP_TEST_212",
+      "잠재옵션이 항상 MIN 값이 등장합니다."
+    ],
+    [
+      "SI_DESC_IQI_EQUIP_TEST_213",
+      "잠재옵션이 항상 33% 값이 등장합니다."
+    ],
+    [
+      "SI_DESC_IQI_EQUIP_TEST_214",
+      "잠재옵션이 항상 50% 값이 등장합니다."
+    ],
+    [
+      "SI_DESC_IQI_EQUIP_TEST_215",
+      "잠재옵션이 항상 66% 값이 등장합니다."
+    ],
+    [
+      "SI_DESC_IQI_EQUIP_TEST_216",
+      "잠재옵션이 항상 MAX 값이 등장합니다."
+    ],
+    [
+      "SI_DESC_IQI_EQUIP_TEST_217",
+      "각성 사원 딜러 전용 장비 무기입니다."
+    ],
+    [
+      "SI_DESC_IQI_EQUIP_TEST_218",
+      "각성 사원 딜러 전용 장비 방어구입니다."
+    ],
+    [
+      "SI_DESC_IQI_EQUIP_TEST_219",
+      "각성 사원 딜러 전용 장비 보조장비 A입니다."
+    ],
+    [
+      "SI_DESC_IQI_EQUIP_TEST_220",
+      "각성 사원 딜러 전용 장비 보조장비 B입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_01",
+      "업그레이드 테스트 용 장비입니다. 스펙은 임의의 스펙입니다."
+    ],
+    [
+      "SI_DESC_IQI_EQUIP_TEST_221",
+      "각성 사원 체력 전용 장비 무기입니다."
+    ],
+    [
+      "SI_DESC_IQI_EQUIP_TEST_222",
+      "각성 사원 체력 전용 장비 방어구입니다."
+    ],
+    [
+      "SI_DESC_IQI_EQUIP_TEST_223",
+      "각성 사원 체력 전용 장비 보조장비 A입니다."
+    ],
+    [
+      "SI_DESC_IQI_EQUIP_TEST_224",
+      "각성 사원 체력 전용 장비 보조장비 B입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_11",
+      "렐릭 테스트 용 장비입니다. 스펙은 임의의 스펙입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_04",
+      "정수 값 상향이 반영된 메이즈 6티어 장비입니다. 테스트 용 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_07",
+      "정수 값 상향이 반영된 메이즈 7티어 장비입니다. 테스트 용 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_14",
+      "렐릭 테스트 용 장비입니다. 7티어 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_17",
+      "정수 값 상향이 반영된 허밍 6티어 장비입니다. 테스트 용 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_18",
+      "정수 값 상향이 반영된 고르디 6티어 장비입니다. 테스트 용 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_19",
+      "체퍼옵 테스트 용 장비입니다. 6티어 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_20",
+      "2옵션 스킬충전속도 / 공격속도 세트 고정 메이즈 무기 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_21",
+      "2옵션 스킬충전속도 / 공격속도 세트 고정 메이즈 방어구 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_22",
+      "2옵션 스킬충전속도 / 공격속도 세트 고정 메이즈 보조장비A 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_23",
+      "2옵션 스킬충전속도 / 공격속도 세트 고정 메이즈 보조장비B 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_24",
+      "2옵션 스킬충전속도 / 스킬충전속도 세트 고정 메이즈 무기 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_25",
+      "2옵션 스킬충전속도 / 스킬충전속도 세트 고정 메이즈 방어구 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_26",
+      "2옵션 스킬충전속도 / 스킬충전속도 세트 고정 메이즈 보조장비A 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_27",
+      "2옵션 스킬충전속도 / 스킬충전속도 세트 고정 메이즈 보조장비B 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_28",
+      "2옵션 스킬충전속도 / 체력 세트 고정 허밍버드 무기 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_29",
+      "2옵션 스킬충전속도 / 체력 세트 고정 메이즈 방어구 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_30",
+      "2옵션 지상피해감소 / 체력 세트 고정 고르디우스 보조장비A 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_31",
+      "2옵션 지상피해감소 / 체력 세트 고정 고르디우스 보조장비B 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_32",
+      "2옵션 공격속도 / 공격속도 / 공격속도 세트 고정 렐릭 무기 입니다. (지상피해증가)"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_33",
+      "2옵션 공격속도 / 공격속도 / 공격속도 세트 고정 렐릭 방어구 입니다. (지상피해감소)"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_34",
+      "2옵션 공격속도 / 공격속도 / 공격속도 세트 고정 렐릭 보조장비A 입니다. (지상피해증가)"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_35",
+      "2옵션 공격속도 / 공격속도 / 공격속도 세트 고정 렐릭 보조장비B 입니다. (지상피해감소)"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_36",
+      "체력(%) / 스킬충전속도 / 체력 세트 고정 렐릭 무기 입니다. (지상피해증가)"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_37",
+      "체력(%) / 스킬충전속도 / 체력 세트 고정 렐릭 방어구 입니다. (지상피해감소)"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_38",
+      "체력(%) / 스킬충전속도 / 체력 세트 고정 렐릭 보조장비A 입니다. (지상피해증가)"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_39",
+      "체력(%) / 스킬충전속도 / 체력 세트 고정 렐릭 보조장비B 입니다. (지상피해감소)"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_40",
+      "체력(%) / 스킬충전속도 /스킬충전속도 세트 고정 렐릭 무기 입니다. (지상피해증가)"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_41",
+      "체력(%) / 스킬충전속도 /스킬충전속도 세트 고정 렐릭 방어구 입니다. (지상피해감소)"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_42",
+      "체력(%) / 스킬충전속도 /스킬충전속도 세트 고정 렐릭 보조장비A 입니다. (지상피해증가)"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_43",
+      "체력(%) / 스킬충전속도 /스킬충전속도 세트 고정 렐릭 보조장비B 입니다. (지상피해감소)"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_44",
+      "2옵션 스킬충전속도 / 스킬충전 세트 고정 허밍버드 무기 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_45",
+      "2옵션 스킬충전속도 / 스킬충전 세트 고정 메이즈 방어구 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_46",
+      "2옵션 스킬충전속도 / 스킬충전 세트 고정 고르디우스 보조장비A 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TEST_47",
+      "2옵션 스킬충전속도 / 스킬충전 세트 고정 고르디우스 보조장비B 입니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_101001",
+      "오랜 시간 주인의 손에 길든 벨트.\n지나간 시간을 되새기며 결의를 다진다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101002",
+      "늑대의 두상을 조각한 지휘관 휘장.\n상처 입은 짐승은 누구도 막을 수 없다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_101003",
+      "검게 칠해 반사광을 막은 군용 단검.\n상상보다 예리해서 허점을 찌르기 좋다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_101004",
+      "소대원들이 만들어 준 리더의 상징.\n어떤 역경에도 포기하지 않는 책임감을 나타낸다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_101005",
+      "유명 건 스미스가 튜닝한 쌍권총.\n카운터가 집어던져도 작동하는 신뢰성이 장점이다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101006",
+      "첫 의뢰의 보수로 구입한 통신장비.\n보다 빠르게 적의 급소를 포착할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101007",
+      "요정의 마법이 걸린 신기한 탄띠.\n다 쓰기 전에 적이 사라져서 붙은 별명이다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_101008",
+      "<color=#FFCF3B>[스틸레인 : 소총병] 전용장비</color>\n품질만 고집하는 건스미스가 감수한 세기의 역작. 성능이 좋고 비싸서 매 번 챙겨야 하는 단점이 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_101009",
+      "<color=#FFCF3B>[스틸레인 : 방패병] 전용장비</color>\n핵탄두조차 막아낸다는 전신방패. 뛰어난 강도는 물론, 경량화에 성공하여 어린이도 들 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_101014",
+      "<color=#FFCF3B>[스틸레인 : 하운드] 전용장비</color>\n퇴역 함선의 외장을 떼어내서 만든 증가장갑. 오랜 세월동안 고열 플라즈마와 차원계면압력으로 연마되었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_101018",
+      "비스킷 사이에 듬뿍 넣은 머쉬멜로우.\n달콤한 맛은 피폐해진 정신을 가다듬어 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_101040",
+      "전술 관제 능력을 극대화한 모듈. 실시간으로 전황을 분석해서 효율적인 전투 방식을 메인 시스템에 제안한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_101041",
+      "불모의 냉혹한 이면세계도, 아이돌과 함께라면 화려한 무대가 될 수 있습니다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_101042",
+      "평범한 권총처럼 보이지만, 소중한 것을 지켜야 할 때는 불과 벼락을 품는다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101043",
+      "폭죽을 쏘아 올리는 플레어건. 화려한 빛깔로 이목을 집중시키는데 제격이다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_101044",
+      "한 손으로 저격을 하는 것만큼 위태로운 곡예도 없지만, 프로니까요."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101045",
+      "현란한 비트로 전장의 분위기를 고양! 시켜줍니다. 뛰어난 노이즈캔슬링으로 낮잠 때도 유용!"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_101059",
+      "상처 하나 없던 신임장교 시절부터 변함없이 휴대해온 백전노장의 증거."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_101060",
+      "주먹을 휘감는 초자연적 번개로부터 효과적으로 빛을 차단하여 눈부심을 방지한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101061",
+      "지원 부대에게 명령을 하달할 수 있는 전술도구. 델타세븐 전 부대의 채널과 연동된다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101062",
+      "리프 노드를 조작하는 도구로 보이지만, 연방 위성을 해킹할만큼 뛰어난 알고리즘이 내장되어 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_101085",
+      "열 두가지 별의 무구 중 처녀자리의 가호를 빌려 만든 검. 사용자의 의지에 따라 검에 내포된 섬광을 방출시킬 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101087",
+      "열 두가지 별의 무구 중, 물병자리의 가호를 빌려 만든 물병. 무구에서 상처를 치료하거나 생명력을 부여하는 성수를 생성시킬 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_101088",
+      "열 두가지 별의 무구 중 전갈자리의 가호를 빌려 만든 랜스. 무구에 축적시킨 힘을 단숨에 해방시켜 무엇이든 꿰뚫을 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101090",
+      "낡은 커버 안쪽에서 뜨거운 기운이 느껴지는 마도서.\n초월적 존재에게 인정받은 마녀만이 이 책을 펼칠 수 있다고 한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_101091",
+      "베아트릭스 가문에서 대대로 내려온다는 마녀의 로브.\n착용하는 주인이 선호하는 형태로 변한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_101092",
+      "시간의 흐름을 거스를 수 있다고 전해지는 낫.\n그러나 어디까지나 소문일 뿐 실제로 시간을 거스를 수 있는지는 알 수 없다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101093",
+      "실험으로 만들어낸 특제 비약.\n회복의 정수 외에도 온갖 수상한 약물들이 특수 약병에 담겨 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_101098",
+      "거친 아스팔트로부터 머리를 보호해주는 헬멧. 용의자 심문용으로 쓰이기도 한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_101099",
+      "한 번 휘둘러 두 번을 베는 특수한 양방향 검. 필요에 따라선 둘로 쪼갤 수도 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101112",
+      "당주는 미신을 믿어서는 안 된다. 다만 바라는 마음에 있어선 누구보다 자유롭고 싶었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101113",
+      "그날 메마른 영지에 두 꽃이 활짝 피고 졌으나 주인을 찾아 장식하니 생기를 잃지 않았다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101114",
+      "할아버지에게 워치와 함께 물려받은 보호 장구.\n불명의 소재로 만들어져 방패처럼 튼튼하지만 무게감이 없다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_101115",
+      "하야미 가문은 그들의 임무를 집안일이라 칭한다. 그 이름 또한 풍속에서 비롯된 것이다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101116",
+      "카미이즈미를 관리하는 가문의 유서 깊은 상징이지만, 사실 조종하는 데 있어 매개는 중요하지 않다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101117",
+      "고심해서 고른 한 명품 브랜드의 모조품.\n그 가치는 주인이 스스로 만들어 가야 한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101118",
+      "유년기의 기억이 깃들어 있는 단검.\n긍지는 말이 아닌 행동으로만 증명할 수 있다는 사실을 되새기게 한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_101121",
+      "특수 강화탄을 사용할 수 있게 개조된 소총. 신지아가 알파트릭스 이노베이션에 온 뒤 처음 받은 제품이다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101122",
+      "알파트릭스 그룹이 개발한 웨어러블 기기. 알파트릭스 이노베이션의 활동을 촬영, 분석해 데이터 분석에 활용한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_101123",
+      "태양 아래에서 무지개빛으로 반짝이며 파사의 힘이 깃들었다고 하는 대검. 소유자의 주장이라 설득력이 없다. "
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101124",
+      "알파트릭스 그룹 비서실에 지급되는 만년필. 측면에 각인된 \"더 나은 세상을 위해\"라는 문구는 별세한 회장의 말버릇이다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_101125",
+      "과거의 특촬물이 녹화된 비디오 테이프. 전쟁으로 많은 수가 유실되어, 마니아들 사이에서는 부르는 게 값이다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_101135",
+      "선생님은 얼마 못 간다고 했지만, 올챙잇적부터 건강하고 씩씩하게 자라줬던 친구를 추억하며 만든 폰케이스."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_101136",
+      "유명만화 돌격! 브레멘 동물전대에 등장하는 캐릭터 인형. 한정품이며, 용감하고, 무언가의 침자국이 묻어있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_101137",
+      "개인의 취향이 듬뿍 들어간 커스텀 기관단총. 모델명의 숫자는 지금까지 실수로 부숴먹은 횟수를 의미한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_101142",
+      "촬영자만 알아볼 수 있는 빛바랜 사진.\n궁지에 몰려도 활로를 찾아내게 만든다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_101151",
+      "양방향으로 발검할 수 있는 단단한 검집 안에 든 두 개의 소도. 날마다 정성껏 벼려 언제나 예리한 상태를 유지한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101152",
+      "유명만화 강습! 브레멘 동물전대에 등장하는 잠꾸러기 캐릭터 인형 겸 베개. 한정판 반실물 사이즈로, J.O.U.R과 함께 늘 이디스의 곁을 지키고 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101181",
+      "마술사가 원하는 ‘거의 모든 것’을 꺼낼 수 있는 마술 모자. 시전자의 의지에 따라 주로 사람을 행복하게 만들어주는 것들이 등장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_101182",
+      "기어 세포를 억제하는 헤드기어.\n인간의 모습을 유지하기 위해 스스로 개발했다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_101183",
+      "메이가 한 팔로 가볍게 휘두르는 닻. 착한 아이도 나쁜 아이도 따라하면 안 된다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_101184",
+      "호기심이 고양이를 죽인다고 적힌 브로치. 내력은 불명이지만 취향인 듯하다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101185",
+      "사역마 루시페로가 분리된 형태. 전투 중 대검을 물고 다니며 싸움을 돕는다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_101186",
+      "마녀가 애용하는 일렉트릭 기타. 현란한 연주도 정확하게 반영한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_101187",
+      "불길 속에서도 포텐셜을 끌어 올려주는 인공 다리.\n딱히 효율성은 고려되지 않다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_101188",
+      "폭발형 추진기관을 가진 무기.\n구형 모델이지만 파괴력은 무시 못한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_101190",
+      "투사 계산식을 실시간으로 재정립하여 화력 집중도를 끌어올린다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_111190",
+      "적의 무기 성질을 분석해 공격에 효율적으로 저항한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_121190",
+      "공진 능력을 한 단계 끌어올려, 전류를 빠르게 수집한다. "
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_101157",
+      "사내의 포부와 화포는 클수록 좋다는 류드밀라의 신념에 따라 든든하게 곁을 지켜주는 원격 조종 함포"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101158",
+      "워치에서 생성된 강화외골격. 근접 전투에 특화된 장비이며, 소유자의 결의가 담겨있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_101063",
+      "존경하는 스승에 대한 헌사의 의미가 담긴 리액티브 소드. 대검의 이름을 아토믹 힐데로 하려다가 기합 받은 후 수정했다고 전해진다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_101064",
+      "나유빈의 능력과 최강의 시너지를 내는 총. 군더더기 없이 깔끔한 디자인은 소유자의 성격을 닮았다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_101068",
+      "보병전차 이프리트의 주 무기인 4문의 기관포. 구 관리국의 기술력으로 불의 화신 이프리트가 살아온 것 같은 화력을 내뿜는다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_101069",
+      "전설 속 괴물 타라스크의 갑각을 모티브로 만든 강화 코팅 장갑. 구 관리국의 기술력이 더해져 쉽게 뚫리지 않는 견고함을 자랑한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_101170",
+      "구 관리국 최종 방어 병기로 만들어진 반응 장갑. 고도의 형상기억합금 기술로 변형에 대한 금속 피로 문제를 해결하였다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_101096",
+      "이미 부서져서 제 가치를 상실한 물건이지만, 어쩌면 총알 한 발쯤 막아주겠거니 믿으며 항상 지니고 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_101097",
+      "매의 발톱을 형상화한 호크빌 나이프. 원하는 것은 무엇이든 낚아챈다. 그것이 돈이든, 물건이든, 설령 목숨이든간에."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_101145",
+      "토미가 아끼는 헬멧. 본인 주장에 따르면 무시무시한 4종 침식체의 발톱을 4번이나 막아주었다고 한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_JOO_SHI_YOON_AP_WEAPON",
+      "적당히 관리하는 것 같지만, 매섭게 날이 선 장도.\n싸움으로 벼려진 도신은 찰나의 순간, 공간마저 돌파한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_DELTA_KYLE_AP_ACC",
+      "전장에서도 휴대할 수 있는 전천후 컴퓨터.\n상관으로부터 물려받은 긴급 작전 코드가 입력되어 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_101179",
+      "사무실 냉장고에 보관해 두던 리타 전용의 술병.\n호라이즌이 윤활유 보관용으로 쓰려다 퇴짜를 맞은 적이 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_101180",
+      "바람을 잡아채는 대낫. 워치의 능력으로 대시가 원할 때 나타났다가 사라진다.\n압류 딱지가 계속 붙어 있던 이유는 의문이다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_101196",
+      "현장에 찾아가 채무자를 격려해 주는 신참 변호사.\n30년 넘게 가정집 배관시설의 중심을 맡다가 제 2의 인생을 살고 있다고. "
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_FALLEN_YUMA_DEFENCE",
+      "싸울 땐 거추장스럽긴 하지만, 한때는 가장 중요하게 여기던 물건.\n일족의 어금니로서 마지막까지 짊어져야 하는 책임이다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_FALLEN_DOMA_ACC",
+      "더는 현실에 존재하지 않는 붉은달의 월석으로 만든 반지.\n마지막까지 일족의 송곳니로서 남아야 할 이유를 기억하고 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_FALLEN_ROSARIA_ACC",
+      "그것이 어떤 기능과 역할을 하는진 알 수 없다.\n지금은 대부분의 시간을 그 위에서 보내고 있다는 것만은 확실하다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_VATICAN_BENEDICT_ACC",
+      "미지의 힘이 감싸고 있는 성서. 함부로 만졌다가는 잠시 동안 몸이 마비된다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_VATICAN_CINDY_WEAPON",
+      "훌륭한 대화수단이지만, 일방적으로 자기 주장만 떠들어대기 때문에 배려심이 부족하다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_VATICAN_CLOUDIA_DEFENCE",
+      "심의회에서 전해지는 전투복. 축성을 받은 예복이기에, 위험한 성무에 투입되는 인원에게만 주어진다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_BAR_C_CEO_ACC",
+      "과거 시절, 미래를 엿본다고 알려졌던 라미아의 수정구슬. 그 진위는 그녀의 계약자들만이 알고 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_BAR_S_BARTENDER_WEAPON",
+      "성스러운 은혜를 입었다고 전해지는 무기. 아직까진 한 번도 빗맞힌 적이 없다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_VATICAN_BOOK_WEAPON",
+      "심의회가 맞닥뜨릴 수 있는 여러 상황의 대처법을 정리한 매뉴얼. 두꺼운 책이고 재고가 넉넉해서 비블리데 루체의 능력을 발휘하는 촉매로 사용된다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_GEASS_MA_SEITEN_ACC",
+      "홍련을 기동하는 열쇠.\n흑의 기사단의 에이스로서 그녀의 실력을 인정한 제로가 직접 넘겨주었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_GEASS_C_LELOUCH_ACC",
+      "체스의 킹을 형상화한 풀페이스 가면.\n제로의 심볼이자, 그 정체를 완벽히 감춰주는 도구다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_GEASS_M_LANCELOT_DEFENCE",
+      "브리타니아의 구속복.\n를르슈와 처음 만났을 때 입고있던 옷이다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MAID_S_LEADER_ACC",
+      "부속품을 탈부착하면서 다양한 용도로 활용하는 군용 벨트. 단독 행동이 잦은 베로니카의 유능한 조수로, 가끔 티 인퓨저도 걸려 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MAID_C_SPEAR_WEAPON",
+      "진동에 내성이 강한 합금으로 제작된 근접전용 병기. 강도와 인성 모두 높아 적에게 매운 맛을 보여 준다. 창대에 걸린 리본은 주인의 취향."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MAID_C_TONFA_WEAPON",
+      "총기가 내장된 톤파. 베로니카가 호신용으로 선물해 준 물건이다. 어떤 세탁물이라도 여기에 걸리면 뽀송뽀송해지고 만다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MAID_C_MASK_DEFENCE",
+      "숙면 담당 메이드들의 방독면. 생화학전에서 절대적인 방호력을 발휘한다. 리코리스가 만든 요리의 냄새에도 대응 가능한지는 미지수."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ESPR_SHADOW_ACC",
+      "유리가 아닌 수수께끼의 소재를 연마해 만든 단안경. 다른 세계를 들여다보는 힘이 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ESPR_PILE_WEAPON",
+      "벽사의 효험이 있는 엄선된 주술들로 마감한 고유 무장. 이미 원형은 파악하기 어렵다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ESPR_FROZEN_ACC",
+      "맥크레디 가문에 전해져 내려오는 워치. 처음 그 힘을 손에 쥐었던 자는 무엇을 바랐는지, 이제는 알 수 없다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_KNIGHT_C_HOLY_WEAPON",
+      "죽은 자를 되살릴 수 있다고 알려진 교단의 성물.\n오래 전부터 성녀의 징표로 전해져 내려왔기에, 백성들에게는 희망과도 같았다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_KNIGHT_C_FLAG_WEAPON",
+      "가문의 문장이 그려진 깃발.\n샬롯은 늘 선봉에 설 때 이 깃발을 지니고 다녔다.\n적진 한복판에서도 힘차게 휘날리던 깃발은 병사들에게 용기를 심어 줬다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_KNIGHT_C_EMPEROR_WEAPON",
+      "용의 비늘로 주조해서 만들었다고 전해지는 대검.\n황실의 힘과 정통성을 나타내는 징표였다.\n귀족이라면 이 앞에 무릎 꿇고 충성을 맹세할 수밖에 없었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_JUNIOR_C_POLEARM_WEAPON",
+      "그 주인의 성장환경에 따라 함께 변화하는 커다란 무기. 휘두르면 위협적이지만, 사용자가 가진 능력을 촉진시키는 역할도 한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CANARY_S_SHIELD_WEAPON",
+      "복잡한 구조의 바디 벙커. 다양한 구조물을 덧붙여 방호력을 보강한 것으로 보인다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CANARY_S_ASSAULT_ACC",
+      "라이카가 사용하는 다용도 군용 대검. 오랜 하수도 생활에도 녹슬지 않고 주인과 함께해 왔다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_GUILTY_CA_JACKO_WEAPON",
+      "잭 오가 쓰는 가면.\n얼굴을 가리기 위해서가 아니라, 감정 변화를 제어하기 위해 사용하고 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_DANMACHI_C_RYU_WEAPON",
+      "대성수의 가지로 만들어낸 목검. 높은 마력 융화성을 지녀 지팡이로도 활용 가능하다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_DANMACHI_CA_AIS_WEAPON",
+      "상급 대장장이가 만들어낸 은색 광택의 세검. 높은 출력을 견뎌내도록 만들어진 듀란달의 특수무장이다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_DANMACHI_C_BELL_WEAPON",
+      "헤스티아의 은혜를 내려받은 모험가와 함께 성장하는 나이프. 단원을 사랑하는 주신의 마음이 담겨 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ADMIN_CA_BIRDCAGE_WEAPON",
+      "새장 형태의 워치. 안에 피어난 식물의 상태는 사용자의 생명력을 반영한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ADMIN_CA_BIRDCAGE_DEFENCE",
+      "그녀가 맞이한 탄생일의 상징. 소중한 기억이 담긴 소중한 사람의 선물."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ADMIN_CA_BIRDCAGE_ACC_A",
+      "아름다운 것을 만드는 법을 배우던 시절의 것. 안에는 바느질 도구가 들어 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ADMIN_CA_BIRDCAGE_ACC_B",
+      "한때는 누군가의 워치였던 물건. 정원 밖 현실에선 아무 기능도 하지 않는다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ESPR_CA_SHADOW_WEAPON",
+      "클리파 허수 에너지로 구성된 정보 집합체. 모체는 때때로 이들에게 이름을 붙여주곤 한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ESPR_CA_SHADOW_DEFENCE",
+      "특별한 성찬을 위해, 준비한 검은 드레스.\n이 세상에 존재하지 않는 재질로 구성되어 있으며, 디자인은 모체의 취향이 반영되었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ESPR_CA_SHADOW_ACC_A",
+      "모체가 소녀와의 만남을 위해, 특별히 준비한 꽃. 어느 쪽이든, 그 바람은 틀림없이 이루어졌다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ESPR_CA_SHADOW_ACC_B",
+      "한 소녀가 마지막까지 품에 간직하고 있던 인형. 낡고 해져 버렸지만, 모체는 이 인형을 버리지 않았다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ESPR_CA_BLUE_WEAPON",
+      "수도원 깊숙한 곳에 보관되어 있던 모닝스타. 이 세상에 존재하지 않는 물질로 만들어졌다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ESPR_CA_BLUE_DEFENCE",
+      "발렌티누스 수도원의 파수꾼들이 입던 옷. 각종 주술이 착용자를 보호한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ESPR_CA_BLUE_ACC_A",
+      "수도원의 파수꾼들에게 주어졌던 장식. 침입자를 감지하면 밝게 빛난다.  "
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ESPR_CA_BLUE_ACC_B",
+      "성경처럼 보이지만 주식에 대해 다룬 책. 책의 저자는 사기꾼으로 판명되었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_YOO_MI_NA_WEAPON",
+      "시련을 통해 성장하는 검. 사용자의 특수 인자를 시동의 매개로 삼아 검에 담긴 기억과 힘을 개방한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_YOO_MI_NA_DEFENCE",
+      "불완전한 힘을 조율하는 방호복. 원자 단위로 분해되어 탈착이 용이하다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_YOO_MI_NA_ACC_A",
+      "작전 중 필요한 물품을 보관한 파우치. 혹시 모를 상황에 대비해 동전지갑도 수납되어 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_YOO_MI_NA_ACC_B",
+      "언니의 소지품을 정리하던 중 얻게 된 워치. 이것을 얻게 된 기점으로 누군가의 시간이 멈추고, 누군가의 이야기가 시작되었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_HILDE_WEAPON",
+      "운명과 숙명을 구속하는 한 쌍의 검. 각각 그람과 발뭉이라 불린다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_HILDE_DEFENCE",
+      "소대장의 체형에 맞춰 개량된 펜릴 소대의 제복. 배반당한 짐승은 누구도 막을 수 없다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_HILDE_ACC_A",
+      "레긴과 파프닐이라 불리는 한 쌍의 특수 장비. 두 개체는 각각 가속과 방출 기능을 분담한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_HILDE_ACC_B",
+      "불완전한 힘을 조율하는 모듈. 버스터 코어에 반응하여 사용자의 힘을 증폭시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_FENRIR_CA_INTERN_WEAPON",
+      "세피라의 능력으로 재구성한 한 쌍의 바즈라. 성간 연합의 기술을 완전히 재현하였으며, 번개보다 빠르게 적을 섬멸한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_FENRIR_CA_INTERN_DEFENCE",
+      "천사님의 날개를 본 떠 만든 자세 제어 시스템. 자체적인 항법 보조 인터페이스와 아베스타 드라이브의 재현으로 안정적인 비행을 선보인다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_FENRIR_CA_INTERN_ACC_A",
+      "샌들 형태의 보조 자세 제어 장치. 아직은 미숙한 사용자를 보조하지만, 이따금 제멋대로 혼자 날아가 버려서 맨발로 돌아온 적도 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_FENRIR_CA_INTERN_ACC_B",
+      "이것만 있으면, 당신도 펜릴 소대! 누군가에게는 잡동사니처럼 보일지 몰라도 다시는 구할 수 없는 소중한 물건이다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_STREGA_YOO_NA_WEAPON",
+      "할머니에게 물려받은 지팡이. 솔라 코덱스의 힘을 개방할 때 그 진정한 모습을 드러낸다. 화기 엄금!"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_STREGA_YOO_NA_DEFENCE",
+      "불사조 깃털과 대마녀의 주술로 만들어진 의복. 불이 붙어도 타지 않아 요리 연습할 때 유용하지만 레일리에게 걸리면 혼난다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_STREGA_YOO_NA_ACC_A",
+      "솔라 코덱스의 불길을 견딜 수 있게 해주는 대마녀의 도구. 충분한 자격이 없다면 이것의 도움을 받더라도 불길을 견디지 못한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_STREGA_YOO_NA_ACC_B",
+      "마녀의 보물. 영원히 꺼지지 않는 꿈결의 불씨를 한 대마녀가 이 책에 봉인했다고 전해진다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ALT_CA_SEO_YOON_WEAPON",
+      "불안정한 형태의 창. 특수한 인자에 반응하는 것 외엔 둔기 그 이상의 효력을 내지 못한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ALT_CA_SEO_YOON_DEFENCE",
+      "빛을 왜곡하는 망토. 물리적인 방호력은 없지만, 상대하는 입장에선 착용자보다 주변을 떠도는 무기가 먼저 보이게 된다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ALT_CA_SEO_YOON_ACC_A",
+      "내구성이 뛰어난 서윤의 커스텀 소총. 이중 안전장치가 총기 내부에 걸려 있어 그녀의 허락 없이는 사용할 수 없다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ALT_CA_SEO_YOON_ACC_B",
+      "두 번 다신 없을 라이벌과의 대결 당시, 최전선에서 활약했던 무기. 특별 관리 대상이다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ZODIAC_CA_CHARLOTTE_WEAPON",
+      "인도자의 조율 아래 밤하늘에 새겨진 온전한 형태의 별의 무구. 사용자가 다룬 처녀자리의 검으로부터 비롯된 형상이며, 그녀의 이상을 구현한 형태이기도 하다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ZODIAC_CA_CHARLOTTE_DEFENCE",
+      "아르카데나 제국에 내려온 별의 무구. 공허한 밤하늘은 열두 별빛을 품어 구원자를 위한 빛을 되찾았다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ZODIAC_CA_CHARLOTTE_ACC_A",
+      "처녀자리의 쌍성으로부터 비롯된 별의 무구. 검과 하나였던 도신의 일부가 방패의 형상을 띄었으며, 별빛을 통해 하나의 검으로 되돌리는 것도 가능하다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ZODIAC_CA_CHARLOTTE_ACC_B",
+      "버밍엄 백작가에 전해져 오는 고유무장. 대대로 담긴 인도자의 별빛으로 사용자를 죽음으로부터 구원한다. 별빛을 통해 크기와 형태를 자유롭게 조절할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CORRUPTED_CA_MINISTRA_WEAPON",
+      "그림자의 손으로 다시 만들어진 날카로운 강철. 그것에 의한 모든 고통과 비명은 재조립을 위한 과정이다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CORRUPTED_CA_MINISTRA_DEFENCE",
+      "대부분은 무언가를 가두기 위해 사슬을 사용하지만, 그녀의 감정은 이것에 갇히고 말았다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CORRUPTED_CA_MINISTRA_ACC_A",
+      "그 마음은 오염되고 벼려져 텅 빈 자리에 박제되었다. 누군가에 의해."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CORRUPTED_CA_MINISTRA_ACC_B",
+      "가문을 위해 전부 바쳤지만 거기엔 공허함만이 남았다. 누구에게도 말하지 않은 그리움과 함께."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_C_SIXWING_LEE_JISOO_WEAPON",
+      "짐승의 하얀 밤을 베어낸 검. 만일을 위해 두 자루가 만들어졌으나, 다른 하나의 행방에 대해선 알려진 것이 없다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_C_SIXWING_LEE_JISOO_DEFENCE",
+      "한 과학자가 두 번째 만남에서 준 외투. 시작은 다른 누군가의 의지였으나, 마지막은 자신의 뜻으로 매듭짓기로 했다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_C_SIXWING_LEE_JISOO_ACC_A",
+      "감추기 위함이 아닌 보아선 안되기에 사용한 것. 통달하지 못한 그 눈에는 보여선 안될 것이 보이고 만다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_C_SIXWING_LEE_JISOO_ACC_B",
+      "보여선 안될 것으로부터 아득해진 정신을 일깨워주는 물건. 언제부턴가 품에 가지고 다닌다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_JOO_SHI_YOON_WEAPON",
+      "옛 짐승의 신체 일부를 벼려 만든 무기. 억제된 힘을 해방하려면 특별한 저주가 필요하다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_JOO_SHI_YOON_DEFENCE",
+      "한때는 운명으로부터 숨기 위한 도구였으나, 지금은 그 운명을 받아들이는 그릇이 되었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_JOO_SHI_YOON_ACC_A",
+      "짐승에 맞서는 옛 검사의 발명품. 공간을 접어 가르는 검술에 특화되어 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_JOO_SHI_YOON_ACC_B",
+      "옛 칼집을 대신해 용혈을 완벽히 통제할 목적으로 기술자 주한이 만든 검집 형태의 구속 도구. 첫 번째 주인이 되었어야 할 사람은 이것이 완성될 무렵, 이미 용혈에 잠식되고 말았다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ADMIN_CA_CLOUD_WEAPON",
+      "한 차례 부러졌으나, 인과를 거슬러 스스로 자라났다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ADMIN_CA_CLOUD_DEFENCE",
+      "번뇌에 사로잡히지 않기 위해 마음을 다스린다. 어머니로부터 물려받은 그 옷은 큰 도움이 되었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ADMIN_CA_CLOUD_ACC_A",
+      "아름다움 위의 아름다움, 구름에 걸린 그 꽃을 누가 마다하랴."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ADMIN_CA_CLOUD_ACC_B",
+      "아뢰야식에 잠재된 과거의 이름 중 하나. 옛 그녀들이 좋아했던 것들을 몸에 장식하여 기린다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ESPR_CA_FROZEN_WEAPON",
+      "불경한 지식으로부터 비롯된 죄책감의 산물. 그녀가 끌어안아야 할 죄의 원천.\n가문의 후계자이자 초월지식 학회의 학회장으로서 그녀는 모든 것을 쥐고 올곧게 나아간다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ESPR_CA_FROZEN_DEFENCE",
+      "죽은 자의 영혼을 수놓은 예복. 그 어떤 지식보다 감미로운 존재를 위해 마련되었으며, 현상에 한없이 가까운 존재를 만들고자 하는 열망이 담겨 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ESPR_CA_FROZEN_ACC_A",
+      "맥크레디 가문에 전해져 내려오는 워치. 갈 길 잃은 사용자의 바람은 냉철한 이성과 함께 뜻을 되찾았다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ESPR_CA_FROZEN_ACC_B",
+      "한 소녀가 건넨 열매 가득했던 바구니. 내용물은 추억과 함께 사라졌으나, 바구니를 건넨 온기는 여전히 그곳에 남아있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_ADMIN_LEE_SUYEON_WEAPON",
+      "아스널 윙과 연계하여, 사용자의 CRF를 장거리까지 방출하는 리액티브 소드의 전개 형태. 철없던 시절과는 검을 쥐는 각오가 다르다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_ADMIN_LEE_SUYEON_DEFENCE",
+      "코핀 부사장을 위해, 특별 제작된 전술예장. 어릴 적 옷을 입고 그때의 기분을 느껴보라는 숨은 의도를, 당사자는 애써 무시하고 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_ADMIN_LEE_SUYEON_ACC_A",
+      "초고속 비행과 디펜시브 패널 사출이 가능한 공방일체의 고유무장. 리액티브 소드와 접속시켜, 전성기 이상의 화력을 발휘한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_CA_ADMIN_LEE_SUYEON_ACC_B",
+      "과거의 상처를 가리는 안대. 돌이킬 수 없는 과오가 있었기에, 지금의 자신이 있다는 것을 언제나 가슴속에 새기고 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_REPLACER_CA_QUEEN_WEAPON",
+      "사용자의 의사로 CRF를 흡수 및 방출하는 장비. 리플레이서 신디케이트의 기술로 특수한 인자에도 반응하도록 조정되었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_REPLACER_CA_QUEEN_DEFENCE",
+      "고등급 카운터를 위해, 구 관리국 기술로 제작된 전술 예장. 파격적인 디자인이지만, 카운터의 내성과 CRF 제어력을 크게 향상시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_REPLACER_CA_QUEEN_ACC_A",
+      "특수한 인자를 발현한 이들에게 나타나는 빛의 띠. 미약한 힘이지만, 비교적 안정된 고리 형태를 이루고 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_REPLACER_CA_QUEEN_ACC_B",
+      "합중국 전략 특수전 사령부의 초창기 부대 마크. 비록 형태가 달라졌을지라도, 충의의 대상은 처음부터 달라지지 않았다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ALPHA_CA_JIA_WEAPON",
+      "입자화된 CRF가 형상화한 초입방체 큐브. 관측되지 않은 큐브 속에는 더 나은 미래를 향한 무한한 가능성이 잠들어 있을지도 모른다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ALPHA_CA_JIA_DEFENCE",
+      "알파트릭스 이노베이션의 제복을 CRF로 재구성한 드레스. 그 형태는 그녀가 날개를 펼 수 있도록, 이끌어 준 사람을 기쁘게 하기 위한 순수한 마음이 담겨있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ALPHA_CA_JIA_ACC_A",
+      "입자화된 CRF를 날개 형태로 발현하고 있는 형태. 나비 날개의 형상으로 방출하여 CRF 소모량이 극심하지만, 그 만큼 광범위한 현실을 단숨에 개변할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ALPHA_CA_JIA_ACC_B",
+      "할아버지께서 어린 그녀에게 준 첫 생일 선물. 기억을 되찾고 모든 진실을 알게 된 후에도 더 나은 미래를 위해, 그녀는 이 리본을 소중하게 간직하고 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ESPR_CA_KNIGHT_WEAPON",
+      "한때 왕을 지키는 방패로부터 뻗어 나온 사슬. 사용자의 운명과 결속되어 제약은 사라졌으나, 목숨을 바쳐 지켜야 할 왕은 이제 없으니. 기사의 명예는 호수에 의해 더럽혀졌다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ESPR_CA_KNIGHT_DEFENCE",
+      "지식의 호수에 의해서 클리파 허수 에너지로 재구성된 예장. 기억의 잔해로부터 환원된 검은 정장은 그를 새로운 주인으로 섬기며, 기꺼이 그를 위한 칠흑의 갑옷이 되었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ESPR_CA_KNIGHT_ACC_A",
+      "누군가를 지키기 위해서 많은 것을 결단했지만, 정작 그는 어떠한 것도 지켜내지 못했다. 그의 선택 끝에 남은 것은 오직 후회뿐이었으니."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ESPR_CA_KNIGHT_ACC_B",
+      "이제는 사라져 버린 어느 기관의 인장. 반지는 빛이 바랬고, 심볼은 그 의미를 상실했으나 인장의 가호는 여전히 배반자인 그를 수호하고 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_C_SIXWING_NA_YUBIN_WEAPON",
+      "카운터를 위한 관리국 제식 화기. 넘치는 힘보단 정교한 조율이 우선시된다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_C_SIXWING_NA_YUBIN_DEFENCE",
+      "타고난 운명이 없었더라면, 이것이 진짜 삶이 되었을지도 모른다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_C_SIXWING_NA_YUBIN_ACC_A",
+      "모든 걸 끝내는 재앙이자, 모든 게 시작된 계기."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_C_SIXWING_NA_YUBIN_ACC_B",
+      "처음부터 낯설지 않았다. 그것은 어느 날 갑자기 주어진 것이 아니었기에."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SIXWING_CA_ACTOR_WEAPON",
+      "어디서나 흔히 볼 수 있는, 평범해 보이는 우산. 비가 오지 않는 날에도 항상 가지고 다니기에 어느새 그녀만의 심볼이 되었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SIXWING_CA_ACTOR_DEFENCE",
+      "샤레이드를 대표하는 배우가 고집하는 순백의 무대 의상. 노출이 상당한 편이지만, 무대 위 새하얀 백조는 한 점 부끄러움이 없다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SIXWING_CA_ACTOR_ACC_A",
+      "기억 속 대상의 겉모습을 모방하는 아티팩트, 파노라마의 파편. 클리파 허수 에너지를 통해, 비로소 완전한 실체를 투영할 수 있게 되었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SIXWING_CA_ACTOR_ACC_B",
+      "빛바랜 사진이 담긴 캐비닛 카드. 사진 속 소녀의 미소는 삶에서 가장 후회하는 순간이자, 언젠가 반드시 마주하게 될 노스텔지어의 흔적."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_JAPAN_CA_SENHIME_WEAPON",
+      "두려워 할 죽음이 없는 무사가 소지한 한 쌍의 검. 영혼을 베어 존재 자체에 간섭한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_JAPAN_CA_SENHIME_DEFENCE",
+      "명부신의 힘을 받아들인 자를 위해 개량된 옷. 몸에서 뿜어져 나오는 열기를 빠르게 방출하기 위해 특수 제작되었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_JAPAN_CA_SENHIME_ACC_A",
+      "무사는 자신과 닮은 한 떨기 꽃이 떨어진 후에야 비로소 무엇을 두려워했는지 깨달았다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_JAPAN_CA_SENHIME_ACC_B",
+      "결계를 지키기 위해 신의 혼으로 빚은 옥. 안에 깃든 명부신의 영혼 일부는 올바른 그릇에게 스며들었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_FENRIR_CA_HILDE_PR_WEAPON",
+      "두 개의 검, 운명과 숙명을 구속하던 힘이 역전되어 하나 된 형태."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_FENRIR_CA_HILDE_PR_DEFENCE",
+      "위대한 전사는 죽어서도 새로운 전장에서 깨어난다. 그것이 저주임을 그땐 깨닫지 못했다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_FENRIR_CA_HILDE_PR_ACC_A",
+      "세상이라는 알을 깨고, 그 굴레에서 벗어나는 의례의 관. 그것을 쓰자 처음으로 날개라는 것을 얻었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_FENRIR_CA_HILDE_PR_ACC_B",
+      "한때 태양처럼 우러르던 존재와 나눈 장식. 언젠가 청산해야 할 질긴 매듭."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_RAS_MA_TOWER_PR_WEAPON",
+      "친구들을 지키기 위해선 무지 커다란 손이 필요해! 그리고… 이거 빔도 나간다?"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_RAS_MA_TOWER_PR_DEFENCE",
+      "아빠가 날 위해 업데이트 해준 프로토콜이야! 전기를 무지막지하게 사용하지만, 이것만 있으면 나는 강하고 멋진 딸이 될 수 있어!"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_RAS_MA_TOWER_PR_ACC_A",
+      "시그마의 연산을 도와주는 크리켓이라고 해. 실시간 질량 변환, 원근감 조절… 아무튼 시그마를 많이 도와주고 있어!"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_RAS_MA_TOWER_PR_ACC_B",
+      "동화가 사실이냐, 거짓이냐는 중요하지 않아! 행복한 이야기는 믿는 것만으로 행복해지기 때문이야!"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_DELTA_CA_JAKE_WEAPON",
+      "착용자의 힘을 축적해 전기장 형태로 방출하는 테크레벨 5 장비. 주체할 수 없는 폭풍은 비로소 방향을 잡고 앞으로 나아간다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_DELTA_CA_JAKE_DEFENCE",
+      "카운터의 CRF를 제어하기 위해 고안된 정복. 폭풍 그 자체나 다름없던 남자는 자신을 태우지 않고도 싸울 수 있게 되었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_DELTA_CA_JAKE_ACC_A",
+      "제아무리 번쩍이는 번개일지라도, 이것만 있다면 눈이 멀 일은 없다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_DELTA_CA_JAKE_ACC_B",
+      "용서할 필요가 없었던, 그렇기에 용서할 수 없었던 아버지의 일지. 그가 못다 한 일은, 오늘도 번개와 함께 이어지고 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ADMIN_CA_CAT_WEAPON",
+      "야크샤의 왕이 아니라면 길들일 수 없는 고유 무장. 동포를 지키고자 하는 마음과 결의만이 사자의 발톱을 꺼낼 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ADMIN_CA_CAT_DEFENCE",
+      "한 걸음, 1초라도 더 빨리 움직여 모두를 구하기 위해 고안된 전술예장. 공간 도약 시 발생하는 부하에 강한 내성을 지니고 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ADMIN_CA_CAT_ACC_A",
+      "침식파를 흡수해 동력으로 환원하는 아베스타 드라이브를 소형화한 장비. 인간의 육체로 감당하기엔 부적절하지만, 사람을 구하고자 하는 마음이 그 한계를 극복해 냈다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ADMIN_CA_CAT_ACC_B",
+      "길고양이에게 가족이 되었다는 뜻으로 묶어준 리본. 길을 잃더라도 금방 집을 찾을 수 있기를 바라는 마음을 담고 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_VARUNA_CA_CHAKRAM_WEAPON",
+      "통제되지 않는 힘을 제어하기 위해 제작된 고유 무장. 항상 혼자였던 그녀는 비로소 소중한 이들과 함께할 수 있었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_VARUNA_CA_CHAKRAM_DEFENCE",
+      "이면 세계의 변화무쌍한 환경에 대응하기 위해 고안된 전술예장. 덕분에 그녀의 전대는 어디서든 특이 침식체를 상대할 수 있었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_VARUNA_CA_CHAKRAM_ACC_A",
+      "오래전, 이름도 없이 사막을 떠돌던 소녀가 이름과 함께 선물 받은 것. 삶의 목적을 부여한 원동력이자 자신을 정의해 준 소중한 물건."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_VARUNA_CA_CHAKRAM_ACC_B",
+      "누군가의 CRF 파장을 기록해 둔 나침반. 전대원들은 어떤 어둠이 닥쳐와도 나침반을 통해 길을 찾을 수 있었다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ANAPLS_CA_SCYTHE_WEAPON",
+      "단 한 번의 수확을 위해 벼려진, 황금나무의 가장 오래된 가지."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ANAPLS_CA_SCYTHE_DEFENCE",
+      "그 어둠은 종말인 동시에 새로운 계절의 시작을 알리는 불꽃이 되리라."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ANAPLS_CA_SCYTHE_ACC_A",
+      "황금나무가 마지막 계절에 피워낸 그 꽃은 운명을 끊어내며 사사로이 기적을 이룬다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_ANAPLS_CA_SCYTHE_ACC_B",
+      "낙원의 아이들은 꽃 한 송이씩을 따다 엮어 그녀가 깨어날 무렵에 선물한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_863241",
+      "아이언 테일러는 사용자의 안전과 미학을 모두 중요하게 생각합니다. 천연소재만을 사용하기 때문에 재활용도 문제 없습니다.\nTHE POWER BEHIND BELLEZA"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_862341",
+      "당신보다 뛰어난 인공지능이 있는데 어째서 아직도 직접 하시나요? 전차부터 잔디깎이까지. 이제 프로핏 인더스트리에게 맡기십시오.\nALL FOR ONE, ONE FOR ALL"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_861241",
+      "카운터는 인류의 희망입니다. 그리고 우리는 그 희망을 한층 더 밝게 만드는 법을 알고 있습니다. 맥스웰 코퍼레이션이 여러분을 후원합니다.\nBEYOND YOUR AROUSAL"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_211111",
+      "청동으로 만든 시곗바늘.\n재질 때문에 파손에 주의해야 한다.\n카운터의 공격성을 소폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_211121",
+      "청동으로 만든 시곗바늘.\n바늘 끝이 매우 예리해 보인다.\n카운터의 공격성을 소폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_211131",
+      "청동으로 만든 시곗바늘.\n평범한 시계에도 잘 어울린다.\n카운터의 공격성을 소폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_211141",
+      "청동으로 만든 시곗바늘.\n쥐고 있으면 심장 박동이 빨라진다.\n카운터의 공격성을 소폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_211211",
+      "청동으로 만든 케이스.\n디지털 시계가 베이스로 추정된다.\n카운터의 지구력을 조금 늘려 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_211221",
+      "청동으로 만든 케이스.\n전면부의 광채는 사진에만 찍힌다.\n카운터의 지구력을 조금 늘려 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_211231",
+      "청동으로 만든 케이스.\n구조가 단순해서 수리하기 쉽다.\n카운터의 지구력을 조금 늘려 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_211241",
+      "청동으로 만든 케이스.\n쥐고 있으면 긴장을 덜 느끼게 된다.\n카운터의 지구력을 조금 늘려 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_211311",
+      "청동으로 만든 크라운.\n기계식 시계 애호가의 액세서리.\n카운터의 운동성을 약간 개선해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_211312",
+      "청동으로 만든 무브먼트.\n시계의 구동부이자 핵심 장치다.\n카운터의 정확도를 소폭 향상시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_211321",
+      "청동으로 만든 크라운.\n사용감은 나쁘지 않은 편이라고 한다.\n카운터의 운동성을 약간 개선해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_211322",
+      "청동으로 만든 무브먼트.\n톱니바퀴 소리가 유별나다.\n카운터의 정확도를 소폭 향상시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_211331",
+      "청동으로 만든 크라운.\n기능성을 중시한 형태로 제작되었다.\n카운터의 운동성을 약간 개선해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_211332",
+      "청동으로 만든 무브먼트.\n전통적인 제작 양식으로 만들어졌다.\n카운터의 정확도를 소폭 향상시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_211341",
+      "청동으로 만든 크라운.\n쥐고 있으면 반사신경이 좋아진다.\n카운터의 운동성을 약간 개선해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_211342",
+      "청동으로 만든 무브먼트.\n쥐고 있으면 동체시력이 좋아진다.\n카운터의 정확도를 소폭 향상시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_212111",
+      "업계에서 흔히 쓰이는 고폭탄.\n별도의 처리를 거치지 않은 탄종이다.\n메카닉의 화력을 소폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_212121",
+      "업계에서 흔히 쓰이는 고폭탄.\n대인 살상용으로 개발되었다.\n메카닉의 화력을 소폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_212131",
+      "업계에서 흔히 쓰이는 고폭탄.\n1종 침식체 대상으로 효율적이다.\n메카닉의 화력을 소폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_212141",
+      "업계에서 흔히 쓰이는 고폭탄.\n준수한 화력 덕분에 수요가 많다.\n메카닉의 화력을 소폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_212211",
+      "철망형으로 제작한 증가 장갑.\n외관은 단순해 보인다.\n메카닉의 전투 지속 능력이 소폭 상승한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_212221",
+      "철망형으로 제작한 증가 장갑.\n침식체의 접근도 막을 수 있다.\n메카닉의 전투 지속 능력이 소폭 상승한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_212231",
+      "철망형으로 제작한 증가 장갑.\n원거리 공격에 효율적이다.\n메카닉의 전투 지속 능력이 소폭 상승한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_212241",
+      "철망형으로 제작한 증가 장갑.\n간혹 기대 이상의 성능을 보여 준다.\n메카닉의 전투 지속 능력이 소폭 상승한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_212311",
+      "적을 식별하기 위한 카메라.\n스틸레인에서 생산하는 제품이다.\n메카닉의 명중률을 약간 보정한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_212312",
+      "지근거리를 감시하는 카메라.\n작은 동물은 놓칠 때도 있다.\n위험요소를 먼저 확인할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_212321",
+      "적을 식별하기 위한 카메라.\n사격 통제 장치와 직결되어 있다.\n메카닉의 명중률을 약간 보정한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_212322",
+      "지근거리를 감시하는 카메라.\nCCTV용으로도 판매 중이다.\n위험요소를 먼저 확인할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_212331",
+      "적을 식별하기 위한 카메라.\n개량된 내구성이 현장에서 호평이다.\n메카닉의 명중률을 약간 보정한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_212332",
+      "지근거리를 감시하는 카메라.\n시위 진압에서 악명을 떨쳤다.\n위험요소를 먼저 확인할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_212341",
+      "적을 식별하기 위한 카메라.\n직관적인 설계 덕에 아직 현역이다.\n메카닉의 명중률을 약간 보정한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_212342",
+      "지근거리를 감시하는 카메라.\n가끔 기묘한 영상이 찍히기도 한다.\n위험요소를 먼저 확인할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_213111",
+      "역사와 실적을 자랑하는 돌격소총.\n분해 조립이 매우 쉽다.\n솔저의 화력을 소폭 강화한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_213121",
+      "역사와 실적을 자랑하는 돌격소총.\n재장전이 편리하다.\n솔저의 화력을 소폭 강화한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_213131",
+      "역사와 실적을 자랑하는 돌격소총.\n신뢰성이 높은 제식 화기다.\n솔저의 화력을 소폭 강화한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_213141",
+      "역사와 실적을 자랑하는 돌격소총.\n대반격 초기에 대량 생산됐다.\n솔저의 화력을 소폭 강화한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_213211",
+      "소지품을 보관하기 용이한 조끼.\n주머니에 간식을 넣고 다니기 좋다.\n생존성을 기대해선 안 된다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_213221",
+      "소지품을 보관하기 용이한 조끼.\n기능성을 중시한 디자인이다.\n생존성을 기대해선 안 된다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_213231",
+      "소지품을 보관하기 용이한 조끼.\n전투보다는 작업에 어울려 보인다.\n생존성을 기대해선 안 된다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_213241",
+      "소지품을 보관하기 용이한 조끼.\n전투 중엔 꽤 많은 연장이 필요하다.\n생존성을 기대해선 안 된다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_213311",
+      "저렴한 가격의 조준보조장비.\n근거리 교전에서 우위를 점할 수 있다.\n솔저의 명중률을 소폭 보정해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_213312",
+      "전쟁 중 급히 생산된 강화 외골격.\n움직이기 거추장스러워 보인다.\n약간의 운동성 향상을 기대할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_213321",
+      "저렴한 가격의 조준보조장비.\n정밀한 장비이므로 취급에 주의해야 한다.\n솔저의 명중률을 소폭 보정해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_213322",
+      "전쟁 중 급히 생산된 강화 외골격.\n착용에 긴 시간이 소요된다.\n약간의 운동성 향상을 기대할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_213331",
+      "저렴한 가격의 조준보조장비.\n조준 방향을 직관적으로 표시해 준다.\n솔저의 명중률을 소폭 보정해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_213332",
+      "전쟁 중 급히 생산된 강화 외골격.\n작동 한계 시간이 존재한다.\n약간의 운동성 향상을 기대할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_213341",
+      "저렴한 가격의 조준보조장비.\n대반격 초기에 많은 활약을 했다.\n솔저의 명중률을 소폭 보정해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_213342",
+      "전쟁 중 급히 생산된 강화 외골격.\n유압식 액추에이터로 작동한다.\n약간의 운동성 향상을 기대할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_221111",
+      "은으로 만든 시곗바늘.\n장신구로 쓰는 경우도 있다고 한다.\n카운터의 공격성을 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_221121",
+      "은으로 만든 시곗바늘.\n마감은 수제작으로 이루어졌다.\n카운터의 공격성을 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_221131",
+      "은으로 만든 시곗바늘.\n독특한 공명음을 발생시킨다.\n카운터의 공격성을 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_221141",
+      "은으로 만든 시곗바늘.\n특유의 광택을 선호하는 이들이 많다.\n카운터의 공격성을 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_221211",
+      "은으로 만든 케이스.\n표면에 맑은 푸른빛이 감돈다.\n카운터의 지구력을 늘려 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_221221",
+      "은으로 만든 케이스.\n의외로 튼튼해서 쓰기 좋다.\n카운터의 지구력을 늘려 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_221231",
+      "은으로 만든 케이스.\n재질 때문에 제작이 꽤 까다롭다.\n카운터의 지구력을 늘려 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_221241",
+      "은으로 만든 케이스.\n들고 있으면 마음이 놓인다고 한다.\n카운터의 지구력을 늘려 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_221311",
+      "은으로 만든 크라운.\n단순한 디자인은 설계자의 취향.\n카운터의 운동성을 개선해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_221312",
+      "은으로 만든 무브먼트.\n예민한 장치라서 관리가 필요하다.\n카운터의 정확도를 향상시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_221321",
+      "은으로 만든 크라운.\n분실사고가 자주 발생한다.\n카운터의 운동성을 개선해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_221322",
+      "은으로 만든 무브먼트.\n시중에서 고가에 거래된다.\n카운터의 정확도를 향상시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_221331",
+      "은으로 만든 크라운.\n정비원이 가끔 나사로 착각한다.\n카운터의 운동성을 개선해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_221332",
+      "은으로 만든 무브먼트.\n의외의 예술성으로 주목받는다.\n카운터의 정확도를 향상시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_221341",
+      "은으로 만든 크라운.\n감고 있으면 시간 가는 줄 모른다.\n카운터의 운동성을 개선해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_221342",
+      "은으로 만든 무브먼트.\n보급형 장비로 고안되었다.\n카운터의 정확도를 향상시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_222111",
+      "침식체의 갑피를 꿰뚫기 위한 탄종.\n탄체 내부에 관통자가 삽입된다.\n메카닉의 화력을 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_222121",
+      "침식체의 갑피를 꿰뚫기 위한 탄종.\n우수한 가성비로 상층부에선 호평.\n메카닉의 화력을 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_222131",
+      "침식체의 갑피를 꿰뚫기 위한 탄종.\n제작 공정이 개선되어 부활했다.\n메카닉의 화력을 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_222141",
+      "침식체의 갑피를 꿰뚫기 위한 탄종.\n대형 침식체에게도 효과적이다.\n메카닉의 화력을 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_222211",
+      "주장갑과 간격을 둔 증가장갑.\n외장은 보통 주장갑보다 얇다.\n메카닉의 전투 지속능력이 상승한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_222221",
+      "주장갑과 간격을 둔 증가장갑.\n진지에서 임시로 만들기도 한다.\n메카닉의 전투 지속능력이 상승한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_222231",
+      "주장갑과 간격을 둔 증가장갑.\n방호능력은 언제나 중요하다.\n메카닉의 전투 지속능력이 상승한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_222241",
+      "주장갑과 간격을 둔 증가장갑.\n키트 형태로 판매되기도 한다.\n메카닉의 전투 지속능력이 상승한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_222311",
+      "적을 지속적으로 포착하는 카메라.\n성능평가를 놓고 말이 많다.\n메카닉의 명중률을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_222312",
+      "교전거리를 감시하는 카메라.\n원거리 공격 대응은 취약하다.\n위험 요소에 우선 반응한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_222321",
+      "적을 지속적으로 포착하는 카메라.\n곡선 추적은 구조상 어렵다.\n메카닉의 명중률을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_222322",
+      "교전거리를 감시하는 카메라.\n식별 능력이 우수하다.\n위험 요소에 우선 반응한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_222331",
+      "적을 지속적으로 포착하는 카메라.\n폭풍 속에서도 목표를 발견한다.\n메카닉의 명중률을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_222332",
+      "교전거리를 감시하는 카메라.\n사람의 눈과 유사하게 움직인다.\n위험요소에 우선 반응한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_222341",
+      "적을 지속적으로 포착하는 카메라.\n군기 위반 현장을 잘 적발한다.\n메카닉의 명중률을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_222342",
+      "교전거리를 감시하는 카메라.\n움직임이 무섭다는 사람도 있다.\n위험요소에 우선 반응한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_223111",
+      "최초의 대 침식전용 돌격소총.\n태스크포스 업계의 베스트셀러다.\n솔저의 화력을 강화한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_223121",
+      "최초의 대 침식전용 돌격소총.\n우수한 대인저지력이 장점.\n솔저의 화력을 강화한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_223131",
+      "최초의 대 침식전용 돌격소총.\n대 침식전용 화기의 표준이다.\n솔저의 화력을 강화한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_223141",
+      "최초의 대 침식전용 돌격소총.\n보병전력을 유의미하게 만들었다.\n솔저의 화력을 강화한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_223211",
+      "무거운 강철 방탄판.\n기동전에서는 불리하다.\n전투 중 생존성을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_223221",
+      "무거운 강철 방탄판.\n인명에 대한 수뇌부 최후의 양심.\n전투 중 생존성을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_223231",
+      "무거운 강철 방탄판.\n총탄에 맞아 보면 무게는 논외다.\n전투 중 생존성을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_223241",
+      "무거운 강철 방탄판.\n많아서 나쁠 것 없다.\n전투 중 생존성을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_223311",
+      "표준적인 성능의 조준보조장비.\n빛의 굴절과 반사를 이용한다.\n솔저의 명중률을 보정해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_223312",
+      "많은 PMC가 사용 중인 모델.\n구형 외골격의 개량판이다.\n운동성 향상을 기대할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_223321",
+      "표준적인 성능의 조준보조장비.\n보기보다 제법 비싸다.\n솔저의 명중률을 보정해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_223322",
+      "많은 PMC가 사용 중인 모델.\n작업 현장에서도 활발히 사용된다.\n운동성 향상을 기대할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_223331",
+      "표준적인 성능의 조준보조장비.\n사재로 장만하는 경우가 많다.\n솔저의 명중률을 보정해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_223332",
+      "많은 PMC가 사용 중인 모델.\n인공근육은 예산 문제로 제거됐다.\n운동성 향상을 기대할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_223341",
+      "표준적인 성능의 조준보조장비.\n장식이 아닌 어엿한 실전용이다.\n솔저의 명중률을 보정해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_223342",
+      "많은 PMC가 사용 중인 모델.\n용도에 맞는 개조 작례도 많다.\n운동성 향상을 기대할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_231111",
+      "시리얼 넘버가 새겨진 시곗바늘.\n제작사는 스위스 소재다.\n카운터의 공격성을 대폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_231121",
+      "시리얼 넘버가 새겨진 시곗바늘.\n설계도면의 출처는 불명.\n카운터의 공격성을 대폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_231131",
+      "시리얼 넘버가 새겨진 시곗바늘.\n국제적으로 물량이 부족하다.\n카운터의 공격성을 대폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_231141",
+      "시리얼 넘버가 새겨진 시곗바늘.\n신경계에 작용한다고 한다.\n카운터의 공격성을 대폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_231211",
+      "시리얼 넘버가 새겨진 케이스.\n해밍턴 사의 대표작이다.\n카운터의 지구력을 대폭 늘려 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_231221",
+      "시리얼 넘버가 새겨진 케이스.\n정신적으로 의지가 된다.\n카운터의 지구력을 대폭 늘려 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_231231",
+      "시리얼 넘버가 새겨진 케이스.\n충격에 쉽게 부서지지 않는다.\n카운터의 지구력을 대폭 늘려 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_231241",
+      "시리얼 넘버가 새겨진 케이스.\n표면에 회로가 비쳐 보인다.\n카운터의 지구력을 대폭 늘려 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_231311",
+      "시리얼 넘버가 새겨진 크라운.\n한 차례 단종된 적이 있다.\n카운터의 운동성을 대폭 개선해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_231312",
+      "시리얼 넘버가 새겨진 무브먼트.\n위조품이 많으므로 주의.\n카운터의 정확도를 대폭 향상시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_231321",
+      "시리얼 넘버가 새겨진 크라운.\n불길한 문양이 새겨져 있다.\n카운터의 운동성을 대폭 개선해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_231322",
+      "시리얼 넘버가 새겨진 무브먼트.\n매뉴얼 와인딩 방식을 사용한다.\n카운터의 정확도를 대폭 향상시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_231331",
+      "시리얼 넘버가 새겨진 크라운.\n손맛 때문에 마니아층이 형성됐다.\n카운터의 운동성을 대폭 개선해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_231332",
+      "시리얼 넘버가 새겨진 무브먼트.\n마감에 신경 쓴 흔적이 역력하다.\n카운터의 정확도를 대폭 향상시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_231341",
+      "시리얼 넘버가 새겨진 크라운.\n제작사에 대해 억측이 난무한다.\n카운터의 운동성을 대폭 개선해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_231342",
+      "시리얼 넘버가 새겨진 무브먼트.\n작동음을 들으면 마음이 놓인다.\n카운터의 정확도를 대폭 늘려 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_232111",
+      "강력한 관통력을 보장하는 탄종.\n메탈제트로 장갑을 꿰뚫는다.\n메카닉의 화력을 대폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_232121",
+      "강력한 관통력을 보장하는 탄종.\n휴대용 대전차 로켓에도 쓰인다.\n메카닉의 화력을 대폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_232131",
+      "강력한 관통력을 보장하는 탄종.\n반응장갑의 등장으로 쇠퇴했다.\n메카닉의 화력을 대폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_232141",
+      "강력한 관통력을 보장하는 탄종.\n대부분의 침식체에 치명적이다.\n메카닉의 화력을 대폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_232211",
+      "다양한 소재가 투입된 증가장갑.\n주장갑으로도 사용된다.\n메카닉의 전투지속 능력을 확충한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_232221",
+      "다양한 소재가 투입된 증가장갑.\n충전재 구성은 기밀사항이다.\n메카닉의 전투지속 능력을 확충한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_232231",
+      "다양한 소재가 투입된 증가장갑.\nPMC마다 선호 공정이 다르다.\n메카닉의 전투지속 능력을 확충한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_232241",
+      "다양한 소재가 투입된 증가장갑.\n공산품임에도 공급이 불안정하다.\n메카닉의 전투지속 능력을 확충한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_232311",
+      "선제 포착에 특화된 카메라.\n센서 반응 속도가 세 배 빠르다.\n메카닉의 높은 명중률을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_232312",
+      "전방위 감시 카메라.\n전투 지역을 상시 관찰한다.\n위험 요소를 사전에 파악할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_232321",
+      "선제 포착에 특화된 카메라.\n측정이 부정확하다는 지적도 있다.\n메카닉의 높은 명중률을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_232322",
+      "전방위 감시 카메라.\n전황 분석용 컴퓨터가 내장되어 있다.\n위험 요소를 사전에 파악할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_232331",
+      "선제 포착에 특화된 카메라.\n보조 카메라의 성능도 우수하다.\n메카닉의 높은 명중률을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_232332",
+      "전방위 감시 카메라.\n독립 기동 방식이 호불호가 갈린다.\n위험 요소를 사전에 파악할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_232341",
+      "선제 포착에 특화된 카메라.\n멀리서도 감시당하는 기분이다.\n메카닉의 높은 명중률을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_232342",
+      "전방위 감시 카메라.\n가끔 조류를 관찰하나, 원인은 불명.\n위험 요소를 사전에 파악할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_233111",
+      "대 침식전을 위해 개발된 돌격소총.\nA26의 설계이념을 계승했다.\n솔저의 화력을 대폭 강화한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_233121",
+      "대 침식전을 위해 개발된 돌격소총.\n대표적인 군용 총기로 유명하다.\n솔저의 화력을 대폭 강화한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_233131",
+      "대 침식전을 위해 개발된 돌격소총.\n원숭이도 쓸 수 있다고 한다.\n솔저의 화력을 대폭 강화한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_233141",
+      "대 침식전을 위해 개발된 돌격소총.\n관리국이 개발을 지원했다.\n솔저의 화력을 대폭 강화한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_233211",
+      "금속해면체를 사용한 방탄복.\n스틸레인이 내놓은 역작이다.\n전투 중 높은 생존성을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_233221",
+      "금속해면체를 사용한 방탄복.\n자유롭게 입고 벗을 수 있다.\n전투 중 높은 생존성을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_233231",
+      "금속해면체를 사용한 방탄복.\n높은 방탄 등급을 인증 받았다.\n전투 중 높은 생존성을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_233241",
+      "금속해면체를 사용한 방탄복.\n업계에서 오랜 사랑을 받고 있다.\n전투 중 높은 생존성을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_233311",
+      "우수한 성능의 조준보조장비.\n홀로그램으로 조준점을 표시한다.\n솔저의 명중률을 대폭 보정해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_233312",
+      "발주가 까다로운 정규군용 모델.\n신소재 채용으로 중량이 감소했다.\n독보적인 운동성 향상이 기대된다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_233321",
+      "우수한 성능의 조준보조장비.\n품질은 제품마다 편차가 크다.\n솔저의 명중률을 대폭 보정해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_233322",
+      "발주가 까다로운 정규군용 모델.\n가동폭이 커서 동작도 자유롭다.\n독보적인 운동성 향상이 기대된다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_233331",
+      "우수한 성능의 조준보조장비.\n정기적으로 정비를 받아야 한다.\n솔저의 명중률을 대폭 보정해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_233332",
+      "발주가 까다로운 정규군용 모델.\n약간의 방호력도 제공해 준다.\n독보적인 운동성 향상이 기대된다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_233341",
+      "우수한 성능의 조준보조장비.\n일방적으로 적을 침묵시킬 수 있다.\n솔저의 명중률을 대폭 보정해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_233342",
+      "발주가 까다로운 정규군용 모델.\n5월 참사의 교훈이 설계에 반영됐다.\n독보적인 운동성 향상이 기대된다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_241111",
+      "신비로운 광택이 감도는 시곗바늘.\n새겨진 문자의 문명권은 불명.\n카운터의 과감성을 끌어올린다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_241121",
+      "신비로운 광택이 감도는 시곗바늘.\n보는 이를 홀릴 듯하다.\n카운터의 과감성을 끌어올린다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_241131",
+      "신비로운 광택이 감도는 시곗바늘.\n초정밀 공정으로 제작됐다.\n카운터의 과감성을 끌어올린다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_241141",
+      "신비로운 광택이 감도는 시곗바늘.\n모 기관이 실험 삼아 유포했다.\n카운터의 과감성을 끌어올린다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_241211",
+      "신비로운 광택이 감도는 케이스.\n섬세한 디자인이 수집욕을 자극한다.\n카운터의 성실성을 부각시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_241221",
+      "신비로운 광택이 감도는 케이스.\n보고 있으면 부자가 된 기분이다.\n카운터의 성실성을 부각시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_241231",
+      "신비로운 광택이 감도는 케이스.\n아름다운 디자인이 질투를 산다.\n카운터의 성실성을 부각시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_241241",
+      "신비로운 광택이 감도는 케이스.\n제작자의 서명이 음각되어 있다.\n카운터의 성실성을 부각시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_241311",
+      "신비로운 광택이 감도는 크라운.\n유사품에 주의해야 한다.\n카운터의 침착성을 일깨운다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_241312",
+      "신비로운 광택이 감도는 무브먼트.\n제작사의 기술력을 최대한 발휘했다.\n카운터의 기민성을 자극한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_241321",
+      "신비로운 광택이 감도는 크라운.\n제작사의 로고가 특징이다.\n카운터의 침착성을 일깨운다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_241322",
+      "신비로운 광택이 감도는 무브먼트.\n알렉스 사의 마지막 작품.\n카운터의 기민성을 자극한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_241331",
+      "신비로운 광택이 감도는 크라운.\n어느 카운터를 위해 설계됐다.\n카운터의 침착성을 일깨운다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_241332",
+      "신비로운 광택이 감도는 무브먼트.\n치밀한 설계가 예술품에 가깝다.\n카운터의 기민성을 자극한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_241341",
+      "신비로운 광택이 감도는 크라운.\n제작사의 이름이 알려진 계기이다.\n카운터의 침착성을 일깨운다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_241342",
+      "신비로운 광택이 감도는 무브먼트.\n작동음이 아름다운 화음을 이룬다.\n카운터의 기민성을 자극한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_242111",
+      "현용 최고의 위력을 자랑하는 탄종.\n약자로는 APFSDS라고 한다.\n메카닉에게 놀라운 화력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_242121",
+      "현용 최고의 위력을 자랑하는 탄종.\n표적 파괴 능력은 독보적인 수준.\n메카닉에게 놀라운 화력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_242131",
+      "현용 최고의 위력을 자랑하는 탄종.\n텅스텐 탄체가 주류를 이룬다.\n메카닉에게 놀라운 화력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_242141",
+      "현용 최고의 위력을 자랑하는 탄종.\n일격에 침식체를 침묵시킨다.\n메카닉에게 놀라운 화력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_242211",
+      "폭발로 관통을 저지하는 증가장갑.\n성형작약 탄두에 효과가 뛰어나다.\n메카닉의 전투지속 능력을 정립한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_242221",
+      "폭발로 관통을 저지하는 증가장갑.\n개개의 장갑판은 일회용이다.\n메카닉의 전투지속 능력을 정립한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_242231",
+      "폭발로 관통을 저지하는 증가장갑.\n침식체와의 근접전에서도 유용하다.\n메카닉의 전투지속 능력을 정립한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_242241",
+      "폭발로 관통을 저지하는 증가장갑.\n현재도 지속적인 개량이 진행 중.\n메카닉의 전투지속 능력을 정립한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_242311",
+      "정밀 열감지 센서를 도입한 조준경.\n하루살이도 식별할 수 있다.\n메카닉에게 놀라운 명중률을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_242312",
+      "운동체를 포착하는 카메라.\n다수의 대상을 동시에 추적한다.\n메카닉에게 놀라운 대응력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_242321",
+      "정밀 열감지 센서를 도입한 조준경.\n선명한 화질이 인상적이다.\n메카닉에게 놀라운 명중률을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_242322",
+      "운동체를 포착하는 카메라.\n낙엽 한 장도 놓치지 않는다.\n메카닉에게 놀라운 대응력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_242331",
+      "정밀 열감지 센서를 도입한 조준경.\n함선에서도 종종 사용된다.\n메카닉에게 놀라운 명중률을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_242332",
+      "운동체를 포착하는 카메라.\n사전에 위험 요소를 파악한다.\n메카닉에게 놀라운 대응력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_242341",
+      "정밀 열감지 센서를 도입한 조준경.\n군 실평가에서 최고 성적을 거뒀다.\n메카닉에게 놀라운 명중률을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_242342",
+      "운동체를 포착하는 카메라.\n끊임없이 목표물을 찾아 움직인다.\n메카닉에게 놀라운 회피 능력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_243111",
+      "모 국가가 연구 중인 복합소총.\n병사의 전투력 향상을 도모했다.\n솔저에게 놀라운 화력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_243121",
+      "모 국가가 연구 중인 복합소총.\n현재 소량 생산되고 있다.\n솔저에게 놀라운 화력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_243131",
+      "모 국가가 연구 중인 복합소총.\n특수부대에 우선 지급된다.\n솔저에게 놀라운 화력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_243141",
+      "모 국가가 연구 중인 복합소총.\n관리국 기술연구부가 관여했다.\n솔저에게 놀라운 화력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_243211",
+      "전투 효율을 증대하는 방탄복.\n급격한 온도 변화에도 적응한다.\n솔저에게 놀라운 생존성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_243221",
+      "전투 효율을 증대하는 방탄복.\n이터니움 함유량이 상승했다.\n솔저에게 놀라운 생존성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_243231",
+      "전투 효율을 증대하는 방탄복.\n고유한 패턴에 따라 직조했다.\n솔저에게 놀라운 생존성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_243241",
+      "전투 효율을 증대하는 방탄복.\n충격 흡수 능력이 매우 우수하다.\n솔저에게 놀라운 생존성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_243311",
+      "첨단기술이 가미된 광학조준장비.\n소형 FCS가 탑재되어 있다.\n솔저에게 놀라운 정확성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_243312",
+      "극한 상황을 상정한 모델.\n미 국방부가 제식 채용했다.\n솔저에게 놀라운 운동성을 제공한다. "
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_243321",
+      "첨단기술이 가미된 광학조준장비.\n야시 기능도 매우 우수하다.\n솔저에게 놀라운 정확성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_243322",
+      "극한 상황을 상정한 모델.\n경량화와 성능을 동시에 잡았다.\n솔저에게 놀라운 운동성을 제공한다. "
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_243331",
+      "첨단기술이 가미된 광학조준장비.\n알파트릭스에서 독점 생산 중.\n솔저에게 놀라운 정확성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_243332",
+      "극한 상황을 상정한 모델.\n패턴 분석으로 동작을 보조한다.\n솔저에게 놀라운 운동성을 제공한다. "
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_243341",
+      "첨단기술이 가미된 광학조준장비.\n저격수들의 새로운 친구다.\n솔저에게 놀라운 정확성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_243342",
+      "극한 상황을 상정한 모델.\n성능 측면에서 큰 발전을 이뤘다.\n솔저에게 놀라운 운동성을 제공한다. "
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_251111",
+      "아름다운 광채를 발하는 시곗바늘.\n강렬한 고조감을 불러일으킨다.\n카운터의 숨겨진 과감성을 끌어낸다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_251121",
+      "아름다운 광채를 발하는 시곗바늘.\n두드려도 아무 소리가 나지 않는다.\n카운터의 숨겨진 과감성을 끌어낸다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_251131",
+      "아름다운 광채를 발하는 시곗바늘.\n물량 집계도 못할 만큼 희소하다.\n카운터의 숨겨진 과감성을 끌어낸다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_251141",
+      "아름다운 광채를 발하는 시곗바늘.\n광채는 안개 같은 형태로 흩어진다.\n카운터의 숨겨진 과감성을 끌어낸다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_251211",
+      "아름다운 광채를 발하는 케이스.\n제작 방식은 비밀 중의 비밀.\n카운터의 숨겨진 성실성을 드러낸다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_251221",
+      "아름다운 광채를 발하는 케이스.\n다루기 까다롭다고 한다.\n카운터의 숨겨진 성실성을 드러낸다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_251231",
+      "아름다운 광채를 발하는 케이스.\n이면세계에서 간혹 발견된다.\n카운터의 숨겨진 성실성을 드러낸다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_251241",
+      "아름다운 광채를 발하는 케이스.\n꺼림칙한 이질감이 느껴진다.\n카운터의 숨겨진 성실성을 드러낸다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_251311",
+      "아름다운 광채를 발하는 크라운.\n누구나 탐내는 보물이다.\n카운터의 숨겨진 침착성을 일깨운다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_251312",
+      "아름다운 광채를 발하는 무브먼트.\n세부 구조는 수수께끼다.\n카운터의 숨겨진 기민성을 일깨운다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_251321",
+      "아름다운 광채를 발하는 크라운.\n일반인은 접촉이 제한된다.\n카운터의 숨겨진 침착성을 일깨운다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_251322",
+      "아름다운 광채를 발하는 무브먼트.\n원숙한 장인도 학을 뗀다.\n카운터의 숨겨진 기민성을 일깨운다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_251331",
+      "아름다운 광채를 발하는 크라운.\n고유의 감촉이 전율적이다.\n카운터의 숨겨진 침착성을 일깨운다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_251332",
+      "아름다운 광채를 발하는 무브먼트.\n작동음이 노랫소리 같다고 한다.\n카운터의 숨겨진 기민성을 일깨운다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_251341",
+      "아름다운 광채를 발하는 크라운.\n돌리면 속삭임이 들린다고 한다.\n카운터의 숨겨진 침착성을 일깨운다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_251342",
+      "아름다운 광채를 발하는 무브먼트.\n톱니바퀴의 개수는 집계불가.\n카운터의 숨겨진 기민성을 일깨운다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_252111",
+      "취약점을 포착하는 스마트 포탄.\n적의 빈틈을 정확히 간파한다.\n메카닉이 최고의 화력을 발휘한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_252121",
+      "취약점을 포착하는 스마트 포탄.\n효과는 가격만큼 확실하다.\n메카닉이 최고의 화력을 발휘한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_252131",
+      "취약점을 포착하는 스마트 포탄.\n업계의 요구로 연구가 재개됐다.\n메카닉이 최고의 화력을 발휘한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_252141",
+      "취약점을 포착하는 스마트 포탄.\n제한적인 궤도 변경도 가능하다.\n메카닉이 최고의 화력을 발휘한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_252211",
+      "피탄의 여지를 제거하는 증가장갑.\n대량의 이터니움이 투입된다.\n메카닉의 전투지속 능력을 완성한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_252221",
+      "피탄의 여지를 제거하는 증가장갑.\n접촉한 위험요소를 기화시킨다.\n메카닉의 전투지속 능력을 완성한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_252231",
+      "피탄의 여지를 제거하는 증가장갑.\n현재는 단가 문제가 심각하다.\n메카닉의 전투지속 능력을 완성한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_252241",
+      "피탄의 여지를 제거하는 증가장갑.\n대반격기 당시에도 사용됐다.\n메카닉의 전투지속 능력을 완성한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_252311",
+      "적의 움직임을 학습하는 카메라.\n항시 가동하고 있다.\n메카닉이 최고의 명중률을 유지한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_252312",
+      "막대한 정보를 처리하는 카메라.\n초소형 레이더에 가깝다.\n메카닉이 최고의 대응력을 유지한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_252321",
+      "적의 움직임을 학습하는 카메라.\n모든 영상에서 전술을 유추한다.\n메카닉이 최고의 명중률을 유지한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_252322",
+      "막대한 정보를 처리하는 카메라.\n판독 속도는 특히 경이롭다.\n메카닉이 최고의 대응력을 유지한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_252331",
+      "적의 움직임을 학습하는 카메라.\n양산품은 학습 소요 시간이 길다.\n메카닉이 최고의 명중률을 유지한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_252332",
+      "막대한 정보를 처리하는 카메라.\n촉새라는 별명이 있다.\n메카닉이 최고의 대응력을 유지한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_252341",
+      "적의 움직임을 학습하는 카메라.\n퓨처 앳 워 계획의 한 결실이다.\n메카닉이 최고의 명중률을 유지한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_252342",
+      "막대한 정보를 처리하는 카메라.\n압축된 정보를 끝없이 생산한다.\n메카닉이 최고의 대응력을 유지한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_253111",
+      "압도적인 교전이 가능한 돌격소총.\n독특한 외형이 민간에도 알려졌다.\n솔저에게 최고의 화력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_253121",
+      "압도적인 교전이 가능한 돌격소총.\n반동 없이 연사가 가능하다.\n솔저에게 최고의 화력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_253131",
+      "압도적인 교전이 가능한 돌격소총.\n양산은 결국 실패해 버렸다.\n솔저에게 최고의 화력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_253141",
+      "압도적인 교전이 가능한 돌격소총.\n퓨처 앳 워 계획의 산물이다.\n솔저에게 최고의 화력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_253211",
+      "전차에 버금가는 강화복.\n그래핀 합금을 활용했다.\n솔저에게 최고의 생존성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_253221",
+      "전차에 버금가는 강화복.\n그래핀 합금을 사용했다.\n솔저에게 최고의 생존성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_253231",
+      "전차에 버금가는 강화복.\n매년 소량이 경매에 공개된다.\n솔저에게 최고의 생존성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_253241",
+      "전차에 버금가는 강화복.\n제작자 추격 시도는 모두 실패했다.\n솔저에게 최고의 생존성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_253311",
+      "화기 조율이 가능한 광학조준장비.\n첨단기술의 집약체다.\n솔저에게 최고의 명중률을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_253312",
+      "모 연구소가 개발 중인 시제품.\n각지에서 테스트가 진행 중이다.\n솔저에게 최고의 운동성을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_253321",
+      "화기 조정이 가능한 광학조준장비.\n인공지능이 탑재됐다.\n솔저에게 최고의 명중률을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_253322",
+      "모 연구소가 개발 중인 시제품.\n엄선된 PMC에만 제공된다.\n솔저에게 최고의 운동성을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_253331",
+      "화기 조정이 가능한 광학조준장비.\n전용 액세서리도 존재.\n솔저에게 최고의 명중률을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_253332",
+      "모 연구소가 개발 중인 시제품.\n한 시대 앞선 성능을 자랑한다.\n솔저에게 최고의 운동성을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_253341",
+      "화기 조정이 가능한 광학조준장비.\n정밀도가 우월하다.\n솔저에게 최고의 명중률을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_253342",
+      "모 연구소가 개발 중인 시제품.\n레거시 디바이스를 역설계했다.\n솔저에게 최고의 운동성을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_331331",
+      "은으로 만든 크라운.\n단순한 디자인은 설계자의 취향.\n카운터의 침착성을 개선해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_331332",
+      "은으로 만든 무브먼트.\n분실사고가 자주 발생한다.\n카운터의 운동성을 개선해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_341131",
+      "시리얼 넘버가 새겨진 시곗바늘.\n강력한 자기장을 형성한다.\n카운터의 공격성을 대폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_341231",
+      "시리얼 넘버가 새겨진 케이스.\n뇌명은 고난을 피해 눈을 버렸다.\n카운터의 지구력을 대폭 늘려 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_341331",
+      "시리얼 넘버가 새겨진 크라운.\n천둥은 원초적인 두려움을 자극한다.\n카운터의 침착성을 대폭 개선해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_341332",
+      "시리얼 넘버가 새겨진 무브먼트.\n천둥은 원초적인 두려움을 자극한다.\n카운터의 운동성을 대폭 개선해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_342131",
+      "강력한 관통력을 보장하는 탄종.\n강력한 자기장을 형성한다.\n메카닉의 화력을 대폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_342231",
+      "다양한 소재가 투입된 증가장갑.\n뇌명은 고난을 피해 눈을 버렸다.\n메카닉의 전투지속 능력을 확충한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_342331",
+      "선제 포착에 특화된 카메라.\n해독 불가능한 전기신호를 방류한다.\n메카닉의 높은 명중률을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_342332",
+      "선제 포착에 특화된 카메라.\n천둥은 원초적인 두려움을 자극한다.\n메카닉의 높은 명중률을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_343131",
+      "대 침식전을 위해 개발된 돌격소총.\n강력한 자기장을 형성한다.\n솔저의 화력을 대폭 강화한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_343231",
+      "금속해면체를 사용한 방탄복.\n뇌명은 고난을 피해 눈을 버렸다.\n전투 중 높은 생존성을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_343331",
+      "우수한 성능의 조준보조장비.\n해독 불가능한 전기신호를 방류한다.\n솔저의 명중률을 대폭 보정해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_343332",
+      "발주가 까다로운 정규군용 모델.\n천둥은 원초적인 두려움을 자극한다.\n독보적인 운동성 향상이 기대된다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_351131",
+      "신비로운 광택이 감도는 시곗바늘.\n표면에 고압의 전류가 흐른다.\n카운터의 과감성을 끌어올린다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_351231",
+      "신비로운 광택이 감도는 케이스.\n뇌명은 자기 자신을 결박했다.\n카운터의 성실성을 부각시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_351331",
+      "신비로운 광택이 감도는 크라운.\n두려움에 맞선 보상이다.\n카운터의 침착성을 일깨운다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_351332",
+      "신비로운 광택이 감도는 무브먼트.\n이따금 푸른 불꽃이 아른거린다.\n카운터의 기민성을 자극한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_352131",
+      "현용 최고의 위력을 자랑하는 탄종.\n표면에 고압의 전류가 흐른다.\n메카닉에게 놀라운 화력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_352231",
+      "폭발로 관통을 저지하는 증가장갑.\n뇌명은 자기 자신을 결박했다.\n메카닉의 전투지속 능력을 정립한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_352331",
+      "정밀 열감지 센서를 도입한 조준경.\n이따금 푸른 불꽃이 아른거린다.\n메카닉에게 놀라운 명중률을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_352332",
+      "운동체를 포착하는 카메라.\n두려움에 맞선 보상이다.\n메카닉에게 놀라운 회피 능력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_353131",
+      "모 국가가 연구 중인 복합소총.\n표면에 고압의 전류가 흐른다.\n솔저에게 놀라운 화력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_353231",
+      "전투 효율을 증대하는 방탄복.\n뇌명은 자기 자신을 결박했다.\n솔저에게 놀라운 생존성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_353331",
+      "첨단기술이 가미된 광학조준장비.\n이따금 푸른 불꽃이 아른거린다.\n솔저에게 놀라운 정확성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_353332",
+      "극한 상황을 상정한 모델.\n두려움에 맞선 보상이다.\n솔저에게 놀라운 운동성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_361131",
+      "아름다운 광채를 발하는 시곗바늘.\n뇌명의 맹목적인 힘을 재현했다.\n카운터의 숨겨진 과감성을 끌어낸다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_361231",
+      "아름다운 광채를 발하는 케이스.\n뇌명의 구속처럼 견고하다.\n카운터의 숨겨진 성실성을 드러낸다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_361331",
+      "아름다운 광채를 발하는 크라운.\n두려움을 극복하고 얻은 결실이다.\n카운터의 숨겨진 침착성을 일깨운다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_361332",
+      "아름다운 광채를 발하는 무브먼트.\n벼락 같은 영감을 불러일으킨다.\n카운터의 숨겨진 기민성을 일깨운다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_362131",
+      "취약점을 포착하는 스마트 포탄.\n뇌명의 맹목적인 힘을 재현했다.\n메카닉이 최고의 화력을 발휘한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_362231",
+      "피탄의 여지를 제거하는 증가장갑.\n뇌명의 구속처럼 견고하다.\n메카닉의 전투지속 능력을 완성한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_362331",
+      "적의 움직임을 학습하는 카메라.\n벼락 같은 영감을 불러일으킨다.\n메카닉이 최고의 명중률을 유지한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_362332",
+      "막대한 정보를 처리하는 카메라.\n두려움을 극복하고 얻은 결실이다.\n메카닉이 최고의 대응력을 유지한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_363131",
+      "압도적인 교전이 가능한 돌격소총.\n뇌명의 맹목적인 힘을 재현했다.\n솔저에게 최고의 화력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_363231",
+      "전차에 버금가는 강화복.\n뇌명의 구속처럼 견고하다.\n솔저에게 최고의 생존성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_363331",
+      "화기 조정이 가능한 광학조준장비.\n벼락 같은 영감을 불러일으킨다.\n솔저에게 최고의 명중률을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_363332",
+      "모 연구소가 개발 중인 시제품.\n두려움을 극복하고 얻은 결실이다.\n솔저에게 최고의 운동성을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_441141",
+      "시리얼 넘버가 새겨진 시곗바늘.\n은은한 열기가 느껴진다.\n카운터의 공격성을 대폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_451141",
+      "신비로운 광택이 감도는 시곗바늘.\n강렬한 열기가 느껴진다.\n카운터의 과감성을 끌어올린다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_461141",
+      "아름다운 광채를 발하는 시곗바늘.\n파괴적인 열기가 느껴진다.\n카운터의 숨겨진 과감성을 끌어낸다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_441241",
+      "시리얼 넘버가 새겨진 케이스.\n수호자의 고독함이 깃들어 있다.\n카운터의 지구력을 대폭 늘려 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_451241",
+      "신비로운 광택이 감도는 케이스.\n수호자의 사명이 깃들어 있다.\n카운터의 성실성을 부각시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_461241",
+      "아름다운 광채를 발하는 케이스.\n수호자의 마지막 기억이 깃들어 있다.\n카운터의 숨겨진 성실성을 드러낸다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_441341",
+      "시리얼 넘버가 새겨진 크라운.\n가열하면 표면에 명령어가 떠오른다.\n카운터의 침착성을 대폭 개선해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_441342",
+      "시리얼 넘버가 새겨진 무브먼트.\n기계적인 아름다움을 추구한 설계가 특징이다.\n카운터의 운동성을 대폭 개선해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_451341",
+      "신비로운 광택이 감도는 크라운.\n초고열의 물질로 만들어졌다.\n카운터의 침착성을 일깨운다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_451342",
+      "신비로운 광택이 감도는 무브먼트.\n잘못 만지면 화상을 입을 수 있다.\n카운터의 기민성을 자극한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_461341",
+      "아름다운 광채를 발하는 크라운.\n내부에서 융해작용이 계속 일어난다.\n카운터의 숨겨진 침착성을 일깨운다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_461342",
+      "아름다운 광채를 발하는 무브먼트.\n작동할수록 주위의 온도가 상승한다.\n카운터의 숨겨진 기민성을 일깨운다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_442141",
+      "강력한 관통력을 보장하는 탄종.\n은은한 열기가 느껴진다.\n메카닉의 화력을 대폭 증대한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_452141",
+      "현용 최고의 위력을 자랑하는 탄종.\n강렬한 열기가 느껴진다.\n메카닉에게 놀라운 화력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_462141",
+      "취약점을 포착하는 스마트 포탄.\n파괴적인 열기가 느껴진다.\n메카닉이 최고의 화력을 발휘한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_442241",
+      "다양한 소재가 투입된 증가장갑.\n수호자의 고독함이 깃들어 있다.\n메카닉의 전투지속 능력을 확충한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_452241",
+      "폭발로 관통을 저지하는 증가장갑.\n수호자의 사명이 깃들어 있다.\n메카닉의 전투지속 능력을 정립한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_462241",
+      "피탄의 여지를 제거하는 증가장갑.\n수호자의 마지막 기억이 깃들어 있다.\n메카닉의 전투지속 능력을 완성한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_442341",
+      "선제 포착에 특화된 카메라.\n가열하면 표면에 명령어가 떠오른다.\n메카닉의 높은 명중률을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_442342",
+      "전방위 감시 카메라.\n기계적인 아름다움을 추구한 설계가 특징이다.\n위험 요소를 사전에 파악할 수 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_452341",
+      "정밀 열감지 센서를 도입한 조준경.\n초고열의 물질로 만들어졌다.\n메카닉에게 놀라운 명중률을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_452342",
+      "운동체를 포착하는 카메라.\n잘못 만지면 화상을 입을 수 있다.\n메카닉에게 놀라운 회피 능력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_462341",
+      "적의 움직임을 학습하는 카메라.\n내부에서 융해작용이 계속 일어난다.\n메카닉이 최고의 명중률을 유지한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_462342",
+      "막대한 정보를 처리하는 카메라.\n작동할수록 주위의 온도가 상승한다.\n메카닉이 최고의 대응력을 유지한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_443141",
+      "대 침식전을 위해 개발된 돌격소총.\n은은한 열기가 느껴진다.\n솔저의 화력을 대폭 강화한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_453141",
+      "모 국가가 연구 중인 복합소총.\n강렬한 열기가 느껴진다.\n솔저에게 놀라운 화력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_463141",
+      "압도적인 교전이 가능한 돌격소총.\n파괴적인 열기가 느껴진다.\n솔저에게 최고의 화력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_443241",
+      "금속해면체를 사용한 방탄복.\n수호자의 고독함이 깃들어 있다.\n전투 중 높은 생존성을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_453241",
+      "전투 효율을 증대하는 방탄복.\n수호자의 사명이 깃들어 있다.\n솔저에게 놀라운 생존성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_463241",
+      "전차에 버금가는 강화복.\n수호자의 마지막 기억이 깃들어 있다.\n솔저에게 최고의 생존성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_443341",
+      "우수한 성능의 조준보조장비.\n가열하면 표면에 명령어가 떠오른다.\n솔저의 명중률을 대폭 보정해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_443342",
+      "발주가 까다로운 정규군용 모델.\n기계적인 아름다움을 추구한 설계가 특징이다.\n독보적인 운동성 향상이 기대된다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_453341",
+      "첨단기술이 가미된 광학조준장비.\n초고열의 물질로 만들어졌다.\n솔저에게 놀라운 정확성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_453342",
+      "극한 상황을 상정한 모델.\n잘못 만지면 화상을 입을 수 있다.\n솔저에게 놀라운 운동성을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_463341",
+      "화기 조정이 가능한 광학조준장비.\n내부에서 융해작용이 계속 일어난다.\n솔저에게 최고의 명중률을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_463342",
+      "모 연구소가 개발 중인 시제품.\n작동할수록 주위의 온도가 상승한다.\n솔저에게 최고의 운동성을 보장한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_551241",
+      "고도의 생명공학 기술을 기반으로 설계된 케이스. 뛰어난 착용감과 함께 CRF의 신체 보호 능력을 활성화시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_552241",
+      "고도의 생명공학 기술을 기반으로 설계된 증가 장갑. 매우 가벼우면서도 피탄시 기체의 생존성이 크게 향상된다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_553241",
+      "고도의 생명공학 기술을 기반으로 설계된 보호구. 움직임을 방해하지 않으면서 강력한 방어력을 자랑한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_561141",
+      "카운터를 위한 특수 장비. \n구 관리국 기술을 재해석해서 복원했다.\n카운터의 지상화력을 끌어올려준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_561241",
+      "카운터를 위한 특수 장비. \n구 관리국 기술을 재해석해서 복원했다.\n지상피해 저항능력을 끌어올려준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_562141",
+      "메카닉을 위한 특수 장비. \n구 관리국 기술을 재해석해서 복원했다.\n메카닉의 지상화력을 끌어올려준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_562241",
+      "메카닉을 위한 특수 장비. \n구 관리국 기술을 재해석해서 복원했다.\n지상피해 저항능력을 끌어올려준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_563141",
+      "솔저를 위한 특수 장비. \n구 관리국 기술을 재해석해서 복원했다.\n솔저의 지상화력을 끌어올려준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_563241",
+      "솔저를 위한 특수 장비. \n구 관리국 기술을 재해석해서 복원했다.\n지상피해 저항능력을 끌어올려준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_561342",
+      "카운터를 위한 특수 장비. \n구 관리국 기술을 재해석해서 복원했다.\n원거리에서 받는 피해를 감소시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_563342",
+      "솔저를 위한 특수 장비. \n구 관리국 기술을 재해석해서 복원했다.\n원거리에서 받는 피해를 감소시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_562342",
+      "메카닉을 위한 특수 장비. \n구 관리국 기술을 재해석해서 복원했다.\n원거리에서 받는 피해를 감소시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_663141",
+      "Religion Science Handheld Special Rifle 이라고 각인되어 있다.\n예언회의 간부들이 애용하는, 꽤 비싸 보이는 총이다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_661341",
+      "털뭉치의 털 속에서 발견된 크라운. 제작자는 개를 좋아하는 모양이다.\n실험과 연관이 있는 걸까?"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_661101",
+      "격전지원에서 실적을 쌓은 기업에게 제공되는 특별한 시곗바늘. 착용자의 위험을 감지하는 소형 공명 기관이 탑재되어 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_662102",
+      "격전지원에서 실적을 쌓은 기업에게 제공되는 특별한 포탄. 아군의 오폭을 방지하는 소형 폭발제어 장치가 탑재되어 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_663103",
+      "격전지원에서 실적을 쌓은 기업에게 제공되는 특별한 총기류. 소지자의 위험 요소를 추적하는 소형 감지 회로가 탑재되어 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_661304",
+      "카운터를 위한 특수 장비. \n구 관리국 기술을 재해석해서 복원했다.\n근거리에서 받는 피해를 감소시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_662305",
+      "메카닉을 위한 특수 장비. \n구 관리국 기술을 재해석해서 복원했다.\n근거리에서 받는 피해를 감소시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_663306",
+      "솔저를 위한 특수 장비. \n구 관리국 기술을 재해석해서 복원했다.\n근거리에서 받는 피해를 감소시킨다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_661107",
+      "과거, 대적자라 불리던 존재들이 사용했다고 전해지는 시곗바늘. 진위는 입증할 길이 없다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_661208",
+      "과거, 대적자라 불리던 존재들이 사용했다고 전해지는 케이스. 진위는 입증할 길이 없다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_661309",
+      "과거, 대적자라 불리던 존재들이 사용했다고 전해지는 크라운. 진위는 입증할 길이 없다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_661310",
+      "과거, 대적자라 불리던 존재들이 사용했다고 전해지는 무브먼트. 진위는 입증할 길이 없다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_651141",
+      "동화 속 폭군이 가지고 있던 시계바늘\n분노와 열기가 느껴진다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_651241",
+      "동화 속 폭군이 가지고 있던 케이스\n분노와 열기가 느껴진다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_651341",
+      "동화 속 폭군이 가지고 있던 크라운\n분노와 열기가 느껴진다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_651342",
+      "동화 속 폭군이 가지고 있던 무브먼트\n분노와 열기가 느껴진다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_652141",
+      "동화 속 폭군이 가지고 있던 포탄\n분노와 열기가 느껴진다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_652241",
+      "동화 속 폭군이 가지고 있던 장갑\n분노와 열기가 느껴진다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_652341",
+      "동화 속 폭군이 가지고 있던 조준경\n분노와 열기가 느껴진다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_652342",
+      "동화 속 폭군이 가지고 있던 감시경\n분노와 열기가 느껴진다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_653141",
+      "동화 속 폭군이 가지고 있던 자동소총\n분노와 열기가 느껴진다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_653241",
+      "동화 속 폭군이 가지고 있던 강화복\n분노와 열기가 느껴진다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_653341",
+      "동화 속 폭군이 가지고 있던 스코프\n분노와 열기가 느껴진다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_653342",
+      "동화 속 폭군이 가지고 있던 외골격\n분노와 열기가 느껴진다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_671141",
+      "시련을 견뎌낸 자에게 주어지는 시계바늘\n이것이 끝인지 출발점에 불과한지는 알 수 없다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_671241",
+      "시련을 견뎌낸 자에게 주어지는 케이스\n이것이 끝인지 출발점에 불과한지는 알 수 없다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_672141",
+      "시련을 견뎌낸 자에게 주어지는 포탄.\n이것이 끝인지 출발점에 불과한지는 알 수 없다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_672342",
+      "시련을 견뎌낸 자에게 주어지는 감시 장치.\n이것이 끝인지 출발점에 불과한지는 알 수 없다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_681141",
+      "고결한 카운터의 정신이 깃들었다는 시곗바늘.\n정정당당하게 적을 무찌를 힘을 선사해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_681141",
+      "헌신적인 카운터와 함께하면 진가를 발휘하는 케이스.\n동료를 지킬 힘을 선사해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_681341",
+      "용기 있는 카운터에게만 선사된 크라운.\n주로 대정화 전쟁 참전자들이 지니고 있다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_681342",
+      "꿈을 위해 정진하는 카운터여야 작동하는 무브먼트.\n위기를 회피할 기민함을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_682141",
+      "포격만으로 적을 섬멸하기 위해 고안된 포탄.\n개발진은 품위 있는 전선을 꿈꾼 모양이다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_682241",
+      "퓨처 앳 워의 페이퍼플랜을 구현한 증가장갑.\n장착한 기체는 요새 같은 방어력을 발휘한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_682341",
+      "종이 한 장의 오차도 불허하는 카메라.\n높은 포격 명중률은 부대의 사기를 드높인다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_681342",
+      "함선의 측정장비 설계를 도입한 카메라.\n성능은 우월하지만 천문학적 가격을 자랑한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_683141",
+      "모 국 정부의 근위대가 특별 발주한 자동소총.\n위신과 실용성을 겸비했다는 평이다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_683241",
+      "의무병용 특수 강화복.\n은엄폐를 도외시하고 부상자를 도울 수 있는 방호력을 제공한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_683341",
+      "사용자를 명사수로 만드는 신형 조준보조장비.\n작전능력 평가에서는 사용이 제한된다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_681342",
+      "모 연구소가 개발한 신제품.\n축적된 실전 테스트 데이터가 신뢰성을 보장해 준다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_761141",
+      "음산한 색채가 흐르는 시곗바늘.\n늘 전쟁의 징후가 나타난 방향을 가리키고 있다.\n카운터에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_761241",
+      "음산한 색채가 흐르는 케이스.\n뒷면에 다른 전쟁터의 풍경이 비친다.\n카운터에게 경이로운 방어력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_761341",
+      "음산한 색채가 흐르는 크라운.\n감으면 전사자의 단말마가 들려온다.\n카운터에게 경이로운 명중력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_763141",
+      "음산한 색채가 흐르는 자동소총.\n스스로 적을 조준해 쏜다는 말도 있다.\n솔저에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DEFENCE_763241",
+      "음산한 색채가 흐르는 강화복.\n관리국의 블랙옵스 전문부대가 사용한다고 한다.\n솔저에게 경이로운 방어력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_763341",
+      "음산한 색채가 흐르는 조준경.\n과거를 관찰할 수 있다는 소문이 돈다.\n솔저에게 경이로운 명중력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_762141",
+      "음산한 색채가 흐르는 포탄.\n폭발한 곳에 한기를 남긴다.\n메카닉에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DEFENCE_762241",
+      "음산한 색채가 흐르는 장갑판.\n침식체도 접근하길 꺼려한다.\n메카닉에게 경이로운 방어력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_762341",
+      "음산한 색채가 흐르는 조준경.\n\n메카닉에게 경이로운 명중력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_PHANTOM_COUNTER_WEAPON",
+      "서늘한 기운이 감도는 시곗바늘.\n늘 전쟁의 징후가 나타난 방향을 가리키고 있다.\n카운터에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_PHANTOM_COUNTER_DEFENCE",
+      "서늘한 기운이 감도는 케이스.\n뒷면에 다른 전쟁터의 풍경이 비친다.\n카운터에게 경이로운 방어력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_PHANTOM_COUNTER_ACC_A",
+      "서늘한 기운이 감도는 크라운.\n감으면 전사자의 단말마가 들려온다.\n카운터에게 경이로운 회피력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_PHANTOM_MECHANIC_WEAPON",
+      "서늘한 기운이 감도는 포탄.\n폭발한 곳에 한기를 남긴다.\n메카닉에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_PHANTOM_MECHANIC_DEFENCE",
+      "서늘한 기운이 감도는 장갑판.\n침식체도 접근하길 꺼려한다.\n메카닉에게 경이로운 방어력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_PHANTOM_MECHANIC_ACC_A",
+      "서늘한 기운이 감도는 조준경.\n메카닉에게 경이로운 회피력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_PHANTOM_SOLDIER_WEAPON",
+      "서늘한 기운이 감도는 자동소총.\n스스로 적을 조준해 쏜다는 말도 있다.\n솔저에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_PHANTOM_SOLDIER_DEFENCE",
+      "서늘한 기운이 감도는 강화복.\n관리국의 블랙옵스 전문부대가 사용한다고 한다.\n솔저에게 경이로운 방어력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_PHANTOM_SOLDIER_ACC_A",
+      "서늘한 기운이 감도는 조준경.\n과거를 관찰할 수 있다는 소문이 돈다.\n솔저에게 경이로운 회피력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_STRATER1_COUNTER_WEAPON",
+      "카운터를 위한 연구용 장비.\n구 관리국의 소실된 기술을 해석하기 위해 제작되었다.\n카운터의 지상화력을 끌어올려준다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_STRATER1_COUNTER_DEFENCE",
+      "카운터를 위한 연구용 장비.\n구 관리국의 소실된 기술을 해석하기 위해 제작되었다.\n지상피해 저항능력을 끌어올려준다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_STRATER1_MECHANIC_WEAPON",
+      "메카닉을 위한 연구용 장비. \n구 관리국의 소실된 기술을 해석하기 위해 제작되었다.\n메카닉의 지상화력을 끌어올려준다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_STRATER1_MECHANIC_DEFENCE",
+      "메카닉을 위한 연구용 장비. \n구 관리국의 소실된 기술을 해석하기 위해 제작되었다.\n지상피해 저항능력을 끌어올려준다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_STRATER1_SOLDIER_WEAPON",
+      "솔저를 위한 연구용 장비. \n구 관리국의 소실된 기술을 해석하기 위해 제작되었다.\n솔저의 지상화력을 끌어올려준다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_STRATER1_SOLDIER_DEFENCE",
+      "솔저를 위한 연구용 장비. \n구 관리국의 소실된 기술을 해석하기 위해 제작되었다.\n지상피해 저항능력을 끌어올려준다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TFPLAN_COUNTER_WEAPON",
+      "신설 태스크포스에 지급되는 카운터용 기초 장비.\n현장 의견을 반영해 신뢰성에 초점을 맞춰 생산되었다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TFPLAN_MECHANIC_WEAPON",
+      "신설 태스크포스에 지급되는 메카닉용 기초 장비.\n현장 의견을 반영해 신뢰성에 초점을 맞춰 생산되었다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_TFPLAN_SOLDIER_WEAPON",
+      "신설 태스크포스에 지급되는 솔저용 기초 장비.\n현장 의견을 반영해 신뢰성에 초점을 맞춰 생산되었다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_561141_PACKAGE",
+      "카운터를 위한 특수 장비. \n구 관리국 기술을 재해석해서 복원했다.\n카운터의 지상화력을 끌어올려준다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DEFENCE_561241_PACKAGE",
+      "카운터를 위한 특수 장비. \n구 관리국 기술을 재해석해서 복원했다.\n지상피해 저항능력을 끌어올려준다.\n<color=#ffd34c>세트 옵션이 변경되지 않습니다.</color>"
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_2161141",
+      "지금은 사라진 세계의 염원이 깃든 시곗바늘. 움직일 때마다 결전을 다짐하는 함성이 들려온다.\n\n카운터에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_2161121",
+      "지금은 사라진 세계의 낡은 시곗바늘."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DFFENCE_2161241",
+      "지금은 사라진 세계의 염원이 깃든 케이스. 착용하고 있는 동안 보이지 않는 힘이 보호해 준다.\n\n카운터에게 경이로운 방어력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DFFENCE_2161221",
+      "지금은 사라진 세계의 낡은 케이스."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_2161341",
+      "지금은 사라진 세계의 염원이 깃든 크라운. 돌리다 보면 어느새인가 무거운 정적이 찾아온다.\n\n카운터에게 경이로운 명중력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_2161321",
+      "지금은 사라진 세계의 낡은 크라운."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_2161441",
+      "지금은 사라진 세계의 염원이 깃든 무브먼트. 작동 상태로 방치해 두면 기묘한 현상들이 일어난다.\n\n카운터에게 경이로운 회피력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_2161421",
+      "지금은 사라진 세계의 낡은 무브먼트."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_2162141",
+      "이면세계에서 입수한 설계도를 토대로 제작한 포탄. 4종 침식체 요격에만 반출이 용인된다.\n\n메카닉에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_2162121",
+      "이면세계에서 입수한 녹슨 포탄."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DFFENCE_2162241",
+      "이면세계에서 입수한 설계도를 토대로 제작된 장갑판. 소재 가공의 난이도 탓에 수량이 한정된다.\n\n메카닉에게 경이로운 방어력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DFFENCE_2162221",
+      "이면세계에서 입수한 녹슨 장갑판."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_2162341",
+      "이면세계에서 입수한 설계도를 토대로 제작된 조준 장치. 예측 능력이 매우 높게 측정된다.\n\n메카닉에게 경이로운 명중력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_2162321",
+      "이면세계에서 입수한 녹슨 조준 장치."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_2162441",
+      "이면세계에서 입수한 설계도를 토대로 제작된 감지 장치. 고준위 침식파 속에서도 교란되지 않는다.\n\n메카닉에게 경이로운 회피력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_2162421",
+      "이면세계에서 입수한 녹슨 감지 장치."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_2163141",
+      "챔버의 실험 시설에서 시범 생산 중인 돌격소총. 자기력을 이용해 총탄을 발사한다.\n\n솔저에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_2163121",
+      "챔버의 실험 시설에서 폐기된 돌격소총."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DFFENCE_2163241",
+      "챔버의 실험 시설에서 시범 생산 중인 강화복. 양성 비용이 높은 전문 인력을 보호하기 위해 설계됐다.\n\n솔저에게 경이로운 방어력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DFFENCE_2163221",
+      "챔버의 실험 시설에서 폐기된 강화복."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_2163341",
+      "챔버의 실험 시설에서 시범 생산 중인 광학장비. 사실상 개인용 전술 컴퓨터에 가깝다.\n\n솔저에게 경이로운 명중력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_2163321",
+      "챔버의 실험 시설에서 폐기된 광학장비."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_2163441",
+      "챔버의 실험 시설에서 시범 생산 중인 외골격. 저등급 카운터 수준의 신체 능력 강화를 제공한다.\n\n솔저에게 경이로운 회피력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_2163421",
+      "챔버의 실험 시설에서 폐기된 외골격."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_2461141",
+      "인히비터의 잔해를 가공하여 만든 시곗바늘.\n가공되지 않은 초열의 융합 에너지가 느껴진다.\n카운터에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DFFENCE_2461241",
+      "인히비터의 잔해를 가공하여 만든 케이스.\n가공되지 않은 초열의 융합 에너지가 느껴진다.\n카운터에게 경이로운 방어력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_2461341",
+      "인히비터의 잔해를 가공하여 만든 크라운.\n가공되지 않은 초열의 융합 에너지가 느껴진다.\n카운터에게 경이로운 명중력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_2461342",
+      "인히비터의 잔해를 가공하여 만든 무브먼트.\n가공되지 않은 초열의 융합 에너지가 느껴진다.\n카운터에게 경이로운 회피력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_2462141",
+      "인히비터의 무장 시스템을 해석하여 제작된 포탄.\n가공되지 않은 초열의 융합 에너지가 느껴진다.\n메카닉에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DFFENCE_2462241",
+      "인히비터의 무장 시스템을 해석하여 제작된 장갑판.\n가공되지 않은 초열의 융합 에너지가 느껴진다.\n메카닉에게 경이로운 방어력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_2462341",
+      "인히비터의 무장 시스템을 해석하여 제작된 조준 장치.\n가공되지 않은 초열의 융합 에너지가 느껴진다.\n메카닉에게 경이로운 명중력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_2462342",
+      "인히비터의 무장 시스템을 해석하여 제작된 감지 장치.\n가공되지 않은 초열의 융합 에너지가 느껴진다.\n메카닉에게 경이로운 회피력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_2463141",
+      "인히비터의 연구 시설 내부에서 생성된 돌격소총.\n가공되지 않은 초열의 융합 에너지가 느껴진다.\n솔저에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DFFENCE_2463241",
+      "인히비터의 연구 시설 내부에서 생성된 강화복.\n가공되지 않은 초열의 융합 에너지가 느껴진다.\n솔저에게 경이로운 방어력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_2463341",
+      "인히비터의 연구 시설 내부에서 생성된 광학장비.\n가공되지 않은 초열의 융합 에너지가 느껴진다.\n솔저에게 경이로운 명중력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_2463342",
+      "인히비터의 연구 시설 내부에서 생성된 외골격.\n가공되지 않은 초열의 융합 에너지가 느껴진다.\n솔저에게 경이로운 회피력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_2361141",
+      "브리트라의 핵의 파편을 정제하여 만든 시곗바늘.\n통제할 수 없는 뇌명의 기운이 느껴진다.\n카운터에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DFFENCE_2361241",
+      "브리트라의 핵의 파편을 정제하여 만든 케이스.\n통제할 수 없는 뇌명의 기운이 느껴진다.\n카운터에게 경이로운 방어력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_2361341",
+      "브리트라의 핵의 파편을 정제하여 만든 크라운.\n통제할 수 없는 뇌명의 기운이 느껴진다.\n카운터에게 경이로운 명중력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_2361342",
+      "브리트라의 핵의 파편을 정제하여 만든 무브먼트.\n통제할 수 없는 뇌명의 기운이 느껴진다.\n카운터에게 경이로운 회피력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_2362141",
+      "브리트라의 신체구조를 분석해 만든 포탄.\n통제할 수 없는 뇌명의 기운이 느껴진다.\n메카닉에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DFFENCE_2362241",
+      "브리트라의 신체구조를 분석해 만든 장갑판.\n통제할 수 없는 뇌명의 기운이 느껴진다.\n메카닉에게 경이로운 방어력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_2362341",
+      "브리트라의 신체구조를 분석해 만든 조준 장치.\n통제할 수 없는 뇌명의 기운이 느껴진다.\n메카닉에게 경이로운 명중력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_2362342",
+      "브리트라의 신체구조를 분석해 만든 감지 장치.\n통제할 수 없는 뇌명의 기운이 느껴진다.\n메카닉에게 경이로운 회피력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_2363141",
+      "브리트라를 억누르던 주박의 매개체를 가공하여 만든 돌격소총.\n통제할 수 없는 뇌명의 기운이 느껴진다.\n솔저에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DFFENCE_2363241",
+      "브리트라를 억누르던 주박의 매개체를 가공하여 만든 강화복.\n통제할 수 없는 뇌명의 기운이 느껴진다.\n솔저에게 경이로운 방어력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_2363341",
+      "브리트라를 억누르던 주박의 매개체를 가공하여 만든 광학장비.\n통제할 수 없는 뇌명의 기운이 느껴진다.\n솔저에게 경이로운 명중력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_2363342",
+      "브리트라를 억누르던 주박의 매개체를 가공하여 만든 외골격.\n통제할 수 없는 뇌명의 기운이 느껴진다.\n솔저에게 경이로운 회피력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_2561141",
+      "무한한 생명이 넘치는 자연의 기운이 깃든 핸즈.\n덩굴은 잘라내도 끊임없이 자라난다.\n\n카운터에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DFFENCE_2561241",
+      "무한한 생명이 넘치는 자연의 기운이 깃든 케이스.\n감싼 껍질은 결코 부서지지 않는다.\n\n카운터에게 경이로운 생명력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_2561341",
+      "무한한 생명이 넘치는 자연의 기운이 깃든 크라운.\n덩굴은 오랜 시간이 지나도 썩지 않는다.\n\n카운터에게 경이로운 명중력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_2561342",
+      "무한한 생명이 넘치는 자연의 기운이 깃든 무브먼트.\n휘감은 덩굴은 쉼없이 꿈틀거린다.\n\n카운터에게 경이로운 회피력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_2563141",
+      "무한한 생명이 넘치는 자연의 기운이 깃든 돌격소총.\n덩굴은 잘라내도 끊임없이 자라난다.\n\n솔저에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DFFENCE_2563241",
+      "무한한 생명이 넘치는 자연의 기운이 깃든 강화복.\n감싼 껍질은 결코 부서지지 않는다.\n\n솔저에게 경이로운 생명력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_2563341",
+      "무한한 생명이 넘치는 자연의 기운이 깃든 광학장비.\n덩굴은 오랜 시간이 지나도 썩지 않는다.\n\n솔저에게 경이로운 명중력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_2563342",
+      "무한한 생명이 넘치는 자연의 기운이 깃든 외골격.\n휘감은 덩굴은 쉼없이 꿈틀거린다.\n\n솔저에게 경이로운 회피력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_2562141",
+      "무한한 생명이 넘치는 자연의 기운이 깃든 포탄.\n덩굴은 잘라내도 끊임없이 자라난다.\n\n메카닉에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DFFENCE_2562241",
+      "무한한 생명이 넘치는 자연의 기운이 깃든 장갑판.\n감싼 껍질은 결코 부서지지 않는다.\n\n메카닉에게 경이로운 생명력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_2562341",
+      "무한한 생명이 넘치는 자연의 기운이 깃든 조준 장치.\n덩굴은 오랜 시간이 지나도 썩지 않는다.\n\n메카닉에게 경이로운 명중력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_2562342",
+      "무한한 생명이 넘치는 자연의 기운이 깃든 감지 장치.\n휘감은 덩굴은 쉼없이 꿈틀거린다.\n\n메카닉에게 경이로운 회피력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_WEAPON_2661141",
+      "끊임없이 폭발하는 화산의 기운이 깃든 핸즈.\n방출되는 열기는 적을 태우고 녹이기에 충분하다.\n\n카운터에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_DFFENCE_2661241",
+      "끊임없이 폭발하는 화산의 기운이 깃든 케이스.\n까맣게 굳은 표면은 깨지지 않는다.\n\n카운터에게 경이로운 생명력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_2661341",
+      "끊임없이 폭발하는 화산의 기운이 깃든 크라운.\n방출되는 열기는 착용자에게 따스함을 전해준다.\n\n카운터에게 경이로운 명중력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_COUNTER_ACC_2661342",
+      "끊임없이 폭발하는 화산의 기운이 깃든 무브먼트.\n붉게 빛나는 뜨거운 표면은 식지않는다.\n\n카운터에게 경이로운 회피력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_WEAPON_2663141",
+      "끊임없이 폭발하는 화산의 기운이 깃든 돌격소총.\n방출되는 열기는 적을 태우고 녹이기에 충분하다.\n\n솔저에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_DFFENCE_2663241",
+      "끊임없이 폭발하는 화산의 기운이 깃든 강화복.\n까맣게 굳은 표면은 깨지지 않는다.\n\n솔저에게 경이로운 생명력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_2663341",
+      "끊임없이 폭발하는 화산의 기운이 깃든 광학장비.\n방출되는 열기는 착용자에게 따스함을 전해준다.\n\n솔저에게 경이로운 명중력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_SOLDIER_ACC_2663342",
+      "끊임없이 폭발하는 화산의 기운이 깃든 외골격.\n붉게 빛나는 뜨거운 표면은 식지않는다.\n\n솔저에게 경이로운 회피력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_WEAPON_2662141",
+      "끊임없이 폭발하는 화산의 기운이 깃든 포탄.\n방출되는 열기는 적을 태우고 녹이기에 충분하다.\n\n메카닉에게 경이로운 공격력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_DFFENCE_2662241",
+      "끊임없이 폭발하는 화산의 기운이 깃든 장갑판.\n까맣게 굳은 표면은 깨지지 않는다.\n\n메카닉에게 경이로운 생명력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_2662341",
+      "끊임없이 폭발하는 화산의 기운이 깃든 장치.\n방출되는 열기는 착용자에게 따스함을 전해준다.\n\n메카닉에게 경이로운 명중력을 선사한다."
+    ],
+    [
+      "SI_ITEM_DESC_IQI_EQUIP_MECHANIC_ACC_2662342",
+      "끊임없이 폭발하는 화산의 기운이 깃든 장치.\n붉게 빛나는 뜨거운 표면은 식지않는다.\n\n메카닉에게 경이로운 회피력을 선사한다."
+    ]
+  ]
+}

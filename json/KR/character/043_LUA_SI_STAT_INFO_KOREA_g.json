@@ -1,0 +1,846 @@
+{
+  "asset_name": "LUA_SI_STAT_INFO_KOREA_g",
+  "root_name": "m_dicString",
+  "data": [
+    [
+      "SI_STAT_CATEGORY_STANDARD",
+      "기본 능력치"
+    ],
+    [
+      "SI_STAT_CATEGORY_UNIT_TYPE",
+      "VS유닛 타입"
+    ],
+    [
+      "SI_STAT_CATEGORY_UNIT_CLASS",
+      "VS클래스 상성"
+    ],
+    [
+      "SI_STAT_CATEGORY_UNIT_MOVE_TYPE",
+      "VS이동 타입"
+    ],
+    [
+      "SI_STAT_CATEGORY_SKILL_TYPE",
+      "스킬 타입"
+    ],
+    [
+      "SI_STAT_CATEGORY_ADDITIONAL",
+      "추가 능력치"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_HP",
+      "체   력"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ATK",
+      "공격력"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DEF",
+      "방어력"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_CRITICAL",
+      "치   명"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_HIT",
+      "명   중"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_EVADE",
+      "회   피"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_MOVE_SPEED_RATE",
+      "이동속도"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ATTACK_SPEED_RATE",
+      "공격속도"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_CRITICAL_DAMAGE_RATE",
+      "치명타 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_SKILL_COOL_TIME_REDUCE_RATE",
+      "스킬충전속도"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_HP_REGEN_RATE",
+      "초당 체력 회복"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_CRITICAL_RESIST",
+      "치명타 저항"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_CRITICAL_DAMAGE_RESIST_RATE",
+      "치명타 피해 저항"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_CC_RESIST_RATE",
+      "상태이상 저항"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_HEAL_REDUCE_RATE",
+      "받는 회복량 감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_HEAL_RATE",
+      "회복 강화"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_UNIT_TYPE_COUNTER_DAMAGE_RATE",
+      "vs카운터 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_UNIT_TYPE_COUNTER_DAMAGE_REDUCE_RATE",
+      "vs카운터 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_UNIT_TYPE_SOLDIER_DAMAGE_RATE",
+      "vs솔저 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_UNIT_TYPE_SOLDIER_DAMAGE_REDUCE_RATE",
+      "vs솔저 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_UNIT_TYPE_MECHANIC_DAMAGE_RATE",
+      "vs메카닉 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_UNIT_TYPE_MECHANIC_DAMAGE_REDUCE_RATE",
+      "vs메카닉 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_UNIT_TYPE_CORRUPTED_DAMAGE_RATE",
+      "vs침식체 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_UNIT_TYPE_CORRUPTED_DAMAGE_REDUCE_RATE",
+      "vs침식체 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_UNIT_TYPE_REPLACER_DAMAGE_RATE",
+      "vs리플레이서 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_UNIT_TYPE_REPLACER_DAMAGE_REDUCE_RATE",
+      "vs리플레이서 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ATTACK_VS_BOSS_DAMAGE_MODIFY_G1",
+      "vs보스 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DEFEND_VS_BOSS_DAMAGE_MODIFY_G1",
+      "vs보스 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ROLE_TYPE_STRIKER_DAMAGE_RATE",
+      "vs스트라이커 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ROLE_TYPE_STRIKER_DAMAGE_REDUCE_RATE",
+      "vs스트라이커 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ROLE_TYPE_RANGER_DAMAGE_RATE",
+      "vs레인저 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ROLE_TYPE_RANGER_DAMAGE_REDUCE_RATE",
+      "vs레인저 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ROLE_TYPE_SNIPER_DAMAGE_RATE",
+      "vs스나이퍼 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ROLE_TYPE_SNIPER_DAMAGE_REDUCE_RATE",
+      "vs스나이퍼 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ROLE_TYPE_DEFFENDER_DAMAGE_RATE",
+      "vs디펜더 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ROLE_TYPE_DEFFENDER_DAMAGE_REDUCE_RATE",
+      "vs디펜더 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ROLE_TYPE_SUPPOERTER_DAMAGE_RATE",
+      "vs서포터 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ROLE_TYPE_SUPPOERTER_DAMAGE_REDUCE_RATE",
+      "vs서포터 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ROLE_TYPE_SIEGE_DAMAGE_RATE",
+      "vs시즈 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ROLE_TYPE_SIEGE_DAMAGE_REDUCE_RATE",
+      "vs시즈 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ROLE_TYPE_TOWER_DAMAGE_RATE",
+      "vs타워 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ROLE_TYPE_TOWER_DAMAGE_REDUCE_RATE",
+      "vs타워 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ROLE_TYPE_DAMAGE_RATE",
+      "상성 피해 강화"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ROLE_TYPE_DAMAGE_REDUCE_RATE",
+      "상성 피해 저항"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_MOVE_TYPE_LAND_DAMAGE_RATE",
+      "vs지상 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_MOVE_TYPE_LAND_DAMAGE_REDUCE_RATE",
+      "vs지상 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_MOVE_TYPE_AIR_DAMAGE_RATE",
+      "vs공중 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_MOVE_TYPE_AIR_DAMAGE_REDUCE_RATE",
+      "vs공중 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_LONG_RANGE_DAMAGE_RATE",
+      "vs원거리 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_LONG_RANGE_DAMAGE_REDUCE_RATE",
+      "vs원거리 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_SHORT_RANGE_DAMAGE_RATE",
+      "vs근거리 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_SHORT_RANGE_DAMAGE_REDUCE_RATE",
+      "vs근거리 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_SKILL_DAMAGE_RATE",
+      "특수기 증폭"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_SKILL_DAMAGE_REDUCE_RATE",
+      "특수기 감쇄"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_HYPER_SKILL_DAMAGE_RATE",
+      "궁극기 증폭"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_HYPER_SKILL_DAMAGE_REDUCE_RATE",
+      "궁극기 감쇄"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DAMAGE_REDUCE_RATE",
+      "받는 피해 감쇄"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DEF_PENETRATE_RATE",
+      "방어 관통률"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_BARRIER_REINFORCE_RATE",
+      "받는 배리어 증가"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_HP_GROWN_ATK_RATE",
+      "감소체력 비례 공격력 증가"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_HP_GROWN_DEF_RATE",
+      "감소체력 비례 방어력 증가"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_HP_GROWN_EVADE_RATE",
+      "감소체력 비례 회피 증가"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_SPLASH_DAMAGE_REDUCE_RATE",
+      "광역 감쇄"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DEFENDER_PROTECT_RATE",
+      "프로텍트 효과"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DAMAGE_INCREASE_DEFENCE",
+      "피해증가 방어"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DAMAGE_INCREASE_REDUCE",
+      "피해증가 억제"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DAMAGE_REDUCE_PENETRATE",
+      "피해감소 관통"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DAMAGE_REDUCE_REDUCE",
+      "피해감소 억제"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DAMAGE_LIMIT_RATE_BY_HP",
+      "최대피해 제한"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ATTACK_COUNT_REDUCE",
+      "유효타격 흡수"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DAMAGE_RESIST",
+      "피해내성"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DAMAGE_REDUCE_RATE_AGAINST_BARRIER",
+      "vs배리어 피해 감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DAMAGE_BACK_RESIST",
+      "넉백 저항"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_MAIN_STAT_RATE",
+      "모든 능력치 증가"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_EXTRA_ADJUST_DAMAGE_DEALT",
+      "주는 피해 증가"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_EXTRA_ADJUST_DAMAGE_RECEIVE",
+      "받는 피해 증가"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ATTACK_DAMAGE_MODIFY_G2",
+      "주는 피해 증폭"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_COST_RETURN_RATE",
+      "출격 자원 반환"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ATTACK_VS_SOURCE_CONFLICT_G4",
+      "투쟁 감응(공격)"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DEFEND_VS_SOURCE_CONFLICT_G4",
+      "투쟁 감응(방어)"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ATTACK_VS_SOURCE_STABLE_G4",
+      "안정 감응(공격)"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DEFEND_VS_SOURCE_STABLE_G4",
+      "안정 감응(방어)"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ATTACK_VS_SOURCE_LIBERAL_G4",
+      "변화 감응(공격)"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DEFEND_VS_SOURCE_LIBERAL_G4",
+      "변화 감응(방어)"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ATTACK_ATTACK_DAMAGE_MODIFY_G2",
+      "기본기 증폭"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DEFEND_ATTACK_DAMAGE_MODIFY_G2",
+      "기본기 감쇄"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ATTACK_DAMAGE_MODIFY_G1",
+      "주는 피해 증가"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DEFEND_DAMAGE_MODIFY_G1",
+      "받는 피해 감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_BARRIER_GRANT_RATE",
+      "배리어 강화"
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_HP",
+      "해당 수치가 0이 되면 전투불능이 됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ATK",
+      "적에게 입히는 피해량이 증가합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DEF",
+      "적에게 입는 피해량이 감소합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_CRITICAL",
+      "치명타 발생률이 증가합니다. 치명타 발생률은 최대 85%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_HIT",
+      "적이 회피했을 때의 피해량이 증가합니다"
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_EVADE",
+      "회피 발생률이 증가합니다. 회피가 발생하면 피해량이 대폭 감소하며 치명타가 발생하지 않습니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_MOVE_SPEED_RATE",
+      "이동 속도가 증가합니다. 이 수치는 최소 -90%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ATTACK_SPEED_RATE",
+      "모든 공격의 시전 속도가 증가합니다. 이 수치는 최소 -90%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_CRITICAL_DAMAGE_RATE",
+      "치명타가 발생했을 때 적에게 입히는 피해량이 증가합니다. 기본 치명타 피해량은 50%입니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_SKILL_COOL_TIME_REDUCE_RATE",
+      "특수기, 궁극기 쿨타임이 감소합니다. 이 수치는 최소 -100%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_HP_REGEN_RATE",
+      "1초 마다 회복하는 체력량이 증가합니다. 이 수치는 최소 -90%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_CRITICAL_RESIST",
+      "적의 치명타 발생률을 감소시킵니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_CRITICAL_DAMAGE_RESIST_RATE",
+      "치명타가 발생했을 때 받는 피해량이 감소합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_CC_RESIST_RATE",
+      "자신에게 적용된 디버프의 수치 감소와 지속시간을 감쇄합니다. 이 수치는 최소 -100% 최대 80%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_HEAL_REDUCE_RATE",
+      "받는 회복량이 감소합니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_HEAL_RATE",
+      "회복 시전자가 주는 회복량이 증가합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_UNIT_TYPE_COUNTER_DAMAGE_RATE",
+      "카운터 타입 적에게 입히는 피해량을 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_UNIT_TYPE_COUNTER_DAMAGE_REDUCE_RATE",
+      "카운터 타입 적에게 입는 피해량을 감소시킵니다. 피해감소의 총 합은 80%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_UNIT_TYPE_SOLDIER_DAMAGE_RATE",
+      "솔저 타입 적에게 입히는 피해량을 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_UNIT_TYPE_SOLDIER_DAMAGE_REDUCE_RATE",
+      "솔저 타입 적에게 입는 피해량을 감소시킵니다. 피해감소의 총 합은 80%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_UNIT_TYPE_MECHANIC_DAMAGE_RATE",
+      "메카닉 타입 적에게 입히는 피해량을 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_UNIT_TYPE_MECHANIC_DAMAGE_REDUCE_RATE",
+      "메카닉 타입 적에게 입는 피해량을 감소시킵니다. 피해감소의 총 합은 80%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_UNIT_TYPE_CORRUPTED_DAMAGE_RATE",
+      "침식체 타입 적에게 입히는 피해량을 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_UNIT_TYPE_CORRUPTED_DAMAGE_REDUCE_RATE",
+      "침식체 타입 적에게 입는 피해량을 감소시킵니다. 피해감소의 총 합은 80%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_UNIT_TYPE_REPLACER_DAMAGE_RATE",
+      "리플레이서 타입 적에게 입히는 피해량을 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_UNIT_TYPE_REPLACER_DAMAGE_REDUCE_RATE",
+      "리플레이서 타입 적에게 입는 피해량을 감소시킵니다. 피해감소의 총 합은 80%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ATTACK_VS_BOSS_DAMAGE_MODIFY_G1",
+      "보스에게 입히는 피해량을 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다. 해당 값은 PVE에서만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DEFEND_VS_BOSS_DAMAGE_MODIFY_G1",
+      "보스에게 입는 피해량을 감소시킵니다. 피해감소의 총 합은 80%까지만 적용됩니다. 해당 값은 PVE에서만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ROLE_TYPE_STRIKER_DAMAGE_RATE",
+      "스트라이커 클래스 적에게 입히는 피해량을 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ROLE_TYPE_STRIKER_DAMAGE_REDUCE_RATE",
+      "스트라이커 클래스 적에게 입는 피해량을 감소시킵니다. 피해감소의 총 합은 80%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ROLE_TYPE_RANGER_DAMAGE_RATE",
+      "레인저 클래스 적에게 입히는 피해량을 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ROLE_TYPE_RANGER_DAMAGE_REDUCE_RATE",
+      "레인저 클래스 적에게 입는 피해량을 감소시킵니다. 피해감소의 총 합은 80%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ROLE_TYPE_SNIPER_DAMAGE_RATE",
+      "스나이퍼 클래스 적에게 입히는 피해량을 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ROLE_TYPE_SNIPER_DAMAGE_REDUCE_RATE",
+      "스나이퍼 클래스 적에게 입는 피해량을 감소시킵니다. 피해감소의 총 합은 80%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ROLE_TYPE_DEFFENDER_DAMAGE_RATE",
+      "디펜더 클래스 적에게 입히는 피해량을 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ROLE_TYPE_DEFFENDER_DAMAGE_REDUCE_RATE",
+      "디펜더 클래스 적에게 입는 피해량을 감소시킵니다. 피해감소의 총 합은 80%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ROLE_TYPE_SUPPOERTER_DAMAGE_RATE",
+      "서포터 클래스 적에게 입히는 피해량을 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ROLE_TYPE_SUPPOERTER_DAMAGE_REDUCE_RATE",
+      "서포터 클래스 적에게 입는 피해량을 감소시킵니다. 피해감소의 총 합은 80%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ROLE_TYPE_SIEGE_DAMAGE_RATE",
+      "시즈 클래스 적에게 입히는 피해량을 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ROLE_TYPE_SIEGE_DAMAGE_REDUCE_RATE",
+      "시즈 클래스 적에게 입는 피해량을 감소시킵니다. 피해감소의 총 합은 80%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ROLE_TYPE_TOWER_DAMAGE_RATE",
+      "타워 클래스 적에게 입히는 피해량을 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ROLE_TYPE_TOWER_DAMAGE_REDUCE_RATE",
+      "타워 클래스 적에게 입는 피해량을 감소시킵니다. 피해감소의 총 합은 80%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ROLE_TYPE_DAMAGE_RATE",
+      "공격자가 상성상 유리한 적에게 피해를 입힐 때 발생하는 추가 피해량이 늘어납니다. 기본 피해 증가량은 30%입니다. 이 수치는 최소 -200%까지 제한됩니다. 해당 값은 상성 피해 저항과 합연산됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ROLE_TYPE_DAMAGE_REDUCE_RATE",
+      "방어자가 상성상 불리한 적에게 피해를 입을 때 발생하는 추가 피해량이 줄어듭니다. 기본 피해 감소량은 30%입니다. 해당 값은 상성 피해 강화와 합연산됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_MOVE_TYPE_LAND_DAMAGE_RATE",
+      "지상 이동 타입 적에게 입히는 피해량을 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_MOVE_TYPE_LAND_DAMAGE_REDUCE_RATE",
+      "지상 이동 타입 적에게 입는 피해량을 감소시킵니다. 피해감소의 총 합은 80%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_MOVE_TYPE_AIR_DAMAGE_RATE",
+      "공중이동 타입 적에게 입히는 피해량을 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_MOVE_TYPE_AIR_DAMAGE_REDUCE_RATE",
+      "공중이동 타입 적에게 입는 피해량을 감소시킵니다. 피해감소의 총 합은 80%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_LONG_RANGE_DAMAGE_RATE",
+      "적에게 입히는 원거리 피해량을 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_LONG_RANGE_DAMAGE_REDUCE_RATE",
+      "적에게 입는 원거리 피해량을 감소시킵니다. 피해감소의 총 합은 80%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_SHORT_RANGE_DAMAGE_RATE",
+      "적에게 입히는 근거리 피해량을 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_SHORT_RANGE_DAMAGE_REDUCE_RATE",
+      "적에게 입는 근거리 피해량을 감소시킵니다. 피해감소의 총 합은 80%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_SKILL_DAMAGE_RATE",
+      "적에게 입히는 특수기 피해량을 증폭시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_SKILL_DAMAGE_REDUCE_RATE",
+      "적에게 입는 특수기 피해량을 감쇄시킵니다. 피해 감쇄의 총 합은 50%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_HYPER_SKILL_DAMAGE_RATE",
+      "적에게 입히는 궁극기 피해량을 증폭시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_HYPER_SKILL_DAMAGE_REDUCE_RATE",
+      "적에게 입는 궁극기 피해량을 감쇄시킵니다. 피해 감쇄의 총 합은 50%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DAMAGE_REDUCE_RATE",
+      "적에게 입는 피해량이 감쇄합니다. 피해 감쇄의 총 합은 50%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DEF_PENETRATE_RATE",
+      "피해를 입힐 때 해당 수치만큼 적의 방어력을 무시합니다. 총 합은 100%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_BARRIER_REINFORCE_RATE",
+      "받는 배리어량이 증가합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_HP_GROWN_ATK_RATE",
+      "잃은 체력에 비례하여 해당 수치만큼 공격력을 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_HP_GROWN_DEF_RATE",
+      "잃은 체력에 비례하여 해당 수치만큼 방어력을 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_HP_GROWN_EVADE_RATE",
+      "잃은 체력에 비례하여 해당 수치만큼 회피를 증가시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_SPLASH_DAMAGE_REDUCE_RATE",
+      "광역 공격을 실행한 유닛의 공격을 받을 때, 해당 공격으로부터 받는 피해를 감쇄시킵니다. 피해 감쇄의 총 합은 50%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DEFENDER_PROTECT_RATE",
+      "디펜더 유닛이 피해 범위 내에 있으면, 범위 내 디펜더를 제외한 모든 유닛 및 함선에게 피해감소가 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DAMAGE_INCREASE_DEFENCE",
+      "피해를 받을 때 공격자의 피해증가 수치를 감소시킵니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DAMAGE_INCREASE_REDUCE",
+      "피해증가 수치가 감소합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DAMAGE_REDUCE_PENETRATE",
+      "피해를 줄 때 방어자의 피해감소 수치를 감소시킵니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DAMAGE_REDUCE_REDUCE",
+      "피해감소 수치가 감소합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DAMAGE_LIMIT_RATE_BY_HP",
+      "최대피해 제한이 있는 경우 1회 피해를 받을 때 피격 유닛의 체력의 해당 비율만 정상적으로 적용되며 남은 피해는 고정적으로 96% 감소되어 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ATTACK_COUNT_REDUCE",
+      "유효타격수 2 이상의 공격을 받을 때 추가적으로 남은 유효타격수를 줄여줍니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DAMAGE_RESIST",
+      "같은 유닛에게 피해를 입을 때마다 해당 유닛에게 받는 피해를 감소시킵니다. 피해감소의 총 합은 80%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DAMAGE_REDUCE_RATE_AGAINST_BARRIER",
+      "피해를 줄 때 배리어가 있는 방어자에게 주는 피해가 감소합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DAMAGE_BACK_RESIST",
+      "적에게 받는 넉백 거리가 감소합니다. 이 수치는 최소 -100% 최대 100%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_MAIN_STAT_RATE",
+      "모든 능력치가 증가합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_EXTRA_ADJUST_DAMAGE_DEALT",
+      "공격자가 주는 피해가 증가합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_EXTRA_ADJUST_DAMAGE_RECEIVE",
+      "방어자가 받는 피해가 증가합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ATTACK_DAMAGE_MODIFY_G2",
+      "적에게 입히는 피해량을 증폭시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_COST_RETURN_RATE",
+      "유닛이 출격 시 소모한 출격 자원을 반환합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ATTACK_VS_SOURCE_CONFLICT_G4",
+      "투쟁 약점의 몬스터에게 주는 피해가 증가합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DEFEND_VS_SOURCE_CONFLICT_G4",
+      "투쟁 약점의 몬스터에게 받는 피해가 감소합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ATTACK_VS_SOURCE_STABLE_G4",
+      "안정 약점의 몬스터에게 주는 피해가 증가합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DEFEND_VS_SOURCE_STABLE_G4",
+      "안정 약점의 몬스터에게 받는 피해가 감소합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ATTACK_VS_SOURCE_LIBERAL_G4",
+      "변화 약점의 몬스터에게 주는 피해가 증가합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DEFEND_VS_SOURCE_LIBERAL_G4",
+      "변화 약점의 몬스터에게 받는 피해가 감소합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ATTACK_ATTACK_DAMAGE_MODIFY_G2",
+      "적에게 입히는 기본기 피해량을 증폭시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DEFEND_ATTACK_DAMAGE_MODIFY_G2",
+      "적에게 입는 기본기 피해량을 감쇄시킵니다. 피해 감쇄의 총 합은 50%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ATTACK_DAMAGE_MODIFY_G1",
+      "적에게 입히는 피해량을 증가시킵니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DEFEND_DAMAGE_MODIFY_G1",
+      "적에게 입는 피해량을 감소시킵니다. 피해감소의 총 합은 80%까지만 적용됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_BARRIER_GRANT_RATE",
+      "시전자가 주는 배리어량이 증가합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_HEAL_INCREASE_RATE",
+      "받는 회복량 증가"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_HEAL_RATE_NEGATIVE",
+      "회복 약화"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DAMAGE_INCREASE_RATE",
+      "받는 피해 증폭"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DAMAGE_RESIST_NEGATIVE",
+      "피해촉진"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_MAIN_STAT_DECREASE_RATE",
+      "모든 능력치 감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_EXTRA_ADJUST_DAMAGE_DEALT_NEGATIVE",
+      "주는 피해 감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_EXTRA_ADJUST_DAMAGE_RECEIVE_NEGATIVE",
+      "받는 피해 감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ATTACK_DAMAGE_MODIFY_G2_NEGATIVE",
+      "주는 피해 감쇄"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ATTACK_DAMAGE_MODIFY_G1_NEGATIVE",
+      "주는 피해 감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DEFEND_DAMAGE_MODIFY_G1_NEGATIVE",
+      "받는 피해 증가"
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_HEAL_INCREASE_RATE",
+      "받는 회복량이 증가합니다. 이 수치는 최대 +200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_HEAL_RATE_NEGATIVE",
+      "회복 시전자가 주는 회복량이 감소합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DAMAGE_INCREASE_RATE",
+      "적에게 입는 피해량을 증폭시킵니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DAMAGE_RESIST_NEGATIVE",
+      "같은 유닛에게 피해를 입을 때마다 해당 유닛에게 받는 피해를 증가시킵니다. 피해증가의 총 합은 80%까지만 적용됩니다. 피해내성과 상쇄됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_MAIN_STAT_DECREASE_RATE",
+      "모든 능력치가 감소합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_EXTRA_ADJUST_DAMAGE_DEALT_NEGATIVE",
+      "공격자가 주는 피해가 감소합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_EXTRA_ADJUST_DAMAGE_RECEIVE_NEGATIVE",
+      "방어자가 받는 피해가 감소합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ATTACK_DAMAGE_MODIFY_G2_NEGATIVE",
+      "적에게 입히는 피해량이 감쇄합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_ATTACK_DAMAGE_MODIFY_G1_NEGATIVE",
+      "적에게 입히는 피해량을 감소시킵니다. 이 수치는 최소 -200%까지 제한됩니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_DEFEND_DAMAGE_MODIFY_G1_NEGATIVE",
+      "적에게 입는 피해량을 증가시킵니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_HP_FACTOR",
+      "체   력(%)"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_ATK_FACTOR",
+      "공격력(%)"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_DEF_FACTOR",
+      "방어력(%)"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_CRITICAL_FACTOR",
+      "치   명(%)"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_HIT_FACTOR",
+      "명   중(%)"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_NST_EVADE_FACTOR",
+      "회   피(%)"
+    ]
+  ]
+}

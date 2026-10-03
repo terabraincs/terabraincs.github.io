@@ -1,0 +1,238 @@
+{
+  "asset_name": "LUA_SI_COLLECTION_TEAMUP_TEAM_NAME_KOREA_n",
+  "root_name": "m_dicString",
+  "data": [
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_FENRIR",
+      "펜릴 소대"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_ALT",
+      "알트 소대"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_STEEL_SOLDIER",
+      "스틸 레인 : 보병 병과 편제"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_STEEL_MECHANIC",
+      "스틸 레인 : 기갑 병기 일람"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_R7",
+      "R7 비정규 순찰대"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_FENNECFOX_SOLDIER",
+      "페넥 폭스 : 인펀트리"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_FENNECFOX_MECHANIC",
+      "페넥 폭스 : 올드 아머드"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_BLACKTIDE_SOLDIER",
+      "블랙 타이드 : 메트로 유닛 "
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_BLACKTIDE_MECHANIC",
+      "블랙 타이드 : 즉응 기동대"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_FUTUREATWAR",
+      "퓨처 앳 워"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_NINEMIRACLE",
+      "제 9호 기적심의회"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_FREEDOM",
+      "프리덤 라이더즈"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_YEOKSAM",
+      "역삼동 주민회"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_DELTA",
+      "델타 세븐"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_STATE_SOLDEIR",
+      "스테이츠 오브 원 : 통합 전투 여단"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_STATE_MECHANIC",
+      "스테이츠 오브 원 : 웨폰즈 시스템"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_ZODIAC",
+      "조디악나이츠 블루시프트"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_STREGA",
+      "스트레가"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_PRYDWEN",
+      "프리드웬 기관"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_ALPHATRIX",
+      "알파트릭스 이노베이션"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_BETATRIX",
+      "베타트릭스"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_FRONTIER",
+      "프론티어"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_DAYMINE",
+      "데이마인 채굴4팀"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_OFFICIALSUPPORT",
+      "오피셜 서포트"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_BUREAU",
+      "펜릴 전대"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_BUREAU_MECH",
+      "구 관리국 : 기갑"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_HEARTBERRY",
+      "하트 베리"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_MASON",
+      "메이슨 용병 사무소"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_JK",
+      "화이트 래빗"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_POLICE4",
+      "제 4 특별기동수사대"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_DELTA_AP",
+      "델타 세븐 : 패스파인더"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_NANAHARA",
+      "나나하라 가문연합"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_FALLENHAWK",
+      "폴른 호크"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_ESPR",
+      "ESPR"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_SCHOOL",
+      "아카데미 총학생회"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_BUREAU_MAZE",
+      "구 관리국 : 메이즈 전대"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_MAID",
+      "플로라 메이드 서비스"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_MILITIA",
+      "민병대"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_PUPPET",
+      "크로넨워스 인형극단"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_JUNIOR",
+      "히어로 특별육성반"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_COFFIN",
+      "코핀 컴퍼니"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_4MVG",
+      "사흉신"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_YALDABAOTH",
+      "얄다바오트의 자녀들"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_YAKSHA",
+      "구 관리국 : 야크샤 전대"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_CIRINGRAD",
+      "시린그라드"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_STEEL",
+      "스틸 레인"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_HEIR",
+      "상속자"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_FENNECFOX",
+      "페넥 폭스"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_BLACKTIDE",
+      "블랙 타이드"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_FENRIR2",
+      "펜릴 전대"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_SIXWING",
+      "육익"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_STATE",
+      "스테이츠 오브 원"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_PRIMARY",
+      "프라이머리 카운터스"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_BLACKDIAMOND",
+      "프리드웬 기관"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_MILLITIA",
+      "민병대"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_FORTUNE",
+      "솔저 오브 포츈"
+    ],
+    [
+      "SI_COLLECTION_TEAMUP_TEAM_NAME_INITIATIVE",
+      "이니셔티브"
+    ],
+    [
+      "SI_COLLECTION_MISSION_DESC_UNIT_LEVEL",
+      "{0}레벨 달성"
+    ]
+  ]
+}

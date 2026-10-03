@@ -1,0 +1,8206 @@
+{
+  "asset_name": "LUA_SI_DYNAMIC_PREFAB_KOREA_a",
+  "root_name": "m_dicString",
+  "data": [
+    [
+      "SI_DP_CONTRACT_LIMIT_TIME",
+      "채용 가능 시간 {0}시간 {1}분 남음"
+    ],
+    [
+      "SI_DP_CONTRACT_LIMIT_TIME_ADD_DAY",
+      "채용 가능 시간 {0}일 {1}시간 {2}분 남음"
+    ],
+    [
+      "SI_DP_CONTRACT_END_RECRUIT_TIME",
+      "만료된 채용입니다."
+    ],
+    [
+      "SI_DP_GAME_OPTION_ACCOUNT_NEXON_WITHDRAWAL",
+      "회원탈퇴"
+    ],
+    [
+      "SI_DP_OPTION_DROPOUT_WARNING_NEXON",
+      "정말 탈퇴하시겠습니까?\n해당 계정을 더 이상 사용할 수 없습니다.\n탈퇴는 즉시 적용되며 복구할 수 없습니다."
+    ],
+    [
+      "SI_DP_MAIN_SHIP",
+      "기함"
+    ],
+    [
+      "SI_DP_MANAGEMENT",
+      "관리"
+    ],
+    [
+      "SI_DP_EDITOR_NO_SUPPORT_THIS_FUNC",
+      "에디터에서는 지원하지 않는 기능입니다."
+    ],
+    [
+      "SI_DP_QUIT",
+      "종료"
+    ],
+    [
+      "SI_DP_NO_EXIST",
+      "없음"
+    ],
+    [
+      "SI_DP_WEAK",
+      "약함"
+    ],
+    [
+      "SI_DP_NORMAL",
+      "일반"
+    ],
+    [
+      "SI_DP_CUSTOM",
+      "커스텀"
+    ],
+    [
+      "SI_DP_WORST",
+      "최하"
+    ],
+    [
+      "SI_DP_LOW",
+      "낮음"
+    ],
+    [
+      "SI_DP_GOOD",
+      "좋음"
+    ],
+    [
+      "SI_DP_BEST",
+      "최상"
+    ],
+    [
+      "SI_DP_LOW2",
+      "하"
+    ],
+    [
+      "SI_DP_HIGH",
+      "상"
+    ],
+    [
+      "SI_DP_ATTACK_READY",
+      "출격 준비"
+    ],
+    [
+      "SI_DP_ATTACK_PREPARING",
+      "출격 준비중"
+    ],
+    [
+      "SI_DP_ATTACK_COST_IS_NOT_ENOUGH",
+      "출격비용이 부족합니다."
+    ],
+    [
+      "SI_DP_ORGANIZATION",
+      "편성"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_NAME_NUST_COUNTER",
+      "카운터"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_NAME_NUST_MECHANIC",
+      "메카닉"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_NAME_NUST_SOLDIER",
+      "솔저"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_NAME_NUST_ENCHANT",
+      "강화 모듈"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_NAME_NUST_TRAINER",
+      "트로피"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_NAME_NUST_SHIP_ASSAULT",
+      "강습함"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_NAME_NUST_SHIP_CRUISER",
+      "순양함"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_NAME_NUST_SHIP_HEAVY",
+      "중장갑함"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_NAME_NUST_SHIP_SPECIAL",
+      "특무함"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_NAME_NUST_SHIP_PATROL",
+      "패트롤"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_NAME_NUST_SHIP_ETC",
+      "-"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_ENG_NAME_NUST_COUNTER",
+      "[카운터]"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_ENG_NAME_NUST_MECHANIC",
+      "[메카닉]"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_ENG_NAME_NUST_SOLDIER",
+      "[솔저]"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_ENG_NAME_NUST_TRAINER",
+      "[트로피]"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_ENG_NAME_NUST_SHIP_ASSAULT",
+      "[강습합]"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_ENG_NAME_NUST_SHIP_CRUISER",
+      "[순양함]"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_ENG_NAME_NUST_SHIP_HEAVY",
+      "[중장갑함]"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_ENG_NAME_NUST_SHIP_SPECIAL",
+      "[특무함]"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_ENG_NAME_NUST_SHIP_PATROL",
+      "[패트롤]"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_ENG_NAME_NUST_SHIP_ETC",
+      "[기타]"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_DESC_NUST_SHIP_ASSAULT",
+      "범용성이 장점인 표준 함종.\n강습 지점에 배치할 수 있다."
+    ],
+    [
+      "SI_DP_UNIT_STYLE_DESC_NUST_SHIP_CRUISER",
+      "기동력이 뛰어난 고속 함종.\n직선으로 1칸 더 이동할 수 있다."
+    ],
+    [
+      "SI_DP_UNIT_STYLE_DESC_NUST_SHIP_HEAVY",
+      "돌파력이 우수한 장갑 함종.\n수평으로 1열 더 이동할 수 있다."
+    ],
+    [
+      "SI_DP_UNIT_STYLE_DESC_NUST_SHIP_SPECIAL",
+      "선회력이 탁월한 특수 함종.\n대각선으로 1칸 더 이동할 수 있다."
+    ],
+    [
+      "SI_DP_UNIT_STYLE_DESC_NUST_COUNTER",
+      "-"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_DESC_NUST_MECHANIC",
+      "-"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_DESC_NUST_SOLDIER",
+      "-"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_DESC_NUST_SHIP_PATROL",
+      "-"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_DESC_NUST_SHIP_ETC",
+      "-"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_TYPE_NUST_INVALID",
+      "모든 타입"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_TYPE_NUST_COUNTER",
+      "카운터"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_TYPE_NUST_SOLDIER",
+      "솔저"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_TYPE_NUST_MECHANIC",
+      "메카닉"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_TYPE_NUST_CORRUPTED",
+      "침식체"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_TYPE_NUST_REPLACER",
+      "리플레이서"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_TYPE_NUST_TRAINER",
+      "트로피"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_TYPE_NUST_SHIP_ASSAULT",
+      "강습함"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_TYPE_NUST_SHIP_HEAVY",
+      "중장갑함"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_TYPE_NUST_SHIP_CRUISER",
+      "순양함"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_TYPE_NUST_SHIP_SPECIAL",
+      "특무함"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_TYPE_NUST_SHIP_PATROL",
+      "초계기"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_TYPE_NUST_SHIP_ETC",
+      "미분류"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_TYPE_UNKNOWN",
+      "알 수 없음"
+    ],
+    [
+      "SI_DP_SKILL_TYPE_NAME_NST_PASSIVE",
+      "패시브"
+    ],
+    [
+      "SI_DP_SKILL_TYPE_NAME_NST_ATTACK",
+      "기본기"
+    ],
+    [
+      "SI_DP_SKILL_TYPE_NAME_NST_SKILL",
+      "특수기"
+    ],
+    [
+      "SI_DP_SKILL_TYPE_NAME_NST_HYPER",
+      "궁극기"
+    ],
+    [
+      "SI_DP_SKILL_TYPE_NAME_NST_SHIP_ACTIVE",
+      "액티브"
+    ],
+    [
+      "SI_DP_ROLE_TEXT_NURT_STRIKER",
+      "스트라이커"
+    ],
+    [
+      "SI_DP_ROLE_TEXT_NURT_RANGER",
+      "레인저"
+    ],
+    [
+      "SI_DP_ROLE_TEXT_NURT_DEFENDER",
+      "디펜더"
+    ],
+    [
+      "SI_DP_ROLE_TEXT_NURT_SNIPER",
+      "스나이퍼"
+    ],
+    [
+      "SI_DP_ROLE_TEXT_NURT_SUPPORTER",
+      "서포터"
+    ],
+    [
+      "SI_DP_ROLE_TEXT_NURT_SIEGE",
+      "시즈"
+    ],
+    [
+      "SI_DP_ROLE_TEXT_NURT_TOWER",
+      "타워"
+    ],
+    [
+      "SI_DP_MOVE_TYPE_TEXT_MT_AIR",
+      "공중 타입"
+    ],
+    [
+      "SI_DP_MOVE_TYPE_TEXT_MT_LAND",
+      "지상 타입"
+    ],
+    [
+      "SI_DP_ATK_TYPE_TEXT_NFTT_NEAR_ENEMY_AIR",
+      "공중 공격"
+    ],
+    [
+      "SI_DP_ATK_TYPE_TEXT_NFTT_FAR_ENEMY_AIR",
+      "공중 공격"
+    ],
+    [
+      "SI_DP_ATK_TYPE_TEXT_NFTT_NEAR_ENEMY_LAND",
+      "지상 공격"
+    ],
+    [
+      "SI_DP_ATK_TYPE_TEXT_NFTT_FAR_ENEMY_LAND",
+      "지상 공격"
+    ],
+    [
+      "SI_DP_ATK_TYPE_TEXT_NFTT_NEAR_ENEMY",
+      "전천후 공격"
+    ],
+    [
+      "SI_DP_ATK_TYPE_TEXT_NFTT_FAR_ENEMY",
+      "전천후 공격"
+    ],
+    [
+      "SI_DP_ATK_TYPE_TEXT_NFTT_ENEMY_BOSS_AIR",
+      "공중 공성"
+    ],
+    [
+      "SI_DP_ATK_TYPE_TEXT_NFTT_ENEMY_BOSS_LAND",
+      "지상 공성"
+    ],
+    [
+      "SI_DP_ATK_TYPE_TEXT_NFTT_ENEMY_BOSS",
+      "전천후 공성"
+    ],
+    [
+      "SI_DP_ATK_TYPE_TEXT_NFTT_NEAR_MY_TEAM",
+      "전천후 지원"
+    ],
+    [
+      "SI_DP_ATK_TYPE_TEXT_NFTT_NEAR_MY_TEAM_LAND",
+      "지상 지원"
+    ],
+    [
+      "SI_DP_ATK_TYPE_TEXT_NFTT_NEAR_MY_TEAM_AIR",
+      "공중 지원"
+    ],
+    [
+      "SI_DP_ATK_TYPE_TEXT_NFTT_NEAR_MY_TEAM_LOW_HP",
+      "전천후 지원"
+    ],
+    [
+      "SI_DP_ATK_TYPE_TEXT_NFTT_NEAR_MY_TEAM_LOW_HP_LAND",
+      "지상 지원"
+    ],
+    [
+      "SI_DP_ATK_TYPE_TEXT_NFTT_NEAR_MY_TEAM_LOW_HP_AIR",
+      "공중 지원"
+    ],
+    [
+      "SI_DP_ATK_TYPE_TEXT_NFTT_NO",
+      "NONE"
+    ],
+    [
+      "SI_DP_UNIT_GRADE_STRING_NUG_N",
+      "일반"
+    ],
+    [
+      "SI_DP_UNIT_GRADE_STRING_NUG_R",
+      "레어"
+    ],
+    [
+      "SI_DP_UNIT_GRADE_STRING_NUG_SR",
+      "SR"
+    ],
+    [
+      "SI_DP_UNIT_GRADE_STRING_NUG_SSR",
+      "SSR"
+    ],
+    [
+      "SI_DP_UNIT_GRADE_STRING_NUG_N_FOR_EVENTDECK",
+      "N"
+    ],
+    [
+      "SI_DP_UNIT_GRADE_STRING_NUG_R_FOR_EVENTDECK",
+      "R"
+    ],
+    [
+      "SI_DP_UNIT_GRADE_STRING_NUG_SR_FOR_EVENTDECK",
+      "SR"
+    ],
+    [
+      "SI_DP_UNIT_GRADE_STRING_NUG_SSR_FOR_EVENTDECK",
+      "SSR"
+    ],
+    [
+      "SI_DP_SLOT_MODE_TYPE_STRING_UNIT",
+      "유닛"
+    ],
+    [
+      "SI_DP_SLOT_MODE_TYPE_STRING_MOLD",
+      "금형"
+    ],
+    [
+      "SI_DP_SLOT_MODE_TYPE_STRING_EQUIP",
+      "장비"
+    ],
+    [
+      "SI_DP_SLOT_MODE_TYPE_STRING_SKIN",
+      "스킨"
+    ],
+    [
+      "SI_DP_UNIT_ABILITY_NAME_TAG_RESPAWN_FREE_POS",
+      "전진출격"
+    ],
+    [
+      "SI_DP_UNIT_ABILITY_NAME_TAG_REVENGE",
+      "반격기"
+    ],
+    [
+      "SI_DP_UNIT_ABILITY_NAME_TAG_PATROL",
+      "패트롤"
+    ],
+    [
+      "SI_DP_UNIT_ABILITY_NAME_TAG_SWINGBY",
+      "스윙바이"
+    ],
+    [
+      "SI_DP_EQUIP_TYPE_STRING_PRIVATE",
+      "\n{0} 전용 {1}"
+    ],
+    [
+      "SI_DP_EQUIP_TYPE_STRING_ELSE",
+      "{0} {1}"
+    ],
+    [
+      "SI_DP_EQUIP_POSITION_STRING_BY_UNIT_STYLE_PRIVATE",
+      "{0} 전용"
+    ],
+    [
+      "SI_DP_ERROR",
+      "에러"
+    ],
+    [
+      "SI_DP_NOTICE",
+      "알림"
+    ],
+    [
+      "SI_DP_WARNING",
+      "경고"
+    ],
+    [
+      "SI_DP_UNLOCK",
+      "UNLOCK"
+    ],
+    [
+      "SI_DP_INFORMATION",
+      "정보"
+    ],
+    [
+      "SI_DP_CONFIRM",
+      "확인"
+    ],
+    [
+      "SI_DP_CANCEL",
+      "취소"
+    ],
+    [
+      "SI_DP_SQUAD_ONE_PARAM",
+      "{0}소대"
+    ],
+    [
+      "SI_DP_SQUAD_TWO_PARAM",
+      "THE {0}{1} SQUAD"
+    ],
+    [
+      "SI_DP_CHOICE_ONE_PARAM",
+      "{0} 선택"
+    ],
+    [
+      "SI_DP_NO_EXIST_EQUIP_TO_CHANGE",
+      "장착할 수 있는 장비가 없습니다."
+    ],
+    [
+      "SI_DP_COMING_SOON_SYSTEM",
+      "준비 중인 시스템입니다."
+    ],
+    [
+      "SI_DP_COUNTING_ONE_PARAM",
+      "x{0}"
+    ],
+    [
+      "SI_DP_TOTAL_RANK_ONE_PARAM",
+      "전체 {0}위"
+    ],
+    [
+      "SI_DP_RANK_ONE_PARAM",
+      "{0}위"
+    ],
+    [
+      "SI_DP_NO_EXIST_TARGET_TO_SELECT",
+      "선택할 수 있는 대상이 없습니다."
+    ],
+    [
+      "SI_DP_PROFILE",
+      "프로필"
+    ],
+    [
+      "SI_DP_REWARD_LIST_POPUP_TITLE",
+      "획득 가능"
+    ],
+    [
+      "SI_DP_REWARD_LIST_POPUP_DESC",
+      "일정 확률로 다음을 획득할 수 있습니다."
+    ],
+    [
+      "SI_DP_WIN",
+      "승리"
+    ],
+    [
+      "SI_DP_LOSE",
+      "패배"
+    ],
+    [
+      "SI_DP_DRAW",
+      "무승부"
+    ],
+    [
+      "SI_DP_LEVEL_UP",
+      "레벨 업"
+    ],
+    [
+      "SI_DP_LEVEL_ONE_PARAM",
+      "LV.{0}"
+    ],
+    [
+      "SI_DP_EXP_PLUS_ONE_PARAM",
+      "EXP +{0}"
+    ],
+    [
+      "SI_DP_PLUS_EXP_ONE_PARAM",
+      "+{0} EXP"
+    ],
+    [
+      "SI_DP_SHIP_INFO",
+      "함선 정보"
+    ],
+    [
+      "SI_DP_ITEM_GAIN",
+      "아이템 획득"
+    ],
+    [
+      "SI_DP_CONGRATULATION",
+      "축하합니다"
+    ],
+    [
+      "SI_DP_UNIT_INFO",
+      "유닛 정보"
+    ],
+    [
+      "SI_DP_VOTE",
+      "투표"
+    ],
+    [
+      "SI_DP_I_D",
+      "I D"
+    ],
+    [
+      "SI_DP_SLOT_FIRST_REWARD",
+      "최초 클리어"
+    ],
+    [
+      "SI_DP_ATTACK_COUNT_ONE_PARAM",
+      "출격 횟수 : {0}"
+    ],
+    [
+      "SI_DP_REMAIN_COUNT_TWO_PARAM",
+      "남은 횟수 : {0}/{1}"
+    ],
+    [
+      "SI_DP_ITEM_COUNT_ONE_PARAM",
+      "보유 수 : {0}"
+    ],
+    [
+      "SI_DP_ERROR_SERVER_GAME_DATA",
+      "서버로부터 게임 정보를 받아오는데 실패했습니다"
+    ],
+    [
+      "SI_DP_ERROR_SERVER_GAME_DATA_AND_GO_LOBBY",
+      "게임 결과 정보를 서버에서 받아오지 못했습니다.\n로비로 돌아갑니다."
+    ],
+    [
+      "SI_DP_ERROR_RECONNECT",
+      "서버와의 접속이 끊어졌습니다.\n잠시 후 다시 연결합니다."
+    ],
+    [
+      "SI_DP_ERROR_DECONNECT",
+      "서버와의 접속이 끊어졌습니다.\n통신상태 확인후 재접속 시도 바랍니다."
+    ],
+    [
+      "SI_DP_ERROR_FAIL_CONNECT",
+      "서버와의 접속이 끊어졌습니다.\n통신상태 확인후 재접속 시도 바랍니다."
+    ],
+    [
+      "SI_DP_ERROR_MULTIPLE_CONNECT",
+      "동일한 아이디로 다른 곳에서 게임에 접속하여 연결이 끊겼습니다."
+    ],
+    [
+      "SI_DP_TRY_AGAIN",
+      "잠시후 다시 시도해주세요."
+    ],
+    [
+      "SI_DP_FILTER_ALL",
+      "모두"
+    ],
+    [
+      "SI_DP_SORT_ENHANCE",
+      "강 화"
+    ],
+    [
+      "SI_DP_SORT_TIER",
+      "티 어"
+    ],
+    [
+      "SI_DP_SORT_RARITY",
+      "희귀도"
+    ],
+    [
+      "SI_DP_SORT_UID",
+      "획득 시기"
+    ],
+    [
+      "SI_DP_SORT_LEVEL",
+      "레벨"
+    ],
+    [
+      "SI_DP_SORT_IDX",
+      "I D"
+    ],
+    [
+      "SI_DP_SORT_ATTACK",
+      "공격력"
+    ],
+    [
+      "SI_DP_SORT_CRIT",
+      "치 명"
+    ],
+    [
+      "SI_DP_SORT_DEFENSE",
+      "방어력"
+    ],
+    [
+      "SI_DP_SORT_EVADE",
+      "회 피"
+    ],
+    [
+      "SI_DP_SORT_HEALTH",
+      "체 력"
+    ],
+    [
+      "SI_DP_SORT_HIT",
+      "명 중"
+    ],
+    [
+      "SI_DP_SORT_POWER",
+      "작전 능력"
+    ],
+    [
+      "SI_DP_SORT_COST",
+      "코스트"
+    ],
+    [
+      "SI_DP_SORT_PLAYER_LEVEL",
+      "회사 레벨"
+    ],
+    [
+      "SI_DP_SORT_LOGIN_TIME",
+      "최종 접속"
+    ],
+    [
+      "SI_DP_FAIL_NET",
+      "통신 실패"
+    ],
+    [
+      "SI_DP_PVP",
+      "PVP"
+    ],
+    [
+      "SI_DP_SKILL_COOLTIME_INC",
+      "스킬쿨타임 증가 {0}초"
+    ],
+    [
+      "SI_DP_SKILL_COOLTIME_DEC",
+      "스킬쿨타임 감소 {0}초"
+    ],
+    [
+      "SI_DP_CONTRACT_RESULT_NONE",
+      "완료된 계약이 없습니다."
+    ],
+    [
+      "SI_DP_CONTRACT_PROGRESS_NONE",
+      "진행중인 계약이 없습니다."
+    ],
+    [
+      "SI_DP_CONTRACT_NOT_ENOUGH_QUICK_ITEM",
+      "긴급채용쿠폰이 부족합니다"
+    ],
+    [
+      "SI_DP_CONTRACT_CHARGE_UNIT_TEXT",
+      "급여 조건"
+    ],
+    [
+      "SI_DP_CONTRACT_CHARGE_SHIP_TEXT",
+      "급여 조건"
+    ],
+    [
+      "SI_DP_CONTRACT_MILEAGE_POINT",
+      "태스크플래닛 포인트 {0}획득"
+    ],
+    [
+      "SI_DP_CONTRACT_MILEAGE_EVENT",
+      "EVENT! x{0} 적용"
+    ],
+    [
+      "SI_DP_CONTRACT_MILEAGE_POINT_EVENT_CLB_003",
+      "{0} {1} 획득"
+    ],
+    [
+      "SI_DP_CONTRACT_USE_ALL_QUICK_ITEM",
+      "일괄 긴급 채용"
+    ],
+    [
+      "SI_DP_CONTRACT_USE_ALL_QUICK_ITEM_DISCRIPTION",
+      "긴급 채용 쿠폰을 사용해 일괄 완료 하시겠습니까?\n이미 완료된 채용은 쿠폰을 소비하지 않습니다."
+    ],
+    [
+      "SI_DP_CONTRACT_NOT_AVAILABLE_TIME",
+      "채용 가능 시간이 종료되었습니다."
+    ],
+    [
+      "SI_DP_UNIT_SELECT",
+      "유닛 선택"
+    ],
+    [
+      "SI_DP_UNIT_SELECT_UNIT_NO_EXIST",
+      "유닛이 없습니다."
+    ],
+    [
+      "SI_DP_UNIT_SELECT_SHIP_NO_EXIST",
+      "함선이 없습니다."
+    ],
+    [
+      "SI_DP_UNIT_SELECT_TROPHY_NO_EXIST",
+      "트로피가 없습니다."
+    ],
+    [
+      "SI_DP_UNIT_SELECT_HAVE_UNIT_COUNT",
+      "보유 유닛"
+    ],
+    [
+      "SI_DP_UNIT_SELECT_HAVE_SHIP_COUNT",
+      "보유 함선"
+    ],
+    [
+      "SI_DP_UNIT_SELECT_UNIT_COUNT",
+      "선택된 유닛"
+    ],
+    [
+      "SI_DP_UNIT_SELECT_SHIP_COUNT",
+      "선택된 함선"
+    ],
+    [
+      "SI_DP_UNIT_SELECT_MAIN",
+      "대장"
+    ],
+    [
+      "SI_DP_UNIT_SELECT_SUB_MAIN",
+      "부장"
+    ],
+    [
+      "SI_DP_UNIT_SELECT_IMPOSSIBLE_DUPLICATE_ORGANIZE",
+      "중복 편성 불가"
+    ],
+    [
+      "SI_DP_COLLECTION_ALLOWED_RANGE_VOTE_COMPLETE",
+      "허용 범위의 투표를 모두 완료하였습니다."
+    ],
+    [
+      "SI_DP_COLLECTION_TRAINING_MODE_CHANGE_REQ",
+      "연습 모드로 이동하시겠습니까?"
+    ],
+    [
+      "SI_DP_COLLECTION_STORY_SUB_TITLE_ONE_PARAM",
+      "ACT. {0}"
+    ],
+    [
+      "SI_DP_COLLECTION_RATE_STRING_BY_TYPE_CT_TEAM_UP",
+      "팀업 수집률"
+    ],
+    [
+      "SI_DP_COLLECTION_RATE_STRING_BY_TYPE_CT_SHIP",
+      "함선 수집률"
+    ],
+    [
+      "SI_DP_COLLECTION_RATE_STRING_BY_TYPE_CT_UNIT",
+      "사원 수집률"
+    ],
+    [
+      "SI_DP_COLLECTION_RATE_STRING_BY_TYPE_CT_ILLUST",
+      "일러스트 수집률"
+    ],
+    [
+      "SI_DP_COLLECTION_RATE_STRING_BY_TYPE_CT_STORY",
+      "스토리 수집률"
+    ],
+    [
+      "SI_DP_REVIEW_DELETE",
+      "기존에 등록한 평가를 삭제하시겠습니까?\n평가는 유닛당 1번만 작성하실 수 있습니다."
+    ],
+    [
+      "SI_DP_POPUP_UNIT_REVIEW_DELETE",
+      "평가 삭제"
+    ],
+    [
+      "SI_DP_POPUP_UNIT_REVIEW_SCORE",
+      "평점 등록"
+    ],
+    [
+      "SI_DP_UNIT_REVIEW_SCORE_VOTE_ONE_PARAM",
+      "{0}명 참여"
+    ],
+    [
+      "SI_DP_UNIT_REVIEW_SCORE_VOTE_PLUS_ONE_PARAM",
+      "{0}+명 참여"
+    ],
+    [
+      "SI_DP_UNIT_REVIEW",
+      "유닛 평가"
+    ],
+    [
+      "SI_DP_REVIEW_DELETE_AND_WRITE",
+      "이전에 작성한 평가가 있습니다.\n이전의 평가를 삭제하고 이 평가를 게시하시겠습니까?"
+    ],
+    [
+      "SI_DP_REVIEW_IS_ALREADY_DELETE",
+      "이미 삭제된 리뷰입니다."
+    ],
+    [
+      "SI_DP_MAIL",
+      "우편"
+    ],
+    [
+      "SI_DP_MAIL_HAVE_COUNT",
+      "수령 대기 중인 우편 {0}건"
+    ],
+    [
+      "SI_DP_INVEN",
+      "창고"
+    ],
+    [
+      "SI_DP_INVEN_EQUIP_SELECT",
+      "장비 선택"
+    ],
+    [
+      "SI_DP_INVEN_EQUIP_CHANGE_WARNING",
+      "다른 유닛이 장착 중인 장비입니다.\n교체하시겠습니까?"
+    ],
+    [
+      "SI_DP_INVEN_MISC_NO_EXIST",
+      "비품이 없습니다."
+    ],
+    [
+      "SI_DP_INVEN_EQUIP_NO_EXIST",
+      "장비가 없습니다."
+    ],
+    [
+      "SI_DP_INVEN_GIVE_RANDOM_OPTION",
+      "무작위 옵션 부여"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_RANDOM_OPTION",
+      "무작위 옵션"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_ENCHANT",
+      "장비 강화 재료"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_HP",
+      "체    력"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_ATK",
+      "공격력"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_DEF",
+      "방어력"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_CRITICAL",
+      "치    명"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_HIT",
+      "명    중"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_EVADE",
+      "회    피"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_MOVE_SPEED_RATE",
+      "이동속도"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_ATTACK_SPEED_RATE",
+      "공격속도"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_CRITICAL_DAMAGE_RATE",
+      "치명타 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_SKILL_COOL_TIME_REDUCE_RATE",
+      "스킬충전속도"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_DAMAGE_REDUCE_RATE",
+      "받는 피해 감쇄"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_HP_REGEN_RATE",
+      "초당 체력 회복"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_CRITICAL_RESIST",
+      "치명타 저항"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_CRITICAL_DAMAGE_RESIST_RATE",
+      "치명타 피해 저항"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_CC_RESIST_RATE",
+      "상태이상 저항"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_HEAL_REDUCE_RATE",
+      "받는 회복량 감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_UNIT_TYPE_COUNTER_DAMAGE_RATE",
+      "vs카운터 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_UNIT_TYPE_COUNTER_DAMAGE_REDUCE_RATE",
+      "vs카운터 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_UNIT_TYPE_SOLDIER_DAMAGE_RATE",
+      "vs솔저 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_UNIT_TYPE_SOLDIER_DAMAGE_REDUCE_RATE",
+      "vs솔저 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_UNIT_TYPE_MECHANIC_DAMAGE_RATE",
+      "vs메카닉 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_UNIT_TYPE_MECHANIC_DAMAGE_REDUCE_RATE",
+      "vs메카닉 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_ROLE_TYPE_STRIKER_DAMAGE_RATE",
+      "vs스트라이커 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_ROLE_TYPE_STRIKER_DAMAGE_REDUCE_RATE",
+      "vs스트라이커 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_ROLE_TYPE_RANGER_DAMAGE_RATE",
+      "vs레인저 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_ROLE_TYPE_RANGER_DAMAGE_REDUCE_RATE",
+      "vs레인저 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_ROLE_TYPE_SNIPER_DAMAGE_RATE",
+      "vs스나이퍼 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_ROLE_TYPE_SNIPER_DAMAGE_REDUCE_RATE",
+      "vs스나이퍼 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_ROLE_TYPE_DEFFENDER_DAMAGE_RATE",
+      "vs디펜더 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_ROLE_TYPE_DEFFENDER_DAMAGE_REDUCE_RATE",
+      "vs디펜더 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_ROLE_TYPE_SUPPOERTER_DAMAGE_RATE",
+      "vs서포터 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_ROLE_TYPE_SUPPOERTER_DAMAGE_REDUCE_RATE",
+      "vs서포터 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_ROLE_TYPE_SIEGE_DAMAGE_RATE",
+      "vs시즈 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_ROLE_TYPE_SIEGE_DAMAGE_REDUCE_RATE",
+      "vs시즈 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_MOVE_TYPE_LAND_DAMAGE_RATE",
+      "vs지상 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_MOVE_TYPE_LAND_DAMAGE_REDUCE_RATE",
+      "vs지상 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_MOVE_TYPE_AIR_DAMAGE_RATE",
+      "vs공중 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_MOVE_TYPE_AIR_DAMAGE_REDUCE_RATE",
+      "vs공중 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_ROLE_TYPE_TOWER_DAMAGE_RATE",
+      "vs타워 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_ROLE_TYPE_TOWER_DAMAGE_REDUCE_RATE",
+      "vs타워 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_LONG_RANGE_DAMAGE_REDUCE_RATE",
+      "vs원거리 피해감소"
+    ],
+    [
+      "SI_DP_MENU_UNEQUIP",
+      "장착 해제"
+    ],
+    [
+      "SI_DP_MENU_EQUIP",
+      "장  착"
+    ],
+    [
+      "SI_DP_INVEN_THERE_IS_NO_UNIT_TO_EQUIP",
+      "장착할 수 있는 대상이 없습니다."
+    ],
+    [
+      "SI_DP_TOOLTIP",
+      "툴팁"
+    ],
+    [
+      "SI_DP_TOOLTIP_QUANTITY_ONE_PARAM",
+      "보유 : {0:N0}"
+    ],
+    [
+      "SI_DP_POPUP_ITEM_LACK",
+      "ItemLack"
+    ],
+    [
+      "SI_DP_ITEM_LACK_DESC_ONE_PARAM",
+      "{0}(이)가 부족합니다."
+    ],
+    [
+      "SI_DP_POPUP_ITEM_BOX",
+      "ItemBox"
+    ],
+    [
+      "SI_DP_USE_ONE_PARAM",
+      "{0}개 사용"
+    ],
+    [
+      "SI_DP_USE_PACKAGE",
+      "패키지 개방"
+    ],
+    [
+      "SI_DP_POPUP_ITEM_EQUIP_BOX",
+      "ItemEquipBox"
+    ],
+    [
+      "SI_DP_EXPAND_DESC_NIET_EQUIP_DESC",
+      "장비 보유 수를 확장하시겠습니까?\n{0} → {1}"
+    ],
+    [
+      "SI_DP_EXPAND_DESC_NIET_EQUIP_FULL",
+      "장비가 가득 찼습니다.\n"
+    ],
+    [
+      "SI_DP_EXPAND_DESC_NIET_UNIT_DESC",
+      "유닛 보유 수를 확장하시겠습니까?\n{0} → {1}"
+    ],
+    [
+      "SI_DP_EXPAND_DESC_NIET_UNIT_FULL",
+      "유닛이 가득 찼습니다.\n"
+    ],
+    [
+      "SI_DP_EXPAND_DESC_NIET_SHIP_DESC",
+      "함선 보유 수를 확장하시겠습니까?\n{0} → {1}"
+    ],
+    [
+      "SI_DP_EXPAND_DESC_NIET_SHIP_FULL",
+      "함선이 가득 찼습니다.\n"
+    ],
+    [
+      "SI_DP_EXPAND_DESC_NIET_TROPHY_DESC",
+      "트로피 보유 수를 확장하시겠습니까?\n{0} → {1}"
+    ],
+    [
+      "SI_DP_EXPAND_DESC_NIET_TROPHY_FULL",
+      "트로피가 가득 찼습니다.\n"
+    ],
+    [
+      "SI_DP_ID",
+      "I D"
+    ],
+    [
+      "SI_DP_DECK_CHANGE_UNIT_WARNING",
+      "다른 소대에 소속된 유닛입니다.\n현재 소대에 편성하시겠습니까??"
+    ],
+    [
+      "SI_DP_DECK_STATE_DOING_MISSION",
+      "임무 수행중"
+    ],
+    [
+      "SI_DP_DECK_STATE_DOING_WARFARE",
+      "전역 배치중"
+    ],
+    [
+      "SI_DP_DECK_STATE_DOING_DIVE",
+      "다이브 배치중"
+    ],
+    [
+      "SI_DP_DECK_STATE_FREE",
+      "대기중"
+    ],
+    [
+      "SI_DP_DECK_UNIT_STATE_DOING",
+      "출격중"
+    ],
+    [
+      "SI_DP_DECK_UNIT_STATE_DOING_MISSION",
+      "파견 임무중"
+    ],
+    [
+      "SI_DP_DECK_UNIT_STATE_MISSION",
+      "파견중"
+    ],
+    [
+      "SI_DP_DECK_UNIT_STATE_DUPLICATE",
+      "중복"
+    ],
+    [
+      "SI_DP_DECK_BUTTON_START",
+      "출 격"
+    ],
+    [
+      "SI_DP_DECK_BUTTON_OK",
+      "확 인"
+    ],
+    [
+      "SI_DP_DECK_BUTTON_SELECT",
+      "선택 완료"
+    ],
+    [
+      "SI_DP_DECK_BUTTON_BATCH",
+      "배 치"
+    ],
+    [
+      "SI_DP_DECK_BUTTON_PVP",
+      "상대 찾기"
+    ],
+    [
+      "SI_DP_DECK_BUTTON_ACTION",
+      "결 정"
+    ],
+    [
+      "SI_DP_DECK_SUCCESS_RATE_ONE_PARAM",
+      "대성공률:  <color=#FFBC00>{0}%</color>"
+    ],
+    [
+      "SI_DP_DECK_CANNOT_START",
+      "<color=#FF0000>출격 불가</color>"
+    ],
+    [
+      "SI_DP_DECK_AVG_SUMMON_COST",
+      "평균 출격 비용"
+    ],
+    [
+      "SI_DP_DECK_SLOT_UNLOCK",
+      "소대 슬롯을 개방하시겠습니까?"
+    ],
+    [
+      "SI_DP_DECK_BATCH_FAIL_STATE_WARFARE",
+      "전역 배치중인 유닛으로 교체 할 수 없습니다"
+    ],
+    [
+      "SI_DP_DECK_BATCH_FAIL_STATE_DIVE",
+      "전역 배치중인 유닛으로 교체 할 수 없습니다"
+    ],
+    [
+      "SI_DP_EVENT_DECK",
+      "이벤트 덱 편성"
+    ],
+    [
+      "SI_DP_EVENT_DECK_FIXED_TWO_PARAM",
+      "{0}성 {1} 필요"
+    ],
+    [
+      "SI_DP_NO_EXIST_SELECT_UNIT",
+      "선택할 수 있는 유닛이 없습니다."
+    ],
+    [
+      "SI_DP_DECK_SELECT_SHIP",
+      "함선을 선택하세요"
+    ],
+    [
+      "SI_DP_MOVE_TO_TEST_MODE",
+      "연습 모드로 이동하시겠습니까?"
+    ],
+    [
+      "SI_DP_MOVE_TO_COLLECTION",
+      "도감으로 이동하시겠습니까?"
+    ],
+    [
+      "SI_DP_MOVE_TO_LAB",
+      "연구소로 이동하시겠습니까?"
+    ],
+    [
+      "SI_DP_MOVE_TO_SHIPYARD",
+      "함선 정비로 이동하시겠습니까?"
+    ],
+    [
+      "SI_DP_UNIT_INFO_DETAIL",
+      "UnitInfoDetail"
+    ],
+    [
+      "SI_DP_UNKNOWN",
+      "UNKNOWN"
+    ],
+    [
+      "SI_DP_COOLTIME_ONE_PARAM",
+      "쿨타임:{0}초"
+    ],
+    [
+      "SI_DP_BASE",
+      "베이직"
+    ],
+    [
+      "SI_DP_BASE_SKIN",
+      "베이직 스킨"
+    ],
+    [
+      "SI_DP_SKIN_LOCK",
+      "구매가 불가능한 스킨입니다."
+    ],
+    [
+      "SI_DP_SKIN_ONE_PARAM",
+      "{0} 스킨"
+    ],
+    [
+      "SI_DP_SKIN",
+      "SKIN"
+    ],
+    [
+      "SI_DP_SKIN_GRADE_VARIATION",
+      "커먼 스킨"
+    ],
+    [
+      "SI_DP_SKIN_GRADE_NORMAL",
+      "언커먼 스킨"
+    ],
+    [
+      "SI_DP_SKIN_GRADE_RARE",
+      "레어 스킨"
+    ],
+    [
+      "SI_DP_SKIN_GRADE_PREMIUM",
+      "프리미엄 스킨"
+    ],
+    [
+      "SI_DP_UNIT_ROLE_INFO",
+      "역할군 정보"
+    ],
+    [
+      "SI_DP_POPUP_SKILL_FULL_INFO",
+      "SkillInfo"
+    ],
+    [
+      "SI_DP_UNIT_SKILL_INFO_ONE_PARAM",
+      "{0} 스킬 정보"
+    ],
+    [
+      "SI_DP_REMAIN_UNIT_COUNT_ONE_PARAM",
+      "남은 소대원 {0}"
+    ],
+    [
+      "SI_DP_SKILL_TRAINING_COMPLETE",
+      "스킬 훈련 완료"
+    ],
+    [
+      "SI_DP_LOYALTY",
+      "애사심"
+    ],
+    [
+      "SI_DP_LOYALTY_LIFETIME",
+      "종신재직"
+    ],
+    [
+      "SI_DP_LOYALTY_LIFETIME_RECALL",
+      "종신계약을 다시 회상하시겠습니까?"
+    ],
+    [
+      "SI_DP_EPISODE_CATEGORY_EC_MAINSTREAM",
+      "메인스트림"
+    ],
+    [
+      "SI_DP_EPISODE_CATEGORY_EC_DAILY",
+      "모의작전"
+    ],
+    [
+      "SI_DP_EPISODE_CATEGORY_EC_COUNTERCASE",
+      "카운터케이스"
+    ],
+    [
+      "SI_DP_EPISODE_CATEGORY_EC_SIDESTORY",
+      "외  전"
+    ],
+    [
+      "SI_DP_EPISODE_CATEGORY_EC_FIELD",
+      "자유 계약"
+    ],
+    [
+      "SI_DP_EPISODE_CATEGORY_EC_DEFAULT",
+      "에피소드"
+    ],
+    [
+      "SI_DP_EPISODE_NAME_EC_DAILY",
+      "<color=#FFBC00FF>모의 작전</color> {0}<color=#FFFFFF8D><size=25>  {1}</size></color>"
+    ],
+    [
+      "SI_DP_EPISODE_NAME_DEFAULT",
+      "<color=#FFBC00FF>{0}</color> {1}"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_CLEAR_WARFARE_SIMPLE",
+      "메인스트림 {0} ACT {1} 전체 클리어"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_CLEAR_WARFARE_DEFAULT",
+      "메인스트림 {0} ACT {1} 전체를 클리어 해야 합니다"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_CITY_COUNT_SIMPLE",
+      "지부 {0}개 설립"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_CITY_COUNT_DEFAULT",
+      "지부가 {0}개 필요합니다"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_UNIT_GET",
+      "[{0}] 채용"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_UNIT_LEVEL_20",
+      "[{0}] 레벨 20 달성"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_UNIT_LEVEL_25",
+      "[{0}] 레벨 25 달성"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_UNIT_LEVEL_50",
+      "[{0}] 레벨 50 달성"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_UNIT_LEVEL_80",
+      "[{0}] 레벨 80 달성"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_UNIT_LEVEL_100",
+      "[{0}] 레벨 100 달성"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_UNIT_LIMIT_GARDE_1",
+      "[{0}] 한계돌파 1회"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_UNIT_LIMIT_GARDE_2",
+      "[{0}] 한계돌파 2회"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_UNIT_LIMIT_GARDE_3",
+      "[{0}] 한계돌파 3회"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_UNIT_DEVOTION",
+      "[{0}] 애사심 100 달성"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_PLAYER_LEVEL_SIMPLE",
+      "플레이어 레벨 {0} 달성"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_PLAYER_LEVEL_DEFAULT",
+      "플레이어 레벨이 {0} 이상이 되어야 합니다"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_CLEAR_DUNGEON_EC_MAINSTREAM_SIMPLE",
+      "메인스트림 {0} ACT {1} 전체 클리어"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_CLEAR_DUNGEON_EC_MAINSTREAM_DEFAULT",
+      "메인스트림 {0} ACT {1} 전체를 클리어 해야 합니다"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_CLEAR_DUNGEON_EC_DAILY",
+      "{0} {1} 클리어"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_CLEAR_DUNGEON_EC_COUNTERCASE",
+      "{0} 카운터케이스 #{1} 클리어"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_CLEAR_DUNGEON_EC_SIDESTORY",
+      "{0} 외전 {1}-{2} 클리어"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_CLEAR_DUNGEON_NDT_CUTSCENE",
+      "컷씬 {0} 확인"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_CLEAR_DUNGEON_ELSE_SIMPLE",
+      "{0} 던전 클리어"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_CLEAR_DUNGEON_ELSE_DEFAULT",
+      "{0} 던전을 클리어 해야합니다"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_CLEAR_STAGE",
+      "클리어 후 사용가능합니다."
+    ],
+    [
+      "SI_DP_EPISODE_TITLE",
+      "EPISODE {0}."
+    ],
+    [
+      "SI_DP_EPISODE_GIVE_UP_WARFARE",
+      "진행중인 전역게임을 포기하고 진행하시겠습니까?"
+    ],
+    [
+      "SI_DP_SIDE_STORY",
+      "SIDE STORY"
+    ],
+    [
+      "SI_DP_MAIN_STREAM",
+      "MAIN STREAM"
+    ],
+    [
+      "SI_DP_MENU_NAME_OPERATION_VIEWER",
+      "작전"
+    ],
+    [
+      "SI_DP_MENU_NAME_OPERATION_INTRO",
+      "작전인트로"
+    ],
+    [
+      "SI_DP_MENU_NAME_CC",
+      "카운터케이스/일반"
+    ],
+    [
+      "SI_DP_MENU_NAME_CCS",
+      "카운터케이스/기밀"
+    ],
+    [
+      "SI_DP_COUNTER_CASE_UNLOCK_BUTTON",
+      "케이스 열람"
+    ],
+    [
+      "SI_DP_COUNTER_CASE_LOCK_BUTTON",
+      "케이스 개방"
+    ],
+    [
+      "SI_DP_COUNTER_CASE_SLOT_BUTTON_LOCK",
+      "개 방"
+    ],
+    [
+      "SI_DP_COUNTER_CASE_SLOT_BUTTON_UNLOCK",
+      "조사 개시"
+    ],
+    [
+      "SI_DP_DAILY_CHECK_DAY",
+      "입장 가능한 요일을 확인해주세요."
+    ],
+    [
+      "SI_DP_WF_MISSION_TEXT_PERFECT",
+      "퇴각 없이 "
+    ],
+    [
+      "SI_DP_WF_MISSION_TEXT_WFMT_CLEAR",
+      "전투에서 승리하기"
+    ],
+    [
+      "SI_DP_WF_MISSION_TEXT_WFMT_ALLKILL",
+      "퇴각 없이 모든 적 격파"
+    ],
+    [
+      "SI_DP_WF_MISSION_TEXT_WFMT_PHASE",
+      "퇴각 없이 PHASE {0} 이하로 승리"
+    ],
+    [
+      "SI_DP_WF_MISSION_TEXT_WFMT_NO_SHIPWRECK",
+      "소대 퇴각 없음"
+    ],
+    [
+      "SI_DP_WF_MISSION_TEXT_WFMT_KILL",
+      "적 소대를 {0}개 이상 섬멸"
+    ],
+    [
+      "SI_DP_WF_MISSION_TEXT_WFMT_FIRST_ATTACK",
+      "선제 공격 {0}회 이상"
+    ],
+    [
+      "SI_DP_WF_MISSION_TEXT_WFMT_ASSIST",
+      "{0}회 이상 지원"
+    ],
+    [
+      "SI_DP_WF_MISSION_TEXT_WFMT_CONTAINER",
+      "컨테이너 {0}개 이상 획득"
+    ],
+    [
+      "SI_DP_WF_WIN_CONDITION_TEXT_WFC_KILL_BOSS",
+      "적 보스 제거"
+    ],
+    [
+      "SI_DP_WF_WIN_CONDITION_TEXT_WFC_KILL_ALL",
+      "모든 적 제거"
+    ],
+    [
+      "SI_DP_WF_WIN_CONDITION_TEXT_WFC_KILL_TARGET",
+      "목표 제거"
+    ],
+    [
+      "SI_DP_WF_WIN_CONDITION_TEXT_WFC_TILE_ENTER",
+      "목표지점 도착"
+    ],
+    [
+      "SI_DP_WF_WIN_CONDITION_TEXT_WFC_PHASE_TILE_HOLD",
+      "목표지점 점령"
+    ],
+    [
+      "SI_DP_WF_LOSE_CONDITION_TEXT_WFC_KILL_ALL",
+      "아군 전멸"
+    ],
+    [
+      "SI_DP_WF_LOSE_CONDITION_TEXT_WFC_PHASE",
+      "페이즈 제한"
+    ],
+    [
+      "SI_DP_WF_LOSE_CONDITION_TEXT_WFC_KILL_COUNT",
+      "전투 패배 제한"
+    ],
+    [
+      "SI_DP_WF_LOSE_CONDITION_TEXT_WFC_KILL_BOSS",
+      "기함 전투 패배"
+    ],
+    [
+      "SI_DP_WF_LOSE_CONDITION_TEXT_WFC_TILE_ENTER",
+      "거점 방어 실패"
+    ],
+    [
+      "SI_DP_PLAYING_WARFARE",
+      "[{0}] Act.{1}-{2}"
+    ],
+    [
+      "SI_DP_MENU_NAME_WARFARE",
+      "전투 배치"
+    ],
+    [
+      "SI_DP_WARFARE_REPAIR_TITLE",
+      "수리"
+    ],
+    [
+      "SI_DP_WARFARE_REPAIR_DESC",
+      "해당 소대 함선을 수리 하시겠습니까?"
+    ],
+    [
+      "SI_DP_WARFARE_SUPPLY_TITLE",
+      "보급"
+    ],
+    [
+      "SI_DP_WARFARE_SUPPLY_DESC",
+      "해당 소대 함선에 보급을 하시겠습니까?"
+    ],
+    [
+      "SI_DP_WARFARE_WARNING_GAME_START",
+      "소대를 다 배치하지 않았습니다.\n계속 진행하시겠습니까?"
+    ],
+    [
+      "SI_DP_WARFARE_WARNING_FINISH_TURN",
+      "이동 가능한 소대가 있습니다.\n페이즈를 종료하시겠습니까?"
+    ],
+    [
+      "SI_DP_WARFARE_WARNING_GIVE_UP",
+      "진행중인 전역게임을 포기하고 나가시겠습니까?\n포기하면 보상을 받을 수 없습니다."
+    ],
+    [
+      "SI_DP_WARFARE_WARNING_SUPPLY",
+      "탄환 부족!\n<color=orange>유닛 소환 불가 및 함선 스킬 사용 불가</color>\n전투를 진행하시겠습니까?"
+    ],
+    [
+      "SI_DP_WARFARE_WARNING_NO_EXIST_SUPPLY",
+      "탄환이 없어 전투 진행이 불가합니다."
+    ],
+    [
+      "SI_DP_WARFARE_PHASE_FINISH",
+      "페이즈 종료"
+    ],
+    [
+      "SI_DP_WARFARE_WAVE_ONE_PARAM",
+      "{0} WAVE"
+    ],
+    [
+      "SI_DP_WARFARE_RESULT",
+      "전역 결과"
+    ],
+    [
+      "SI_DP_WARFARE_RESULT_GAME_TIP1",
+      "<size=16>●</size> 소대를 <color=#ffcf3b>골고루 성장</color>시키세요.\n\n"
+    ],
+    [
+      "SI_DP_WARFARE_RESULT_GAME_TIP2",
+      "<size=16>●</size> <color=#ffcf3b>본사</color>에서 소대를 강화하세요.\n\n"
+    ],
+    [
+      "SI_DP_WARFARE_RESULT_GAME_TIP3",
+      "<size=16>●</size> <color=#ffcf3b>모의작전</color>에서 빠른 성장이 가능합니다.\n\n"
+    ],
+    [
+      "SI_DP_WARFARE_RESULT_GAME_TIP4",
+      "<size=16>●</size> <color=#ffcf3b>어시스트</color>를 최대한 활용하세요."
+    ],
+    [
+      "SI_DP_WARFARE_SELECT_SHIP_POPUP",
+      "WarfareSelectShipPopup"
+    ],
+    [
+      "SI_DP_WARFARE_POPUP_ENEMY_INFO_KILL",
+      "섬멸"
+    ],
+    [
+      "SI_DP_WARFARE_POPUP_ENEMY_INFO_WAVE",
+      "방어"
+    ],
+    [
+      "SI_DP_WARFARE_POPUP_ENEMY_INFO_WAVE_ONE_PARAM",
+      "({0}WAVE)"
+    ],
+    [
+      "SI_DP_WARFARE_SUPPORTER_SUPPLY",
+      "협력사 소대는 보급이 불가능합니다."
+    ],
+    [
+      "SI_DP_WARFARE_SUPPORTER_REPAIR",
+      "협력사 소대는 수리가 불가능합니다."
+    ],
+    [
+      "SI_DP_WARFARE_CANNOT_START_BECAUSE_NO_USER_UNIT",
+      "배치된 소대가 없습니다."
+    ],
+    [
+      "SI_DP_WARFARE_CANNOT_PAUSE",
+      "전역을 멈출 수 없는 상황입니다."
+    ],
+    [
+      "SI_DP_DIVE_ARTIFACT_TOTAL_VIEW_DESC_CATEGORY_CHECK_NDAC_ALL",
+      "모든 유닛"
+    ],
+    [
+      "SI_DP_DIVE_ARTIFACT_TOTAL_VIEW_DESC_CATEGORY_CHECK_NDAC_COUNTER",
+      "카운터"
+    ],
+    [
+      "SI_DP_DIVE_ARTIFACT_TOTAL_VIEW_DESC_CATEGORY_CHECK_NDAC_SOLDIER",
+      "솔저"
+    ],
+    [
+      "SI_DP_DIVE_ARTIFACT_TOTAL_VIEW_DESC_CATEGORY_CHECK_NDAC_MECHANIC",
+      "메카닉"
+    ],
+    [
+      "SI_DP_DIVE_ARTIFACT_TOTAL_VIEW_DESC_CATEGORY_CHECK_NDAC_ETC",
+      "기타"
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_ITEM_TITLE",
+      "유실물 발견!"
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_ITEM_SUBTITLE",
+      "아이템을 발견했다."
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_UNIT_TITLE",
+      "요구조자 구출"
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_UNIT_SUBTITLE",
+      "실종자를 발견해 영입했다."
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_REPAIR_TITLE",
+      "수리킷 발견!"
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_REPAIR_SUBTITLE",
+      "모든 소대 함선 HP가 20% 회복되었다."
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_SUPPLY_TITLE",
+      "보급 컨테이너 발견!"
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_SUPPLY_SUBTITLE",
+      "모든 소대 탄환이 1 회복되었다."
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_LOSTSHIP_ITEM_TITLE",
+      "유실물 발견!"
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_LOSTSHIP_ITEM_SUBTITLE",
+      "난파선에서 아이템을 발견했다."
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_LOSTSHIP_UNIT_TITLE",
+      "실종자 발견!"
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_LOSTSHIP_UNIT_SUBTITLE",
+      "난파선에서 실종자를 발견해 영입했다."
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_LOSTSHIP_REPAIR_TITLE",
+      "수리킷 발견!"
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_LOSTSHIP_REPAIR_SUBTITLE",
+      "모든 소대 함선 HP가 20% 회복되었다."
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_LOSTSHIP_SUPPLY_TITLE",
+      "보급 컨테이너 발견!"
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_LOSTSHIP_SUPPLY_SUBTITLE",
+      "모든 소대 탄환이 1 회복되었다."
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_BEACON_DUNGEON_TITLE",
+      "적 기습!"
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_BEACON_DUNGEON_SUBTITLE",
+      "적이 기습했다!"
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_BEACON_BLANK_TITLE",
+      "안전지대"
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_BEACON_BLANK_SUBTITLE",
+      "아무 일 없이 무사히 지나갔다."
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_BEACON_ITEM_TITLE",
+      "유실물 발견!"
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_BEACON_ITEM_SUBTITLE",
+      "아이템을 발견했다."
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_BEACON_UNIT_TITLE",
+      "실종자 발견!"
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_BEACON_UNIT_SUBTITLE",
+      "실종자를 발견해 영입했다."
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_BEACON_STORM_TITLE",
+      "기상 이변"
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_BEACON_STORM_SUBTITLE",
+      "폭풍을 만나 모든 함선 HP가 20% 감소했다."
+    ],
+    [
+      "SI_DP_DG_MISSION_TEXT_GAME_MISSION_TYPE_DGMT_CLEAR",
+      "전투에서 승리하기"
+    ],
+    [
+      "SI_DP_DG_MISSION_TEXT_GAME_MISSION_TYPE_DGMT_TIME_HAVE_SEC",
+      "{0}분 {1}초 이내로 승리"
+    ],
+    [
+      "SI_DP_DG_MISSION_TEXT_GAME_MISSION_TYPE_DGMT_TIME_ELSE",
+      "{0}분 이내로 승리"
+    ],
+    [
+      "SI_DP_DG_MISSION_TEXT_GAME_MISSION_TYPE_DGMT_COST",
+      "사용한 출격 코스트 {0} 이하로 승리"
+    ],
+    [
+      "SI_DP_DG_MISSION_TEXT_GAME_MISSION_TYPE_DGMT_RESPAWN",
+      "소대원 호출 {0}회 이하로 승리"
+    ],
+    [
+      "SI_DP_DG_MISSION_TEXT_GAME_MISSION_TYPE_DGMT_SHIP_HP_DAMAGE",
+      "함선 피해량 {0}% 이내로 승리"
+    ],
+    [
+      "SI_DP_DG_MISSION_TEXT_GAME_MISSION_TYPE_DGMT_DECKCOUNT_SOLDIER",
+      "솔저가 {0}매 이상 편성된 덱으로 승리"
+    ],
+    [
+      "SI_DP_DG_MISSION_TEXT_GAME_MISSION_TYPE_DGMT_DECKCOUNT_MECHANIC",
+      "메가닉이 {0}매 이상 편성된 덱으로 승리"
+    ],
+    [
+      "SI_DP_DG_MISSION_TEXT_GAME_MISSION_TYPE_DGMT_DECKCOUNT_COUNTER",
+      "카운터가 {0}매 이상 편성된 덱으로 승리"
+    ],
+    [
+      "SI_DP_DAILY_DUNGEON_LV_DESC",
+      "{0}강"
+    ],
+    [
+      "SI_DP_MENU_NAME_DUNGEON_POPUP",
+      "DungeonPopup"
+    ],
+    [
+      "SI_DP_ENEMY_LIST_TITLE",
+      "등장 적 목록"
+    ],
+    [
+      "SI_DP_ENEMY_LIST_DESC",
+      "다음의 적이 등장합니다."
+    ],
+    [
+      "SI_DP_OPERATION_POPUP_BUTTON",
+      "작전 준비"
+    ],
+    [
+      "SI_DP_OPERATION_POPUP_BUTTON_PLAYING",
+      "작전 속행"
+    ],
+    [
+      "SI_DP_OPERATION_FIRST_CLEAR_REWARD",
+      "최초 클리어"
+    ],
+    [
+      "SI_DP_DUNGEON_LEVEL_ONE_PARAM",
+      "적 레벨 : {0}"
+    ],
+    [
+      "SI_DP_DUNGEON_MISSION_COST_FAIL_ONE_PARAM",
+      "<color=white>사용한 코스트 {0}이내로 승리</color>\n<color=red>실패</color>"
+    ],
+    [
+      "SI_DP_DUNGEON_MISSION_COST_WARNING_THREE_PARAM",
+      "<color=white>사용한 코스트 {0}이내로 승리</color>\n<color=orange>경고 [{1}/{2}]</color>"
+    ],
+    [
+      "SI_DP_DUNGEON_MISSION_COST_THREE_PARAM",
+      "<color=white>사용한 코스트 {0}이내로 승리</color>\n<color=yellow>주의 [{1}/{2}]</color>"
+    ],
+    [
+      "SI_DP_DUNGEON_MISSION_TIME_FAIL_ONE_PARAM",
+      "<color=white>{0}초 이내로 클리어</color>\n<color=red>실패</color>"
+    ],
+    [
+      "SI_DP_DUNGEON_MISSION_TIME_WARNING_THREE_PARAM",
+      "<color=white>{0}초 이내로 클리어</color>\n<color=red>경고 [{1}/{2}]</color>"
+    ],
+    [
+      "SI_DP_DUNGEON_MISSION_TIME_THREE_PARAM",
+      "<color=white>{0}초 이내로 클리어</color>\n<color=yellow>주의 [{1}/{2}]</color>"
+    ],
+    [
+      "SI_DP_DUNGEON_MISSION_HP_FAIL_ONE_PARAM",
+      "<color=white>함선의 남은 체력 {0}% 이상</color>\n<color=red>실패</color>"
+    ],
+    [
+      "SI_DP_DUNGEON_MISSION_HP_WARNING_TWO_PARAM",
+      "<color=white>함선의 남은 체력 {0}% 이상</color>\n<color=orange>경고 [{1}%]</color>"
+    ],
+    [
+      "SI_DP_DUNGEON_MISSION_HP_TWO_PARAM",
+      "<color=white>함선의 남은 체력 {0}% 이상</color>\n<color=yellow>주의 [{1}%]</color>"
+    ],
+    [
+      "SI_DP_INGAME_RESPAWN_FAIL_STATE",
+      "지금은 출격할 수 없습니다."
+    ],
+    [
+      "SI_DP_INGAME_RESPAWN_FAIL_ALREADY_SPAWN",
+      "이미 출격중인 유닛입니다."
+    ],
+    [
+      "SI_DP_INGAME_RESPAWN_FAIL_UNIT_DATA",
+      "존재하지 않는 유닛입니다."
+    ],
+    [
+      "SI_DP_INGAME_RESPAWN_FAIL_COST",
+      "출격 비용이 부족합니다."
+    ],
+    [
+      "SI_DP_INGAME_RESPAWN_FAIL_MAP",
+      "출격이 불가능한 지역입니다."
+    ],
+    [
+      "SI_DP_INGAME_SHIP_SKILL_FAIL_STATE",
+      "지금은 사용할 수 없습니다."
+    ],
+    [
+      "SI_DP_INGAME_SHIP_SKILL_FAIL_DIE",
+      "함선이 파괴되어 사용할 수 없습니다."
+    ],
+    [
+      "SI_DP_INGAME_SHIP_SKILL_FAIL_USE_OTHER_SKILL",
+      "다른 스킬을 사용중입니다."
+    ],
+    [
+      "SI_DP_INGAME_SHIP_SKILL_FAIL_COOLTIME",
+      "쿨타임이 부족합니다."
+    ],
+    [
+      "SI_DP_INGAME_SHIP_SKILL_FAIL_SILENCE",
+      "스킬을 사용할 수 없습니다."
+    ],
+    [
+      "SI_DP_TIME",
+      "시간"
+    ],
+    [
+      "SI_DP_TIME_PERIOD",
+      "기간"
+    ],
+    [
+      "SI_DP_TIME_DAY",
+      "일"
+    ],
+    [
+      "SI_DP_TIME_HOUR",
+      "시간"
+    ],
+    [
+      "SI_DP_TIME_MINUTE",
+      "분"
+    ],
+    [
+      "SI_DP_TIME_SECOND",
+      "초"
+    ],
+    [
+      "SI_DP_TIME_DAY_ONE_PARAM",
+      "{0}일"
+    ],
+    [
+      "SI_DP_TIME_HOUR_ONE_PARAM",
+      "{0}시간"
+    ],
+    [
+      "SI_DP_TIME_MINUTE_ONE_PARAM",
+      "{0}분"
+    ],
+    [
+      "SI_DP_TIME_SECOND_ONE_PARAM",
+      "{0}초"
+    ],
+    [
+      "SI_DP_TIME_REMAIN_DAY_ONE_PARAM",
+      "남은 시간 : {0}일"
+    ],
+    [
+      "SI_DP_TIME_REMAIN_HOUR_ONE_PARAM",
+      "남은 시간 : {0}시간"
+    ],
+    [
+      "SI_DP_TIME_REMAIN_MINUTE_ONE_PARAM",
+      "남은 시간 : {0}분"
+    ],
+    [
+      "SI_DP_TIME_REMAIN_SECOND_ONE_PARAM",
+      "남은 시간 : {0}초"
+    ],
+    [
+      "SI_DP_TIME_REMAIN_SHOP_DAY_OVER",
+      "{0}일 남음"
+    ],
+    [
+      "SI_DP_TIME_REMAIN_SHOP_EXPIRE_TODAY",
+      "오늘 종료"
+    ],
+    [
+      "SI_DP_TIME_DAY_AGO_ONE_PARAM",
+      "{0}일 전"
+    ],
+    [
+      "SI_DP_TIME_HOUR_AGO_ONE_PARAM",
+      "{0}시간 전"
+    ],
+    [
+      "SI_DP_TIME_MINUTE_AGO_ONE_PARAM",
+      "{0}분 전"
+    ],
+    [
+      "SI_DP_TIME_SECOND_AGO_ONE_PARAM",
+      "{0}초 전"
+    ],
+    [
+      "SI_DP_TIME_A_SECOND_AGO",
+      "방금 전"
+    ],
+    [
+      "SI_DP_DATE_FOUR_PARAM",
+      "{0}월 {1}일 {2}:{3}"
+    ],
+    [
+      "SI_DP_TIME_NO_LIMIT",
+      "기한 없음"
+    ],
+    [
+      "SI_DP_TIME_DAY_HOUR_TWO_PARAM",
+      "{0}일 {1}시간"
+    ],
+    [
+      "SI_DP_TIME_HOUR_MINUTE_TWO_PARAM",
+      "{0}시간 {1}분"
+    ],
+    [
+      "SI_DP_DAY_STRING_MONDAY",
+      "월"
+    ],
+    [
+      "SI_DP_DAY_STRING_TUESDAY",
+      "화"
+    ],
+    [
+      "SI_DP_DAY_STRING_WEDNESDAY",
+      "수"
+    ],
+    [
+      "SI_DP_DAY_STRING_THURSDAY",
+      "목"
+    ],
+    [
+      "SI_DP_DAY_STRING_FRIDAY",
+      "금"
+    ],
+    [
+      "SI_DP_DAY_STRING_SATURDAY",
+      "토"
+    ],
+    [
+      "SI_DP_DAY_STRING_SUNDAY",
+      "일"
+    ],
+    [
+      "SI_DP_REMAIN_TIME_STRING_DAYS",
+      "{0}일"
+    ],
+    [
+      "SI_DP_REMAIN_TIME_STRING_HOURS",
+      "{0}시간"
+    ],
+    [
+      "SI_DP_REMAIN_TIME_STRING_MINUTES",
+      "{0}분"
+    ],
+    [
+      "SI_DP_REMAIN_TIME_STRING_SECONDS",
+      "{0}초"
+    ],
+    [
+      "SI_DP_REMAIN_TIME_STRING_EX_DAYS_AND_HOURS",
+      "{0}일 {1}시간 남음"
+    ],
+    [
+      "SI_DP_REMAIN_TIME_STRING_EX_HOURS_AND_MINUTES",
+      "{0}시간 {1}분 남음"
+    ],
+    [
+      "SI_DP_REMAIN_TIME_STRING_EX_DAYS",
+      "{0}일 남음"
+    ],
+    [
+      "SI_DP_REMAIN_TIME_STRING_EX_HOURS",
+      "{0}시간 남음"
+    ],
+    [
+      "SI_DP_REMAIN_TIME_STRING_EX_MINUTES",
+      "{0}분 남음"
+    ],
+    [
+      "SI_DP_REMAIN_TIME_STRING_EX_SECONDS",
+      "{0}초 남음"
+    ],
+    [
+      "SI_DP_REMAIN_TIME_STRING_EX_END_SOON",
+      "곧 끝남"
+    ],
+    [
+      "SI_DP_REMAIN_TIME_STRING_EX_END",
+      "만료됨"
+    ],
+    [
+      "SI_DP_TIME_CLOSING",
+      "결산 중"
+    ],
+    [
+      "SI_DP_SEASON_TIME_CLOSING_FULL_TEXT",
+      "시즌 결산 중입니다."
+    ],
+    [
+      "SI_DP_SEASON_TIME_UP_TO_END_ONE_PARAM",
+      "시즌 종료까지 {0}"
+    ],
+    [
+      "SI_DP_SEASON_TIME_UP_TO_END_FULL_TEXT_ONE_PARAM",
+      "시즌 종료까지 {0} 남았습니다."
+    ],
+    [
+      "SI_DP_SEASON_POPUP_NEW_SEASON_TITLE",
+      "{0}(이)가 시작되었습니다!"
+    ],
+    [
+      "SI_DP_SHOP",
+      "상점"
+    ],
+    [
+      "SI_DP_SHOP_WAS_NOT_ABLE_TO_GET_PRODUCT_LIST_FROM_SERVER",
+      "상점 물품 목록을 받아오지 못했습니다.\n스토어 로그인 상태를 확인해주세요."
+    ],
+    [
+      "SI_DP_SHOP_NEXT_REFRESH_ONE_PARAM",
+      "다음 갱신까지 <color=#FFBC00> {0} </color>"
+    ],
+    [
+      "SI_DP_SHOP_REMAIN_NUMBER_TWO_PARAM",
+      "(남은 횟수: {0}/{1})"
+    ],
+    [
+      "SI_DP_SHOP_SUPPLY_LIST_INSTANTLY_REFRESH_REQ",
+      "보급소 목록을 즉시 갱신하시겠습니까?"
+    ],
+    [
+      "SI_DP_SHOP_SUPPLY_LIST_GET_FAIL",
+      "보급소 정보를 받아오는데 실패했습니다"
+    ],
+    [
+      "SI_DP_SHOP_SKIN_INFO",
+      "스킨 정보"
+    ],
+    [
+      "SI_DP_SHOP_PACKAGE_INFO",
+      "패키지 정보"
+    ],
+    [
+      "SI_DP_SHOP_ITEM_BUY_MESSAGE_ITEM_TO_MAIL",
+      "[{0}] 구매 성공, 구매한 상품은 우편으로 지급됩니다."
+    ],
+    [
+      "SI_DP_SHOP_ITEM_BUY_MESSAGE_ELSE",
+      "[{0}] 구매 성공"
+    ],
+    [
+      "SI_DP_SHOP_ITEM_BUY_MESSAGE_RT_USER_EXP",
+      "[{0} x{1}] 구매 성공"
+    ],
+    [
+      "SI_DP_SHOP_ITEM_BUY_MESSAGE_RT_MISC",
+      "[{0} x{1}] 구매 성공"
+    ],
+    [
+      "SI_DP_SHOP_ITEM_BUY_MESSAGE_RT_EQUIP",
+      "[{0}] 구매 성공"
+    ],
+    [
+      "SI_DP_SHOP_ITEM_BUY_MESSAGE_RT_SHIP",
+      "[{0}] 구매 성공"
+    ],
+    [
+      "SI_DP_SHOP_ITEM_BUY_MESSAGE_RT_UNIT",
+      "[{0}] 채용 성공"
+    ],
+    [
+      "SI_DP_SHOP_ITEM_BUY_MESSAGE_RT_SKIN",
+      "[{0}] 구매 성공"
+    ],
+    [
+      "SI_DP_SHOP_ITEM_BUY_MESSAGE_RT_MOLD",
+      "[{0}] 구매 성공"
+    ],
+    [
+      "SI_DP_PURCHASE_POPUP_TITLE",
+      "PURCHASE"
+    ],
+    [
+      "SI_DP_PURCHASE_POPUP_DESC",
+      "<color=#FFDB00FF>{0}</color>을(를) 구매하시겠습니까?"
+    ],
+    [
+      "SI_DP_SHOP_COMPLETE_PURCHASE",
+      "구매 성공!"
+    ],
+    [
+      "SI_DP_SHOP_PURCHASE",
+      "구매"
+    ],
+    [
+      "SI_DP_SHOP_ACCOUNT_PURCHASE_COUNT_TWO_PARAM",
+      "(계정 구매 횟수 {0}/{1})"
+    ],
+    [
+      "SI_DP_SHOP_DAY_PURCHASE_COUNT_TWO_PARAM",
+      "(일간 구매 횟수 {0}/{1})"
+    ],
+    [
+      "SI_DP_SHOP_MONTH_PURCHASE_COUNT_TWO_PARAM",
+      "(월간 구매 횟수 {0}/{1})"
+    ],
+    [
+      "SI_DP_SHOP_WEEK_PURCHASE_COUNT_TWO_PARAM",
+      "(주간 구매 횟수 {0}/{1})"
+    ],
+    [
+      "SI_DP_SHOP_FIRST_PURCHASE",
+      "첫 구매"
+    ],
+    [
+      "SI_DP_SHOP_TIME_LIMIT",
+      "기간 한정"
+    ],
+    [
+      "SI_DP_SHOP_LIMIT",
+      "한정"
+    ],
+    [
+      "SI_DP_SHOP_POPULAR",
+      "인기"
+    ],
+    [
+      "SI_DP_SHOP_NEW",
+      "NEW"
+    ],
+    [
+      "SI_DP_LOGIN",
+      "로그인"
+    ],
+    [
+      "SI_DP_LOGIN_NOT_READY",
+      "아직 로그인 준비가 되지 않았습니다."
+    ],
+    [
+      "SI_DP_INITIALIZE_FAILED",
+      "초기화에 실패했습니다."
+    ],
+    [
+      "SI_DP_DECONNECT_AND_GO_TITLE",
+      "서버와의 접속이 해제되었습니다. 타이틀 화면으로 돌아갑니다."
+    ],
+    [
+      "SI_DP_TOY_LOGGED_IN_GUEST",
+      "GUEST LOGGED-IN"
+    ],
+    [
+      "SI_DP_TOY_LOGGED_IN_NEXON",
+      "NEXON LOGGED-IN"
+    ],
+    [
+      "SI_DP_TOY_LOGGED_IN_FACEBOOK",
+      "FACEBOOK LOGGED-IN"
+    ],
+    [
+      "SI_DP_TOY_LOGGED_IN_GOOGLE",
+      "GOOGLE LOGGED-IN"
+    ],
+    [
+      "SI_DP_TOY_LOGGED_IN_APPLE",
+      "APPLE LOGGED-IN"
+    ],
+    [
+      "SI_DP_TOY_GUEST_ACCOUNT_TRANSFER_BACKUP",
+      "게스트 계정 백업 코드를 발급하시겠습니까?"
+    ],
+    [
+      "SI_DP_TOY_GUEST_ACCOUNT_TRANSFER_RESTORE",
+      "게스트 계정 데이터를 이관하시겠습니까?"
+    ],
+    [
+      "SI_DP_TOY_IS_BEING_DISABLED",
+      "TOY 활성화가 안되었습니다."
+    ],
+    [
+      "SI_DP_TOY_LOCAL_PUSH_CONTRACT_TITLE",
+      "인사팀에서 보고입니다."
+    ],
+    [
+      "SI_DP_TOY_LOCAL_PUSH_CONTRACT_DESCRIPTION",
+      "사장님! 채용이 완료되었습니다~"
+    ],
+    [
+      "SI_DP_TOY_LOCAL_PUSH_WORLD_MAP_TITLE",
+      "탐사팀에서 보고입니다."
+    ],
+    [
+      "SI_DP_TOY_LOCAL_PUSH_WORLD_MAP_DESCRIPTION",
+      "사장님! 탐사가 완료되었습니다~"
+    ],
+    [
+      "SI_DP_TOY_LOCAL_PUSH_AUTO_SUPPLY_TITLE",
+      "자원관리팀에서 보고입니다."
+    ],
+    [
+      "SI_DP_TOY_LOCAL_PUSH_AUTO_SUPPLY_DESCRIPTION",
+      "사장님! 이터니움 수급이 완료되었습니다~"
+    ],
+    [
+      "SI_DP_TOY_LOCAL_PUSH_GEAR_CRAFT_TITLE",
+      "공방에서 보고입니다."
+    ],
+    [
+      "SI_DP_TOY_LOCAL_PUSH_GEAR_CRAFT_DESCRIPTION",
+      "사장님! 장비 제작이 완료되었습니다~"
+    ],
+    [
+      "SI_DP_TOY_LOCAL_PUSH_PVP_POINT_TITLE",
+      "건틀릿 준비 완료"
+    ],
+    [
+      "SI_DP_TOY_LOCAL_PUSH_PVP_POINT_DESCRIPTION",
+      "사장님! 건틀릿 참가 준비가 완료되었습니다~"
+    ],
+    [
+      "SI_DP_TOY_LOCAL_PUSH_NOT_CONNECTED_TITLE",
+      "사장님! 김하나입니다."
+    ],
+    [
+      "SI_DP_TOY_LOCAL_PUSH_NOT_CONNECTED_DESCRIPTION",
+      "휴가는 즐거우셨는지요? 모두들 사장님을 기다리고 있습니다."
+    ],
+    [
+      "SI_DP_LOBBY_CHECK_QUIT_GAME",
+      "게임을 종료합니까?"
+    ],
+    [
+      "SI_DP_LOBBY_CONTRACT_COMPLETED",
+      "마감 {0}건"
+    ],
+    [
+      "SI_DP_LOBBY_CONTRACT_PROGRESSING",
+      "진행 {0}건"
+    ],
+    [
+      "SI_DP_LOBBY_USER_BUFF_NONE",
+      "현재 적용된 회사 버프가 없습니다."
+    ],
+    [
+      "SI_DP_MISSION_COMPLETE",
+      "미션 완료"
+    ],
+    [
+      "SI_DP_MISSION_COMPLETE_ONE_PARAM",
+      "미션 완료 - {0}"
+    ],
+    [
+      "SI_DP_MISSION",
+      "미션"
+    ],
+    [
+      "SI_DP_MISSION_RESET_INTERVAL_DAILY",
+      "일일"
+    ],
+    [
+      "SI_DP_MISSION_RESET_INTERVAL_WEEKLY",
+      "매주"
+    ],
+    [
+      "SI_DP_MISSION_RESET_INTERVAL_MONTHLY",
+      "매월"
+    ],
+    [
+      "SI_DP_MISSION_REMAIN",
+      "남은 "
+    ],
+    [
+      "SI_DP_MISSION_REMAIN_TWO_PARAM",
+      "남은 {0}\n{1}"
+    ],
+    [
+      "SI_DP_MISSION_COMPLETE_GROWTH_TAB",
+      "이미 모든 과제를 클리어한 성장 미션 입니다."
+    ],
+    [
+      "SI_DP_MISSION_LOCK_GROWTH_TAB",
+      "선행 기업미션을 모두 클리어하면 잠금해제"
+    ],
+    [
+      "SI_DP_MISSION_TAB_GROWTH_01",
+      "강소기업 미션"
+    ],
+    [
+      "SI_DP_MISSION_TAB_GROWTH_02",
+      "중견기업 미션"
+    ],
+    [
+      "SI_DP_MISSION_TAB_GROWTH_03",
+      "대기업 미션"
+    ],
+    [
+      "SI_DP_MISSION_UNAVAILABLE",
+      "아직 사용할 수 없습니다."
+    ],
+    [
+      "SI_DP_MISSION_SHORTCUT_FAIL",
+      "이 곳에서 미션을 수행할 수 있습니다."
+    ],
+    [
+      "SI_DP_MISSION_NEED_GROWTH_ALL_COMPLETE",
+      "전부 클리어 후 보상 수령 가능"
+    ],
+    [
+      "SI_DP_MISSION_EXPIRED",
+      "이미 종료된 미션입니다."
+    ],
+    [
+      "SI_DP_GAUNTLET",
+      "건틀렛"
+    ],
+    [
+      "SI_DP_GAUNTLET_DEMOTE_WARNING",
+      "현재 승점이 리그의 적정 수준보다 낮습니다.\n다음 경기에서 패배하면 하위 리그로 내려갑니다."
+    ],
+    [
+      "SI_DP_GAUNTLET_RANK_NO_JOIN",
+      "랭크 미참여"
+    ],
+    [
+      "SI_DP_GAUNTLET_THIS_WEEK_LEAGUE_ONE_PARAM",
+      "이번 주간 리그  {0}"
+    ],
+    [
+      "SI_DP_GAUNTLET_THIS_SEASON_LEAGUE_BEING_EVALUATED",
+      "<color=yellow>이번 시즌 리그</color>  결산 중"
+    ],
+    [
+      "SI_DP_GAUNTLET_THIS_SEASON_LEAGUE_REMAIN_TIME_ONE_PARAM",
+      "<color=yellow>이번 시즌 리그</color>  {0}"
+    ],
+    [
+      "SI_DP_GAUNTLET_LEAUGE_GUIDE",
+      "리그 안내"
+    ],
+    [
+      "SI_DP_GAUNTLET_SEASON_TITLE_ONE_PARAM",
+      "{0} 리그"
+    ],
+    [
+      "SI_DP_GAUNTLET_SEASON_LEAUGE_DESC",
+      "· 일정 기간마다, 랭크전 시즌이 종료됩니다.\n· 시즌 마감은 마지막 주 일요일 22시입니다.\n· 새 시즌 시작은 월요일 04시 입니다.\n· 지난 시즌 최종 성적에 따라 보상을 지급합니다.\n· 시즌 종료시 정책에 따라 승점이 변동될 수 있습니다.\n· 시즌 결산 이후 승점에 따라 리그가 재배치됩니다."
+    ],
+    [
+      "SI_DP_GAUNTLET_WEEK_LEAGUE",
+      "주간 리그"
+    ],
+    [
+      "SI_DP_GAUNTLET_WEEK_LEAGUE_DESC",
+      "· 매주 일요일 22시에 주간 랭크전이 마감됩니다.\n· 월요일 04시에 지난 주의 성적에 따라 보상을 지급합니다.\n· 월요일 04시에 주간 리그가 시작됩니다."
+    ],
+    [
+      "SI_DP_GAUNTLET_INFO_DESC",
+      "· 장비, 레벨업, 강화로 얻는 능력치는 일부만 적용됩니다.\n· 자신과 비슷한 승점의 유저와 매칭됩니다.\n· 매칭 기준 승점에 작전 능력이 반영됩니다. 작전 능력이 높다면 자신보다 높은 승점의 유저와 매칭될 수 있으며, 작전 능력이 낮다면 자신보다 낮은 승점의 유저와 매칭될 수 있습니다.\n· 자신보다 높은 승점의 유저에게 승리하면 승점을 많이 얻고, 질 경우 적게 잃습니다.\n· 자신보다 낮은 승점의 유저에게 승리하면 승점을 적게 얻고, 질 경우 많이 잃습니다.\n· 자신이 상대보다 승점이 현저히 높지만, 작전 능력이 현저히 낮은 경우, 승점 계산식이 보정됩니다. 이 경우, 기존보다 상대로부터 얻는 승점을 기대할 수 있으며, 지더라도 승점을 덜 잃습니다.\n· 승점을 일정 이상 얻으면 상위 리그로 올라갈 수 있습니다.\n· 일부 리그에서, 해당 리그의 승점보다 100점 이하로 떨어지면 강등될 수 있습니다.\n· 상위 리그에서는 조건을 달성하지 못하면 경고 없이 강등될 수 있습니다.\n· 랭크전에서 고의적인 패배로 점수를 지나치게 떨어뜨린 경우, 매칭 기준 승점이 일정 이하로 하락되지 않게 보정이 적용됩니다."
+    ],
+    [
+      "SI_DP_GAUNTLET_BATTLE_RECORD",
+      "최근 전투 기록"
+    ],
+    [
+      "SI_DP_GAUNTLET_WIN_STREAK_ONE_PARAM",
+      "{0}연승 중"
+    ],
+    [
+      "SI_DP_GAUNTLET_SEASON_NUMBERING_NAME",
+      "SEASON {0}"
+    ],
+    [
+      "SI_DP_GAUNTLET_WIN_COUNT",
+      "{0}승"
+    ],
+    [
+      "SI_DP_GAUNTLET_ASYNC_SEASON_LEAUGE_DESC",
+      "· 일정 기간마다, 전략전 시즌이 종료됩니다.\n· 시즌 마감은 시즌 종료일 22시입니다.\n· 새 시즌 시작은 시즌 개시일 04시 입니다.\n· 지난 시즌 최종 성적에 따라 보상을 지급합니다.\n· 시즌 종료시 정책에 따라 승점이 변동될 수 있습니다.\n· 시즌 결산 이후 승점에 따라 리그가 재배치됩니다."
+    ],
+    [
+      "SI_DP_GAUNTLET_ASYNC_WEEK_LEAGUE_DESC",
+      "· 매주 일요일 밤 10시에 주간 리그가 마감됩니다.\n· 월요일 04시에 지난 주의 성적에 따라 보상을 지급합니다.\n· 월요일 04시에 주간 리그가 시작됩니다."
+    ],
+    [
+      "SI_DP_GAUNTLET_ASYNC_INFO_LEAGUE_DESC",
+      "· 장비, 레벨업, 강화로 얻는 능력치는 일부만 적용됩니다.\n· 방어 소대를 반드시 설정해야 전략전에 참여할 수 있습니다.\n· 자신과 비슷한 승점의 유저 3인 중에서, 선택한 유저의 방어 소대와 대전합니다.\n· 전투는 자동으로 진행되며, 유닛은 편성한 순서대로 전투에 배치됩니다.\n· 자신보다 높은 승점의 유저에게 승리하면 승점을 많이 얻고 질 경우 적게 잃습니다.\n· 자신보다 낮은 승점의 유저에게 승리하면 승점을 적게 얻고, 질 경우 많이 잃습니다.\n· 승점을 일정 이상 얻으면 상위 리그로 올라갈 수 있습니다.\n· 일부 리그에서, 해당 리그의 기준 승점 이하로 떨어지면 경고 없이 강등될 수 있습니다."
+    ],
+    [
+      "SI_DP_GAUNTLET_ASYNC_GAME_READY",
+      "전략전 준비"
+    ],
+    [
+      "SI_DP_GAUNTLET_ASYNC_GAME_START",
+      "전략전 개시"
+    ],
+    [
+      "SI_DP_GAUNTLET_ASYNC_GAME",
+      "전략전"
+    ],
+    [
+      "SI_DP_GAUNTLET_RANK_GAME",
+      "랭크전"
+    ],
+    [
+      "SI_DP_GAUNTLET_NORMAL_GAME",
+      "일반전"
+    ],
+    [
+      "SI_DP_GAUNTLET_BAN_LEVEL",
+      "밴 {0}"
+    ],
+    [
+      "SI_DP_GAUNTLET_BAN_DEBUFF_SHIP",
+      "공격력, 체력, 스킬 충전 속도 -{0}%"
+    ],
+    [
+      "SI_DP_GAUNTLET_BAN_POPUP_DESC_UNIT_VER2",
+      "밴 단계에 따라, 유닛의 출격 비용이 1씩, 최대 10까지 증가합니다. 또한, 리더 보너스를 받지 못하며 능력치 패널티를 받게 됩니다.\n얼터니움 리액터를 착용한 유닛은 밴 단계에 따라 리액터 해방 단계가 1단계씩 감소합니다."
+    ],
+    [
+      "SI_DP_GAUNTLET_BAN_POPUP_DESC_SHIP",
+      "밴 단계에 따라, 함선의 공격력, 체력, 스킬 충전 속도가 40%씩, 최대 80%까지 감소합니다."
+    ],
+    [
+      "SI_DP_FRIEND",
+      "협력사"
+    ],
+    [
+      "SI_DP_FRIEND_SHOP_COMING_SOON",
+      "우정 상점 오픈 준비중"
+    ],
+    [
+      "SI_DP_FRIEND_CHANGE_IMAGE",
+      "이미지 변경"
+    ],
+    [
+      "SI_DP_FRIEND_MAIN_DECK",
+      "대표 소대"
+    ],
+    [
+      "SI_DP_FRIEND_LAST_CONNECT",
+      "최종 접속"
+    ],
+    [
+      "SI_DP_FRIEND_LEVEL",
+      "유저 레벨"
+    ],
+    [
+      "SI_DP_FRIEND_SEARCH",
+      "협력사 사업자 등록 번호(또는 사장 이름) 입력"
+    ],
+    [
+      "SI_DP_FRIEND_INFO_LEVEL_ONE_PARAM",
+      "<size=30>LV.</size>{0}"
+    ],
+    [
+      "SI_DP_FIREND_NO_EXIST_PVP_LOG",
+      "건틀렛 참가 기록이 없습니다."
+    ],
+    [
+      "SI_DP_FRIEND_INFO",
+      "FriendInfo"
+    ],
+    [
+      "SI_DP_FRIEND_BLOCK",
+      "차단 하기"
+    ],
+    [
+      "SI_DP_FRIEND_UNBLOCK",
+      "차단 취소"
+    ],
+    [
+      "SI_DP_FRIEND_REQ",
+      "협력사 신청"
+    ],
+    [
+      "SI_DP_FRIEND_REQ_CANCEL",
+      "신청 취소"
+    ],
+    [
+      "SI_DP_FRIEND_REMOVE",
+      "협력사 삭제"
+    ],
+    [
+      "SI_DP_FRIEND_ACCEPT",
+      "협력사 수락"
+    ],
+    [
+      "SI_DP_FRIEND_REFUSE",
+      "협력사 거절"
+    ],
+    [
+      "SI_DP_FRIEND_TALK",
+      "1:1 대화"
+    ],
+    [
+      "SI_DP_FRIEND_ROOM",
+      "마이룸"
+    ],
+    [
+      "SI_DP_FRIEND_PVP",
+      "친선전"
+    ],
+    [
+      "SI_DP_ACCEPT",
+      "수 락"
+    ],
+    [
+      "SI_DP_REFUSE",
+      "거 절"
+    ],
+    [
+      "SI_DP_FRIEND_LIST_IS_EMPTY",
+      "추가한 협력사가 없습니다."
+    ],
+    [
+      "SI_DP_FRIEND_LIST_BLOCK_IS_EMPTY",
+      "차단한 협력사가 없습니다."
+    ],
+    [
+      "SI_DP_FRIEND_LIST_RECV_IS_EMPTY",
+      "받은 협력사 신청이 없습니다."
+    ],
+    [
+      "SI_DP_FRIEND_LIST_REQ_IS_EMPTY",
+      "보낸 협력사 신청이 없습니다."
+    ],
+    [
+      "SI_DP_FRIEND_COUNT_TWO_PARAM",
+      "<color=#FFDB00>협력사 수</color>  {0}/{1}"
+    ],
+    [
+      "SI_DP_FRIEND_BLOCK_COUNT_TWO_PARAM",
+      "<color=#FFDB00>차단 유저 수</color>  {0}/{1}"
+    ],
+    [
+      "SI_DP_FRIEND_RECV_COUNT_TWO_PARAM",
+      "<color=#FFDB00>받은 신청 수</color>  {0}/{1}"
+    ],
+    [
+      "SI_DP_FRIEND_REQ_COUNT_TWO_PARAM",
+      "<color=#FFDB00>보낸 신청 수</color>  {0}/{1}"
+    ],
+    [
+      "SI_DP_FRIEND_ADD_REQ_COMPLETE",
+      "협력사 추가 신청 완료!"
+    ],
+    [
+      "SI_DP_FRIEND_EMBLEM",
+      "엠블럼"
+    ],
+    [
+      "SI_DP_FRIEND_DELETE_REQ",
+      "협력사 목록에서 정말로 삭제하시겠습니까?"
+    ],
+    [
+      "SI_DP_FRIEND_BLOCK_REQ_ONE_PARAM",
+      "[{0}] (을)를 정말로 차단하시겠습니까?"
+    ],
+    [
+      "SI_DP_FRIEND_BLOCK_CANCEL_NOTICE",
+      "차단을 해제했습니다."
+    ],
+    [
+      "SI_DP_PROFILE_NICKNAME_CHANGE_RECHECK_ONE_PARAM",
+      "이 이름을 사용하시겠습니까?"
+    ],
+    [
+      "SI_DP_PROFILE_REPRESENT_SKIN_ONLY_NO_UNIT",
+      "유닛 미보유"
+    ],
+    [
+      "SI_DP_PROFILE_REPRESENT_SKIN_ONLY_NO_UNIT_ERROR",
+      "해당 유닛을 보유하고 있지 않아 대표로 설정할 수 없습니다."
+    ],
+    [
+      "SI_DP_WORLD_MAP_MISSION_TYPE_WMT_DEFENCE",
+      "방위"
+    ],
+    [
+      "SI_DP_WORLD_MAP_MISSION_TYPE_WMT_EXPLORE",
+      "탐색"
+    ],
+    [
+      "SI_DP_WORLD_MAP_MISSION_TYPE_WMT_MINING",
+      "채굴"
+    ],
+    [
+      "SI_DP_WORLD_MAP_MISSION_TYPE_WMT_OFFICE",
+      "사무"
+    ],
+    [
+      "SI_DP_WORLDMAP",
+      "월드맵"
+    ],
+    [
+      "SI_DP_WORLDMAP_RAID_WARNING",
+      "레이드 출현"
+    ],
+    [
+      "SI_DP_WORLDMAP_DIVE_WARNING",
+      "다이브 발생"
+    ],
+    [
+      "SI_DP_MENU_NAME_WORLDMAP_BUILDING",
+      "지부설립"
+    ],
+    [
+      "SI_DP_WORLDMAP_BUILDING_BUILD",
+      "시설 설치"
+    ],
+    [
+      "SI_DP_WORLDMAP_BUILDING_MAX_LEVEL_ONE_PARAM",
+      "(최대 레벨: {0})"
+    ],
+    [
+      "SI_DP_WORLDMAP_BUILDING_SLOT_TWO_PARAM",
+      "시설 슬롯({0}/{1})"
+    ],
+    [
+      "SI_DP_WORLDMAP_BUILDING_REQ_CITY_LEVEL_ONE_PARAM",
+      "지부 레벨 {0} 필요"
+    ],
+    [
+      "SI_DP_WORLDMAP_BUILDING_REQ_BUILD_TWO_PARAM",
+      "{0} Lv{1} 필요"
+    ],
+    [
+      "SI_DP_WORLDMAP_BUILDING_CITY_COUNT_ONE_PARAM",
+      "현재 지부 수 : {0}"
+    ],
+    [
+      "SI_DP_WORLDMAP_BUILDING_CREDIT_REQ_LEVEL_ONE_PARAM",
+      "회사 LV.{0} 이상"
+    ],
+    [
+      "SI_DP_MENU_NAME_WORLDMAP_EVENT",
+      "탐색현황"
+    ],
+    [
+      "SI_DP_WORLDMAP_NO_EXIST_EVENT",
+      "탐색 현황이 없습니다."
+    ],
+    [
+      "SI_DP_WORLDMAP_NO_EXIST_JOIN",
+      "참여 내역이 없습니다."
+    ],
+    [
+      "SI_DP_WORLDMAP_NO_EXIST_COOP",
+      "지원 요청이 없습니다."
+    ],
+    [
+      "SI_DP_WORLDMAP_GO_BUTTON",
+      "바로가기"
+    ],
+    [
+      "SI_DP_WORLDMAP_HELP_BUTTON",
+      "지원"
+    ],
+    [
+      "SI_DP_WORLDMAP_PROGRESS_BUTTON_POPUP",
+      "아직 진행중인 전투입니다."
+    ],
+    [
+      "SI_DP_MENU_NAME_WORLDMAP_NEW_BUILDING",
+      "신규시설"
+    ],
+    [
+      "SI_DP_WORLDMAP_BUILDING_ALREADY_BUILD",
+      "설치됨"
+    ],
+    [
+      "SI_DP_WORLDMAP_BUILDING_REQ_BUILDING_ONE_PARAM",
+      "{0} 설치 필요"
+    ],
+    [
+      "SI_DP_WORLDMAP_CITY_LEADER",
+      "지부장"
+    ],
+    [
+      "SI_DP_WORLDMAP_ANOTHER_CITY",
+      "타 지부 소속"
+    ],
+    [
+      "SI_DP_WORLDMAP_CITY_SET_LEADER",
+      "지부장 임명"
+    ],
+    [
+      "SI_DP_WORLDMAP_CITY_CHANGE_LEADER",
+      "지부장 교체"
+    ],
+    [
+      "SI_DP_WORLDMAP_CITY_SELECT_LEADER",
+      "지부장 선택"
+    ],
+    [
+      "SI_DP_WORLDMAP_CITY_NO_EXIST_LEADER",
+      "지부장으로 선택할 수 있는 유닛이 없습니다."
+    ],
+    [
+      "SI_DP_WORLDMAP_CITY_DATA_IS_NULL",
+      "도시 정보를 받아오지 못했습니다."
+    ],
+    [
+      "SI_DP_WORLDMAP_CITY_MISSION_CONFIRM_TWO_PARAM",
+      "[{0}](을)를 수행하시겠습니까?\n대성공률 <color=#FFBC00>{1}%</color>"
+    ],
+    [
+      "SI_DP_WORLDMAP_CITY_MISSION_SELECT_SQUAD",
+      "수행 소대 선택"
+    ],
+    [
+      "SI_DP_WORLDMAP_CITY_MISSION_REFRESH",
+      "미션 목록을 갱신하시겠습니까?"
+    ],
+    [
+      "SI_DP_WORLDMAP_CITY_MISSION_CANCEL",
+      "<size=45><b>복귀 명령을 내리시겠습니까?</b></size>\n\n임무를 도중에 포기하고 복귀합니다.\n보상을 획득할 수 없습니다."
+    ],
+    [
+      "SI_DP_WORLDMAP_CITY_MISSION_REQ_LEVEL_ONE_PARAM",
+      "요구 지부장 레벨: {0}"
+    ],
+    [
+      "SI_DP_WORLDMAP_CITY_MISSION_REWARD_ADD_TEXT",
+      "대성공 보상"
+    ],
+    [
+      "SI_DP_WORLDMAP_CITY_MISSION_DOING",
+      "임무 수행중"
+    ],
+    [
+      "SI_DP_POPUP_RESOURCE_WITHDRAW",
+      "제거 확인"
+    ],
+    [
+      "SI_DP_WORLDMAP_BUILDING_REMOVE",
+      "시설 철수"
+    ],
+    [
+      "SI_DP_WORLDMAP_BUILDING_REMOVE_DESC_TWO_PARAM",
+      "시설을 철수하고 시설 포인트를 회수합니다.\n<color=#ffdf5d>[LV.{0} {1}]</COLOR>을 철수 하겠습니까?"
+    ],
+    [
+      "SI_DP_WORLDMAP_BUILDING_REMOVE_POINT",
+      "회수 시설 포인트"
+    ],
+    [
+      "SI_DP_WORLDMAP_CITY_MAKE_COMPLETE",
+      "지부 설립 완료"
+    ],
+    [
+      "SI_DP_WORLDMAP_EVENT_POPUP_OK_CANCEL_RAID_LEVEL",
+      "레이드 Lv.{0}"
+    ],
+    [
+      "SI_DP_WORLDMAP_EVENT_POPUP_OK_CANCEL_DIVE_LEVEL",
+      "다이브 Lv.{0}"
+    ],
+    [
+      "SI_DP_WORLDMAP_EVENT_POPUP_OK_CANCEL_NEW_RAID_DELETE_WARN",
+      "해당 레이드 이벤트를 강제 종료하시겠습니까?\n종료된 이벤트는 다시 복구할 수 없습니다."
+    ],
+    [
+      "SI_DP_WORLDMAP_EVENT_POPUP_OK_CANCEL_NEW_DIVE_DELETE_WARN",
+      "해당 다이브 이벤트를 강제 종료하시겠습니까?\n종료된 이벤트는 다시 복구할 수 없습니다."
+    ],
+    [
+      "SI_DP_WORLDMAP_EVENT_POPUP_OK_CANCEL_ON_GOING_RAID_DELETE_WARN",
+      "해당 레이드는 진행중입니다.\n강제 종료 시, 보상을 획득할 수 없으며\n종료된 이벤트는 다시 복구할 수 없습니다."
+    ],
+    [
+      "SI_DP_WORLDMAP_EVENT_POPUP_OK_CANCEL_ON_GOING_DIVE_DELETE_WARN",
+      "해당 다이브는 진행중입니다.\n강제 종료 시, 보상을 획득할 수 없으며\n종료된 이벤트는 다시 복구할 수 없습니다."
+    ],
+    [
+      "SI_DP_ATTENDANCE",
+      "출근체크"
+    ],
+    [
+      "SI_DP_NEWS",
+      "뉴스"
+    ],
+    [
+      "SI_DP_NEWS_DOES_NOT_HAVE_NOTICE",
+      "등록된 공지사항이 없습니다."
+    ],
+    [
+      "SI_DP_NEWS_DOES_NOT_HAVE_NEWS",
+      "등록된 뉴스가 없습니다."
+    ],
+    [
+      "SI_DP_RAID",
+      "레이드"
+    ],
+    [
+      "SI_DP_RAID_REQ_SUPPORT",
+      "지원 요청 중"
+    ],
+    [
+      "SI_DP_RAID_SUPPORT_LIST",
+      "지원 목록"
+    ],
+    [
+      "SI_DP_RAID_REMAIN_COUNT_ONE_PARAM",
+      "남은 횟수 {0}"
+    ],
+    [
+      "SI_DP_RAID_COOP_REQ_WARNING",
+      "지원 요청을 통해 다른 유저들이 레이드에 참여할 수 있게 합니다.\n지원 요청은 취소할 수 없습니다."
+    ],
+    [
+      "SI_DP_CONTRACT",
+      "채용"
+    ],
+    [
+      "SI_DP_CONTRACT_BUNDLE",
+      "일괄 채용"
+    ],
+    [
+      "SI_DP_CONTRACT_EMERGENCY_CONTRACT_COUPON_USE_REQ",
+      "긴급 채용 쿠폰을 사용하시겠습니까?"
+    ],
+    [
+      "SI_DP_CONTRACT_NEW_CONTRACT_SLOT_OPEN_REQ",
+      "새 채용 슬롯을 여시겠습니까?"
+    ],
+    [
+      "SI_DP_CONTRACT_COMPLETE_CONTRACT_EXIST",
+      "완료된 채용 있음"
+    ],
+    [
+      "SI_DP_CONTRACT_ON_GOING_CONTRACT_NUMBER_ONE_PARAM",
+      "채용 {0}건 진행중"
+    ],
+    [
+      "SI_DP_CONTRACT_ON_GOING_CONTRACT_NO_EXIST",
+      "진행중인 채용 없음"
+    ],
+    [
+      "SI_DP_CONTRACT_AVAILABLE_SLOT_NO_EXIST",
+      "사용 가능한 슬롯이 없습니다."
+    ],
+    [
+      "SI_DP_CONTRACT_HAVE_COUNT_ONE_PARAM",
+      "{0}개 보유"
+    ],
+    [
+      "SI_DP_CONTRACT_INSTANT_UNIT_CONTRACT_USE",
+      "즉시 채용권 사용"
+    ],
+    [
+      "SI_DP_CONTRACT_UNIT_NUMBER",
+      "채용 횟수"
+    ],
+    [
+      "SI_DP_CONTRACT_UNIT_EMERGENCY_COUPON_USE",
+      "긴급 채용 쿠폰 사용"
+    ],
+    [
+      "SI_DP_CONTRACT_INSTANT_SHIP_CONTRACT_USE",
+      "즉시 건조권 사용"
+    ],
+    [
+      "SI_DP_CONTRACT_SHIP_NUMBER",
+      "건조 횟수"
+    ],
+    [
+      "SI_DP_CONTRACT_SHIP_EMERGENCY_COUPON_USE",
+      "즉시 건조 쿠폰 사용"
+    ],
+    [
+      "SI_DP_CONTRACT_SHIP_EMERGENCY_CONTRACT_COUPON_USE_REQ",
+      "긴급 건조권을 사용하시겠습니까?"
+    ],
+    [
+      "SI_DP_CONTRACT_SHIP_NEW_CONTRACT_SLOT_OPEN_REQ",
+      "새 건조 슬롯을 여시겠습니까?"
+    ],
+    [
+      "SI_DP_CONTRACT_SHIP_COMPLETE_CONTRACT_EXIST",
+      "완료된 건조 있음"
+    ],
+    [
+      "SI_DP_CONTRACT_SHIP_ON_GOING_CONTRACT_NUMBER_ONE_PARAM",
+      "건조 {0}건 진행중"
+    ],
+    [
+      "SI_DP_CONTRACT_SHIP_ON_GOING_CONTRACT_NO_EXIST",
+      "진행중인 건조 없음"
+    ],
+    [
+      "SI_DP_CONTRACT_UNIT_FAIL",
+      "채용 실패"
+    ],
+    [
+      "SI_DP_CONTRACT_SHIP_FAIL",
+      "계약 실패"
+    ],
+    [
+      "SI_DP_CONTRACT_FAIL_PROGRESS",
+      "계약 프로세스가 아직 진행중입니다."
+    ],
+    [
+      "SI_DP_CONTRACT_FAIL_COMPLETE",
+      "이미 완료되었습니다."
+    ],
+    [
+      "SI_DP_CONTRACT_FAIL_EMPTY",
+      "계약이 진행중이 아닙니다."
+    ],
+    [
+      "SI_DP_CONTRACT_FAIL_QUIICK",
+      "긴급 채용 실패"
+    ],
+    [
+      "SI_DP_CONTRACT_FAIL_QUIICK_DESC",
+      "긴급채용계약서가 부족합니다."
+    ],
+    [
+      "SI_DP_CONTRACT_SLOT_UNLOCK_FAIL",
+      "확장 실패"
+    ],
+    [
+      "SI_DP_CONTRACT_SLOT_UNLOCK_FAIL_MAX",
+      "이미 확장이 완료되었습니다."
+    ],
+    [
+      "SI_DP_CONTRACT_SLOT_UNLOCK_FAIL_COST",
+      "자금이 부족합니다."
+    ],
+    [
+      "SI_DP_UNIT_ROLE_TYPE_NURT_INVALID",
+      "모든 클래스"
+    ],
+    [
+      "SI_DP_UNIT_ROLE_TYPE_NURT_STRIKER",
+      "스트라이커"
+    ],
+    [
+      "SI_DP_UNIT_ROLE_TYPE_NURT_RANGER",
+      "레인저"
+    ],
+    [
+      "SI_DP_UNIT_ROLE_TYPE_NURT_DEFENDER",
+      "디펜더"
+    ],
+    [
+      "SI_DP_UNIT_ROLE_TYPE_NURT_SNIPER",
+      "스나이퍼"
+    ],
+    [
+      "SI_DP_UNIT_ROLE_TYPE_NURT_SUPPORTER",
+      "서포터"
+    ],
+    [
+      "SI_DP_UNIT_ROLE_TYPE_NURT_SIEGE",
+      "시즈"
+    ],
+    [
+      "SI_DP_UNIT_ROLE_TYPE_NURT_TOWER",
+      "타워"
+    ],
+    [
+      "SI_DP_UNIT_ROLE_TYPE_UNKNOWN",
+      "알 수 없음"
+    ],
+    [
+      "SI_DP_CONTRACT_SLOT_UNIT",
+      "유닛 채용"
+    ],
+    [
+      "SI_DP_LAB_MENU_NAME_LDS_MENU",
+      "연구소"
+    ],
+    [
+      "SI_DP_LAB_MENU_NAME_LDS_UNIT_ENHANCE",
+      "강화 이식"
+    ],
+    [
+      "SI_DP_LAB_MENU_NAME_LDS_UNIT_LIMITBREAK",
+      "한계 초월"
+    ],
+    [
+      "SI_DP_LAB_MENU_NAME_LDS_UNIT_SKILL_TRAIN",
+      "기술 훈련"
+    ],
+    [
+      "SI_DP_LAB_SELECT_UNIT_MENU_NAME_LDS_UNIT_ENHANCE",
+      "강화 대상 선택"
+    ],
+    [
+      "SI_DP_LAB_SELECT_UNIT_MENU_NAME_LDS_UNIT_LIMITBREAK",
+      "초월 대상 선택"
+    ],
+    [
+      "SI_DP_LAB_SELECT_UNIT_MENU_NAME_LDS_UNIT_SKILL_TRAIN",
+      "훈련 대상 선택"
+    ],
+    [
+      "SI_DP_LAB_SELECT_UNIT_EMPTY_MSG_LDS_UNIT_ENHANCE",
+      "강화할 수 있는 유닛이 없습니다."
+    ],
+    [
+      "SI_DP_LAB_SELECT_UNIT_EMPTY_MSG_LDS_UNIT_LIMITBREAK",
+      "초월할 수 있는 유닛이 없습니다."
+    ],
+    [
+      "SI_DP_LAB_SELECT_UNIT_EMPTY_MSG_LDS_UNIT_SKILL_TRAIN",
+      "스킬 훈련을 할 수 있는 유닛이 없습니다."
+    ],
+    [
+      "SI_DP_LIMITBREAK_SELECT_HIGH_GRADE",
+      "해당 사원은 한계 초월이 되어 있습니다.\n초월에 사용된 유닛은 복구할 수 없습니다.\n정말로 선택하시겠습니까?"
+    ],
+    [
+      "SI_DP_LIMITBREAK_INCLUDE_HIGH_GRADE",
+      "한계 초월을 한 사원이 포함되어 있습니다.\n초월에 사용된 유닛은 복구할 수 없습니다.\n정말로 선택하시겠습니까?"
+    ],
+    [
+      "SI_DP_LIMITBREAK_CANCELED",
+      "초월이 취소되었습니다.\n사원들을 관리부로 돌려보냅니다."
+    ],
+    [
+      "SI_DP_LIMITBREAK_CONFIRM",
+      "현재 조건으로 한계 초월을 진행할까요?\n아래의 재료가 소모됩니다."
+    ],
+    [
+      "SI_DP_LIMITBREAK_CONFIRM_AWAKEN",
+      "현재 조건으로 한계 융합을 진행할까요?\n아래의 재료가 소모됩니다."
+    ],
+    [
+      "SI_DP_LIMITBREAK_RESULT",
+      "초월 완료"
+    ],
+    [
+      "SI_DP_ALREADY_ENHANCE_MAX",
+      "더 이상 강화할 수 없습니다."
+    ],
+    [
+      "SI_DP_ALREADY_LIMITBREAK_MAX",
+      "최대치까지 초월한 유닛입니다."
+    ],
+    [
+      "SI_DP_LIMITBREAK_GROWTH_INFO_ONE_PARAM",
+      "능력치 성장률 <color=#FFD428><b>{0:0.#}%</b></color> 증가"
+    ],
+    [
+      "SI_DP_LIMITBREAK_NO_EXIST_CONSUME_UNIT",
+      "초월 재료로 사용할 수 있는 유닛이 없습니다."
+    ],
+    [
+      "SI_DP_LIMITBTEAK_INFO",
+      "적성핵을 재료로 하여 유닛을 초월시킬 수 있습니다.\n동일한 유닛이 있을 경우, 적성핵 대신 사용할 수 있습니다."
+    ],
+    [
+      "SI_DP_LIMITBREAK_RESULT_GROWTH_INFO_ONE_PARAM",
+      "능력치 성장률 {0:0}% 증가"
+    ],
+    [
+      "SI_DP_SKILL_TRAIN_POPUP",
+      "스킬 훈련 메뉴"
+    ],
+    [
+      "SI_DP_SKILL_ATTACK_COUNT_ONE_PARAM",
+      "유효 타격수: {0}"
+    ],
+    [
+      "SI_DP_ENHANCE_NEED_SET_TARGET_UNIT",
+      "강화할 유닛을 설정해주세요."
+    ],
+    [
+      "SI_DP_ENHANCE_NEED_SET_CONSUME_UNIT",
+      "강화 소재를 설정해주세요."
+    ],
+    [
+      "SI_DP_ENHANCE_SELECT_CONSUM_UNIT",
+      "강화 소재 선택"
+    ],
+    [
+      "SI_DP_ENHANCE_NO_EXIST_CONSUME_UNIT",
+      "강화 재료로 사용할 수 있는 유닛이 없습니다."
+    ],
+    [
+      "SI_DP_ENHANCE_ALREADY_MAX_CONSUME_UNIT",
+      "이미 강화 이식률 수치가 가득 찼습니다.\n초과 투입된 사원은 영향을 끼치지 못합니다.\n계속하시겠습니까?"
+    ],
+    [
+      "SI_DP_ENHANCE_SELECT_HIGH_RARITY_AND_LEVEL",
+      "해당 사원은 레벨, 또는 희귀도가 높습니다.\n강화에 사용된 사원은 복구할 수 없습니다.\n정말로 선택하시겠습니까?"
+    ],
+    [
+      "SI_DP_ENHANCE_INCLUDE_HIGH_RARITY_AND_LEVEL",
+      "레벨, 또는 희귀도가 높은 사원이 포함되어 있습니다. 강화에 사용된 사원은 복구할 수 없습니다.\n정말로 진행하시겠습니까?"
+    ],
+    [
+      "SI_DP_ENHANCE_CANCELED",
+      "강화가 취소되었습니다.\n사원들을 관리부로 돌려보냅니다."
+    ],
+    [
+      "SI_DP_OPTION_RESET_WARNING",
+      "모든 설정을 초기로 되돌립니다."
+    ],
+    [
+      "SI_DP_OPTION_DROPOUT_WARNING",
+      "정말 계정을 초기화 하시겠습니까?\n 초기화 신청 시 <color=#FFBC00>15일의 유예기간</color>이 적용되며,\n유예기간 동안에는 초기화 취소가 가능합니다.\n유예기간이 지나면 계정이 완전히 초기화 되고,\n이후에는 <color=#FF0000>복구가 불가능</color>합니다."
+    ],
+    [
+      "SI_DP_OPTION_CONNECTED",
+      "연결됨"
+    ],
+    [
+      "SI_DP_OPTION_DISCONNECTED",
+      "연결되지 않음"
+    ],
+    [
+      "SI_DP_OPTION_LOGOUT_REQ",
+      "로그아웃 하시겠습니까?"
+    ],
+    [
+      "SI_DP_OPTION_CANNOT_LOG_OUT_WHEN_IN_GAME_BATTLE",
+      "현재 전투중에는 로그아웃을 할 수 없습니다."
+    ],
+    [
+      "SI_DP_OPTION_HIGH_QUALITY",
+      "고품질"
+    ],
+    [
+      "SI_DP_OPTION_CHANGE_WARNING",
+      "기기의 배터리 소모량 및 발열이 증가할 수 있습니다. 변경하시겠습니까?"
+    ],
+    [
+      "SI_DP_OPTION_30_FPS",
+      "30 FPS"
+    ],
+    [
+      "SI_DP_OPTION_60_FPS",
+      "60 FPS"
+    ],
+    [
+      "SI_DP_OPTION_MEDAL_COND",
+      "메달 조건"
+    ],
+    [
+      "SI_DP_OPTION_RANK_COND",
+      "랭크 조건"
+    ],
+    [
+      "SI_DP_OPTION_MISSION_GIVE_UP_WARNING",
+      "임무를 정말 포기하시겠습니까?\n임무를 포기하면 보상을 받을 수 없습니다."
+    ],
+    [
+      "SI_DP_OPTION_GAME_LANG_CHANGE_REQ",
+      "언어를 바꾸려면 앱을 재시작 해야합니다.\n언어를 정말 바꾸시겠습니까?"
+    ],
+    [
+      "SI_DP_REFINE_RESULT_MSG_NERR_SUCCESS",
+      "정밀화 성공"
+    ],
+    [
+      "SI_DP_REFINE_RESULT_MSG_NERR_GREAT_SUCCESS",
+      "정밀화 대성공!!"
+    ],
+    [
+      "SI_DP_REFINE_RESULT_MSG_NERR_FAIL",
+      "정밀화 실패"
+    ],
+    [
+      "SI_DP_REFINE_RESULT_MSG_NERR_GREAT_FAIL",
+      "정밀화 대실패..."
+    ],
+    [
+      "SI_DP_REFINE_RESULT_MSG_UNKNOWN",
+      "알수없음"
+    ],
+    [
+      "SI_DP_FORGE",
+      "장비 강화"
+    ],
+    [
+      "SI_DP_NO_EXIST_ENCHANT_EQUIP",
+      "강화할 수 있는 장비가 없습니다."
+    ],
+    [
+      "SI_DP_NO_EXIST_TUNING_EQUIP",
+      "튜닝할 수 있는 장비가 없습니다."
+    ],
+    [
+      "SI_DP_FORGE_CRAFT",
+      "장비 제작"
+    ],
+    [
+      "SI_DP_FORGE_CRAFT_USE_MISC_TWO_PARAM",
+      "{0}(을)를 사용하시겠습니까?\n1/{1}"
+    ],
+    [
+      "SI_DP_FORGE_CRAFT_ITEM_NO_FOUND",
+      "Item No Found"
+    ],
+    [
+      "SI_DP_FORGE_CRAFT_POPUP",
+      "장비 제작 팝업"
+    ],
+    [
+      "SI_DP_FORGE_CRAFT_COUNT_INFINITE",
+      "보유 수 : ∞"
+    ],
+    [
+      "SI_DP_FORGE_CRAFT_MOLD",
+      "제작 리스트"
+    ],
+    [
+      "SI_DP_FORGE_CRAFT_SLOT_ADD",
+      "새 생산 슬롯을 여시겠습니까?"
+    ],
+    [
+      "SI_DP_FORGE_CRAFT_WAIT_NAME",
+      "제작 대기중"
+    ],
+    [
+      "SI_DP_FORGE_CRAFT_WAIT_TEXT",
+      "대기중"
+    ],
+    [
+      "SI_DP_FORGE_CRAFT_ING_TEXT",
+      "진행중"
+    ],
+    [
+      "SI_DP_FORGE_CRAFT_COMPLETED_TEXT",
+      "완료"
+    ],
+    [
+      "SI_DP_FORGE_ENCHANT_LEVEL_ONE_PARAM",
+      "강화 단계 +{0}"
+    ],
+    [
+      "SI_DP_FORGE_ENCHANT_ALREADY_MAX",
+      "더 이상 강화할 수 없습니다."
+    ],
+    [
+      "SI_DP_FORGE_ENCHANT_NEED_CONSUME",
+      "강화 소재를 설정해주세요."
+    ],
+    [
+      "SI_DP_FORGE_ENCHANT_NO_EXIST_CONSUME",
+      "재료로 선택할 수 있는 장비가 없습니다."
+    ],
+    [
+      "SI_DP_FORGE_TUNNING",
+      "장비 튜닝"
+    ],
+    [
+      "SI_DP_FORGE_TUNING_CONFIRM_TITLE",
+      "변경 확정"
+    ],
+    [
+      "SI_DP_FORGE_TUNING_CONFIRM_DESC_TWO_PARAM",
+      "기존 옵션이 제거 되고 아래의 옵션으로 변경됩니다.\n정말로 확정하시겠습니까?\n\n{0}   ->   {1}"
+    ],
+    [
+      "SI_DP_FORGE_TUNING_FAIL",
+      "정밀화를 할 수 없는 장비입니다."
+    ],
+    [
+      "SI_DP_FORGE_TUNING_PRECISION_ONE_PARAM",
+      "조정률 {0}%"
+    ],
+    [
+      "SI_DP_FORGE_TUNING_STAT_BASE",
+      "기존 능력치"
+    ],
+    [
+      "SI_DP_FORGE_TUNING_STAT_RESULT",
+      "정밀화 결과"
+    ],
+    [
+      "SI_DP_FORGE_TUNING_COMPLETE",
+      "정밀화 완료"
+    ],
+    [
+      "SI_DP_FORGE_TUNING_STAT_CURRENT",
+      "현재 옵션"
+    ],
+    [
+      "SI_DP_FORGE_TUNING_STAT_CHANGE",
+      "변경될 옵션"
+    ],
+    [
+      "SI_DP_EQUIP_BREAK_UP",
+      "장비 해체"
+    ],
+    [
+      "SI_DP_EQUIP_BREAK_UP_NO_EXIST_EQUIP",
+      "해체할 수 있는 장비가 없습니다."
+    ],
+    [
+      "SI_DP_NO_EXIST_SELECTED_EQUIP",
+      "선택한 장비가 없습니다."
+    ],
+    [
+      "SI_DP_EQUIP_BREAK_UP_WARNING",
+      "높은 등급의 장비가 포함되어 있습니다.\n해체한 장비는 복구가 불가능합니다.\n\n정말로 해체하시겠습니까 ?"
+    ],
+    [
+      "SI_DP_TUNING_OPTIN_NONE",
+      "옵션이 없습니다."
+    ],
+    [
+      "SI_DP_TUNING_OPTIN_CAN_NOT_CHANGE",
+      "변경할 수 없는 옵션입니다."
+    ],
+    [
+      "SI_DP_TUNING_OPTION_SLOT_EXCLUSIVE",
+      "전용"
+    ],
+    [
+      "SI_DP_TUNING_OPTION_SLOT_OPTION",
+      "옵션"
+    ],
+    [
+      "SI_DP_HANGAR_BUILD",
+      "함선 건조"
+    ],
+    [
+      "SI_DP_HANGAR_BUILD_FAIL",
+      "격납고에 빈 공간이 없습니다."
+    ],
+    [
+      "SI_DP_HANGAR_CONFIRM",
+      "<b>{0}</b> 제작을 위해 다음 재료가 소모됩니다.\n제작하시겠습니까?"
+    ],
+    [
+      "SI_DP_HANGAR_CONFIRM_FAIL",
+      "함선 제작 재료 부족"
+    ],
+    [
+      "SI_DP_HANGAR_SHIPYARD",
+      "함선 정비"
+    ],
+    [
+      "SI_DP_HANGAR_SHIPYARD_CANNOT_CHANGE_SHIP",
+      "CANNOT CHANGE SHIP"
+    ],
+    [
+      "SI_DP_HANGAR_SHIPYARD_CANNOT_FIND_INFORMATION",
+      "CANNOT FIND INFORMATION"
+    ],
+    [
+      "SI_DP_SELECT_SHIP",
+      "함선 선택"
+    ],
+    [
+      "SI_DP_NO_EXIST_SELECT_SHIP",
+      "선택할 수 있는 함선이 없습니다."
+    ],
+    [
+      "SI_DP_HANGAR_SHIP_LEVEL_TWO_PARAM",
+      "LV.{0} <color=#656565>/{1} </color>"
+    ],
+    [
+      "SI_DP_HANGAR_SHIP_LEVEL_ONE_PARAM",
+      "<color=#656565> LV.{0}</color>"
+    ],
+    [
+      "SI_DP_HANGAR_SHIPYARD_POPUP_LEVEL_UP_TITLE",
+      "개 조"
+    ],
+    [
+      "SI_DP_HANGAR_SHIPYARD_POPUP_LEVEL_UP_TEXT",
+      "이 함선을 다음과 같이 개조 하시겠습니까?"
+    ],
+    [
+      "SI_DP_HANGAR_SHIPYARD_POPUP_UPGRADE_TITLE",
+      "개 장"
+    ],
+    [
+      "SI_DP_HANGAR_SHIPYARD_POPUP_UPGRADE_TEXT",
+      "이 함선을 다음과 같이 개장 하시겠습니까?"
+    ],
+    [
+      "SI_DP_REMOVE_SHIP",
+      "함선 해체"
+    ],
+    [
+      "SI_DP_REMOVE_SHIP_NO_EXIST_SHIP",
+      "해체할 수 있는 함선이 없습니다."
+    ],
+    [
+      "SI_DP_REMOVE_SHIP_WARNING_MSG",
+      "고등급 함선이 포함되어 있습니다.\n함선 해체는 되돌릴 수 없습니다.\n해체하시겠습니까?"
+    ],
+    [
+      "SI_DP_REMOVE_SHIP_SELECT",
+      "해체할 대상을 선택하세요."
+    ],
+    [
+      "SI_DP_HANGAR_UPGRADE_RESULT",
+      "초월 완료"
+    ],
+    [
+      "SI_DP_ATTACK_SPEED_ONE_PARAM",
+      "초당 {0:#.##;-#.##;0}"
+    ],
+    [
+      "SI_DP_SHIP_BUILD_FAIL",
+      "건조 실패"
+    ],
+    [
+      "SI_DP_SHIP_LEVEL_UP_FAIL",
+      "강화 실패"
+    ],
+    [
+      "SI_DP_SHIP_DIVISION_FAIL",
+      "해체 실패"
+    ],
+    [
+      "SI_DP_SHIP_UPGRADE_FAIL",
+      "개조 실패"
+    ],
+    [
+      "SI_DP_SHIP_BUILD_CONDITION_FAIL_PLAYER_LEVEL",
+      "회사 레벨 {0} 도달 시 함선 건조 가능"
+    ],
+    [
+      "SI_DP_SHIP_BUILD_CONDITION_FAIL_DUNGEON_CLEAR",
+      "{0} 던전 클리어 시 함선건조가능"
+    ],
+    [
+      "SI_DP_SHIP_BUILD_CONDITION_FAIL_SHIP_COLLECT",
+      "{0} 함선 획득 시 함선건조가능"
+    ],
+    [
+      "SI_DP_SHIP_BUILD_CONDITION_FAIL_WARFARE_CLEAR",
+      "EP.{0} Act{1}-{2} 클리어 시 함선 건조 가능"
+    ],
+    [
+      "SI_DP_REMOVE_UNIT",
+      "사원 해고"
+    ],
+    [
+      "SI_DP_REMOVE_UNIT_NO_EXIST_UNIT",
+      "해고할 수 있는 유닛이 없습니다."
+    ],
+    [
+      "SI_DP_REMOVE_UNIT_NO_EXIST_TROPHY",
+      "해고할 수 있는 트로피가 없습니다."
+    ],
+    [
+      "SI_DP_POPUP_NOTICE_UNIT_REMOVE_ONE_PARAM",
+      "{0}명의 사원을 해고합니다.\n다음 보상을 획득할 수 있습니다."
+    ],
+    [
+      "SI_DP_REMOVE_UNIT_WARNING",
+      "희귀도, 또는 레벨이 높은 사원이 포함되어 있습니다.\n정말로 해고하시겠습니까?"
+    ],
+    [
+      "SI_DP_REMOVE_UNIT_WARNING_LIMIT_BREAK",
+      "초월한 유닛이 포함되어 있습니다.\n정말로 진행하시겠습니까 ?"
+    ],
+    [
+      "SI_DP_REMOVE_UNIT_WARNING_GRADE",
+      "고등급 유닛이 포함되어 있습니다.\n정말로 진행하시겠습니까 ?"
+    ],
+    [
+      "SI_DP_NO_EXIST_SELECTED_UNIT",
+      "선택한 유닛이 없습니다."
+    ],
+    [
+      "SI_DP_NO_EXIST_UNIT",
+      "유닛이 존재하지 않습니다."
+    ],
+    [
+      "SI_DP_REMOVE_UNIT_FAIL",
+      "해고 실패"
+    ],
+    [
+      "SI_DP_REMOVE_UNIT_FAIL_LOCKED",
+      "잠긴 유닛은 해고할 수 없습니다."
+    ],
+    [
+      "SI_DP_REMOVE_UNIT_FAIL_IN_DECK",
+      "덱에 속한 유닛은 해고할 수 없습니다."
+    ],
+    [
+      "SI_DP_REMOVE_UNIT_FAIL_MAINUNIT",
+      "부관과 기함은 해고할 수 없습니다."
+    ],
+    [
+      "SI_DP_REMOVE_UNIT_FAIL_WORLDMAP_LEADER",
+      "지부장은 해고할 수 없습니다."
+    ],
+    [
+      "SI_DP_REMOVE_UNIT_SELECT",
+      "해고할 대상을 선택하세요."
+    ],
+    [
+      "SI_DP_NEGOTIATE",
+      "연봉협상"
+    ],
+    [
+      "SI_DP_NEGOTIATE_LEVEL_MAX",
+      "유닛이 최대 레벨에 도달해 경험치를 얻을 수 없습니다. 계속 진행 하시겠습니까?"
+    ],
+    [
+      "SI_DP_NEGOTIATE_NO_EXIST_UNIT",
+      "연봉 협상을 할 수 있는 유닛이 없습니다."
+    ],
+    [
+      "SI_DP_CEO",
+      "사장"
+    ],
+    [
+      "SI_DP_NEGOTIATE_OFFER_UNIT_FIRST",
+      "어떻게 할까…?"
+    ],
+    [
+      "SI_DP_ROUND_ONE_PARAM",
+      "ROUND {0}"
+    ],
+    [
+      "SI_DP_FINAL_ROUND",
+      "FINAL ROUND"
+    ],
+    [
+      "SI_DP_NEGOTIATE_OFFER_SELECTION_RAISE_ALL",
+      "내가 찾던\n바로 그 인재일세!!"
+    ],
+    [
+      "SI_DP_NEGOTIATE_OFFER_SELECTION_RAISE",
+      "30% 더 부른다"
+    ],
+    [
+      "SI_DP_NEGOTIATE_OFFER_SELECTION_OK",
+      "그대로 간다"
+    ],
+    [
+      "SI_DP_NEGOTIATE_OFFER_SELECTION_PASSION",
+      "열정에 호소한다"
+    ],
+    [
+      "SI_DP_NEGOTIATE_OFFER_SELECTION_CANCEL",
+      "아무일도 아닙니다, 자리로 돌아가세요"
+    ],
+    [
+      "SI_DP_LIFETIME",
+      "종신계약"
+    ],
+    [
+      "SI_DP_LIFETIME_CONTRACT_TITLE",
+      "종신 근로 계약서"
+    ],
+    [
+      "SI_DP_LIFETIME_CONTRACT_TITLE_MECHANIC",
+      "종신 관리 계약서"
+    ],
+    [
+      "SI_DP_LIFETIME_CONTRACT_DATE_THREE_PARAM",
+      "{0}년 {1}월 {2}일"
+    ],
+    [
+      "SI_DP_LIFETIME_CONTRACT_UNIT_SIGN_TWO_PARAM",
+      "{0} {1} (인)"
+    ],
+    [
+      "SI_DP_LIFETIME_CONTRACT_PLAYER_SIGN_ONE_PARAM",
+      "코핀 코퍼레이션 대표 {0} (인)"
+    ],
+    [
+      "SI_DP_LIFETIME_REWARD_INFO",
+      "체력, 공격력, 방어력, 명중, 회피, 치명 능력치가 증가합니다."
+    ],
+    [
+      "SI_DP_LIFETIME_NO_EXIST_UNIT",
+      "종신계약을 할 수 있는 유닛이 없습니다."
+    ],
+    [
+      "SI_DP_LIFETIME_CONTRACT_DESC_UNIT_TITLE",
+      "소속 : {0}"
+    ],
+    [
+      "SI_DP_LIFETIME_CONTRACT_DESC_UNIT_NAME",
+      "{0}(을)를 갑으로 하고 {1}(을)를 을로 하여\n갑을 양 당사자는 다음과 같이 종신고용계약을 체결한다."
+    ],
+    [
+      "SI_DP_NEGOTIATE_SPEECH_BY_SELECTION_RAISE",
+      "자네에게 거는 기대가 크네"
+    ],
+    [
+      "SI_DP_NEGOTIATE_SPEECH_BY_SELECTION_OK",
+      "그럼 이 서류에 서명 부탁하네"
+    ],
+    [
+      "SI_DP_NEGOTIATE_SPEECH_BY_SELECTION_PASSION",
+      "요즘 회사 사정이 말일세…"
+    ],
+    [
+      "SI_DP_NEGOTIATE_USER_SPEECH_ACCEPT_RAISE",
+      "30% 더 불러본다"
+    ],
+    [
+      "SI_DP_NEGOTIATE_USER_SPEECH_ACCEPT_OK",
+      "앞으로도 잘 부탁하네!"
+    ],
+    [
+      "SI_DP_NEGOTIATE_USER_SPEECH_ACCEPT_OK_AND_FINAL_ROUND",
+      "혼쾌히 협상을 마친다"
+    ],
+    [
+      "SI_DP_NEGOTIATE_USER_SPEECH_ACCEPT_PASSION",
+      "더 열정을 요구한다"
+    ],
+    [
+      "SI_DP_NEGOTIATE_USER_SPEECH_DISCONTENT_RAISE",
+      "마지못해 30% 더 준다"
+    ],
+    [
+      "SI_DP_NEGOTIATE_USER_SPEECH_DISCONTENT_OK",
+      "아쉽지만 냉정한 평가일세"
+    ],
+    [
+      "SI_DP_NEGOTIATE_USER_SPEECH_DISCONTENT_OK_AND_FINAL_ROUND",
+      "이대로 협상을 마친다"
+    ],
+    [
+      "SI_DP_NEGOTIATE_USER_SPEECH_DISCONTENT_PASSION",
+      "열정을 강요한다"
+    ],
+    [
+      "SI_DP_NEGOTIATE_USER_SPEECH_FURY_RAISE",
+      "30% 더 줘서 달랜다"
+    ],
+    [
+      "SI_DP_NEGOTIATE_USER_SPEECH_FURY_OK",
+      "여기까지 하세…"
+    ],
+    [
+      "SI_DP_NEGOTIATE_USER_SPEECH_FURY_OK_AND_FINAL_ROUND",
+      "싸인 하자고 달랜다"
+    ],
+    [
+      "SI_DP_NEGOTIATE_USER_SPEECH_FURY_PASSION",
+      "열정에 대해 설교한다"
+    ],
+    [
+      "SI_DP_NEGOTIATE_RESULT_TALK_BIG_SUCCESS",
+      "역시 나의 영도력이란…"
+    ],
+    [
+      "SI_DP_NEGOTIATE_RESULT_TALK_SUCCESS",
+      "다음에 더 잘 하지 뭐"
+    ],
+    [
+      "SI_DP_NEGOTIATE_RESULT_TALK_FAIL",
+      "뭐가 문제였던 걸까…"
+    ],
+    [
+      "SI_DP_NEGOTIATE_RESULT_BIG_SUCCESS_TITLE",
+      "협상 성공"
+    ],
+    [
+      "SI_DP_NEGOTIATE_RESULT_BIG_SUCCESS_INFO",
+      "유닛이 협상에 만족하였다."
+    ],
+    [
+      "SI_DP_NEGOTIATE_RESULT_SUCCESS_TITLE",
+      "협상 완료"
+    ],
+    [
+      "SI_DP_NEGOTIATE_RESULT_SUCCESS_INFO",
+      "유닛과의 협상을 완료했다."
+    ],
+    [
+      "SI_DP_NEGOTIATE_RESULT_FAIL_TITLE",
+      "협상 실패"
+    ],
+    [
+      "SI_DP_NEGOTIATE_RESULT_FAIL_INFO",
+      "협상이 잘 되지 않았다..."
+    ],
+    [
+      "SI_DP_BASE_MENU_NAME_BASE",
+      "본사"
+    ],
+    [
+      "SI_DP_BASE_MENU_NAME_FACTORY",
+      "공방"
+    ],
+    [
+      "SI_DP_BASE_MENU_NAME_HANGAR",
+      "격납고"
+    ],
+    [
+      "SI_DP_BASE_MENU_NAME_LAB",
+      "연구소"
+    ],
+    [
+      "SI_DP_BASE_MENU_NAME_PERSONNEL",
+      "사장실"
+    ],
+    [
+      "SI_DP_BASE_MENU_NAME_ENG_FACTORY",
+      "FACTORY"
+    ],
+    [
+      "SI_DP_BASE_MENU_NAME_ENG_HANGAR",
+      "HANGAR"
+    ],
+    [
+      "SI_DP_BASE_MENU_NAME_ENG_LAB",
+      "LABORATORY"
+    ],
+    [
+      "SI_DP_BASE_MENU_NAME_ENG_PERSONNEL",
+      "CEO OFFICE"
+    ],
+    [
+      "SI_DP_BASE_SUB_MENU_DETAIL_FACTORY",
+      "우수한 장비는 어설픈 신입 직원도 전투에서 생환할 수 있게 도와줍니다.\n새로운 장비나 보급품 개선이 필요하시면 치프 엔지니어와 상담해 보십시오."
+    ],
+    [
+      "SI_DP_BASE_SUB_MENU_DETAIL_HANGAR",
+      "이면세계에 중장비와 인력을 투입하려면 함선은 상시 최상의 상태여야 합니다.\n사장님의 함선을 정비하고 개수하고자 정비과는 오늘도 기꺼이 철야 중입니다."
+    ],
+    [
+      "SI_DP_BASE_SUB_MENU_DETAIL_LAB",
+      "연구소에서는 생명공학적 시술을 통해 직원들의 잠재력을 계발할 수 있습니다.\n대가도 무척 저렴합니다. 올리비에 박 교수의 시술이 조금 수상쩍기는 하지만요."
+    ],
+    [
+      "SI_DP_BASE_SUB_MENU_DETAIL_PERSONNEL",
+      "조직관리는 경영의 기초입니다. 사장실은 관리국 표준 성과지표에 따른 내부 평가를\n통해 효율성과 생산성을 추구합니다. 최종적인 결정은 물론 사장님께 달려 있습니다."
+    ],
+    [
+      "SI_DP_TUTORIAL",
+      "튜토리얼"
+    ],
+    [
+      "SI_DP_TUTORIAL_GUIDE",
+      "가이드"
+    ],
+    [
+      "SI_DP_TUTORIAL_IMAGE",
+      "안내판"
+    ],
+    [
+      "SI_DP_TUTORIAL_FIRST",
+      "처음으로"
+    ],
+    [
+      "SI_DP_TUTORIAL_NEXT",
+      "다음"
+    ],
+    [
+      "SI_DP_SLOT_VIEWR",
+      "상품 내용"
+    ],
+    [
+      "SI_DP_SLOT_VIEWR_DESC",
+      "아래의 아이템을 모두 획득 합니다."
+    ],
+    [
+      "SI_DP_SLOT_RANDOM_UNIT_VIEWR",
+      "랜덤 배치 유닛 목록"
+    ],
+    [
+      "SI_DP_SLOT_RANDOM_UNIT_VIEWR_DESC",
+      "아래 목록 중 하나의 유닛이 임의 선택되며, <color=#FF2626>목록에 있는 유닛은 덱에 배치할 수 없습니다.</color>"
+    ],
+    [
+      "SI_DP_RESULT",
+      "결과창"
+    ],
+    [
+      "SI_DP_RESULT_CITY_MISSION",
+      "임무 보상"
+    ],
+    [
+      "SI_DP_RESULT_MISSION",
+      "보상"
+    ],
+    [
+      "SI_DP_GET_UNIT",
+      "유닛 획득"
+    ],
+    [
+      "SI_DP_GET_SHIP",
+      "함선 획득"
+    ],
+    [
+      "SI_DP_FIRST_GET_SHIP",
+      "함선 최초 획득"
+    ],
+    [
+      "SI_DP_FIRST_GET_UNIT",
+      "유닛 최초 획득"
+    ],
+    [
+      "SI_DP_RESULT_LIMIT_BREAK_UNIT_ONE_PARAM",
+      "능력치 성장률 {0:0}% 증가\n스킬 최대 레벨 +1"
+    ],
+    [
+      "SI_DP_RESULT_LIMIT_BREAK_UNIT_ONE_PARAM_UNLOCK_HYPER_SKILL",
+      "능력치 성장률 {0:0}% 증가\n궁극기 해방\n스킬 최대 레벨 +1"
+    ],
+    [
+      "SI_DP_RESULT_LIMIT_BREAK_UNIT_MAX_LEVEL_TWO_PARAM",
+      "Lv. {0} > <color=#FFCF3B>Lv.{1}</color>"
+    ],
+    [
+      "SI_DP_RESULT_BONUS_EXP",
+      "추가 경험치 +{0}%"
+    ],
+    [
+      "SI_DP_RESULT_BONUS_RESOURCE",
+      "자원 +{0}%"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_RWDBOUNS_CREDIT",
+      "크레딧 보상 보너스"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_RWDBOUNS_EXP_PLAYER",
+      "회사 경험치 보상 보너스"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_RWDBOUNS_EXP_UNIT",
+      "유닛 경험치 보상 보너스"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_WARFARE_ETNM_DISCOUNT",
+      "전역 배치 이터니움 감소"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_PVP_POINT_CHARGE",
+      "보상 포인트 추가 충전"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_CITY_MISSION_TIMEKEEP",
+      "파견 임무 진행 속도 가속"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_CITY_MISSION_WMMR_S_UP",
+      "파견 임무 대성공률 증가"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_SCOPE_MAINSTREAM",
+      "메인스트림"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_SCOPE_SIDESTORY",
+      "외전"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_SCOPE_WORLDMAP",
+      "월드맵"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_SCOPE_PVP",
+      "건틀렛"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_SCOPE_ALL_WARFARE_DUNGEON",
+      "전역/전투"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_SCOPE_ALL_WARFARE",
+      "전역"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_SCOPE_ALL_DUNGEON",
+      "전투"
+    ],
+    [
+      "SI_DP_EQUIP_POSITION_STRING_IEP_ACC",
+      "보조장비"
+    ],
+    [
+      "SI_DP_EQUIP_POSITION_STRING_IEP_DEFENCE",
+      "방어구"
+    ],
+    [
+      "SI_DP_EQUIP_POSITION_STRING_IEP_WEAPON",
+      "무기"
+    ],
+    [
+      "SI_DP_MISC_TYPE_STRING_IMT_RANDOMBOX",
+      "비품"
+    ],
+    [
+      "SI_DP_MISC_TYPE_STRING_IMT_RESOURCE",
+      "자원"
+    ],
+    [
+      "SI_DP_AUTO_RESOURCE_SUPPLY_FAIL",
+      "수급 가능한 자원이 없습니다."
+    ],
+    [
+      "SI_DP_TOOLTIP_ETC_NETWORK_TITLE",
+      "네트워크 연결상태"
+    ],
+    [
+      "SI_DP_TOOLTIP_ETC_NETWORK_DESC",
+      "1: 매우강함\n12: 매우 약함"
+    ],
+    [
+      "SI_DP_STRING_VOICE_CATEGORY_BATTLE",
+      "전투"
+    ],
+    [
+      "SI_DP_STRING_VOICE_CATEGORY_NORMAL",
+      "일반"
+    ],
+    [
+      "SI_DP_STRING_VOICE_CATEGORY_ETC",
+      "기타"
+    ],
+    [
+      "SI_DP_STRING_VOICE_CATEGORY_LIFETIME",
+      "종신"
+    ],
+    [
+      "SI_DP_REPEAT_OPERATION_COST_MORE_REQUIRED",
+      "소모 비용이 부족합니다."
+    ],
+    [
+      "SI_DP_REPEAT_OPERATION_FAIL",
+      "반복 작전 종료"
+    ],
+    [
+      "SI_POPUP_REPEAT_OPERATION_SCENE_EXIT",
+      "진행 중인 반복 작전이 중지됩니다.\n계속 하시겠습니까?"
+    ],
+    [
+      "SI_SERVER_SHUTDOWN_TIME",
+      "서버가 {0}시 {1}분에 종료됩니다"
+    ],
+    [
+      "SI_SERVER_SHUTDOWN_NOW",
+      "서버가 곧 종료됩니다"
+    ],
+    [
+      "SI_TOY_ACCOUNT_CONNECTED",
+      "계정 연동 완료"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_ADDON_HARD",
+      "어려움"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_CLEAR_FIELD_SIMPLE",
+      "자유계약 {0} {1}-{2} 전역 클리어"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_CLEAR_FIELD_DEFAULT",
+      "자유계약 {0} {1}-{2} 전역을 클리어 해야 합니다"
+    ],
+    [
+      "SI_DP_LOBBY_RIGHT_MENU_1_PVP_TEXT_NO_RECORD",
+      "-"
+    ],
+    [
+      "SI_DP_SLOT_RATIO_VIEWER_DESC",
+      "다음의 보상 중 하나를 얻을 수 있습니다"
+    ],
+    [
+      "SI_DP_DIVE_RETREAT_POPUP_DESC",
+      "<color=#FFCF3B>전투를 진행 할 수 있는 소대가 없습니다.</color>\n다이브 탐사를 종료하시겠습니까?"
+    ],
+    [
+      "SI_DP_CHOICE_HAVE_UNIT_TITLE",
+      "보유 중인 사원"
+    ],
+    [
+      "SI_DP_CHOICE_HAVE_UNIT_DESC",
+      "해당 사원을 아래와 같이 보유하고 있습니다."
+    ],
+    [
+      "SI_DP_CHOICE_UNIT_CONFIRM",
+      "이 사원을 선택하시겠습니까?"
+    ],
+    [
+      "SI_DP_CHOICE_SHIP_CONFIRM",
+      "이 함선을 선택하시겠습니까?"
+    ],
+    [
+      "SI_DP_CHOICE_EQUIP_CONFIRM",
+      "이 장비를 선택하시겠습니까?"
+    ],
+    [
+      "SI_DP_CHOICE_MISC_CONFIRM",
+      "이 비품을 선택하시겠습니까?"
+    ],
+    [
+      "SI_DP_CHOICE_UNIT_CONFIRM_RECHECK",
+      "해당 사원을 획득합니다."
+    ],
+    [
+      "SI_DP_CHOICE_SHIP_CONFIRM_RECHECK",
+      "해당 함선을 획득합니다."
+    ],
+    [
+      "SI_DP_CHOICE_EQUIP_CONFIRM_RECHECK",
+      "해당 장비를 획득합니다."
+    ],
+    [
+      "SI_DP_CHOICE_MISC_CONFIRM_RECHECK",
+      "해당 비품을 획득합니다."
+    ],
+    [
+      "SI_DP_CHOICE_COUNT_ONE_PARAM",
+      "보유 {0}"
+    ],
+    [
+      "SI_DP_CHOICE_ALREADY_HAVE",
+      "보유 중"
+    ],
+    [
+      "SI_DP_CHOICE_UNIT_INFO_LV_ONE",
+      "LV.1 정보"
+    ],
+    [
+      "SI_DP_CHOICE_UNIT_INFO_LV_MAX",
+      "LV.100 정보"
+    ],
+    [
+      "SI_DP_USE_CHOICE",
+      "선택권 사용"
+    ],
+    [
+      "SI_DP_CHOICE_TITLE_UNIT",
+      "사원 선택권"
+    ],
+    [
+      "SI_DP_CHOICE_TITLE_SHIP",
+      "함선 선택권"
+    ],
+    [
+      "SI_DP_CHOICE_TITLE_EQUIP",
+      "장비 선택권"
+    ],
+    [
+      "SI_DP_CHOICE_TITLE_MISC",
+      "비품 선택권"
+    ],
+    [
+      "SI_DP_DECISION",
+      "결정"
+    ],
+    [
+      "SI_DP_CONTENT_BLOCK",
+      "점검 중"
+    ],
+    [
+      "SI_DP_DIVE_NONE_BULLET_POPUP_DESC",
+      "전투 시도 시, 해당 소대가 행동불능이 됩니다.\n계속 하시겠습니까?"
+    ],
+    [
+      "SI_DP_DIVE_ARTIFACT_COUNT_DESC",
+      "아티팩트 {0}개"
+    ],
+    [
+      "SI_DP_EMOTICON_SELECT_SLOT",
+      "슬롯을 선택하세요"
+    ],
+    [
+      "SI_DP_EMOTICON_SELECT_COMMENT",
+      "선택한 코멘트가 없습니다"
+    ],
+    [
+      "SI_DP_EMOTICON_HAVE_NO_COMMENT",
+      "교체 가능한 코멘트가 없습니다."
+    ],
+    [
+      "SI_DP_EMOTICON_HAVE_NO_EMOTICON",
+      "교체 가능한 이모티콘이 없습니다."
+    ],
+    [
+      "SI_DP_DIVE_ARTIFACT_RETURN_DESC",
+      ": 아티팩트 반환 시 획득 할 수 있는 {0}"
+    ],
+    [
+      "SI_DP_DECK_UNIT_STATE_DECKED",
+      "편성 중인 유닛"
+    ],
+    [
+      "SI_DP_DECK_UNIT_STATE_LOCKED",
+      "잠겨 있음"
+    ],
+    [
+      "SI_DP_POPUP_FIRST_OPTION",
+      "게임 옵션 설정"
+    ],
+    [
+      "SI_DP_POPUP_FIRST_OPTION_GRAPHIC_TITLE",
+      "그래픽 옵션 설정"
+    ],
+    [
+      "SI_DP_POPUP_FIRST_OPTION_GRAPHIC_SUBTITLE",
+      "선택 후에도 '옵션>그래픽' 에서 세부 조정이 가능합니다."
+    ],
+    [
+      "SI_DP_POPUP_FIRST_OPTION_GAME_TITLE",
+      "전투 화면 설정"
+    ],
+    [
+      "SI_DP_POPUP_FIRST_OPTION_GAME_SUBTITLE",
+      "선택 후에도 '옵션>게임' 에서 세부 조정이 가능합니다."
+    ],
+    [
+      "SI_SECOND_DECK_TUTORIAL_ERROR_NOTICE",
+      "잘못된 소대편성 튜토리얼 정보를 확인했습니다.\n관리국에서 튜토리얼 갱신 프로토콜을 실시합니다.\n<color=#FFCF3B>문제가 지속되면, 고객센터로 문의 바랍니다.</color>"
+    ],
+    [
+      "SI_DP_DECK_UNIT_STATE_MAINUNIT",
+      "임명 중인 유닛"
+    ],
+    [
+      "SI_DP_LIMITBREAK_TRANSCENDENCE_LEVEL_ONE_PARAM",
+      "한계 융합 {0}단계"
+    ],
+    [
+      "SI_PF_SLOT_CARD_CAN_TRANSCENDENCE",
+      "한계 융합 가능"
+    ],
+    [
+      "SI_DP_RESULT_TRANSCENDENCE_UNIT_GROWTH_DIFFERENCE_ONE_PARAM",
+      "능력치 성장률 {0:0.#}% 증가"
+    ],
+    [
+      "SI_DP_EVENTDECK_DECKCONDITION_LESS",
+      "이하"
+    ],
+    [
+      "SI_DP_EVENTDECK_DECKCONDITION_MORE",
+      "이상"
+    ],
+    [
+      "SI_DP_EVENTDECK_DECKCONDITION_UNIT_LEVEL_TWO_PARAM",
+      "사원 LV.{0} {1}"
+    ],
+    [
+      "SI_DP_EVENTDECK_DECKCONDITION_SHIP_LEVEL_TWO_PARAM",
+      "함선 LV.{0} {1}"
+    ],
+    [
+      "SI_DP_DECKCONDITION_LEVEL_CAP_ONE_PARAM",
+      "사원 Lv.{0} 초과시 Lv.{0}으로 적용"
+    ],
+    [
+      "SI_DP_DECKCONDITION_UNIT_COST_TWO_PARAM",
+      "사원 출격비용 <color=#C000FF>{0}</color> {1}"
+    ],
+    [
+      "SI_DP_DECKCONDITION_UNIT_COST_TOTAL_TWO_PARAM",
+      "소대 총 출격비용 <color=#C000FF>{0}</color> {1}"
+    ],
+    [
+      "SI_DP_DECKCONDITION_UNIT_LEVEL_TWO_PARAM",
+      "사원 Lv.{0} {1}"
+    ],
+    [
+      "SI_DP_DECKCONDITION_SHIP_LEVEL_TWO_PARAM",
+      "함선 Lv.{0} {1}"
+    ],
+    [
+      "SI_DP_EVENTDECK_DECKCONDITION_NOT",
+      "금지"
+    ],
+    [
+      "SI_DP_EVENTDECK_DECKCONDITION_EQUAL",
+      "한정"
+    ],
+    [
+      "SI_DP_WF_MISSION_TEXT_WFMT_NOSUPPLY_WIN",
+      "보급 없이 승리하기"
+    ],
+    [
+      "SI_DP_WF_MISSION_TEXT_WFMT_NOSUPPLY_ALLKILL",
+      "보급 없이 모든 적 격파"
+    ],
+    [
+      "SI_DP_PERMISSION_CAMERA",
+      "AR 기능 이용, 사진 및 동영상 업로드를 위한 촬영을 위해 필요합니다."
+    ],
+    [
+      "SI_DP_PERMISSION_PHOTOLIBRARY",
+      "영상 저장, 사진 및 동영상 업로드 하는데 필요합니다."
+    ],
+    [
+      "SI_DP_PERMISSION_MIC",
+      "동영상 업로드를 위한 촬영을 위해 필요합니다."
+    ],
+    [
+      "SI_DP_MISSION_ONE_PARAM",
+      "Mission {0}"
+    ],
+    [
+      "SI_DP_HAVE_COUNT_ONE_PARAM",
+      "보유 {0}"
+    ],
+    [
+      "SI_DP_REGISTERTIME_DATE",
+      "가입일 : yyyy. MM. dd"
+    ],
+    [
+      "SI_DP_NO_RANK",
+      "랭크 미참여"
+    ],
+    [
+      "SI_DP_WARFARE_RECOVERY",
+      "긴급복구"
+    ],
+    [
+      "SI_DP_WARFARE_RECOVERY_COUNT_ONE_PARAM",
+      "긴급복구 : {0}"
+    ],
+    [
+      "SI_DP_WARFARE_RECOVERY_NO_UNIT",
+      "긴급복구가 가능한 소대가 없습니다."
+    ],
+    [
+      "SI_DP_WARFARE_RECOVERY_NO_TILE",
+      "긴급복구가 가능한 지점이 없습니다. 복구지점을 확보해주십시오."
+    ],
+    [
+      "SI_DP_WARFARE_RECOVERABLE",
+      "복구가능"
+    ],
+    [
+      "SI_DP_WARFARE_RECOVERY_CONFIRM",
+      "해당 소대를 긴급복구 하시겠습니까?\n*긴급복구된 소대는 행동 종료 상태로 배치됩니다."
+    ],
+    [
+      "SI_DP_SHOP_SPECIAL",
+      "특별 상품"
+    ],
+    [
+      "SI_DP_CONTRACT_COUNT_ONE_PARAM",
+      "{0}회"
+    ],
+    [
+      "SI_DP_EXIST",
+      "있음"
+    ],
+    [
+      "SI_DP_LIMITED",
+      "일부"
+    ],
+    [
+      "SI_DP_DECK_UNIT_STATE_SEIZURE",
+      "압류"
+    ],
+    [
+      "SI_DP_UPSIDE_MENU_WAIT_ITEM",
+      "수령중"
+    ],
+    [
+      "SI_DP_REVIEW_BAN",
+      "차단"
+    ],
+    [
+      "SI_DP_REVIEW_UNBAN",
+      "차단해제"
+    ],
+    [
+      "SI_DP_REVIEW_BAN_DESC",
+      "해당 유저를 차단하시겠습니까?"
+    ],
+    [
+      "SI_DP_REVIEW_BAN_CANCEL_DESC",
+      "해당 유저의 차단을 해제하시겠습니까?"
+    ],
+    [
+      "SI_DP_REVIEW_BANNED_CONTENT",
+      "차단한 유저의 평가입니다."
+    ],
+    [
+      "SI_DP_SHOP_NOT_REGISTED_PRODUCT",
+      "등록되지 않은 상품은 구매할 수 없습니다."
+    ],
+    [
+      "SI_DP_SHOP_FREE",
+      "무료"
+    ],
+    [
+      "SI_DP_SHOP_NOT_ENOUGH_REQUIREMENT",
+      "구매 조건을 만족하지 못하였습니다"
+    ],
+    [
+      "SI_DP_SHOP_CHAIN_NEXT_RESET_ONE_PARAM",
+      "초기화까지 {0} 남음"
+    ],
+    [
+      "SI_DP_SHOP_PURCHASE_COUNT_TWO_PARAM",
+      "(구매 가능 횟수 {0}/{1})"
+    ],
+    [
+      "SI_DP_SHOP_BUY_ALL_TITLE",
+      "일괄 구매"
+    ],
+    [
+      "SI_DP_SHOP_BUY_ALL_DESC",
+      "구매 가능한 모든 상품을 일괄 구입합니다.\n모든 상품을 구매 가능한 한계치까지 구입합니다."
+    ],
+    [
+      "SI_DP_SHOP_CHAIN_LOCKED",
+      "전단계 상품 구입 필요"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_PVP_POINT_INVENTORY",
+      "보상 포인트 최대 보유량 증가"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_PVP_POINT_REWARD",
+      "보상 포인트 획득량 증가"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TITLE_ADD",
+      "<color=#FFBC00>{0}</color> 이벤트 효과 적용 중"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TITLE_REMOVE",
+      "{0} 이벤트 효과 종료"
+    ],
+    [
+      "SI_DP_FREE_ORDER",
+      "FREE ORDER"
+    ],
+    [
+      "SI_DP_EVENT",
+      "EVENT"
+    ],
+    [
+      "SI_DP_MOVE_TO_NEGOTIATE",
+      "연봉협상으로 이동하시겠습니까?"
+    ],
+    [
+      "SI_DP_ERROR_TOY_SHOP_LIST",
+      "인앱상품 정보를 받아오지 못했습니다.\n로비로 돌아갑니다."
+    ],
+    [
+      "SI_DP_NOT_ENOUGH_NEGOTIATE_MATERIALS",
+      "재료가 부족합니다."
+    ],
+    [
+      "SI_DP_NEGOTIATE_RAISE_DESC",
+      "크레딧 소모량 +{0}%\n애사심 추가 +{1}%\n대성공 확률 60%"
+    ],
+    [
+      "SI_DP_NEGOTIATE_OK_DESC",
+      "크레딧 기본값\n애사심 기본값\n대성공 확률 20%"
+    ],
+    [
+      "SI_DP_NEGOTIATE_PASSION_DESC",
+      "크레딧 소모량 -{0}%\n애사심 획득 불가\n대성공 없음"
+    ],
+    [
+      "SI_DP_NEGOTIATE_OFFER_SELECTION_BONUS",
+      "{0}% 더 부른다"
+    ],
+    [
+      "SI_DP_MAX_LEVEL_LOYALTY",
+      "경험치와 애사심이 최대치에 도달했습니다."
+    ],
+    [
+      "SI_DP_NEGOTIATE_OVER_MAX_LEVEL_ONE_PARAM",
+      "초과한 경험치는 사라집니다.\n(EXP.{0})\n협상을 진행하시겠습니까?"
+    ],
+    [
+      "SI_DP_TOY_LOGGED_IN_GUEST_KOR",
+      "게스트 로그인 중"
+    ],
+    [
+      "SI_DP_TOY_CONNECTED_ACCOUNT",
+      "계정 연동 중"
+    ],
+    [
+      "SI_DP_TOY_CUSTOMER_CENTER_RESPOND",
+      "고객센터 답변이 완료 되었습니다."
+    ],
+    [
+      "SI_DP_CONTRACT_ALL_COMPLETE_CONFIRM",
+      "완료된 채용을 모두 확인할까요?"
+    ],
+    [
+      "SI_DP_POPUP_MENU_NAME_BUILD_CONFIRM",
+      "함선 건조 확인"
+    ],
+    [
+      "SI_DP_POPUP_MENU_NAME_SHIPYARD_CONFIRM",
+      "함선 개조/개장 확인"
+    ],
+    [
+      "SI_DP_HANGAR_SHIPYARD_POPUP_LEVEL_UP_MISC_TEXT",
+      "개조 재료"
+    ],
+    [
+      "SI_DP_HANGAR_SHIPYARD_POPUP_UPGRADE_MISC_TEXT",
+      "개장 재료"
+    ],
+    [
+      "SI_DP_HANGAR_SHIPYARD_POPUP_DESC_LEVEL_UP",
+      "을 다음과 같이 개조 하시겠습니까?"
+    ],
+    [
+      "SI_DP_HANGAR_SHIPYARD_POPUP_DESC_UPGRADE",
+      "을 다음과 같이 개장 하시겠습니까?"
+    ],
+    [
+      "SI_DP_TOY_LOGIN_CHANGE_ACCOUNT",
+      "CHANGE ACCOUNT"
+    ],
+    [
+      "SI_DP_TOY_LOGIN_NO_AUTH",
+      "NO AUTH"
+    ],
+    [
+      "SI_DP_EPISODE_CATEGORY_EC_EVENT",
+      "이벤트"
+    ],
+    [
+      "SI_DP_TOY_LOGOUT_SUCCESS",
+      "정상적으로 로그아웃 되었습니다."
+    ],
+    [
+      "SI_DP_TOY_COMMUNITY_CONNECT_FAIL",
+      "커뮤니티 연결에 실패하였습니다.\n잠시 후 다시 시도해주세요."
+    ],
+    [
+      "SI_DP_TOY_SYNC_ACCOUNT_CANCEL",
+      "계정 연동을 취소 하였습니다."
+    ],
+    [
+      "SI_DP_TOY_SYNC_ACCOUNT_FAIL",
+      "계정 연동에 실패하 였습니다."
+    ],
+    [
+      "SI_DP_TOY_SERVICE_WITHDRAWAL_REQ_FAIL",
+      "서비스 탈퇴 요청에 실패하였습니다."
+    ],
+    [
+      "SI_DP_TOY_BILLING_PAYMENT_FAIL",
+      "구매 실패"
+    ],
+    [
+      "SI_DP_TOY_BILLING_PAYMENT_FAIL_DESC_1",
+      "구매에 실패하였습니다. {0}"
+    ],
+    [
+      "SI_DP_TOY_BILLING_PAYMENT_FAIL_DESC_2",
+      "구매에 실패하였습니다. {0}, {1}"
+    ],
+    [
+      "SI_DP_TOY_BILLING_RESTORE_FAIL",
+      "구매 복구 실패"
+    ],
+    [
+      "SI_DP_TOY_BILLING_RESTORE_REQ_FAIL",
+      "구매 복구 요청 실패"
+    ],
+    [
+      "SI_DP_TOY_BILLING_RESTORE_INVALID_WORK_DESC_1",
+      "유효하지 않은 작업입니다.\n{0}"
+    ],
+    [
+      "SI_DP_TOY_BILLING_RESTORE_NETWORK_ISSUE_DESC_1",
+      "네트워크 문제 입니다.\n{0}"
+    ],
+    [
+      "SI_DP_TOY_BILLING_RESTORE_INVALID_WORK_DESC_2",
+      "유효하지 않은 작업입니다.\n{0}\n{1}"
+    ],
+    [
+      "SI_DP_TOY_BILLING_RESTORE_NETWORK_ISSUE_DESC_2",
+      "네트워크 문제 입니다.\n{0}\n{1}"
+    ],
+    [
+      "SI_DP_TOY_BACKUP_CODE_REQ_CANCEL",
+      "백업 코드 발급 요청이 취소 되었습니다."
+    ],
+    [
+      "SI_DP_TOY_GUEST_ACCOUT_RESTORE_FAIL",
+      "Guest계정 복원에 실패하였습니다."
+    ],
+    [
+      "SI_DP_TOY_USER_INFO_UPDATE_FAIL",
+      "사용자 정보 조회에 실패하였습니다. 잠시 후 다시 시도해 주세요."
+    ],
+    [
+      "SI_DP_TOY_RE_TRY_TITLE",
+      "재시도"
+    ],
+    [
+      "SI_DP_TOY_RE_TRY_DESC",
+      "응답이 없습니다. 재시도 하시겠습니까?"
+    ],
+    [
+      "SI_DP_FORGE_CRAFT_MOLD_DESC",
+      "이 금형에서 다음의 장비들이 제작될 수 있습니다."
+    ],
+    [
+      "SI_DP_SORT_CRAFTABLE",
+      "제작 가능"
+    ],
+    [
+      "SI_DP_WORLD_MAP_CITY_UNLOCK_DESC",
+      "지부 설립을 승인 하시겠습니까?\n설립한 지부는 되돌릴 수 없습니다"
+    ],
+    [
+      "SI_DP_FORGE_TUNING_EXIT_CONFIRM",
+      "튜닝 옵션을 확정하지 않았습니다.\n이대로 나가면 변경 후 옵션은 버려집니다.\n이대로 나가시겠습니까?"
+    ],
+    [
+      "SI_DP_SKIN_STORY_REPLAY_CONFIRM",
+      "특별한 일을 다시 회상하시겠습니까?"
+    ],
+    [
+      "SI_DP_SHOP_SKIN_STORY_MSG",
+      "구매시 특별한 일이 생길지도 모릅니다."
+    ],
+    [
+      "SI_DP_COLLECTION_SKIN_SLOT_NAME",
+      "스 킨"
+    ],
+    [
+      "SI_DP_FORGE_CRAFT_USE_MISC_ONE_PARAM",
+      "{0}(을)를 사용하시겠습니까?"
+    ],
+    [
+      "SI_DP_INGAME_UNIT_COUNT_MAX_SAME_TIME",
+      "동시 출격 수: {0} / {1}"
+    ],
+    [
+      "SI_DP_FORGE_CRAFT_COUNT_INFINITE_SYMBOL",
+      "∞"
+    ],
+    [
+      "SI_DP_FORGE_CRAFT_POPUP_TITLE",
+      "제작 시설"
+    ],
+    [
+      "SI_DP_WARFARE_FIRST_ALL_CLEAR",
+      "메달 완수"
+    ],
+    [
+      "SI_DP_DIVE_RESET",
+      "다이브 좌표 초기화"
+    ],
+    [
+      "SI_DP_DIVE_RESET_CONFIRM",
+      "좌표를 초기화 하겠습니까?"
+    ],
+    [
+      "SI_DP_BUSINESS_MOTO_INPUT_PLEASE",
+      "사훈을 입력해 주세요"
+    ],
+    [
+      "SI_DP_DIVE_READY_FIRST_REWARD",
+      "최초 보상"
+    ],
+    [
+      "SI_DP_DIVE_READY_EXPLORE_REWARD",
+      "탐사 보상"
+    ],
+    [
+      "SI_DP_WORLDMAP_EVENT_STATE_FAIL",
+      "실 패"
+    ],
+    [
+      "SI_DP_WORLDMAP_EVENT_STATE_TIME_EXPIRED",
+      "기한 만료"
+    ],
+    [
+      "SI_DP_REPEAT_OPERATION_COST_COUNT_UNTIL_NOW",
+      "현재까지 소모량"
+    ],
+    [
+      "SI_DP_REPEAT_OPERATION_COST_COUNT",
+      "소모 비용"
+    ],
+    [
+      "SI_DP_REPEAT_OPERATION_REPEAT_COUNT_ONE_PARAM",
+      "{0}회"
+    ],
+    [
+      "SI_DP_REPEAT_OPERATION_RED_COLOR_REPEAT_COUNT_ONE_PARAM",
+      "<color=red>{0}</color>회"
+    ],
+    [
+      "SI_DP_REPEAT_OPERATION_COMPLETE_REPEAT_COUNT_ONE_PARAM",
+      "{0}회 반복됨"
+    ],
+    [
+      "SI_DP_REPEAT_OPERATION_REMAIN_REPEAT_COUNT_ONE_PARAM",
+      "{0}회 남음"
+    ],
+    [
+      "SI_DP_REPEAT_OPERATION_IS_ON_GOING",
+      "반복 작전 중"
+    ],
+    [
+      "SI_DP_REPEAT_OPERATION_IS_TERMINATED",
+      "반복 작전을 종료했습니다"
+    ],
+    [
+      "SI_DP_REPEAT_OPERATION_RESULT_TOTAL_TIME",
+      "{0} 소요"
+    ],
+    [
+      "SI_DP_REPEAT_OPERATION_NEED_MORE_RESOURCE",
+      "자원이 부족합니다."
+    ],
+    [
+      "SI_DP_EMOTICON_ENEMY_GAME_OUT",
+      "상대방이 게임에서 나가서 이모티콘을 전달할 수 없습니다."
+    ],
+    [
+      "SI_DP_EMBLEM_EQUIPPED_EMBLEM_UNEQUIP",
+      "장착 중인 엠블럼을 해제합니다."
+    ],
+    [
+      "SI_DP_EMBLEM_EQUIPPED_EMBLEM_UNEQUIP_CONFIRM",
+      "장착 중인 엠블럼을 해제하시겠습니까?"
+    ],
+    [
+      "SI_DP_EMBLEM_EQUIPPED_EMBLEM_CHANGE_CONFIRM",
+      "장착 중인 엠블럼을 교체하시겠습니까?"
+    ],
+    [
+      "SI_DP_EMBLEM_EQUIP_CONFIRM",
+      "엠블럼을 장착하시겠습니까?"
+    ],
+    [
+      "SI_DP_GAUNTLET_MATCHING_FAIL_ALARM",
+      "매칭 실패했습니다."
+    ],
+    [
+      "SI_DP_DIVE_ARTIFACT_EXCHANGE_TOTAL_GET_ITEM",
+      "총 획득 {0} : "
+    ],
+    [
+      "SI_DP_HANGAR_SHIPYARD_SKILL_NEW",
+      "함선 개장시 개방"
+    ],
+    [
+      "SI_DP_HANGAR_SHIPYARD_SKILL_UPGRADE",
+      "함선 개장 시 강화"
+    ],
+    [
+      "SI_DP_REWARD_FIRST_CLEAR",
+      "최초 클리어"
+    ],
+    [
+      "SI_DP_REWARD_CHANCE_UP",
+      "확률 UP"
+    ],
+    [
+      "SI_DP_DIVE_REMAIN_TIME_TO_RESET",
+      "초기화 실행기 재발급까지\n<color=#FFD428>{0}</color>"
+    ],
+    [
+      "SI_DP_UNIT_BAN_COST",
+      "<color=red>{0}</color>"
+    ],
+    [
+      "SI_DP_COMMON_GRADE_ONE_PARAM",
+      "{0}단계"
+    ],
+    [
+      "SI_DP_DIVE_RESULT_GAME_TIP1",
+      "<size=16>●</size> 소대를 <color=#ffcf3b>골고루 성장</color>시키세요.\n\n"
+    ],
+    [
+      "SI_DP_DIVE_RESULT_GAME_TIP2",
+      "<size=16>●</size> <color=#ffcf3b>본사</color>에서 소대를 강화하세요.\n\n"
+    ],
+    [
+      "SI_DP_DIVE_RESULT_GAME_TIP3",
+      "<size=16>●</size> <color=#ffcf3b>모의작전</color>에서 빠른 성장이 가능합니다."
+    ],
+    [
+      "SI_DP_DIVE",
+      "다이브"
+    ],
+    [
+      "SI_DP_DIVE_READY",
+      "다이브 준비"
+    ],
+    [
+      "SI_DP_DIVE_GIVE_UP",
+      "진행중인 다이브 게임을 포기하고 나가시겠습니까?\n포기하면 보상을 받을 수 없습니다."
+    ],
+    [
+      "SI_DP_DIVE_FLOOR_LEVEL_ONE_PARAM",
+      "추정레벨 {0}"
+    ],
+    [
+      "SI_DP_DIVE_LEFT_COUNT_ONE_PARAM",
+      "{0}회"
+    ],
+    [
+      "SI_DP_DIVE_SQUAD_NO_EXIST_HP",
+      "행동 불능"
+    ],
+    [
+      "SI_DP_DIVE_SQUAD_NO_EXIST_SUPPLY",
+      "탄환 없음"
+    ],
+    [
+      "SI_DP_DIVE_EVENT_POPUP",
+      "PopupDiveEvent"
+    ],
+    [
+      "SI_DP_DIVE_NO_SELECT_DECK",
+      "출격 소대를 설정해야 합니다."
+    ],
+    [
+      "SI_DP_DIVE_NO_EXIST_COST",
+      "탐사를 위한 정보가 필요합니다."
+    ],
+    [
+      "SI_DP_DIVE_NO_ENOUGH_DECK",
+      "출격 소대가 부족합니다."
+    ],
+    [
+      "SI_DP_SELECT_SQUAD",
+      "소대 선택"
+    ],
+    [
+      "SI_DP_DIVE_GIVE_UP_AND_START",
+      "진행중인 다이브 탐사를 포기하고 진행하시겠습니까?"
+    ],
+    [
+      "SI_DP_DIVE_NO_EXIST_SQUAD",
+      "탐사 가능한 소대가 없습니다"
+    ],
+    [
+      "SI_DP_DIVE_GO",
+      "다이브 개시"
+    ],
+    [
+      "SI_DP_DIVE_ARTIFACT_GET_SKIP_CHECK_REQ",
+      "아티팩트 획득을 포기하시겠습니까?"
+    ],
+    [
+      "SI_DP_DIVE_ARTIFACT_ALREADY_FULL",
+      "이미 모든 아티팩트를 획득하는데 성공했습니다."
+    ],
+    [
+      "SI_DP_LAB_SELECT_UNIT_EMPTY_MSG_ENHANCE",
+      "강화할 수 있는 유닛이 없습니다."
+    ],
+    [
+      "SI_DP_LAB_SELECT_UNIT_EMPTY_MSG_LIMITBREAK",
+      "초월할 수 있는 유닛이 없습니다."
+    ],
+    [
+      "SI_DP_LAB_SELECT_UNIT_EMPTY_MSG_SKILL_TRAIN",
+      "스킬 훈련을 할 수 있는 유닛이 없습니다."
+    ],
+    [
+      "SI_DP_DUNGEON_NO_UNIT_WARNING",
+      "유닛을 출격시키세요."
+    ],
+    [
+      "SI_DP_CONTENTS_VERSION_CHANGE",
+      "컨텐츠 버전이 업데이트 되었습니다.\n앱을 다시 실행해 주세요."
+    ],
+    [
+      "SI_DP_EVENT_BINGO_SELECT_MILLAGE_INFORMATION",
+      "중복 포인트 {0}/{1}"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_LONG_RANGE_DAMAGE_RATE",
+      "vs원거리 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_SHORT_RANGE_DAMAGE_REDUCE_RATE",
+      "vs근거리 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_SHORT_RANGE_DAMAGE_RATE",
+      "vs원거리 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_DEF_PENETRATE_RATE",
+      "방어 관통률"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_BARRIER_REINFORCE_RATE",
+      "받는 배리어 증가"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_SKILL_DAMAGE_RATE",
+      "특수기 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_SKILL_DAMAGE_REDUCE_RATE",
+      "특수기 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_HYPER_SKILL_DAMAGE_RATE",
+      "궁극기 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_HYPER_SKILL_DAMAGE_REDUCE_RATE",
+      "궁극기 피해감소"
+    ],
+    [
+      "SI_DP_NPRC_OK",
+      "정상적으로 연결되었습니다."
+    ],
+    [
+      "SI_DP_NPRC_TIMEOUT",
+      "연결시간이 초과되었습니다."
+    ],
+    [
+      "SI_DP_NPRC_AUTH_LOGIN_NOT_READY",
+      "아직 로그인 준비가 되지 않았습니다."
+    ],
+    [
+      "SI_DP_NPRC_AUTH_LOGOUT_NOT_LOGINED",
+      "계정 확인에 실패하였습니다.\n로그인을 확인해주세요."
+    ],
+    [
+      "SI_DP_NPRC_AUTH_LOGIN_SYNC_NOT_READY",
+      "연결 확인에 실패하였습니다.\n잠시 후에 다시 시도해주세요."
+    ],
+    [
+      "SI_DP_NPRC_BUSY",
+      "다른 작업을 실행중입니다.\n잠시 후에 다시 시도해주세요."
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_ALWAYS_LOCKED",
+      "아직 접근할 수 없습니다."
+    ],
+    [
+      "SI_DP_EVENT_BINGO_SELECT_BUTTON_OFF_TO_ON",
+      "확정 분석"
+    ],
+    [
+      "SI_DP_EVENT_BINGO_SELECT_BUTTON_ON_TO_OFF",
+      "확정 분석 취소"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_RWDBOUNS_ETERNIUM",
+      "이터니움 보상 보너스"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_RWDBOUNS_INFORMATION",
+      "정보 보상 보너스"
+    ],
+    [
+      "SI_DP_CONTRACT_FREE_TRY_DESC",
+      "무료채용을 진행하시겠습니까?"
+    ],
+    [
+      "SI_DP_CONTRACT_CONFIRMATION_DESC_01",
+      "확정 채용까지 <color=#ffcf3b><size=36><b>{0}</b></size></color>회"
+    ],
+    [
+      "SI_DP_CONTRACT_CONFIRMATION_DESC",
+      "<color=#ffcf3b>다음 채용 시 즉시 획득!</color>"
+    ],
+    [
+      "SI_DP_CONTRACT_CONFIRM_BOTTOM_DESC",
+      "확정 채용 시 다음 사원 중 1명이 반드시 등장합니다."
+    ],
+    [
+      "SI_DP_CONTRACT_CONFIRMATION_POPUP_TITLE_01",
+      "확정 채용 등장 사원"
+    ],
+    [
+      "SI_DP_CONTRACT_POPUP_RATE_EVENT_TIME_OVER_01",
+      "이벤트 시간 끝남 : {0}"
+    ],
+    [
+      "SI_DP_CONTRACT_POPUP_RATE_DETAIL_PERCENT_01",
+      "세부 확률"
+    ],
+    [
+      "SI_DP_CONTRACT_MISC_NOT_ENOUGH_01",
+      "{0}(이)가 모자랍니다."
+    ],
+    [
+      "SI_DP_CONTRACT_REQ_DESC_03",
+      "{0} {1}개 (을)를 소모하여 {2}번의 채용을 진행하시겠습니까?"
+    ],
+    [
+      "SI_DP_SELECTABLE_CONTRACT_DESC",
+      "{0}을 시작하시겠습니까?\n총 {1}번까지 채용 후보를 다시 뽑으실 수 있습니다.\n채용 확정은 한 번만 가능합니다."
+    ],
+    [
+      "SI_DP_SELECTABLE_CONTRACT_UNIT_POOL_CHANGE_CONFIRM",
+      "새로운 후보를 확인하시겠습니까?\n현재 채용 후보 목록은 제거됩니다."
+    ],
+    [
+      "SI_DP_SELECTABLE_CONTRACT_CONFIRM",
+      "위 채용 후보 목록을 채용하시겠습니까?\n채용은 한 번만 가능합니다."
+    ],
+    [
+      "SI_DP_SELECTABLE_CONTRACT_NOT_ENOUGH",
+      "{0}(이)가 모자랍니다."
+    ],
+    [
+      "SI_DP_SELECTABLE_CONTRACT_USE_ITEM",
+      "비용을 소모하여 채용 후보 목록을 채용하시겠습니까? 채용은 한 번만 가능합니다."
+    ],
+    [
+      "SI_DP_POPUP_DUNGEON_ENTER_LIMIT_DESC_ACTIVE_02",
+      "일일 입장 제한 {0}/{1}"
+    ],
+    [
+      "SI_DP_WARFARE_GAME_HUD_RESTORE_LIMIT_DESC_DAY_02",
+      "작전 수행 횟수를 초과했습니다.\n수행 횟수를 복원하시겠습니까?\n\n오늘 가능한 복원 횟수({0}/{1})"
+    ],
+    [
+      "SI_DP_WARFARE_GAME_HUD_RESTORE_LIMIT_DESC_WEEK_02",
+      "작전 수행 횟수를 초과했습니다.\n수행 횟수를 복원하시겠습니까?\n\n오늘 가능한 복원 횟수({0}/{1})"
+    ],
+    [
+      "SI_DP_WARFARE_GAME_HUD_RESTORE_LIMIT_DESC_MONTH_02",
+      "작전 수행 횟수를 초과했습니다.\n수행 횟수를 복원하시겠습니까?\n\n오늘 가능한 복원 횟수({0}/{1})"
+    ],
+    [
+      "SI_DP_WARFARE_GAEM_HUD_RESTORE_LIMIT_OVER_DESC",
+      "복원 횟수를 초과하였습니다.\n더 이상 복원을 할 수 없습니다."
+    ],
+    [
+      "SI_DP_WARFARE_GAME_HUD_OPERATION_START",
+      "작전 개시"
+    ],
+    [
+      "SI_DP_WARFARE_GAME_HUD_OPERATION_RESTORE",
+      "작전 복원"
+    ],
+    [
+      "SI_DP_POPUP_RESOURCE_CONFIRM_REWARD_DESC_02",
+      "{0} {1} 획득"
+    ],
+    [
+      "SI_DP_EVENT_BINGO_REWARD_BINGO_LINE_TITLE",
+      "{0} 빙고 보상"
+    ],
+    [
+      "SI_DP_EVENT_BINGO_REWARD_GET",
+      "수령"
+    ],
+    [
+      "SI_DP_EVENT_BINGO_REWARD_GET_COMPLET",
+      "수령완료"
+    ],
+    [
+      "SI_DP_DOUBLE_OPERATION_CANNOT_REPEAT",
+      "배수권 사용 중에는 반복 작전이 불가능합니다."
+    ],
+    [
+      "SI_DP_EVENT_BINGO_GET_QUESTION_NUMBER_NORMAL_POPUP",
+      "{0} 데이터 분석을 진행하시겠습니까?"
+    ],
+    [
+      "SI_DP_EVENT_BINGO_GET_QUESTION_NUMBER_SELECT_POPUP",
+      "확정 분석 {0} 포인트로 {1} (을)를 개방합니다."
+    ],
+    [
+      "SI_DP_EVENT_BINGO_GET_INFOMATION_HAVE_POINT",
+      "확정 분석 포인트 {0} 보유 중"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_UNIT_TYPE_CORRUPTED_DAMAGE_RATE",
+      "vs침식체 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_UNIT_TYPE_CORRUPTED_DAMAGE_REDUCE_RATE",
+      "vs침식체 피해감소"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_UNIT_TYPE_REPLACER_DAMAGE_RATE",
+      "vs리플레이서 피해"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_UNIT_TYPE_REPLACER_DAMAGE_REDUCE_RATE",
+      "vs리플레이서 피해감소"
+    ],
+    [
+      "SI_DP_EC_DAILY_TICKET_LEFT",
+      "남은 횟수:"
+    ],
+    [
+      "SI_DP_POPUP_DUNGEON_ENTER_LIMIT_DESC_WEEK_02",
+      "주간 입장 제한 {0}/{1}"
+    ],
+    [
+      "SI_DP_POPUP_DUNGEON_ENTER_LIMIT_DESC_MONTH_02",
+      "주간 입장 제한 {0}/{1}"
+    ],
+    [
+      "SI_DP_ENTER_LIMIT_OVER",
+      "입장 횟수가 모두 소진되었습니다."
+    ],
+    [
+      "SI_DP_ACT_DUNGEON_SLOT_FIGHT_POWER_DESC",
+      "<size=20>Lv.</size>{0}"
+    ],
+    [
+      "SI_DP_POPUP_DUNGEON_GET_MAIN_REWARD",
+      "메인 보상"
+    ],
+    [
+      "SI_DP_AUTO_RESOURCE_SUPPLY_FAIL_ETER_FULL",
+      "이터니움 최대 보유량을 초과했습니다."
+    ],
+    [
+      "SI_DP_DUNGEON_DECK_NO_REUSE_TITLE",
+      "재출격 불가"
+    ],
+    [
+      "SI_DP_DUNGEON_DECK_NO_REUSE_DESC",
+      "이 전투에선 소대원당 1번씩만 출격할 수 있습니다.\n"
+    ],
+    [
+      "SI_TC_COST",
+      "필요 코스트: {0} (+{1})"
+    ],
+    [
+      "SI_TC_TARGET_MY_TEAM",
+      "대상: 아군 유닛"
+    ],
+    [
+      "SI_TC_TARGET_ENEMY",
+      "대상: 적 유닛"
+    ],
+    [
+      "SI_TC_TARGET_ALL",
+      "대상: 전체 유닛"
+    ],
+    [
+      "SI_TC_TARGET_BOSS",
+      "대상: 적 보스"
+    ],
+    [
+      "SI_DP_TACTICAL_COMMAND_TARGET_MY_UNIT_ONLY",
+      "대상 : 아군 유닛"
+    ],
+    [
+      "SI_DP_TACTICAL_COMMAND_TARGET_MY_UNIT_BOSS",
+      "대상 : 아군 유닛 및 함선"
+    ],
+    [
+      "SI_DP_TACTICAL_COMMAND_TARGET_ENEMY_UNIT_ONLY",
+      "대상 : 적군 유닛"
+    ],
+    [
+      "SI_DP_TACTICAL_COMMAND_TARGET_ENEMY_UNIT_BOSS",
+      "대상 : 적군 유닛 및 함선"
+    ],
+    [
+      "SI_DP_TACTICAL_COMMAND_TARGET_ALL_UNIT_ONLY",
+      "대상 : 전체 유닛"
+    ],
+    [
+      "SI_DP_TACTICAL_COMMAND_TARGET_ALL_UNIT_BOSS",
+      "대상 : 전체 유닛 및 함선"
+    ],
+    [
+      "SI_DP_ROLE_TEXT_NURT_STRIKER_AWAKEN",
+      "각성 스트라이커"
+    ],
+    [
+      "SI_DP_ROLE_TEXT_NURT_RANGER_AWAKEN",
+      "각성 레인저"
+    ],
+    [
+      "SI_DP_ROLE_TEXT_NURT_DEFENDER_AWAKEN",
+      "각성 디펜더"
+    ],
+    [
+      "SI_DP_ROLE_TEXT_NURT_SNIPER_AWAKEN",
+      "각성 스나이퍼"
+    ],
+    [
+      "SI_DP_ROLE_TEXT_NURT_SUPPORTER_AWAKEN",
+      "각성 서포터"
+    ],
+    [
+      "SI_DP_ROLE_TEXT_NURT_SIEGE_AWAKEN",
+      "각성 시즈"
+    ],
+    [
+      "SI_DP_ROLE_TEXT_NURT_TOWER_AWAKEN",
+      "각성 타워"
+    ],
+    [
+      "SI_DP_SHOP_CHAIN_NEXT_RESET_ONE_PARAM_CLOSE",
+      "{0} 남음"
+    ],
+    [
+      "SI_DP_CONTRACT_FREE_EVENT_DESC",
+      "<size=22>{0}/{1}</size>     <size=18>▶</size>     <size=22>{2}/{3}</size>\n<b>[이벤트] 일일 {4}회 무료 채용 진행!</b>"
+    ],
+    [
+      "SI_DP_CONTRACT_RESET_TIME_DESC",
+      "오전 4시 초기화!"
+    ],
+    [
+      "SI_DP_OPTION_LANGUAGE_CHANGE",
+      "변경"
+    ],
+    [
+      "SI_DP_FORGE_SET_EXIT_CONFIRM",
+      "세트 옵션을 확정하지 않았습니다.\n이대로 나가면 변경 후 옵션은 버려집니다.\n이대로 나가시겠습니까?"
+    ],
+    [
+      "SI_DP_FORGE_SET_POPUP_CONFIRM_TITLE",
+      "변경 확정"
+    ],
+    [
+      "SI_DP_FORGE_SET_POPUP_CONFIRM_DESC",
+      "기존 옵션이 제거되고 다음 옵션으로 변경됩니다.\n정말로 확정하시겠습니까?"
+    ],
+    [
+      "SI_DP_EQUIP_WHERE_ACC_SLOT_1",
+      "보조장비1"
+    ],
+    [
+      "SI_DP_EQUIP_WHERE_ACC_SLOT_2",
+      "보조장비2"
+    ],
+    [
+      "SI_DP_CONTRACT_MULTI_FREE_TRY_DESC",
+      "무료채용 10회를 진행하시겠습니까?"
+    ],
+    [
+      "SI_DP_CONTRACT_COUNT_CLOSE_DESC",
+      "남은 채용 횟수 <color=#ffcf3b>{0}</color>회"
+    ],
+    [
+      "SI_DP_ITEM_NOT_ENOUGH_PRODUCT_POPUP_DESC",
+      "<color=#ffcf3b>{0}</color>을(를) 추가 구매하시겠습니까?"
+    ],
+    [
+      "SI_DP_MENU_EVENT",
+      "이벤트"
+    ],
+    [
+      "SI_DP_POPUP_USE_COUNT_TOP_TEXT_MISC",
+      "이 비품을 선택하시겠습니까?"
+    ],
+    [
+      "SI_DP_POPUP_USE_COUNT_TOP_TEXT_MISC_DAILY_TICKET",
+      "모의작전 연수티켓을 <color=#ffcf3b>{0}</color>(으)로 교환하시겠습니까?"
+    ],
+    [
+      "SI_DP_POPUP_USE_COUNT_TEXT_MISC_HAVE",
+      "보유 :"
+    ],
+    [
+      "SI_DP_POPUP_USE_COUNT_TEXT_MISC_REMAIN_COUNT",
+      "남은 횟수:"
+    ],
+    [
+      "SI_DP_POPUP_USE_COUNT_HAVE_TEXT_MISC_CHOICE",
+      "선택권 보유 수량"
+    ],
+    [
+      "SI_DP_POPUP_USE_COUNT_HAVE_TEXT_MISC_DAILY_TICKET",
+      "모의작전 연수티켓 보유 수량"
+    ],
+    [
+      "SI_DP_SHOP_SUBSCRIBE_DAY_ENOUGH_DESC",
+      "정액제 남은 기간이 {0}일 미만일 시, 재구매가 가능합니다."
+    ],
+    [
+      "SI_DP_EQUIP_POPUP_EQUIP_ITEM_FAIL_PRIVATE",
+      "장착 할 수 없는 장비입니다."
+    ],
+    [
+      "SI_DP_POPUP_SHOP_BUY_SHORTCUT_NOT_ENOUGH",
+      "<color=#ffcf3b>{0}</color>(이)가 부족합니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_HP_RATE",
+      "체력 증가"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_ATK_RATE",
+      "공격력 증가"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_DEF_RATE",
+      "방어력 증가"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_CRITICAL_RATE",
+      "치명 증가"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_HIT_RATE",
+      "명중 증가"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_EVADE_RATE",
+      "회피 증가"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_START_DATETIME",
+      "액트 {0} 클리어가 필요합니다."
+    ],
+    [
+      "SI_DP_FORGE_SET_CANNOT_CHANGE",
+      "현재 부여된 옵션이 없습니다."
+    ],
+    [
+      "SI_DP_FORGE_SET_NO_OPTION",
+      "현재 부여된 옵션이 없습니다."
+    ],
+    [
+      "SI_DP_CONTRACT_NOT_ENOUGH_ITEM_DESC",
+      "{0}(이)가 부족합니다."
+    ],
+    [
+      "SI_DP_EVENT_BUFF_LABEL_NEGOTIATION_CREDIT_DISCOUNT_DESC",
+      "협상 비용 {0}% 할인중"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_BASE_PERSONNAL_NEGOTIATION_CREDIT_DISCOUNT",
+      "연봉 협상 소모 크레딧 할인"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_BASE_FACTORY_CRAFT_CREDIT_DISCOUNT",
+      "장비 제작 소모 크레딧 할인"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_BASE_FACTORY_ENCHANT_TUNING_CREDIT_DISCOUNT",
+      "장비 강화/튜닝 소모 크레딧 할인"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_BASE_FACTORY_POTENTIAL_SOCKET_CREDIT_DISCOUNT",
+      "잠재 개방/재설정 소모 크레딧 할인"
+    ],
+    [
+      "SI_DP_CONTRACT_FREE_TRY_COUNT_SINGLE_DESC",
+      "무료 채용"
+    ],
+    [
+      "SI_DP_CONTRACT_FREE_TRY_COUNT_MULTI_DESC",
+      "무료 {0}회 채용"
+    ],
+    [
+      "SI_DP_CONTRACT_RESOURCE_TRY_COUNT_DESC",
+      "{0}회 채용"
+    ],
+    [
+      "SI_DP_CONTRACT_DAILY_RETRY_ENOUGH_TIMER_DESC",
+      "{0} 남음"
+    ],
+    [
+      "SI_DP_INGAME_SHIP_SKILL_FAIL_SLEEP",
+      "수면 중에는 스킬을 사용할 수 없습니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_ROLE_TYPE_DAMAGE_RATE",
+      "상성 피해 강화"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_ROLE_TYPE_DAMAGE_REDUCE_RATE",
+      "상성 피해 저항"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_WARFARE_DUNGEON_ETNM_DISCOUNT",
+      "전투 배치 이터니움 감소"
+    ],
+    [
+      "SI_DP_TOY_NEXON_UNREGISTER_FAIL",
+      "넥슨 닷컴 회원 탈퇴에 실패하였습니다."
+    ],
+    [
+      "SI_DP_DECKCONDITION_UNIT_ID_NOT_ONE_PARAM",
+      "<color=#ffcf3b>{0}</color> 사용 금지"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_HP_GROWN_ATK_RATE",
+      "감소체력 비례 공격력"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_HP_GROWN_DEF_RATE",
+      "감소체력 비례 방어력"
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_NST_HP_GROWN_EVADE_RATE",
+      "감소체력 비례 회피 능력치"
+    ],
+    [
+      "SI_DP_CONTRACT_LIMIT_TIME_DAY",
+      "{0}일 {1}시간 남음"
+    ],
+    [
+      "SI_DP_CONTRACT_LIMIT_TIME_HOUR",
+      "{0}시간 {1}분 남음"
+    ],
+    [
+      "SI_DP_CONTRACT_LIMIT_TIME_SECOND",
+      "{0}분 {1}초 남음"
+    ],
+    [
+      "SI_DP_CONTRACT_FREE_BUTTON_DESC_01",
+      "무료 {0}회 채용"
+    ],
+    [
+      "SI_DP_CONTRACT_BUTTON_DESC",
+      "{0}회 채용"
+    ],
+    [
+      "SI_DP_CONTRACT_NOT_ENOUGH_ITEM_TRY",
+      "{0}이 부족합니다."
+    ],
+    [
+      "SI_DP_SHADOW_PALACE_LEVEL",
+      "적 레벨 LV.{0}"
+    ],
+    [
+      "SI_DP_SHADOW_PALACE_TITLE",
+      "그림자 전당"
+    ],
+    [
+      "SI_DP_SHADOW_PALACE_NAME",
+      "팔레스 #{0}"
+    ],
+    [
+      "SI_DP_SHADOW_PALACE_ENTER_POPUP_DESC",
+      "<color=#FFCF3B>PALACE #{0} [{1}]</color> 공략을 시작하시겠습니까?\n해당 팔레스 진행동안 다른 팔레스에는 입장이 불가능합니다."
+    ],
+    [
+      "SI_DP_SHADOW_PALACE_ENERMY_LEVEL",
+      "<size=26>Lv.</size><size=50><color=#{0}>{1}</color></size>"
+    ],
+    [
+      "SI_DP_SHADOW_PALACE_ENERMY_CLEAR_TIME",
+      "룸 {0:00} 기록"
+    ],
+    [
+      "SI_DP_SHADOW_PALACE_SURRENDER_POPUP_DESC",
+      "<color=#FFCF3B>PALACE #{0} {1}</color> 공략에서 퇴각하시겠습니까?\n퇴각 시 <color=#FFCF3B>{2}</color>은 반환되지 않습니다."
+    ],
+    [
+      "SI_DP_SHADOW_PALACE_CLEAR_REPORT",
+      "PALACE #{0} {1}\n<size=30>공략기록보고</size>"
+    ],
+    [
+      "SI_DP_SHADOW_PALACE_CLEAR_ROOM_NUM",
+      "룸 #{0}"
+    ],
+    [
+      "SI_DP_SHADOW_PALACE_CLEAR_ROOM_BOSS",
+      "BOSS"
+    ],
+    [
+      "SI_DP_COLLECTION",
+      "도감"
+    ],
+    [
+      "SI_DP_DECK_NUMBER_STRING_DAILY",
+      "C"
+    ],
+    [
+      "SI_DP_DECK_NUMBER_STRING_FRIEND",
+      "F"
+    ],
+    [
+      "SI_DP_DECK_NUMBER_STRING_RAID",
+      "R"
+    ],
+    [
+      "SI_DP_DECK_NUMBER_STRING_PVP_DEFENCE",
+      "DEF"
+    ],
+    [
+      "SI_DP_DECK_UNIT_STATE_CANNOT_USE",
+      "편성 제한"
+    ],
+    [
+      "SI_DP_CONTRACT_FREE_MULTI_TRY_POPUP_DESC",
+      "무료채용 {0}회를 진행하시겠습니까?"
+    ],
+    [
+      "SI_DP_LEADERBOARD",
+      "순위"
+    ],
+    [
+      "SI_DP_SHADOW_BUTTON_TICKET_VIEW",
+      "보유 {0} : {1}"
+    ],
+    [
+      "SI_DP_INGAME_USER_A_NAME_TWO_PARAM",
+      "Lv.{0}  {1}"
+    ],
+    [
+      "SI_DP_INGAME_USER_B_NAME_TWO_PARAM",
+      "{1}  Lv.{0}"
+    ],
+    [
+      "SI_DP_INGAME_TEAM_A_NAME_TWO_PARAM",
+      "[{2}] Lv.{0} {1}"
+    ],
+    [
+      "SI_DP_INGAME_TEAM_B_NAME_TWO_PARAM",
+      "[{2}] Lv.{0} {1}"
+    ],
+    [
+      "SI_DP_WARFARE_RESULT_SHADOW_TIP1",
+      "<size=16>●</size> 도플갱어는 <color=#ffcf3b> 오리지널의\n고유능력이 극대화 </color> 되어 있습니다.\n\n"
+    ],
+    [
+      "SI_DP_WARFARE_RESULT_SHADOW_TIP2",
+      "<size=16>●</size> <color=#ffcf3b>오리지널 유닛</color>의 능력을 파악하고 대처하십시오\n\n"
+    ],
+    [
+      "SI_DP_DECKCONDITION_AWAKEN_ONE_PARAM",
+      "각성 유닛 {0}"
+    ],
+    [
+      "SI_DP_DECKCONDITION_AWAKEN_COUNTL_TWO_PARAM",
+      "각성 유닛 {0}기 {1}"
+    ],
+    [
+      "SI_DP_CONSORTIUM_JOIN_COOLTIME_DESC",
+      "{0}후\n가입 가능"
+    ],
+    [
+      "SI_DP_CONSORTIUM_CREATE_STORY_BODY_DESC",
+      "우리는 이면세계에 위협 받는 국제 치안 유지에 이바지하며,\n기업들의 진취적인 경제 활동을 촉진할 것을 결의하였다.\n이를 위하여 침식 현상에 대응하기 위한 전력 양성에 힘쓰고,\n목표이익 달성에 필요한 모든 합법적 수단을 동원하고자 한다.\n\n[{0}]은 이 선언서에 동의하는\n여러 기업체를 대표하여 컨소시엄 설립을 선언한다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_CREATE_CONFIRM_POPUP_BODY_DESC",
+      "[{0}] 컨소시엄을 설립하시겠습니까?\n(추후 이름 변경은 불가능합니다.)"
+    ],
+    [
+      "SI_DP_CONSORTIUM_JOIN_RIGHTOFF_JOIN_POPUP_BODY_DESC",
+      "{0} 컨소시엄에 가입하시겠습니까?"
+    ],
+    [
+      "SI_DP_CONSORTIUM_JOIN_CONFIRM_JOIN_SUCCESS_POPUP_BODY_DESC",
+      "{0} 컨소시엄에 가입 신청이 완료되었습니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_JOIN_CONFIRM_JOIN_CANCEL_POPUP_BODY_DESC",
+      "{0} 컨소시엄 가입 신청을 취소하시겠습니까?"
+    ],
+    [
+      "SI_DP_CONSORTIUM_JOIN_MORE_INFORMATION_MEMBER_COUNT_DESC",
+      "컨소시엄 연합원 ({0}/{1})"
+    ],
+    [
+      "SI_DP_CONSORTIUM_OVERLAY_MESSAGE_BODY_JOIN",
+      "{0} 컨소시엄에 가입되었습니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_OVERLAY_MESSAGE_BODY_LEVEL_UP",
+      "{0} 컨소시엄이 {1}레벨로 성장하였습니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_MEMBER_GRADE_UP_CONFIRM_POPUP_BODY_DESC",
+      "정말로 {0}님을 임원으로 승진시키시겠습니까?"
+    ],
+    [
+      "SI_DP_CONSORTIUM_MEMBER_GRADE_UP_INFORMATION_POPUP_BODY_DESC",
+      "{0}의 임원으로 인사발령 되었음을 알려드립니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_MEMBER_FORCE_EXIT_CONFIRM_POPUP_BODY_DESC",
+      "정말로 {0}님을 강제 탈퇴시키시겠습니까?"
+    ],
+    [
+      "SI_DP_CONSORTIUM_MEMBER_FORCE_EXIT_INFORMATION_POPUP_BODY_DESC",
+      "컨소시엄에서 강제탈퇴 되었음을 알려드립니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_MEMBER_GRADE_DOWN_CONFIRM_POPUP_BODY_DESC",
+      "정말로 {0}님을 연합원으로 강등하시겠습니까?"
+    ],
+    [
+      "SI_DP_CONSORTIUM_MEMBER_FRADE_DOWN_INFORMATION_POPUP_BODY_DESC",
+      "{0}의 연합원으로 인사발령 되었음을 알려드립니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_MEMBER_GRADE_HANDOVER_MASTER_BODY_DESC",
+      "장기 미접속으로 {0}님이 대표의 권한을 양도받았습니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_MEMBER_GRADE_HANDOVER_TRANSFORER_BODY_DESC",
+      "장기 미접속으로 연합원이 대표 권한을 양도받았습니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_MEMBER_GRADE_HANDOVER_CONFIRM_POPUP_BODY_DESC",
+      "정말로 {0}님에게 대표 권한을 양도하시겠습니까?\n대표 권한 양도시 연합원으로 자동 강등됩니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_MEMBER_GRADE_HANDOVER_INFORMATION_POPUP_BODY_DESC",
+      "{0}의 대표로 인사발령 되었음을 알려드립니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_MEMBER_CONFIRM_JOIN_CONFIRM_POPUP_BODY_DESC",
+      "{0}님의 가입을 승인하시겠습니까?"
+    ],
+    [
+      "SI_DP_CONSORTIUM_MEMBER_CONFIRM_JOIN_REFUSE_POPUP_BODY_DESC",
+      "{0}님의 가입을 거절하시겠습니까?"
+    ],
+    [
+      "SI_DP_CONSORTIUM_CHAT_INFORMATION_SANCTION_DESC",
+      "{0} 후 해제"
+    ],
+    [
+      "SI_DP_CONSORTIUM_CHAT_REPORT_POPUP_TITLE_DESC",
+      "{0}(를)을 부적절한 행위로 신고하시겠습니까?"
+    ],
+    [
+      "SI_DP_LEADERBOARD_TOAST_DELETED_USER",
+      "유저 정보가 존재하지 않습니다. 삭제되었거나 정지된 계정입니다."
+    ],
+    [
+      "SI_DP_MULTIPLY_OPERATION_VALUE_1",
+      "<size=30>x</size> <size=40>{0}</size>"
+    ],
+    [
+      "SI_DP_MULTIPLY_OPERATION_VALUE_2",
+      "<size=30>x</size> <size=46>{0}</size>"
+    ],
+    [
+      "SI_DP_MULTIPLY_OPERATION_SUPPLY_POPUP_DESC",
+      "중첩작전 중에는 중첩된 보급비용이 요구됩니다.\n해당 소대 함선에 보급을 하시겠습니까?"
+    ],
+    [
+      "SI_DP_MULTIPLY_OPERATION_WARFARE_OUT_POPUP_DESC",
+      "<color=#ffcf3b>중첩작전 진행중입니다.</color>\n진행중인 전역게임을 포기하고 나가시겠습니까?\n포기하면 보상을 받을 수 없습니다."
+    ],
+    [
+      "SI_DP_MULTIPLY_OPERATION_DUNGEON_OUT_POPUP_DESC",
+      "<color=#ffcf3b>중첩작전 진행중입니다.</color>\n임무를 정말 포기하시겠습니까?\n임무를 포기하면 보상을 받을 수 없습니다."
+    ],
+    [
+      "SI_DP_MULTIPLY_OPERATION_MEDAL_COND",
+      "3메달 달성 후 사용 가능합니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_INVITE_SEND_POPUP_BODY_DESC",
+      "{0}님을 컨소시엄으로 초대하시겠습니까?"
+    ],
+    [
+      "SI_DP_TIMER_REMAIN",
+      "<color=#FFDF5D>{0}</color> 남음"
+    ],
+    [
+      "SI_DP_WORLD_MAP_RAID_REMAIN_TIME",
+      "종료까지 <size=46>{0}</size> 남았습니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_INVITE_JOIN_REJECT_POPUP_BODY_DESC",
+      "{0} 컨소시엄의 초대를 거절하시겠습니까?"
+    ],
+    [
+      "SI_DP_CONSORTIUM_ATTENDANCE_REWARD_CONDITION",
+      "{0}명 이상"
+    ],
+    [
+      "SI_DP_CONSORTIUM_MEMBER_CHANGE_MASTER_TOAST_MESSAGE_TITLE_DESC",
+      "[컨소시엄] 대표 권한 양도 안내"
+    ],
+    [
+      "SI_DP_CONSORTIUM_MEMBER_CHANGE_PERMISSION_TOAST_MESSAGE_TITLE_DESC",
+      "[컨소시엄] 인사발령 안내"
+    ],
+    [
+      "SI_DP_CONSORTIUM_MEMBER_FORCE_EXIT_TOAST_MESSAGE_TITLE_DESC",
+      "[컨소시엄] 강제 탈퇴 안내"
+    ],
+    [
+      "SI_DP_MULTIPLY_OPERATION_START_COND",
+      "작전에 투입할 함선을 미리 배치해야 합니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_CHAT_INFORMATION_JOIN",
+      "{0}님이 컨소시엄에 가입하였습니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_CHAT_INFORMATION_EXIT",
+      "{0}님이 컨소시엄을 탈퇴하였습니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_CHAT_INFORMATION_FORCE_EXIT",
+      "{0}님이 강제 탈퇴되었습니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_CHAT_INFORATION_GRADE_UP",
+      "{0}님이 임원으로 승진하였습니다."
+    ],
+    [
+      "SI_DP_POPUP_HAMBER_MENU_MISSION_TITLE_DESC_01",
+      "Mission {0}"
+    ],
+    [
+      "SI_DP_MULTIPLY_OPERATION_REWARD_COUNT",
+      "<size=30>x</size> <size=36>{0}</size>"
+    ],
+    [
+      "SI_DP_CONSORTIUM_CHAT_IFORMATION_MASTER_MIGRATION",
+      "{0}님이 대표로 승진하였습니다."
+    ],
+    [
+      "SI_DP_ATTANDENCE_DATE",
+      "매월 1일 갱신됩니다."
+    ],
+    [
+      "SI_DP_SKIN_OVERLAP_MAIL_HEADER",
+      "스킨 중복획득 반환보상"
+    ],
+    [
+      "SI_DP_SKIN_OVERLAP_MAIL_CONTENTS",
+      "보유 중인 스킨을 중복획득하여, 스킨등급에 따른 반환보상이 지급됩니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_POPUP_DONATION_REMAIN_TIME",
+      "{0}회"
+    ],
+    [
+      "SI_DP_CONSORTIUM_WELFARE_SUBTAB_PERSONAL_CONFIRM_BODY",
+      "복지포인트를 사용하여 [{0}] 버프를 활성화 하시겠습니까?"
+    ],
+    [
+      "SI_DP_OPTION_CUTSCENE_FAST",
+      "빠름"
+    ],
+    [
+      "SI_DP_OPTION_CUTSCENE_NORMAL",
+      "보통"
+    ],
+    [
+      "SI_DP_OPTION_CUTSCENE_SLOW",
+      "느림"
+    ],
+    [
+      "SI_DP_CONSORTIUM_MISSION_CLEAR_TOAST_MESSAGE_TEXT",
+      "컨소시엄 주간 미션 완료 - {0}"
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_MENTOR_UNLOCK_LEVEL",
+      "회사 레벨 26 달성 후 이용가능합니다."
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_MENTOR_UNLOCK_MISSION",
+      "현재 추천인 미션을 모두 완료 후 이용 가능합니다."
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_MENTEE_PROCESSING_MISSION",
+      "미션 진행 중 ({0}/{1})"
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_MENTOR_INVITE_REWARD_TITLE",
+      "추천인 보상"
+    ],
+    [
+      "SI_DP_SHOP_SALE_PERIOD",
+      "판매 기간"
+    ],
+    [
+      "SI_DP_SHIP_BUILD_CONDITION_FAIL_SHIP_LEVEL",
+      "{0}함선 {1}레벨 보유 시 건조가능"
+    ],
+    [
+      "SI_DP_CONSORTIUM_POPUP_DONATION_REFRESH_FREE_TEXT",
+      "무료({0}회)"
+    ],
+    [
+      "SI_DP_CONSORTIUM_DONATION_SUCCESS_TOAST_TEXT",
+      "컨소시엄 기부 - [{0}] 완료"
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_MENTEE_COUNT",
+      "추천인 수 {0}/{1}"
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_MENTEE_MISSION_REQ",
+      "추천인 미션은 추천 대상이 지정되어야만 수령이 가능합니다."
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_CAN_NOT_DELETE_MENTEE",
+      "{0}일 이상 미접속 추천인만 삭제가 가능합니다."
+    ],
+    [
+      "SI_DP_MISSION_OPEN_UNTIL_DAY",
+      "{0}일 {1}시간후 미션이 개방됩니다."
+    ],
+    [
+      "SI_DP_MISSION_OPEN_UNTIL_HOUR",
+      "{0}시간 {1}분 후 미션이 개방됩니다."
+    ],
+    [
+      "SI_DP_MISSION_OPEN_UNTIL_MINUTE",
+      "{0}분 후 미션이 개방됩니다."
+    ],
+    [
+      "SI_DP_EVENT_NOTICE_LABEL_BINGO",
+      "BINGO"
+    ],
+    [
+      "SI_DP_EVENT_NOTICE_LABEL_MISSION",
+      "MISSION"
+    ],
+    [
+      "SI_DP_EVENT_NOTICE_LABEL_SIMPLE",
+      "EVENT"
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_POPUP_INVITE_OVERLAP",
+      "이미 초대 요청을 보낸 유저 입니다."
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_POPUP_MENTEE_LIST_OVERLAP",
+      "이미 추천인 리스트가 가득찬 유저 입니다."
+    ],
+    [
+      "SI_DP_NEWBIE_MISSION_BUBBLE",
+      "<color=#2386DB><b>{0}</b></color> 동안만 수행 가능한 \n<color=#0e4480><b>신임 사장님 특별 미션</b></color> 진행 중!"
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_POPUP_MENTOR_REWARD_NULL",
+      "추천인 보상을 확인 할 수 없습니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_WELFARE_BUY_POINT_DESC",
+      "{0} 복지포인트를 구매하시겠습니까?"
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_POPUP_DELETE_MENTEE_TITLE",
+      "추천인 삭제"
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_POPUP_DELETE_MENTEE",
+      "{0} 님은 장기 미접속 유저입니다.\n나를 추천한 추천인 목록에서 삭제 하시겠습니까?\n{0} 님의 미션완료 보상은 획득 할 수 없습니다."
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_REGISTER_MENTOR_ACCEPT_TITLE",
+      "추천 대상 지정"
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_REGISTER_MENTOR_DISACCEPT_TITLE",
+      "추천인 거절"
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_REGISTER_MENTOR_ACCEPT_DESC_01",
+      "{0}님을 추천하시겠습니까? 추천인 등록 시 다른 유저로 변경할 수 없습니다."
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_REGISTER_MENTOR_DISACCEPT_DESC_01",
+      "{0}님을 목록에서 제거하시겠습니까?"
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_REGISTER_MENTEE_LIMIT_COUNT_DESC_01",
+      "보유할 수 있는 멘티의 수를 초과했습니다."
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_SEASON_CALCULATE",
+      "현재 추천인 목록 및 추천인 리스트를 정산 중입니다.\n잠시 후 다시 시도해주시기 바랍니다."
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_CAN_NOT_RECEIPT_REWARD",
+      "아직 획득 할 수 없는 보상입니다."
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_NEWBIE_USER_BEFORE",
+      "{0} 후 접근 가능합니다."
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_NEWBIE_USER_AFTER",
+      "가입 후 {0}일간만 이용 가능합니다"
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_POPUP_MENTEE_INVITED_MAX",
+      "해당 추천인이 권유 받을 수 있는 최대치를 초과 했습니다."
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_GUILD_LEVEL_SIMPLE",
+      "컨소시엄 레벨 {0} 달성"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_GUILD_LEVEL_DEFAULT",
+      "컨소시엄 레벨 {0} 이상 되어야 합니다."
+    ],
+    [
+      "SI_DP_UNIT_UP_COST",
+      "<color=#00ffff>{0}</color>"
+    ],
+    [
+      "SI_DP_GAUNTLET_UP_LEVEL",
+      "업 {0}"
+    ],
+    [
+      "SI_DP_GAUNTLET_UP_POPUP_DESC_UNIT",
+      "업 대상은 출격 비용이 1 감소하고 모든 주 능력치와 스킬 충전 속도가 10% 증가합니다."
+    ],
+    [
+      "SI_LOBBY_RIGHT_MENU_1_WORLDMAP_PROGRESS_TEXT",
+      "파견미션 <color=#4EC2F3>{0}</color>개 진행 중"
+    ],
+    [
+      "SI_LOBBY_RIGHT_MENU_1_WORLDMAP_PROGRESS_COMPLETE_TEXT",
+      "파견미션 {0}개 완료"
+    ],
+    [
+      "SI_LOBBY_FIERCEBATTLE_TIME_REMAIN",
+      "남음"
+    ],
+    [
+      "SI_DP_EPISODE_CATEGORY_EC_SUPPLY",
+      "보급작전"
+    ],
+    [
+      "SI_DP_INVENTORY_UNIT",
+      "유닛 인벤토리"
+    ],
+    [
+      "SI_DP_INVENTORY_SHIP",
+      "함선 인벤토리"
+    ],
+    [
+      "SI_DP_INVENTORY_EQUIP",
+      "장비 인벤토리"
+    ],
+    [
+      "SI_DP_INVENTORY_TROPHY",
+      "트로피 인벤토리"
+    ],
+    [
+      "SI_DP_CONTENTS_UNLOCK_ALL_CLEAR",
+      "{0} 모두 클리어"
+    ],
+    [
+      "SI_DP_CONTENTS_UNLOCK_ACT_DISPLAY",
+      "ACT"
+    ],
+    [
+      "SI_DP_BINGO_MOVETO_SHOP_REMAIN_EXCHANGE",
+      "{0}을 상점에서 교환하시겠습니까?"
+    ],
+    [
+      "SI_DP_CONSORTIUM_DUNGEON_ARTIFACT_DUNGEON_CHALLENGE_INFO",
+      "{0}번째 아티팩트 도전중!"
+    ],
+    [
+      "SI_DP_CONSORTIUM_DUNGEON_ARTIFACT_DUNGEON_POPUP_TITLE",
+      "[ARENA {0}] 획득 가능한 아티팩트 목록"
+    ],
+    [
+      "SI_DP_CONSORTIUM_DUNGEON_ARTIFACT_DUNGEON_POPUP_COUNT",
+      "{0}/{1}"
+    ],
+    [
+      "SI_DP_CONSORTIUM_DUNGEON_DUNGEON_UI_ARENA_INFO",
+      "ARENA {0}"
+    ],
+    [
+      "SI_DP_CONSORTIUM_DUNGEON_RAID_UI_LEVEL_INFO",
+      "{0}단계"
+    ],
+    [
+      "SI_DP_CONSORTIUM_DUNGEON_RESULT_BOSS_LEVEL_INFO",
+      "{0}단계"
+    ],
+    [
+      "SI_DP_DG_MISSION_TEXT_GAME_MISSION_TYPE_DGMT_DECKCOUNT_DEFENDER",
+      "디펜더가 {0}매 이상 편성된 덱으로 승리"
+    ],
+    [
+      "SI_DP_DG_MISSION_TEXT_GAME_MISSION_TYPE_DGMT_DECKCOUNT_STRIKER",
+      "스트라이커가 {0}매 이상 편성된 덱으로 승리"
+    ],
+    [
+      "SI_DP_DG_MISSION_TEXT_GAME_MISSION_TYPE_DGMT_DECKCOUNT_RANGER",
+      "레인저가 {0}매 이상 편성된 덱으로 승리"
+    ],
+    [
+      "SI_DP_DG_MISSION_TEXT_GAME_MISSION_TYPE_DGMT_DECKCOUNT_SNIPER",
+      "스나이퍼가 {0}매 이상 편성된 덱으로 승리"
+    ],
+    [
+      "SI_DP_DG_MISSION_TEXT_GAME_MISSION_TYPE_DGMT_DECKCOUNT_TOWER",
+      "타워가 {0}매 이상 편성된 덱으로 승리"
+    ],
+    [
+      "SI_DP_DG_MISSION_TEXT_GAME_MISSION_TYPE_DGMT_DECKCOUNT_SIEGE",
+      "시즈가 {0}매 이상 편성된 덱으로 승리"
+    ],
+    [
+      "SI_DP_DG_MISSION_TEXT_GAME_MISSION_TYPE_DGMT_DECKCOUNT_SUPPORTER",
+      "서포터가 {0}매 이상 편성된 덱으로 승리"
+    ],
+    [
+      "SI_DP_CONSORTIUM_SESSION_END_INFORMATION_TEXT",
+      "다음 정화작전 시작까지 {0} 남음"
+    ],
+    [
+      "SI_DP_CONSORTIUM_SEASION_END_INFORMATION_TEXT",
+      "다음 시즌 시작까지 {0} 남음"
+    ],
+    [
+      "SI_DP_TIME_TO_OPEN",
+      "오픈까지 <color=#4EC2F3>{0} 남음</color>"
+    ],
+    [
+      "SI_DP_CONSORTIUM_SESSION_ATTACK_ING_USER_INFO",
+      "{0}\n공격중!"
+    ],
+    [
+      "SI_DP_CONSORTIUM_SESSION_PROGRESS_OF_ROUND_INFO",
+      "{0}번째 정화작전"
+    ],
+    [
+      "SI_DP_CONSORTIUM_SESSION_PROGRESS_OF_ROUND_TASK_INFO",
+      "TASK-{0}"
+    ],
+    [
+      "SI_DP_GAMECONDITION_INCREASE",
+      "증가"
+    ],
+    [
+      "SI_DP_GAMECONDITION_DECREASE",
+      "감소"
+    ],
+    [
+      "SI_DP_GAMECONDITION_START_COST_TWO_PARAM",
+      "출격 코스트 {0} {1}"
+    ],
+    [
+      "SI_DP_ICON_SLOT_HAVE",
+      "보유{0}"
+    ],
+    [
+      "SI_DP_ICON_SLOT_ALREADY_HAVE",
+      "보유중"
+    ],
+    [
+      "SI_DP_SHOP_CUSTOM_TIME_LEFT",
+      "{0} 남음"
+    ],
+    [
+      "SI_DP_SHOP_SLOT_CHOICE",
+      "CHOICE"
+    ],
+    [
+      "SI_DP_SHOP_CUSTOM_DUPLICATE",
+      "중복 선택"
+    ],
+    [
+      "SI_PF_MISSION_DONATE",
+      "납 품"
+    ],
+    [
+      "SI_DP_POPUP_DELIVERY_MISSION_TITLE",
+      "납품 미션"
+    ],
+    [
+      "SI_PF_POPUP_DELIVERY_MISSION_DESC",
+      "<color=#FFCF3B>{0}</color>을(를) 납품합니다."
+    ],
+    [
+      "SI_DP_EVENT_PASS_END_TIME_REMAIN",
+      "패스 종료\n<color=#FF3434>{1}</color> 남음"
+    ],
+    [
+      "SI_DP_EVENT_PASS_EXP",
+      "<size={0}><color=#{1}>{2}</color></size>/{3}"
+    ],
+    [
+      "SI_DP_EVENT_PASS_LEVEL_FINAL_REWARD",
+      "PASS LEVEL <size={0}><color=#{1}>{2}</color></size>"
+    ],
+    [
+      "SI_DP_EVENT_PASS_ELAPSED_WEEK",
+      "<color=#{0}>{1}주차</color> 패스 미션 리스트"
+    ],
+    [
+      "SI_DP_EVENT_PASS_UPDATE_TIME_LEFT",
+      "{0} 후에 갱신됩니다."
+    ],
+    [
+      "SI_DP_EVENT_PASS_DAILY_MISSION_ACHIEVE",
+      "일일 패스 미션 달성도"
+    ],
+    [
+      "SI_DP_EVENT_PASS_WEEKLY_MISSION_ACHIEVE",
+      "주간 패스 미션 달성도"
+    ],
+    [
+      "SI_DP_EVENT_PASS_LEVEL_UP_NOTICE",
+      "패스 레벨 업"
+    ],
+    [
+      "SI_DP_EVENT_PASS_LEVEL_UP_DESC",
+      "<color=#FFCF3B>[관리국 주화]</color> 를 소모하여 패스 레벨 업 하시겠습니까?\nLV {0} → LV {1}"
+    ],
+    [
+      "SI_DP_EVENT_PASS_CORE_PASS_PLUS_PURCHASE_EXP_LOSS",
+      "<color=#FF0000>*구매 시 패스 최대레벨에 도달하며, 초과된 경험치는 사라집니다.</color>"
+    ],
+    [
+      "SI_DP_PURCHASE_REFUND_IMPOSSIBLE",
+      "해당 상품은 구매 시, 청약 철회가 불가능한 상품입니다."
+    ],
+    [
+      "SI_DP_EVENT_PASS_MISSION_REFRESH",
+      "패스 미션 변경"
+    ],
+    [
+      "SI_DP_EVENT_PASS_MISSION_REFRESH_DESC",
+      "선택한 패스 미션을 변경하시겠습니까?"
+    ],
+    [
+      "SI_DP_EVENT_PASS_MISSION_REFRESH_WARNING_DESC",
+      "<color=#FF0000>해당 미션은 현재 진행 중입니다.</color>"
+    ],
+    [
+      "SI_DP_EVENT_PASS_MISSION_REFRESH_FREECOUNT",
+      "무료 변경 ({0}/{1})"
+    ],
+    [
+      "SI_DP_EVENT_PASS_MISSION_REFRESH_COUNT",
+      "변경 횟수 ({0}/{1})"
+    ],
+    [
+      "SI_DP_EVENT_PASS_MISSION_REFRESH_MAX_DESC",
+      "더 이상 변경할 수 없습니다."
+    ],
+    [
+      "SI_DP_EVENT_PASS_REWARD_POSSIBLE",
+      "즉시 획득"
+    ],
+    [
+      "SI_DP_USER_INFO_PRESET_SAVED",
+      "SET"
+    ],
+    [
+      "SI_DP_COLLECTION_RATE_STRING_BY_TYPE_CT_OPERATOR",
+      "오퍼레이터 수집률"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_NAME_NUST_OPERATOR",
+      "오퍼레이터"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_ENG_NAME_NUST_OPERATOR",
+      "[오퍼레이터]"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_DESC_NUST_OPERATOR",
+      "-"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_TYPE_NUST_OPERATOR",
+      "오퍼레이터"
+    ],
+    [
+      "SI_DP_EVENT_PASS_MISSION_COMPLETE_DAILY_ALL",
+      "일일 패스 미션 완료"
+    ],
+    [
+      "SI_DP_EVENT_PASS_MISSION_COMPLETE_WEEKLY_ALL",
+      "주간 패스 미션 완료"
+    ],
+    [
+      "SI_DP_EVENT_PASS_END_TIME_ALMOST_END",
+      "패스 종료까지 <color=#{0}>{1} 미만</color>\n패스 종료 임박"
+    ],
+    [
+      "SI_DP_LOBBY_BACKGROUND_PRESET_SAVED",
+      "{0}번 프리셋에 저장되었습니다."
+    ],
+    [
+      "SI_DP_EVENT_PASS_PURCHASE_WARNING",
+      "패스 마감이 임박했습니다. 구매에 유의해주십시오."
+    ],
+    [
+      "SI_DP_EVENTPASS_MISSION_COMPLETE_DAILY_ALL_EX",
+      "오늘의 패스 미션을 모두 완료했습니다!"
+    ],
+    [
+      "SI_DP_EVENTPASS_MISSION_COMPLETE_WEEKLY_ALL_EX",
+      "이번 주 패스 미션을 모두 완료했습니다!"
+    ],
+    [
+      "SI_DP_EVENTPASS_DISCOUNT_PRICE",
+      "EXP PRICE {0}"
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_ADD_REQ",
+      "추천 권유"
+    ],
+    [
+      "SI_DP_FRIEND_MENTORING_ADD_REQ_DONE",
+      "권유 완료"
+    ],
+    [
+      "SI_DP_CONSORTIUM_WELFARE_SUBTAB_GUILD_CONFIRM_BODY",
+      "연합 공동 기금을 사용하여 [{0}] 버프를 활성화 하시겠습니까?"
+    ],
+    [
+      "SI_DP_EVENT_PASS_MISSION_UPDATING_DAILY",
+      "<size=50>일일 미션을 갱신중입니다.</size>\n(최장 5분 소요)"
+    ],
+    [
+      "SI_DP_EVENT_PASS_MISSION_UPDATING_WEEKLY",
+      "<size=50>주간 미션을 갱신중입니다.</size>\n(최장 5분 소요)"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_NAME_NUST_REPLACER",
+      "리플레이서"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_NAME_NUST_CORRUPTED",
+      "침식체"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_ENG_NAME_NUST_REPLACER",
+      "[리플레이서]"
+    ],
+    [
+      "SI_DP_UNIT_STYLE_ENG_NAME_NUST_CORRUPTED",
+      "[침식체]"
+    ],
+    [
+      "SI_DP_CBT_MISSION_BUBBLE",
+      "<color=#2386DB><b>CBT 기간</b></color> 동안만 수행 가능한 \n<color=#0e4480><b>특별 미션</b></color>진행 중!"
+    ],
+    [
+      "SI_DP_SHUTDOWN_ALARM",
+      "<color=#ff3636>이용하시는 계정은 일정 시간 동안 게임 이용이 가능하지 않습니다. (만 16세 미만: 밤12시 ~ 아침6시, 만 18세 미만: 본인 또는 법정 대리인이 선택한 시간)</color>"
+    ],
+    [
+      "SI_DP_SLOT_CHOICE_VIEWER_DESC",
+      "아래 목록 중 하나를 선택하여 획득할 수 있습니다."
+    ],
+    [
+      "SI_DP_EQUIP_PRESET_NAME",
+      "장비 프리셋 {0}"
+    ],
+    [
+      "SI_DP_EQUIP_PRESET_ADD",
+      "장비 프리셋 확장"
+    ],
+    [
+      "SI_DP_EQUIP_PRESET_ADD_DESC",
+      "장비 프리셋 슬롯을 확장 하시겠습니까?"
+    ],
+    [
+      "SI_DP_EQUIP_PRESET_SAVE_DESC",
+      "착용 중인 장비를 프리셋에 등록하시겠습니까?\n해당 프리셋에 저장된 장비 정보는 사라집니다."
+    ],
+    [
+      "SI_DP_EQUIP_PRESET_CLEAR_DESC",
+      "정말 선택하신 장비 슬롯을 삭제하시겠습니까?"
+    ],
+    [
+      "SI_DP_EQUIP_PRESET_NONE",
+      "장비 프리셋이 구성되지 않았습니다."
+    ],
+    [
+      "SI_DP_EQUIP_PRESET_DIFFERENT_TYPE",
+      "장착할 수 없는 타입의 장비입니다."
+    ],
+    [
+      "SI_DP_EQUIP_PRESET_APPLY_SLOT_LOCKED",
+      "개방되지 않은 장비 슬롯에는 프리셋이 적용되지 않습니다."
+    ],
+    [
+      "SI_DP_EQUIP_PRESET_DIFFERENT_POSITION",
+      "장착할 수 없는 부위의 장비입니다."
+    ],
+    [
+      "SI_DP_EQUIP_PRESET_PRIVATE_EQUIP",
+      "프리셋에 전용 장비가 포함되어 있습니다."
+    ],
+    [
+      "SI_DP_EQUIP_PRESET_SLOT_FULL",
+      "더 이상 확장할 수 없습니다."
+    ],
+    [
+      "SI_DP_EQUIP_PRESET_UNIT_EQUIP_EMPTY",
+      "현재 장착 중인 장비가 없습니다."
+    ],
+    [
+      "SI_DP_DECKCONDITION_UNIT_GROUND_NOT",
+      "지상 유닛 금지"
+    ],
+    [
+      "SI_DP_DECKCONDITION_UNIT_GROUND_COUNT_TWO_PARAM",
+      "지상 유닛 {0}기 {1}"
+    ],
+    [
+      "SI_DP_DECKCONDITION_UNIT_AIR_NOT",
+      "공중 유닛 금지"
+    ],
+    [
+      "SI_DP_DECKCONDITION_UNIT_AIR_COUNT_TWO_PARAM",
+      "공중 유닛 {0}기 {1}"
+    ],
+    [
+      "SI_DP_DECKCONDITION_UNIT_GRADE_COUNT_NOT",
+      "{0} 유닛 금지"
+    ],
+    [
+      "SI_DP_DECKCONDITION_UNIT_GRADE_COUNT_THREE_PARAM",
+      "{0} 유닛 {1}기 {2}"
+    ],
+    [
+      "SI_DP_EPISODE_CATEGORY_EC_CHALLENGE",
+      "CHALLENGE"
+    ],
+    [
+      "SI_DP_SHOP_DISCOUNT_RATE",
+      " -{0}%"
+    ],
+    [
+      "SI_DP_SHOP_EVENT",
+      "EVENT"
+    ],
+    [
+      "SI_DP_SHOP_HOT",
+      "HOT"
+    ],
+    [
+      "SI_DP_SHOP_PACKAGE_LEVEL_UP_INFO",
+      "{0}레벨 달성"
+    ],
+    [
+      "SI_DP_STAT_CATEGORY_STANDARD",
+      "기본 능력치"
+    ],
+    [
+      "SI_DP_STAT_CATEGORY_UNIT_TYPE",
+      "VS유닛 타입"
+    ],
+    [
+      "SI_DP_STAT_CATEGORY_UNIT_CLASS",
+      "VS클래스 상성"
+    ],
+    [
+      "SI_DP_STAT_CATEGORY_UNIT_MOVE_TYPE",
+      "VS이동 타입"
+    ],
+    [
+      "SI_DP_STAT_CATEGORY_SKILL_TYPE",
+      "스킬 타입"
+    ],
+    [
+      "SI_DP_STAT_CATEGORY_ADDITIONAL",
+      "추가 능력치"
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_SELF_ADD_DAMAGE_REDUCE_RATE",
+      "상대가 피해를 줄 때 상대의 피해 증가 수치를 감소시키는 디버프"
+    ],
+    [
+      "SI_DP_STAT_SHORT_DESC_NST_SELF_DAMAGE_REDUCE_PENETRATE_RATE",
+      "상대가 피해를 받을 때 대상의 피해 감소 수치를 깎는 디버프"
+    ],
+    [
+      "SI_DP_STAT_INFO",
+      "능력치 정보"
+    ],
+    [
+      "SI_DP_ONLY_APPLY_STAT",
+      "적용 중 능력치만 표시"
+    ],
+    [
+      "SI_DP_STAT_TYPE",
+      "능력치 타입"
+    ],
+    [
+      "SI_DP_PC_HEALTH_WARNING",
+      "과도한 게임이용은 정상적인 일상생활에 지장을 줄 수 있습니다."
+    ],
+    [
+      "SI_DP_PC_PLAYTIME_WARNING",
+      "게임 이용 시간 {0}시간이 경과했습니다. 잠시 쉬었다 하시기 바랍니다."
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_CLEAR_DUNGEON_EC_CHALLENGE",
+      "이전 ACT 클리어 후 사용가능합니다."
+    ],
+    [
+      "SI_DP_POPUP_NO_ATTENDANCE",
+      "현재 진행 중인 출석체크가 없습니다."
+    ],
+    [
+      "SI_DP_GAUNTLET_OPEN_RANK_MODE",
+      "전략전 승점 <b><color=#FECD00>{0}</color></b>\n달성 시 개방"
+    ],
+    [
+      "SI_DP_GAUNTLET_OPEN_LEAGUE_MODE",
+      "랭크전 승점 <b><color=#FECD00>{0}</color></b>\n달성 시 개방"
+    ],
+    [
+      "SI_DP_GAUNTLET_NOT_OPEN_RANK_MODE",
+      "전략전 승점 {0} 이상 달성 시 개방됩니다."
+    ],
+    [
+      "SI_DP_GAUNTLET_NOT_OPEN_LEAGUE_MODE",
+      "랭크전 승점 {0} 이상 달성 시 개방됩니다."
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_DIVE_HISTORY_CLEARED",
+      "다이브 {0} 클리어 필요"
+    ],
+    [
+      "SI_DP_WORLDMAP_BUILDING_REQ_BUILD_DIVE_CLEAR_ONE_PARAM",
+      "다이브 {0} 클리어 필요"
+    ],
+    [
+      "SI_DP_GAUNTLET_LEAGUE_START_REQ_POPUP_DESC",
+      "<color=#FECD00>챔피언십 입장을 위해서는 다음과 같은 조건을 충족해야 합니다.</color>"
+    ],
+    [
+      "SI_DP_GAUNTLET_SEASON_LEAUGE_MODE_DESC",
+      "· 일정 기간마다, 리그전 시즌이 종료됩니다.\n· 매주 월요일 오전 4시 기준 주간 챔피언이 선정됩니다.\n· 시즌 마감은 마지막 주 일요일 22시입니다.\n· 새 시즌 시작은 월요일 04시 입니다.\n· 지난 시즌 최종 성적에 따라 보상을 지급합니다.\n· 시즌 결산 이후 리그가 초기화됩니다."
+    ],
+    [
+      "SI_DP_GAUNTLET_LEAGUE_INFO_DESC",
+      "· 장비, 레벨업, 강화로 얻는 능력치는 일부만 적용됩니다.\n· 자신과 비슷한 승점의 유저와 매칭됩니다.\n· 매칭 기준 승점에 작전 능력이 반영됩니다. 작전 능력이 높다면 자신보다 높은 승점의 유저와 매칭될 수 있으며, 작전 능력이 낮다면 자신보다 낮은 승점의 유저와 매칭될 수 있습니다.\n· 자신보다 높은 승점의 유저에게 승리하면 승점을 많이 얻고, 질 경우 적게 잃습니다.\n· 자신보다 낮은 승점의 유저에게 승리하면 승점을 적게 얻고, 질 경우 많이 잃습니다.\n· 자신이 상대보다 승점이 현저히 높지만, 작전 능력이 현저히 낮은 경우, 승점 계산식이 보정됩니다. 이 경우, 기존보다 상대로부터 얻는 승점을 기대할 수 있으며, 지더라도 승점을 덜 잃습니다.\n· 승점을 일정 이상 얻으면 상위 리그로 올라갈 수 있습니다.\n· 일부 리그에서, 해당 리그의 승점보다 100점 이하로 떨어지면 강등될 수 있습니다.\n· 상위 리그에서는 조건을 달성하지 못하면 경고 없이 강등될 수 있습니다.\n· 랭크전에서 고의적인 패배로 점수를 지나치게 떨어뜨린 경우, 매칭 기준 승점이 일정 이하로 하락되지 않게 보정이 적용됩니다."
+    ],
+    [
+      "SI_DP_GAUNTLET_LEAGUE_START_REQ_TIME_POPUP_DESC",
+      "현재는 챔피언십을 이용할 수 없습니다.\n<color=#FECD00>챔피언십 이용 가능 시간\n{0} : {1}</color>"
+    ],
+    [
+      "SI_DP_GAUNTLET_LEAGUE_PICK_COMPLETE",
+      "선택됨"
+    ],
+    [
+      "SI_DP_GAUNTLET_LEAGUE_PICK_SEQUENCE_OPPONENT",
+      "상대방이 유닛을 선택 중입니다."
+    ],
+    [
+      "SI_DP_GAUNTLET_LEAGUE_PICK_SEQUENCE_USER",
+      "출격 시킬 유닛을 선택 해주십시오."
+    ],
+    [
+      "SI_DP_GAUNTLET_LEAGUE_PICK_SEQUENCE_LOCAL_BAN",
+      "출격 금지 시킬 상대 유닛을 선택하십시오."
+    ],
+    [
+      "SI_DP_GAUNTLET_LEAGUE_PICK_SEQUENCE_SHIP",
+      "출격 시킬 함선을 선택 해주십시오."
+    ],
+    [
+      "SI_DP_GAUNTLET_LEAGUE_PICK_SEQUENCE_OPERATOR",
+      "출격 시킬 오퍼레이터를 선택 해주십시오."
+    ],
+    [
+      "SI_DP_GAUNTLET_LEAGUE_PICK_SEQUENCE_LEADER",
+      "리더 유닛을 선택 해주십시오."
+    ],
+    [
+      "SI_DP_GAUNTLET_LEAGUE_START_REQ_SHIP_POPUP_DESC",
+      "함선 {0} 종 이상 필요"
+    ],
+    [
+      "SI_DP_GAUNTLET_LEAGUE_START_REQ_UNIT_POPUP_DESC",
+      "유닛 {0} 종 이상 필요"
+    ],
+    [
+      "SI_DP_GAUNTLET_LEAGUE_GIVEUP_POPUP",
+      "경기 포기 시, 몰수패 처리가 되어 더 많은 승점을 잃게되며,\n건틀렛 포인트를 획득 할 수 없습니다.\n\n정말 포기 하시겠습니까?"
+    ],
+    [
+      "SI_DP_GAUNTLET_LEAGUE_TOOLTIP_DEADLINE_BUFF_TITLE",
+      "전투 임계"
+    ],
+    [
+      "SI_DP_OPERATION_SKIP_COUNT",
+      "{0}/{1}회 진행 중"
+    ],
+    [
+      "SI_DP_GAUNTLET_LEAGUE_PICK_SEQUENCE_WAIT",
+      "상대방의 소대 편성을 기다리는 중입니다."
+    ],
+    [
+      "SI_DP_INTERIOR_OVERLAP_MAIL_HEADER",
+      "인테리어 중복획득 반환보상"
+    ],
+    [
+      "SI_DP_INTERIOR_OVERLAP_MAIL_CONTENTS",
+      "중복으로 보유 가능한 최대 개수를 초과하여, 반환보상이 지급됩니다."
+    ],
+    [
+      "SI_DP_MISC_TYPE_STRING_IMT_INTERIOR",
+      "인테리어"
+    ],
+    [
+      "SI_DP_OFFICE_EXIT_TO_LOBBY",
+      "메인 화면으로 돌아가시겠습니까?"
+    ],
+    [
+      "SI_DP_FACTORY_CRAFT_FULL_TOAST_MESSAGE_TEXT",
+      "모든 제작 슬롯이 가동중입니다."
+    ],
+    [
+      "SI_DP_OFFICE_LOYALTY_SPEED",
+      "{0}시간에 애사심 1 충전"
+    ],
+    [
+      "SI_DP_OFFICE_ALREADY_ASSIGNED_UNIT",
+      "다른 방에 배치 중인 유닛입니다.\n선택한 방으로 재배치 하시겠습니까?"
+    ],
+    [
+      "SI_DP_OFFICE_FULL_ASSIGNED",
+      "더 이상 선택할 수 없습니다.\n기존 선택된 사원을 해제해 주세요."
+    ],
+    [
+      "SI_DP_OFFICE_ASSIGN_COMPLETE",
+      "유닛 배치 저장 완료!"
+    ],
+    [
+      "SI_DP_OFFICE_ASSIGN_CANCEL",
+      "이대로 나가면 배치 상황은 저장되지 않습니다.\n저장하고 나가시겠습니까?"
+    ],
+    [
+      "SI_DP_OFFICE_PURCHASE_SECTION",
+      "<color=#FFCF3B>{0}</color> 섹션을 영구 임대하시겠습니까?"
+    ],
+    [
+      "SI_DP_OFFICE_PURCHASE_ROOM",
+      "<color=#FFCF3B>{0}</color> 룸을 영구 임대하시겠습니까?"
+    ],
+    [
+      "SI_DP_OFFICE_ROOM_IN_LOCKED_SECTION",
+      "아직 임대받지 않은 섹션의 룸입니다."
+    ],
+    [
+      "SI_DP_OFFICE_OPENED_DORMS_COUNT",
+      "개방된 기숙사 <color=#FFCF3B>{0}</color>/{1}"
+    ],
+    [
+      "SI_DP_OFFICE_MINIMAP",
+      "본사 미니맵"
+    ],
+    [
+      "SI_DP_OFFICE_ROOM_IN",
+      "입주 중"
+    ],
+    [
+      "SI_DP_OFFICE_DOMITORY",
+      "본사 기숙사"
+    ],
+    [
+      "SI_DP_OFFICE_DECORATE",
+      "꾸미기"
+    ],
+    [
+      "SI_DP_IMOTICON_KAKAO_MISSION_BUBBLE",
+      "사장님! 미션을 수행해주시면\n귀여운 <color=#0e4480>햄따구 이모티콘</color>을 선물로 드릴게요!"
+    ],
+    [
+      "SI_DP_OFFICE_FRIEND_CANNOT_VISIT",
+      "해당 사장님의 본사는 아직 완공되지 않았어요!"
+    ],
+    [
+      "SI_DP_SAVE",
+      "저장"
+    ],
+    [
+      "SI_DP_OFFICE_FRIEND_NICKNAME",
+      "{0} 님의 본사"
+    ],
+    [
+      "SI_DP_INTERIOR_COUNT_TWO_PARAM",
+      "배치 가능 : {0} / {1}"
+    ],
+    [
+      "SI_DP_INTERIOR_SCORE_ONE_PARAM",
+      "환경 점수 {0}점"
+    ],
+    [
+      "SI_DP_OFFICE_REQUEST_FRIEND",
+      "명함을 발송했습니다! \n{0} 님께 협력사 추가 신청을 하시겠습니까?"
+    ],
+    [
+      "SI_DP_OFFICE_BIZCARD_SENDED_ALL",
+      "협력사들에게 명함을 전부 돌렸습니다!"
+    ],
+    [
+      "SI_DP_OFFICE_ROOM_UNLOCK_WARNING",
+      "{0} 구매 필요"
+    ],
+    [
+      "SI_DP_EVENT_TAB_ALWAYS_OPEN",
+      "상시진행"
+    ],
+    [
+      "SI_DP_DECK_NUMBER_STRING_WARFARE",
+      "B"
+    ],
+    [
+      "SI_DP_OPTION_DROPOUT_WARNING_INSTANT",
+      "정말 계정을 초기화 하겠습니까? 초기화 신청 시 <color=#FFD34C>즉시 초기화</color>가 진행되며, 이후에는 <color=#FF3636>복구가 불가능</color>합니다."
+    ],
+    [
+      "SI_DP_WARFARE_SQUAD_NUMBER",
+      "전역 {0}소대"
+    ],
+    [
+      "SI_DP_DUNGEON_SQUAD_NUMBER",
+      "전투 {0}소대"
+    ],
+    [
+      "SI_DP_INTERIOR_SIZE_TWO_PARAM",
+      "(타일 크기 : {0}x{1})"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_CLEAR_DUNGEON_AND_BUY_EC_SIDESTORY",
+      "{0} 외전 {1}-{2} 클리어 후 개방 가능"
+    ],
+    [
+      "SI_DP_UNLOCK_COMPLETE_EC_SIDESTORY",
+      "{0} 외전 {1}-{2} 개방"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_CLEAR_CUTSCENE_AND_BUY_EC_SIDESTORY",
+      "{0} 외전 {1} 클리어 후 개방 가능"
+    ],
+    [
+      "SI_DP_UNLOCK_CUTSCENE_COMPLETE_EC_SIDESTORY",
+      "{0} 외전 {1} 개방"
+    ],
+    [
+      "SI_DP_SHOP_PRODUCT_PROHIBITED",
+      "현재 구매할 수 없는 상품입니다."
+    ],
+    [
+      "SI_DP_CUTSCENE_LOG_SELECTION",
+      "<color=#ffd34c> ▶</color> {0}"
+    ],
+    [
+      "SI_DP_CONVERT_ITEM_MAIL_TITLE",
+      "물자 재지급 안내"
+    ],
+    [
+      "SI_DP_CONVERT_ITEM_MAIL_DESC",
+      "사장님께서 보유 중인 일부 물자가 관리국 운영지침에 따라 회수 후, 다른 물자로 재지급 되었습니다. 대상이 되는 물자는 <color=#ffd34c>[{0}]</color> 입니다. 재지급된 물자는 30일 이내 꼭 수령하시길 바랍니다.\n\n감사합니다."
+    ],
+    [
+      "SI_DP_DELETE_ITEM_MAIL_TITLE",
+      "물자 회수 안내"
+    ],
+    [
+      "SI_DP_DELETE_ITEM_MAIL_DESC",
+      "사장님께서 보유 중인 일부 물자가 관리국 운영지침에 따라 회수 되었습니다. 회수 대상 물자는 <color=#ffd34c>[{0}]</color> 입니다.\n\n감사합니다."
+    ],
+    [
+      "SI_DP_EQUIP_POTENTIAL_OPEN_REQUIRED",
+      "잠재 옵션 개방 필요"
+    ],
+    [
+      "SI_DP_EQUIP_POTENTIAL_REQUIRED_ENCHANT_LV",
+      "강화 레벨 +{0} 달성 이후 개방 가능"
+    ],
+    [
+      "SI_DP_EQUIP_POTENTIAL_OPEN_ENABLE",
+      "개방 가능"
+    ],
+    [
+      "SI_DP_EQUIP_POTENTIAL_CANNOT_OPEN",
+      "강화 레벨 +{0} 달성 이후 개방 가능합니다."
+    ],
+    [
+      "SI_DP_NO_EXIST_HIDDEN_OPTION_EQUIP",
+      "잠재개방 할 수 있는 장비가 없습니다."
+    ],
+    [
+      "SI_DP_DROP_INFO",
+      "획득처"
+    ],
+    [
+      "SI_DP_OPTION_STREAMING_NORMAL",
+      "전체 표시"
+    ],
+    [
+      "SI_DP_OPTION_STREAMING_HIDE_OPPONENT",
+      "상대 정보 숨김"
+    ],
+    [
+      "SI_DP_OPTION_STREAMING_HIDE_ALL",
+      "모두 숨김"
+    ],
+    [
+      "SI_DP_CONSORTIUM_LIST_IS_EMPTY",
+      "친선전 대상에 적합한\n연합원이 없습니다."
+    ],
+    [
+      "SI_DP_POPUP_NOTICE_FRIENDLY_MATCH",
+      "친선전"
+    ],
+    [
+      "SI_DP_POPUP_NOTICE_FRIENDLY_MATCH_INVITE",
+      "초대하시겠습니까?"
+    ],
+    [
+      "SI_DP_POPUP_NOTICE_FRIENDLY_MATCH_WAIT_ACCEPT",
+      "수락을 기다리는 중입니다."
+    ],
+    [
+      "SI_DP_POPUP_NOTICE_FRIENDLY_MATCH_INVITE_REJECT",
+      "{0}초 후 자동 거절"
+    ],
+    [
+      "SI_DP_POPUP_NOTICE_FRIENDLY_MATCH_INVITE_ARRIVE",
+      "초대가 도착했습니다."
+    ],
+    [
+      "SI_DP_OPTION_FRIENDLY_MATCH_INVITE_FRIEND",
+      "협력사"
+    ],
+    [
+      "SI_DP_OPTION_FRIENDLY_MATCH_INVITE_CONSORTIUM_MEMBER",
+      "연합원"
+    ],
+    [
+      "SI_DP_OPTION_FRIENDLY_MATCH_INVITE_REJECT_ALL",
+      "모두 거절"
+    ],
+    [
+      "SI_DP_OPTION_FRIENDLY_MATCH_INVITE_ACCEPT_ALL",
+      "모두 수락"
+    ],
+    [
+      "SI_DP_WORLDMAP_MISSION",
+      "월드맵 미션"
+    ],
+    [
+      "SI_DP_KILL_COUNT_ONE_PARAM",
+      "처치 횟수 : {0}"
+    ],
+    [
+      "SI_DP_OPTION_GAME_VOICE_CHANGE_NOTICE",
+      "음성 옵션 변경은 재시작 시 적용 됩니다.\n일부 유닛의 경우 음성이 출력되지 않습니다."
+    ],
+    [
+      "SI_DP_COUNT_ONE_PARAM",
+      "{0}회"
+    ],
+    [
+      "SI_DP_SORT_LOYALTY",
+      "애사심"
+    ],
+    [
+      "SI_DP_SORT_DUNGEON_SQUAD",
+      "전투 소대"
+    ],
+    [
+      "SI_DP_SORT_WARFARE_SQUAD",
+      "전역 소대"
+    ],
+    [
+      "SI_DP_SORT_GAUNTLET",
+      "건틀렛"
+    ],
+    [
+      "SI_DP_SORT_FAVOURITE",
+      "즐겨찾기"
+    ],
+    [
+      "SI_DP_SORT_LIMITBREAK",
+      "유닛 초월"
+    ],
+    [
+      "SI_DP_SORT_TRANSCENDENCE",
+      "한계 융합"
+    ],
+    [
+      "SI_DP_CHANGEACCOUNT_FAIL_GUEST_ALREADY_MAPPED",
+      "계정 연동에 실패했습니다. 연동을 시도한 플랫폼 계정은 이미 다른 계정과 연동되어 있습니다. 다른 플랫폼 계정에 연동해 주세요."
+    ],
+    [
+      "SI_DP_CHANGEACCOUNT_SUCCESS_GUEST_SYNC",
+      "계정연동 성공"
+    ],
+    [
+      "SI_DP_AUTH_LOGIN_QUIT_USER",
+      "탈퇴가 진행 중인 계정입니다. 탈퇴를 취소 하시겠습니까? \n 남은 기간 : {0}일"
+    ],
+    [
+      "SI_DP_FIERCE_NO_PENALTY_TEXT",
+      "3단계 진입 후 사용 가능합니다."
+    ],
+    [
+      "SI_DP_SHOP_PURCHASE_WARNING",
+      "판매 종료까지 {0} 남았습니다. 종료 전 까지 활동 서약을 완료해야 모든 보상을 얻을 수 있습니다. 정말 구매하시겠습니까?"
+    ],
+    [
+      "SI_DP_ALREADY_LOGGED_IN",
+      "이미 로그인 되어있습니다."
+    ],
+    [
+      "SI_DP_FAIL_TO_PROCESS_TERMS",
+      "약관 처리에 실패하였습니다."
+    ],
+    [
+      "SI_DP_UI_LOADING_ERROR",
+      "UI 로딩 중 오류가 발생하였습니다."
+    ],
+    [
+      "SI_DP_DECKCONDITION_DESC_UNIT_COST_LEADER_EXCEPTION",
+      "※리더의 출격 비용 감소는 제외"
+    ],
+    [
+      "SI_DP_MUSIC",
+      "주크박스"
+    ],
+    [
+      "SI_DP_MUSIC_LIST",
+      "전체 리스트"
+    ],
+    [
+      "SI_DP_MUSIC_FAVOURITE_LIST",
+      "내 플레이 리스트"
+    ],
+    [
+      "SI_DP_JUKEBOX",
+      "주크박스"
+    ],
+    [
+      "SI_DP_LOBBY_MUSIC",
+      "로비 음악"
+    ],
+    [
+      "SI_DP_MUSIC_SLEEP_MODE",
+      "절전 모드"
+    ],
+    [
+      "SI_DP_MUSIC_FAVOURITE_NONE_LIST",
+      "추가 된 플레이 리스트가 없습니다."
+    ],
+    [
+      "SI_DP_WORLDMAP_NOT_BUILDING_TOGETHER",
+      "{0}와 \n동시 설치 불가"
+    ],
+    [
+      "SI_DP_WORLDMAP_BUILDING_NOT_BUILDING_ONE_PARAM",
+      "{0} 미설치"
+    ],
+    [
+      "SI_DP_AD_START_BUTTON",
+      "FREE"
+    ],
+    [
+      "SI_DP_AD_LIMIT_OVER",
+      "재고 소진"
+    ],
+    [
+      "SI_DP_SHIP_BUILD_CONDITION_FAIL_SHADOW_CLEAR",
+      "{0} 클리어 시 함선건조가능"
+    ],
+    [
+      "SI_DP_AD_EXPAND_DESC",
+      "※광고 시청을 통해 무료로 1칸 확장할 수 있습니다."
+    ],
+    [
+      "SI_DP_AD_FAILED_TO_LOAD",
+      "광고를 로드하지 못했습니다."
+    ],
+    [
+      "SI_DP_AD_FAILED_TO_SHOW",
+      "광고를 게재하지 못했습니다."
+    ],
+    [
+      "SI_DP_AD_NOT_INITIALIZED",
+      "광고 모듈이 초기화되지 않았습니다."
+    ],
+    [
+      "SI_DP_AD_NOT_READY_STATUS",
+      "초기화되지 않은 구성 요소가 있습니다."
+    ],
+    [
+      "SI_DP_CHAT_CONSORTIUM_JOIN_REQ_DESC",
+      "컨소시엄 가입 후 사용 가능합니다."
+    ],
+    [
+      "SI_DP_PERMISSION_NSCAMERAUSAGEDESC",
+      "AR 기능 이용, 사진 및 동영상 업로드를 위한 촬영을 위해 필요합니다."
+    ],
+    [
+      "SI_DP_GAUNTLET_ASYNC_NEW_INFO_LEAGUE_DESC",
+      "· 상대방이 편성한 방어 소대와 대전합니다.\n· 방어 소대를 편성해야만 전략전에 참여할 수 있습니다.\n· 장비, 레벨업, 강화로 얻는 능력치는 일부만 적용됩니다.\n· 승점을 일정 이상 얻으면 상위 리그로 올라갈 수 있습니다.\n· 전략전 대전에서 일정 횟수 이상 연속으로 승리할 경우, 연승 보너스를 적용합니다.\n· 상위 리그에서는 기준 승점 이하로 떨어지면 경고 없이 강등될 수 있습니다.\n· 방어 실패하면 승점이 감소하며, 일정 횟수부터는 감소하지 않습니다.\n· NPC 대전에서 특정 리그까지 승점을 획득할 수 있습니다.\n· 자신의 방어 소대를 이긴 상대에게 리벤지 대전을 할 수 있습니다."
+    ],
+    [
+      "SI_DP_CHANGE_LOBBY_PRESET_LOAD_CONFIRM_TITLE",
+      "{0}번 프리셋"
+    ],
+    [
+      "SI_DP_LOBBY_MUSIC_DEFAULT",
+      "기본값"
+    ],
+    [
+      "SI_DP_SHOP_BEST",
+      "BEST"
+    ],
+    [
+      "SI_DP_LOBBY_CHANGE_PREVIEW_RETURN",
+      "배경 또는 UI 숨김 아이콘을 터치할 시, 편집화면으로 돌아갑니다."
+    ],
+    [
+      "SI_DP_POPUP_FIRST_OPTION_EFFECT_TITLE",
+      "이펙트 투명도 설정"
+    ],
+    [
+      "SI_DP_POPUP_FIRST_OPTION_EFFECT_SUBTITLE",
+      "선택 후에도 '옵션>그래픽'에서 세부 조정이 가능합니다."
+    ],
+    [
+      "SI_DP_TOY_NOT_EXIST_RESTORE_ITEM",
+      "처리되지 않은 구매 처리를 복구했습니다. 우편함을 확인해주세요."
+    ],
+    [
+      "SI_DP_ATTACK_WAITING_OPPONENT",
+      "상대를 기다리는 중입니다."
+    ],
+    [
+      "SI_DP_SHIP_COMMANDMODULE_OPTION",
+      "{0} {1} {2}"
+    ],
+    [
+      "SI_DP_SHIP_COMMANDMODULE_SLOT_LOCK",
+      "{0}번 소켓을 잠금 하시겠습니까?"
+    ],
+    [
+      "SI_DP_SHIP_COMMANDMODULE_SLOT_UNLOCK",
+      "{0}번 소켓의 잠금을 해제하시겠습니까?"
+    ],
+    [
+      "SI_DP_SHIP_LIMITBREAK_GRADE",
+      "이식 개장 {0}단계"
+    ],
+    [
+      "SI_DP_SHIP_LIMITBREAK_GRADE_COMMANDMODULE_UNLOCK",
+      "{0}번 지휘 모듈 설치 가능"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_SURT_MISSION_CLEAR_DEFAULT",
+      "{0}을 클리어 해야 합니다."
+    ],
+    [
+      "SI_DP_SHIP_COMMANDMODULE_OPEN",
+      "지휘 모듈 {0} 오픈"
+    ],
+    [
+      "SI_DP_SHIP_LIMITBREAK_POPUP_DESC",
+      "동일한 함선을 이식 하시겠습니까?"
+    ],
+    [
+      "SI_DP_SHIP_COMMANDMODULE_EXIT_CONFIRM",
+      "모듈의 설정을 확정하지 않았습니다.\n이대로 나가면 재설정된 모듈 옵션은 버려집니다.\n이대로 나가시겠습니까?"
+    ],
+    [
+      "SI_DP_CHANGEACCOUNT_SUCCESS_GUEST_SYNC_LOGOUT",
+      "계정 연동 성공. 재 로그인을 위해 로그아웃이 진행됩니다."
+    ],
+    [
+      "SI_DP_TRIM_MAIN_TIME_DAY_HOUR",
+      "{0}일 {1}시간 남음"
+    ],
+    [
+      "SI_DP_TRIM_MAIN_TIME_HOUR_MINUTE",
+      "{0}시간 {1}분 남음"
+    ],
+    [
+      "SI_DP_TRIM_MAIN_TIME_MINUTE",
+      "{0}분 남음"
+    ],
+    [
+      "SI_DP_TRIM_MAIN_PLAYING_TEXT",
+      "진행 중인 디멘션 트리밍 던전이 있습니다.\n계속 진행하시겠습니까?"
+    ],
+    [
+      "SI_DP_TRIM_MAIN_NEXT_LEVEL_TEXT",
+      "이전 레벨의 전체 스테이지를 클리어 해야합니다."
+    ],
+    [
+      "SI_DP_TRIM_MAIN_END_INTERVAL_TEXT",
+      "주간이 종료되었습니다.\n월드맵으로 돌아갑니다."
+    ],
+    [
+      "SI_DP_TRIM_DUNGEON_STAGE_TEXT",
+      "STAGE #{0}"
+    ],
+    [
+      "SI_DP_MERGE",
+      "합성"
+    ],
+    [
+      "SI_DP_GACHA",
+      "가챠"
+    ],
+    [
+      "SI_DP_MERGE_AMOUNT",
+      "X{0}"
+    ],
+    [
+      "SI_DP_MERGE_HAVE_AMOUNT",
+      "합성 가능 : {0}"
+    ],
+    [
+      "SI_DP_SKIN_ACHIEVE_NO_OVERLAP",
+      "보유 중인 <color=#FFCF3B>{0}</color> 스킨을 획득하여 {1}{2}(으)로 환급되었습니다.\n우편함을 확인해주세요."
+    ],
+    [
+      "SI_DP_CHOICE_SKIN_CONFIRM",
+      "이 스킨을 선택하시겠습니까?"
+    ],
+    [
+      "SI_DP_EPISODE_SUPPLEMENT",
+      "서플리먼트"
+    ],
+    [
+      "SI_DP_EPISODE_SUBSTREAM_COMPLETE_RATE",
+      "서브스트림 완성도"
+    ],
+    [
+      "SI_DP_EPISODE_FAVORITE_NULL",
+      "즐겨찾기된 스테이지가 없습니다."
+    ],
+    [
+      "SI_DP_EPISODE_FAVORITE",
+      "즐겨찾기"
+    ],
+    [
+      "SI_DP_EPISODE_FAVORITE_TOTAL",
+      "즐겨찾기 개수"
+    ],
+    [
+      "SI_DP_EPISODE_PROGRESS",
+      "{0} 진행중"
+    ],
+    [
+      "SI_DP_OPTION_GRAPHIC_LOGIN_ANIM_ALWAYS",
+      "항상"
+    ],
+    [
+      "SI_DP_OPTION_GRAPHIC_LOGIN_ANIM_RANDOM",
+      "랜덤"
+    ],
+    [
+      "SI_DP_OPTION_GRAPHIC_LOGIN_ANIM_DAYONE",
+      "1일 1회"
+    ],
+    [
+      "SI_DP_OPTION_GRAPHIC_LOGIN_ANIM_OFF",
+      "안함"
+    ],
+    [
+      "SI_DP_TACTIC_UPDATE_TEXT_UNIT_SELECT",
+      "전술 업데이트에 사용할 사원이 선택되지 않았습니다."
+    ],
+    [
+      "SI_DP_TACTIC_UPDATE_TEXT_UNIT_NOTICE",
+      "전술 업데이트에 사용할 사원이 없습니다."
+    ],
+    [
+      "SI_DP_TACTIC_UPDATE_TEXT_UNIT_MAX",
+      "최대 성장치에 도달하였습니다."
+    ],
+    [
+      "SI_DP_TACTIC_UPDATE_TEXT_UNIT_WARNING",
+      "소대 편성 중이거나 잠금 상태인 사원은 전술 업데이트에 사용할 수 없습니다!"
+    ],
+    [
+      "SI_DP_TACTIC_UPDATE_TEXT_UNIT_EQUIP",
+      "사원이 장비를 착용하여 전술 업데이트를 진행할 수 없습니다.\n착용한 장비를 모두 해제하겠습니까?"
+    ],
+    [
+      "SI_DP_OPTION_CANNOT_CHANGE_SERVER_WHEN_IN_GAME_BATTLE",
+      "현재 전투중에는 서버 선택을 할 수 없습니다."
+    ],
+    [
+      "SI_DP_SKIN_GRADE_SPECIAL",
+      "스페셜 스킨"
+    ],
+    [
+      "SI_DP_CHOICE_SKIN_CONFIRM_RECHECK",
+      "해당 스킨을 획득합니다."
+    ],
+    [
+      "SI_DP_EPISODE_CATEGORY_EC_SUBSTREAM",
+      "서브스트림"
+    ],
+    [
+      "SI_DP_EPISODE_CATEGORY_EC_TIMEATTACK",
+      "타임어택"
+    ],
+    [
+      "SI_DP_EPISODE_CATEGORY_EC_TRIM",
+      "디멘션 트리밍"
+    ],
+    [
+      "SI_DP_EPISODE_CATEGORY_EC_FIERCE",
+      "격전 지원"
+    ],
+    [
+      "SI_DP_SORT_DIVE_SQUAD",
+      "다이브 소대"
+    ],
+    [
+      "SI_DP_S2_FIERCE_NO_PENALTY_TEXT",
+      "하드 난이도 이상에서 사용 가능합니다."
+    ],
+    [
+      "SI_DP_EVENT_PASS_WAITING",
+      "대상 유닛 탐색중…"
+    ],
+    [
+      "SI_DP_DECK_NUMBER_STRING_DIVE",
+      "D"
+    ],
+    [
+      "SI_DP_DUNGEON_RESULT_GAME_TIP",
+      "<size=16>●</size> 소대를 <color=#ffcf3b>골고루 성장</color>시키세요.\n\n\n<size=16>●</size> <color=#ffcf3b>본사</color>에서 소대를 강화하세요.\n\n\n<size=16>●</size> <color=#ffcf3b>모의작전</color>에서 빠른 성장이 가능합니다."
+    ],
+    [
+      "SI_DP_DUNGEON_RESULT_REFUND",
+      "반환된 입장 비용"
+    ],
+    [
+      "SI_DP_SHOP_SKIN_LOGIN_CUTIN_MSG",
+      "스킨 보유 시 로그인 컷인을 볼 수 있습니다."
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_BLANK_TITLE",
+      "아티팩트 발견"
+    ],
+    [
+      "SI_DP_DIVE_EVENT_TEXT_NDET_BLANK_SUBTITLE",
+      "아티팩트를 발견했다."
+    ],
+    [
+      "SI_DP_EPISODE_SUBSTREAM_DATA_EXPUNGED",
+      "추후 열람 가능한 서브스트림입니다"
+    ],
+    [
+      "SI_DP_UNLOCK_CONDITION_REQUIRE_DESC_SURT_CLEAR_TRIM",
+      "{0}의 Lv.{1}을 클리어해야 합니다."
+    ],
+    [
+      "SI_DP_DECK_NUMBER_STRING_TRIM",
+      "T"
+    ],
+    [
+      "SI_DP_OPERATION_SUBSTREAM_SHORTCUT_TITLE",
+      "{0} 바로가기"
+    ],
+    [
+      "SI_DP_OPERATION_SUBSTREAM_SHORTCUT_SUBTITLE",
+      "에피소드 선택 시 해당 위치로 이동합니다."
+    ],
+    [
+      "SI_DP_LOBBY_MUSIC_PLAY_OPTION_ON",
+      "로비 음악 이어서 재생 ON"
+    ],
+    [
+      "SI_DP_LOBBY_MUSIC_PLAY_OPTION_OFF",
+      "로비 음악 이어서 재생 OFF"
+    ],
+    [
+      "SI_PF_BGM_SORT_DEFAULT",
+      "기본"
+    ],
+    [
+      "SI_PF_BGM_SORT_NAME",
+      "이름"
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_STUN",
+      "행동 불능 상태가 됩니다. 함선에는 적용되지 않습니다. 이 효과는 무효화 되지 않습니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_SLEEP",
+      "행동 불능 상태가 되며 데미지를 받으면 해제됩니다. 메카닉, 함선에는 적용되지 않습니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_SILENCE",
+      "스킬을 사용할 수 없는 상태가 됩니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_CLOCKING",
+      "적이 자신을 타켓팅 하지 못하는 상태가 됩니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_DETECTER",
+      "은신 상태인 적을 감지할 수 있는 상태가 됩니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_IMMORTAL",
+      "사망하지 않는 상태가 됩니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_INVINCIBLE",
+      "모든 피해를 받지 않는 상태가 되며 스턴, 수면이 해제됩니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_TAUNT",
+      "적이 자신을 타켓팅 하는 상태가 됩니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_FEAR",
+      "자신의 함선, 보스 쪽으로 이동합니다. 맵의 끝에 닿을 시 해제되며 보스에게는 적용되지 않습니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_CONFUSE",
+      "자신의 아군을 공격합니다. 혼란 상태 중 다시 혼란이 걸리면 해제되며 보스에게는 적용되지 않습니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_CHILL",
+      "5초간 공격속도와 이동속도가 1중첩당 3%씩 감소됩니다. 20중첩 시 [빙결] 효과로 변경됩니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_FREEZE",
+      "5초간 모든 행동을 할 수 없게 되며 넉백이나 에어본 효과를 받지 않게 됩니다. 빙결 중에는 냉기를 중첩할 수 없습니다. 보스에게는 적용되지 않습니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_HOLD",
+      "넉백, 에어본을 포함한 행동이 불가하며 보스에게는 적용되지 않습니다. 이 효과는 무효화 되지 않습니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_NOHEAL",
+      "체력을 회복할 수 없는 상태가 됩니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_BLOCK_BUFF",
+      "버프를 가질 수 없는 상태가 됩니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_BLOCK_DEBUFF",
+      "디버프를 받을 수 없는 상태가 됩니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_FORCE_MISS",
+      "자신이 주는 공격이 무조건 빗나갑니다. 이 효과는 회피 불가, 필중과 상쇄되며 보스에게는 적용되지 않습니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_FORCE_EVADE",
+      "자신이 받는 공격이 무조건 빗나갑니다. 이 효과는 회피 불가, 필중과 상쇄됩니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_FORCE_HIT",
+      "자신이 주는 공격이 무조건 명중합니다. 이 효과는 완전회피, 실명과 상쇄됩니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_BUFF_DAMAGE_IMMUNE",
+      "도트 데미지를 주는 버프 효과를 무시합니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_NULLIFY_BARRIER",
+      "해제 가능한 배리어를 가질수 없는 상태가 됩니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_IMMUNE_MOVE_SLOW",
+      "이동속도가 감소되지 않습니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_IMMUNE_ATTACK_SLOW",
+      "공격속도가 감소되지 않습니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_IMMUNE_AIRBORNE",
+      "피해로 인해 공중에 뜨지 않는 상태가 됩니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_IMMUNE_SKILL_COOLTIME_DAMAGE",
+      "스킬 쿨타임 감소 버프 효과를 받지 않는 상태가 됩니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_IMMUNE_NEGATIVE_STATUS",
+      "모든 상태이상을 받지 않는 상태가 됩니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_IMMUNE_CC",
+      "모든 군중제어를 받지 않는 상태가 됩니다. 이 효과는 무효화 되지 않습니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_NO_EVADE",
+      "자신이 받는 공격이 무조건 명중합니다. 이 효과는 완전회피, 실명과 상쇄되며 보스에게는 적용되지 않습니다."
+    ],
+    [
+      "SI_DP_STATUS_CATEGORY_CROWDCONTROL",
+      "군중제어"
+    ],
+    [
+      "SI_DP_STATUS_CATEGORY_BUFF",
+      "버프"
+    ],
+    [
+      "SI_DP_STATUS_CATEGORY_DEBUFF",
+      "디버프"
+    ],
+    [
+      "SI_DP_SHADOW_SKIP_ERROR",
+      "진행 중인 공략이 있어 전투 스킵을 실행할 수 없습니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_CHAT_MODIFY_NOTIFICATION",
+      "{0} 공지가 수정되었습니다."
+    ],
+    [
+      "SI_DP_SORT_DEPLOY",
+      "배치 상태"
+    ],
+    [
+      "SI_DP_SHIP_BUILD_CONDITION_FAIL_DUNGEON_CLEAR_VER2",
+      "{0} {1} {2} 클리어"
+    ],
+    [
+      "SI_DP_CONSORTIUM_DUNGEON_ARTIFACT_TARGET_POPUP_DESC",
+      "[ARENA {0}]의\n아티팩트 목표 설정을 초기화 합니다."
+    ],
+    [
+      "SI_DP_SHIP_BUILD_CONDITION_FAIL_DUNGEON_CLEAR_TITLE_1",
+      "[메인]"
+    ],
+    [
+      "SI_DP_SHIP_BUILD_CONDITION_FAIL_DUNGEON_CLEAR_TITLE_2",
+      "[서브][외전]"
+    ],
+    [
+      "SI_DP_SHIP_BUILD_CONDITION_FAIL_DUNGEON_CLEAR_TITLE_3",
+      "[서브][서플리먼트]"
+    ],
+    [
+      "SI_DP_SHIP_BUILD_CONDITION_FAIL_DUNGEON_CLEAR_TITLE_4",
+      "[의뢰][보급작전]"
+    ],
+    [
+      "SI_PF_BGM_UNLOCK",
+      "획득 조건 : {0}"
+    ],
+    [
+      "SI_DP_EVENTMATCH_POPUP_NOT_ENTER",
+      "아직 접근할 수 없습니다. 다시 찾아올 아케이드를 기대해주세요!"
+    ],
+    [
+      "SI_DP_EVENTMATCH_POPUP_REWARD_NOT_COUNT",
+      "참가 보상을 준비 중입니다. 다음 아케이드를 기대해주세요!"
+    ],
+    [
+      "SI_DP_EVENTMATCH_MAIN_MENU_RULE_REWARD_NONE",
+      "이번 아케이드에서는 보상이 제공되지 않습니다"
+    ],
+    [
+      "SI_DP_EVENTMATCH_MAIN_MENU_RULE_REWARD_COUNT",
+      "아케이드를 플레이해서 보상을 받아가세요!"
+    ],
+    [
+      "SI_DP_EVENTMATCH_EVENTDECK",
+      "소대에 다음 유닛을 포함하도록 제한합니다."
+    ],
+    [
+      "SI_DP_EVENTMATCH_EVENTDECK_LIMIT_COUNT",
+      "※ 소대는 총 <color=#ffdb6c>{0}명</color>으로 제한됩니다."
+    ],
+    [
+      "SI_DP_EVENTMATCH_EVENTDECK_FREE",
+      "소대에 편성제한이 없습니다."
+    ],
+    [
+      "SI_DP_EVENTMATCH_EVENTDECK_SLOT_CLOSED",
+      "소대에 포함할 수 있는 인원 수가 제한됩니다."
+    ],
+    [
+      "SI_DP_EVENTMATCH_RANK_DECK",
+      "랭크전 리그 소대를 사용합니다."
+    ],
+    [
+      "SI_DP_EVENT_MATCH_NO_SERVICE",
+      "신규 모드를 준비중입니다"
+    ],
+    [
+      "SI_DP_SHIP_BUILD_CONDITION_FAIL_DUNGEON_CLEAR_TITLE_5",
+      "[의뢰][챌린지]"
+    ],
+    [
+      "SI_DP_ERROR_GAME_RESTART_FAIL",
+      "재시작 시도에 실패했습니다. 이전화면으로 돌아갑니다."
+    ],
+    [
+      "SI_DP_STAT_SHORT_NAME_FOR_INVEN_EQUIP_RANDOM_SET",
+      "무작위 세트 옵션"
+    ],
+    [
+      "SI_DP_MOLD_ACCOUNT_PRODUCT_COUNT_TWO_PARAM",
+      "계정 제작 횟수 {0}/{1}"
+    ],
+    [
+      "SI_DP_MOLD_DAY_PRODUCT_COUNT_TWO_PARAM",
+      "일간 제작 횟수 {0}/{1}"
+    ],
+    [
+      "SI_DP_MOLD_MONTH_PRODUCT_COUNT_TWO_PARAM",
+      "월간 제작 횟수 {0}/{1}"
+    ],
+    [
+      "SI_DP_MOLD_WEEK_PRODUCT_COUNT_TWO_PARAM",
+      "주간 제작 횟수 {0}/{1}"
+    ],
+    [
+      "SI_DP_GUILD_DUNGEON_PRACTICE_GIVEUP_INFO",
+      "진행 중인 연습 모드를 종료하시겠습니까?"
+    ],
+    [
+      "SI_DP_CUSTOM_CONTRACT_CONFIRM",
+      "픽업 확정"
+    ],
+    [
+      "SI_DP_DECKCONDITION_REARM_ONE_PARAM",
+      "재무장 유닛 {0}"
+    ],
+    [
+      "SI_DP_DECKCONDITION_REARM_COUNT_TWO_PARAM",
+      "재무장 유닛 {0}기 {1}"
+    ],
+    [
+      "SI_DP_DECKCONDITION_FORCE_REARM_TO_BASIC",
+      "재무장 유닛이 일반 유닛으로 적용"
+    ],
+    [
+      "SI_DP_LOBBY_CUSTOMIZATION_GUIDE_TITLE",
+      "조작법"
+    ],
+    [
+      "SI_DP_LOBBY_CUSTOMIZATION_GUIDE_DESC",
+      "마우스 드래그 : 이동\n마우스 휠 : 확대/축소\nQ E : 회전\nR : 대칭 전환\nTAB : 커스터마이징 옵션\nCtrl : 미세조정"
+    ],
+    [
+      "SI_DP_LOBBY_CUSTOMIZATION_GUIDE_DESC_VER2",
+      "마우스 드래그 : 이동\n마우스 휠 : 확대/축소\nQ E : 회전\nR : 대칭 전환\nF : 라이브 일러스트 재생/일시정지\nTab : 커스터마이징 옵션\nCtrl : 미세조정"
+    ],
+    [
+      "SI_DP_CUSTOM_CONTRACT_RESET_WARNING_DESC",
+      "픽업 대상 변경 시, 확정 채용까지 남은 횟수가 초기화됩니다."
+    ],
+    [
+      "SI_DP_CUSTOM_CONTRACT_PICK_UP_WARNING_DESC",
+      "픽업 사원을 선택하여 주시기 바랍니다."
+    ],
+    [
+      "SI_DP_CUSTOM_CONTRACT_SELECT_WARNING_DESC",
+      "현재 선택된 사원으로 픽업 대상을 확정하시겠습니까?\n픽업 대상 선택 확정 시, <color=#FF3636>픽업 선택 횟수</color>가 차감됩니다."
+    ],
+    [
+      "SI_DP_CUSTOM_CONTRACT_DUPLICATE_WARNING_DESC",
+      "동일한 사원으로 픽업 대상을 선택할 수 없습니다."
+    ],
+    [
+      "SI_DP_CONSORTIUM_DUNGEON_RESULT_BOSS_SUMMARY_INFO_FAIL",
+      "{0} 처치에 실패하였습니다."
+    ],
+    [
+      "SI_DP_OPTION_MOUSE_CURSOR_OFF",
+      "사용안함"
+    ],
+    [
+      "SI_DP_OPTION_MOUSE_CURSOR_BASIC_SIZE",
+      "기본 크기"
+    ],
+    [
+      "SI_DP_OPTION_MOUSE_CURSOR_BIG_SIZE",
+      "대형 크기"
+    ],
+    [
+      "SI_DP_NET_ANI",
+      "이모티콘"
+    ],
+    [
+      "SI_DP_NET_TEXT",
+      "코멘트"
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_IMMUNE_INSTANTKILL",
+      "즉사에 영향을 받지 않습니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_EXILE",
+      "모든 피해, 버프, 디버프를 받지 않고 대상으로 지정되지 않으며 유효타격수에 포함되지 않습니다. "
+    ],
+    [
+      "SI_DP_SHIP_BUILD_CONDITION_FAIL_DUNGEON_CLEAR_TITLE_6",
+      "[서브][시즈널]"
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_IMMUNE_HP_RATE_DAMAGE",
+      "체력 비례 피해에 영향을 받지 않습니다."
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_OPR_SKILL_ENHANCE_COST_DISCOUNT",
+      "합성 비용 {0}% 할인중"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_OPR_SKILL_ENHANCE_SUCCESS_RATE_BONUS",
+      "성공률 +{0}% 증가중"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_OPERATOR_SKILL_ENHANCE_COST_DISCOUNT",
+      "오퍼레이터 합성 소모 정보 할인"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_OPERATOR_SKILL_ENHANCE_SUCCESS_RATE_BONUS_SSR",
+      "재료 오퍼레이터 SSR등급 보조 기술 성공률 증가"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_OPERATOR_SKILL_ENHANCE_SUCCESS_RATE_BONUS_SR",
+      "재료 오퍼레이터 SR등급 보조 기술 성공률 증가"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_OPERATOR_SKILL_ENHANCE_SUCCESS_RATE_BONUS_R",
+      "재료 오퍼레이터 R등급 보조 기술 성공률 증가"
+    ],
+    [
+      "SI_DP_EVENT_BUFF_TYPE_OPERATOR_SKILL_ENHANCE_SUCCESS_RATE_BONUS_N",
+      "재료 오퍼레이터 N등급 보조 기술 성공률 증가"
+    ],
+    [
+      "SI_DP_COLLECTION_RATE_STRING_BY_TYPE_CT_EMBLEM",
+      "엠블럼 수집률"
+    ],
+    [
+      "SI_DP_COLLECTION_RATE_STRING_BY_TYPE_CT_FRAME",
+      "프레임 수집률"
+    ],
+    [
+      "SI_DP_OPERATION_POPUP_BUTTON_02",
+      "출격"
+    ],
+    [
+      "SI_DP_UNIT_REACTOR_SKILL_TITLE_SKILL",
+      "<size=26>{0}</size>\n[{1}] 강화"
+    ],
+    [
+      "SI_DP_UNIT_REACTOR_NOT_MATCH_TARGET_LEVEL",
+      "리액터의 이전 레벨을 해방해야 합니다."
+    ],
+    [
+      "SI_DP_UNIT_REACTOR_NOT_FIND_SKILL_DATA",
+      "리액터 정보가 공개되지 않았습니다."
+    ],
+    [
+      "SI_DP_UNIT_REACTOR_BASE_SKILL_NOT_MAX_LEVEL_01",
+      "스킬 레벨이 최대 레벨이 아닙니다."
+    ],
+    [
+      "SI_DP_UNIT_REACTOR_UPGRADE_COST_ITEM_NOT_ENOUGH",
+      "리액터 해방에 필요한 아이템이 부족합니다."
+    ],
+    [
+      "SI_DP_UNIT_REACTOR_NO_INFO",
+      "아직 정보가 공개되지 않았습니다."
+    ],
+    [
+      "SI_DP_UNIT_REACTOR_LEVELUP_POPUP",
+      "정말로 리액터의 레벨을 해방하시겠습니까?"
+    ],
+    [
+      "SI_DP_EQUIP_POSITION_REACTOR",
+      "얼터니움 리액터"
+    ],
+    [
+      "SI_DP_REACTOR_UNIT_WARNING_POPUP",
+      "<color=#FF0000>※얼터니움 리액터를 해방한 유닛이 포함되어 있습니다!</color>"
+    ],
+    [
+      "SI_DP_UNIT_REACTOR_NOT_MAX_LEVEL",
+      "사원이 110레벨에 도달해야 합니다."
+    ],
+    [
+      "SI_DP_MOVE_TO_BOSS_ELIMINATE",
+      "보스 격퇴를 진행하시겠습니까?\n횟수가 차감됩니다."
+    ],
+    [
+      "SI_DP_FORGE_RELIC_REROLL_CONFIRM_DESC_TWO_PARAM",
+      "기존 잠재 옵션의 수치가 아래의 옵션으로 변경됩니다.\n정말로 확정하시겠습니까?\n\n소켓 {0}\n{1} {2}   ->   {3} {4}"
+    ],
+    [
+      "SI_DP_FORGE_RELIC_REROLL_EXIT_CONFIRM",
+      "잠재 옵션 변경을 확정하지 않았습니다.\n이대로 나가면 변경 후 옵션 수치는 버려집니다.\n이대로 나가시겠습니까?"
+    ],
+    [
+      "SI_DP_EQUIP_ENCHANT_NOT_ENOUGH_MODULE",
+      "선택한 강화 단계에 필요한 강화 모듈이 부족합니다."
+    ],
+    [
+      "SI_DP_EQUIP_RELIC_REROLL_SLOT_OPEN",
+      "잠재 옵션을 모두 개방해야 합니다."
+    ],
+    [
+      "SI_DP_OPERATION_POPUP_BUTTON_EVENT_END",
+      "이벤트 종료"
+    ],
+    [
+      "SI_DP_EQUIP_RELIC_REROLL_COUNT_LIMIT",
+      "잠재 옵션 재설정 횟수를 초과하여 더 이상 진행할 수 없습니다."
+    ],
+    [
+      "SI_DP_USERINFO_CONSORTIUM_NOT_JOIN_DESC",
+      "컨소시엄에 가입되어 있지 않습니다."
+    ],
+    [
+      "SI_DP_POPUP_DECK_REMOVE_SHORTCUT",
+      "직접 유닛 해제가 필요한 컨텐츠에 배치되어 있습니다.\n해당 컨텐츠로 이동하겠습니까?"
+    ],
+    [
+      "SI_DP_POPUP_DECK_REMOVE_ALL_COMPLETE",
+      "직접 유닛 해제가 필요한 컨텐츠를 제외한 컨텐츠 편성에서 해제되었습니다."
+    ],
+    [
+      "SI_DP_COLLECTION_RATE_STRING_BY_TYPE_CT_BACKGROUND",
+      "배경 수집률"
+    ],
+    [
+      "SI_DP_RACE_BETTING_ITEM_NOT_ENOUGH_ERROR",
+      "운동화가 부족합니다."
+    ],
+    [
+      "SI_DP_RACE_BETTING_MAX_ERROR",
+      "일일 {0}개까지 응원하실 수 있습니다."
+    ],
+    [
+      "SI_DP_RACE_BETTING_ITEM_ERROR",
+      "응원에 사용할 운동화를 추가해주세요."
+    ],
+    [
+      "SI_DP_RACE_BETTING_NOT_SELECT_TEAM",
+      "팀을 선택한 이후에 응원할 수 있습니다.\n팀을 선택해 주세요."
+    ],
+    [
+      "SI_DP_WORLDMAP_EVENT_WARNING",
+      "이변 발생"
+    ],
+    [
+      "SI_DP_EVENT_BINGO_GET_QUESTION_NUMBER_SELECT_POPUP_V2",
+      "확정 분석 {0} 포인트로 {1}개의 타일을 개방합니다."
+    ],
+    [
+      "SI_DP_EVENT_BINGO_LACK_POINT_POPUP",
+      "보유 중인 포인트가 부족합니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_NOMOVE",
+      "넉백을 제외한 이동을 사용할 수 없는 상태가 됩니다. 보스에게는 적용되지 않습니다."
+    ],
+    [
+      "SI_DP_COMPANY_BUFFTIME_ACCOUNTLEVEL",
+      "회사 레벨 {0}까지"
+    ],
+    [
+      "SI_DP_REMOVE_SHIP_REFUSE_TEXT",
+      "마지막 함선은 해체할 수 없습니다."
+    ],
+    [
+      "SI_DP_TOURNAMENT_DECK_ENTER_POPUP",
+      "소대 등록 시, 편성한 유닛의 현재 상태를 기준으로\n장비/레벨/초월 수치가 저장됩니다.\n현재 편성한 소대로 참가 등록 하시겠습니까?"
+    ],
+    [
+      "SI_DP_TOURNAMENT_DECK_ENTER_POPUP_CHANGE",
+      "참가 소대를 아래와 같이 변경하시겠습니까?"
+    ],
+    [
+      "SI_DP_TOURNAMENT_DECK_ENTER_POPUP_EMPTY",
+      "소대를 다 배치하지 않아 등록이 불가능합니다."
+    ],
+    [
+      "SI_DP_TOURNAMENT_DECK_ENTER_POPUP_TIMEOUT",
+      "소대 등록기간이 종료되었습니다."
+    ],
+    [
+      "SI_DP_TOURNAMENT_HOF_NO_RECORD",
+      "명예의 전당에 등록된 기록이 없습니다."
+    ],
+    [
+      "SI_DP_TOURNAMENT_DECK_ENTER_POPUP_COMPLETE",
+      "참가 소대 등록이 완료되었습니다."
+    ],
+    [
+      "SI_DP_TOURNAMENT_DECK_ENTER_POPUP_MINIMUM_CP",
+      "참여하는 소대의 작전능력이 최소 {0:#,###}을 초과해야 합니다."
+    ],
+    [
+      "SI_DP_TOURNAMENT_PREDICT_NO_SELECT",
+      "선택하지 않은 승부 예측이 있어 완료할 수 없습니다."
+    ],
+    [
+      "SI_DP_TOURNAMENT_PREDICT_COMPLETE",
+      "예측 완료!"
+    ],
+    [
+      "SI_DP_EQUIP_SET_RATE_INFO",
+      "(등장 확률 : {0:0.##}%)"
+    ],
+    [
+      "SI_DP_POPUP_BUTTON_STAT_OPTION_RATE_INFO",
+      "상세 확률보기"
+    ],
+    [
+      "SI_DP_EQUIP_RELIC_REROLL_INFO_TITLE",
+      "잠재 능력치 재설정 확률"
+    ],
+    [
+      "SI_DP_EQUIP_RELIC_REROLL_INFO_SUBTITLE",
+      "잠재 능력치 재설정의 능력치 등장 확률을 확인할 수 있습니다."
+    ],
+    [
+      "SI_DP_OPR_SUB_SKILL_RATE_INFO",
+      "보조 기술 확률 보기"
+    ],
+    [
+      "SI_DP_POPUP_OPR_SUB_SKILL_RATE_INFO_SUBTITLE",
+      "모든 보조 기술은 동일한 등장 확률을 갖습니다."
+    ],
+    [
+      "SI_DP_OPTION_PVP_SURRENDER_WARNING",
+      "항복하시겠습니까?"
+    ],
+    [
+      "SI_DP_RATE_WEB_NOTICE_URL_KOR",
+      "https://www.counterside.com/notice/item/ct/kr/tbl/notice/idx/1853"
+    ],
+    [
+      "SI_DP_RATE_WEB_NOTICE_URL_JPN",
+      "https://www.counterside.com/notice/item/ct/jp/tbl/notice/idx/1855/P1"
+    ],
+    [
+      "SI_DP_RATE_WEB_NOTICE_URL_GLOBAL",
+      "https://www.counterside.com/notice/item/ct/en/tbl/notice/idx/1854/P1"
+    ],
+    [
+      "SI_DP_POPUP_RATE_TEXT",
+      "{0:0.##}%"
+    ],
+    [
+      "SI_DP_POPUP_EQUIP_PRECISION_CHANCE_INFO",
+      "모든 정밀화 조정률은 동일한 등장 확률을 갖습니다. (9.091%)\n\n- 성공 80% : 조정률 5 ~ 15\n- 대성공 20% : 조정률 20 ~ 30"
+    ],
+    [
+      "SI_DP_SORT_TIME",
+      "남은 시간"
+    ],
+    [
+      "SI_DP_TOURNAMENT_LOBBY_TIMELINE_ENTER",
+      "소대 등록 기간"
+    ],
+    [
+      "SI_DP_TOURNAMENT_LOBBY_TIMELINE_REWARD",
+      "보상 획득 기간"
+    ],
+    [
+      "SI_DP_TOURNAMENT_LOBBY_TIMELINE_PREDICT",
+      "예측"
+    ],
+    [
+      "SI_DP_TOURNAMENT_LOBBY_TIMELINE_RESULT",
+      "결과"
+    ],
+    [
+      "SI_DP_TOURNAMENT_LOBBY_TIMELINE_SEMI_FINAL",
+      "4강"
+    ],
+    [
+      "SI_DP_TOURNAMENT_LOBBY_TIMELINE_DAY",
+      "Day {0}"
+    ],
+    [
+      "SI_DP_TOURNAMENT_LOBBY_NO_REWARD",
+      "획득 가능한 보상이 없습니다."
+    ],
+    [
+      "SI_DP_NET_LATELY_ANI",
+      "최근 사용"
+    ],
+    [
+      "SI_DP_DRAFT_BAN_GLOBAL_NOT_ENOUGH_TEXT",
+      "글로벌 밴 설정을 모두 완료하지 않았습니다."
+    ],
+    [
+      "SI_DP_DRAFT_BAN_GLOBAL_TARGET_NOT_ENOUGH_TEXT",
+      "상대방이 글로벌 밴 설정을 모두 완료하지 않았습니다."
+    ],
+    [
+      "SI_DP_CHOICE_EQUIP_SELECT_OPTION",
+      "옵션을 선택해 주세요."
+    ],
+    [
+      "SI_DP_TOURNAMENT_DECK_ENTER_POPUP_BAN_TIME",
+      "밴 선택 기간에는 진입할 수 없습니다."
+    ],
+    [
+      "SI_DP_GAMECONDITION_SET_COST",
+      "시작 출격 코스트 {0}으로 설정 "
+    ],
+    [
+      "SI_DP_UNIT_ABILITY_NAME_TAG_LIMIT",
+      "{0}회 출격 제한"
+    ],
+    [
+      "SI_DP_OPTION_RESTORE_PURCHASE_SUCCESS",
+      "구매 복원 완료!"
+    ],
+    [
+      "SI_DP_OPTION_RESTORE_PURCHASE_FAIL",
+      "구매 복원 실패.\n고객센터로 문의 부탁드립니다."
+    ],
+    [
+      "SI_DP_OPTION_RESTORE_PURCHASE_NO_LIST",
+      "구매 복원할 상품이 존재하지 않습니다."
+    ],
+    [
+      "SI_DP_POPUP_DECK_REMOVE_SHORTCUT_OPR",
+      "직접 오퍼레이터 해제가 필요한 컨텐츠에 배치되어 있습니다.\n해당 컨텐츠로 이동하겠습니까? "
+    ],
+    [
+      "SI_DP_POPUP_DECK_REMOVE_ALL_COMPLETE_OPR",
+      "직접 오퍼레이터 해제가 필요한 컨텐츠를 제외한\n컨텐츠 편성에서 해제되었습니다."
+    ],
+    [
+      "SI_DP_STATUS_SHORT_DESC_NUSE_IRONWALL",
+      "받는 피해량이 1로 고정되고 초당 체력 증가와 감소의 영향을 받지 않습니다. 철벽 상태에서 받는 피해는 피해 반사 및 피해 전이로 발생하는 피해에 포함되지 않습니다."
+    ],
+    [
+      "SI_DP_FIERCE_LEVEL_EASY",
+      "EASY"
+    ],
+    [
+      "SI_DP_FIERCE_LEVEL_NORMAL",
+      "NORMAL"
+    ],
+    [
+      "SI_DP_FIERCE_LEVEL_HARD",
+      "HARD"
+    ],
+    [
+      "SI_DP_FIERCE_LEVEL_EXPERT",
+      "EXPERT"
+    ],
+    [
+      "SI_DP_FIERCE_HARD_MODE",
+      "HARD MODE"
+    ],
+    [
+      "SI_DP_FIERCE_EXPERT_MODE",
+      "EXPERT MODE"
+    ],
+    [
+      "SI_DP_LEVEL_UNKNOWN",
+      "UNKNOWN"
+    ],
+    [
+      "SI_DP_EXTRACT_OPERATOR_SELECT",
+      "추출할 대상을 선택하세요."
+    ],
+    [
+      "SI_DP_WARFARE_GAME_HUD_RESTORE_LIMIT_DESC_DAY_03",
+      "작전 수행 횟수를 초과했습니다.\n수행 횟수를 복원하시겠습니까?\n복원되는 수행 횟수 : {0}회\n\n일일 가능한 복원 횟수({1}/{2})"
+    ],
+    [
+      "SI_DP_WARFARE_GAME_HUD_RESTORE_LIMIT_DESC_WEEK_03",
+      "작전 수행 횟수를 초과했습니다.\n수행 횟수를 복원하시겠습니까?\n복원되는 수행 횟수 : {0}회\n\n주간 가능한 복원 횟수({1}/{2})"
+    ],
+    [
+      "SI_DP_WARFARE_GAME_HUD_RESTORE_LIMIT_DESC_MONTH_03",
+      "작전 수행 횟수를 초과했습니다.\n수행 횟수를 복원하시겠습니까?\n복원되는 수행 횟수 : {0}회\n\n월간 가능한 복원 횟수({1}/{2})"
+    ],
+    [
+      "SI_DP_CHAT_COPY_TEXT",
+      "하나톡이 복사되었습니다."
+    ],
+    [
+      "SI_DP_FACTORY_TUNING_OPTION_BONUS_FULL_POPUP",
+      "옵션 선택 활성화에 필요한 개수가 가득 차 더 이상 변경할 수 없습니다."
+    ],
+    [
+      "SI_DP_FACTORY_TUNING_SET_BONUS_FULL_POPUP",
+      "세트 선택 활성화에 필요한 개수가 가득 차 더 이상 변경할 수 없습니다."
+    ],
+    [
+      "SI_DP_FORGE_TUNING_CONFIRM_DESC_TWO_PARAM_BONUS_FULL",
+      "기존 옵션이 제거 되고 아래의 옵션으로 변경됩니다.\n정말로 확정하시겠습니까?\n\n{0}   ->   {1}\n\n<color=#ffdb00>※변경 확정 시, 옵션 선택이 활성화 됩니다.</color>"
+    ],
+    [
+      "SI_DP_FORGE_SET_POPUP_CONFIRM_DESC_BONUS_FULL",
+      "기존 옵션이 제거되고 다음 옵션으로 변경됩니다.\n정말로 확정하시겠습니까?\n\n<color=#ffdb00>※변경 확정 시, 옵션 선택이 활성화 됩니다.</color>"
+    ],
+    [
+      "SI_DP_RAID_EXTRA_REWARD_TAB_NOT_ENTER",
+      "공로패 교환소의 모든 보상을 획득 해야 합니다."
+    ],
+    [
+      "SI_DP_KW_SHORT_TITLE_DEFAULT",
+      "기본 검색"
+    ],
+    [
+      "SI_DP_KW_SHORT_DESC_DEFAULT",
+      "쉼표(<COLOR=#FFBC00>, </COLOR>), 슬래시(<COLOR=#FFBC00>/</COLOR>), 공백( )으로 검색어를 구분하며 입력한 모든 조건을 만족하는 결과만 표시됩니다."
+    ],
+    [
+      "SI_DP_KW_SHORT_DESC_DEFAULT_EX",
+      "SSR 힐"
+    ],
+    [
+      "SI_DP_KW_SHORT_TITLE_EXCLUDE_CONDITION",
+      "조건 제외"
+    ],
+    [
+      "SI_DP_KW_SHORT_DESC_EXCLUDE_CONDITION",
+      "빼기(<COLOR=#FFBC00>-</COLOR>) 기호를 사용하면 기호가 붙은 조건을 제외하고 검색을 진행합니다."
+    ],
+    [
+      "SI_DP_KW_SHORT_DESC_EXCLUDE_CONDITION_EX",
+      "스트라이커 -SSR"
+    ],
+    [
+      "SI_DP_KW_SHORT_TITLE_SEARCH_STAT",
+      "스탯 검색"
+    ],
+    [
+      "SI_DP_KW_SHORT_DESC_SEARCH_STAT",
+      "<COLOR=#FFBC00>스탯명>수치</COLOR> : 특정 수치 이상의 장비를 검색합니다.\n<COLOR=#FFBC00>스탯명<수치</COLOR> : 특정 수치 이하의 장비를 검색합니다."
+    ],
+    [
+      "SI_DP_KW_SHORT_DESC_SEARCH_STAT_EX",
+      "스충>10"
+    ],
+    [
+      "SI_DP_KW_SHORT_TITLE_SEARCH_ALL_OPTIONS",
+      "전체 옵션 검색"
+    ],
+    [
+      "SI_DP_KW_SHORT_DESC_SEARCH_ALL_OPTIONS",
+      "장비를 검색할 때, 별도 제한이 없으면 장비의 전체 옵션에서 검색을 진행합니다."
+    ],
+    [
+      "SI_DP_KW_SHORT_DESC_SEARCH_ALL_OPTIONS_EX",
+      "스충"
+    ],
+    [
+      "SI_DP_KW_SHORT_TITLE_LIMIT_OPTION_RANGE",
+      "옵션 범위 제한"
+    ],
+    [
+      "SI_DP_KW_SHORT_DESC_LIMIT_OPTION_RANGE",
+      "<COLOR=#FFBC00>잠재</COLOR> 또는 <COLOR=#FFBC00>세트</COLOR> 옵션을 지정하면 해당 옵션에서만 검색을 진행합니다."
+    ],
+    [
+      "SI_DP_KW_SHORT_DESC_LIMIT_OPTION_RANGE_EX",
+      "잠재 스충>10 세트 공속"
+    ],
+    [
+      "SI_DP_SLOT_CHOICE_VIEWER_TAG_LIST",
+      "사양"
+    ],
+    [
+      "SI_DP_SLOT_CHOICE_VIEWER_TAG_LEVEL",
+      "레벨 {0}"
+    ],
+    [
+      "SI_DP_SLOT_CHOICE_VIEWER_TAG_SKILL_LEVEL",
+      "스킬 최대 레벨 적용"
+    ],
+    [
+      "SI_DP_SLOT_CHOICE_VIEWER_TAG_TACTIC_UPDATE",
+      "전술 업데이트 {0}단계"
+    ],
+    [
+      "SI_DP_SLOT_CHOICE_VIEWER_TAG_REACTOR_1",
+      "리액터 {0}단계 해방"
+    ],
+    [
+      "SI_DP_SLOT_CHOICE_VIEWER_TAG_REACTOR_2",
+      "(리액터 보유 사원 한정)"
+    ],
+    [
+      "SI_DP_SLOT_CHOICE_VIEWER_TAG_LOYALTY",
+      "애사심 {0}"
+    ],
+    [
+      "SI_DP_SLOT_CHOICE_VIEWER_TAG_OPR_SKILL_1",
+      "지휘 기술 레벨 {0}"
+    ],
+    [
+      "SI_DP_SLOT_CHOICE_VIEWER_TAG_OPR_PASSIVE_SKILL",
+      "보조 기술 레벨 {0}"
+    ],
+    [
+      "SI_DP_SLOT_CHOICE_VIEWER_TAG_OPR_PASSIVE_SKILL_SELECTION",
+      "보조 기술 선택 가능"
+    ],
+    [
+      "SI_DP_SLOT_CHOICE_VIEWER_TAG_HIDDEN_OPTION_SELECTION",
+      "잠재 옵션 선택 가능"
+    ],
+    [
+      "SI_DP_SLOT_CHOICE_VIEWER_TAG_HIDDEN_OPTION_MAX",
+      "소켓 1 최대 수치 적용"
+    ],
+    [
+      "SI_DP_SLOT_CHOICE_VIEWER_TAG_SET_OPTION_SELECTION",
+      "세트 옵션 선택 가능"
+    ],
+    [
+      "SI_DP_SLOT_CHOICE_VIEWER_TAG_ADDITIONAL_OPTION_SELECTION",
+      "부가 옵션 선택 가능"
+    ],
+    [
+      "SI_DP_POPUP_NOTICE_FRIENDLY_MATCH_CHANGE_OPTION",
+      "친선전 옵션이 변경되었습니다."
+    ],
+    [
+      "SI_DP_POPUP_NOTICE_FRIENDLY_MATCH_AFTER_LOADING",
+      "준비되지 않은 관전자가 있어 진행할 수 없습니다."
+    ],
+    [
+      "SI_DP_TOURNAMENT_LOBBY_TIMELINE_GROUP_PREDICT",
+      "조별 예측"
+    ],
+    [
+      "SI_DP_SUPPPORT_ITEM_MAIL_TITLE",
+      "파견 포인트 지급"
+    ],
+    [
+      "SI_DP_SUPPPORT_ITEM_MAIL_DESC",
+      "사장님께서 설정하신 지원 유닛의 파견 횟수에 따라 포인트가 지급됩니다."
+    ],
+    [
+      "SI_DP_UNIT_ABILITY_NAME_TAG_MULTI_UNIT",
+      "다중 유닛"
+    ],
+    [
+      "SI_DP_UNIT_TAG_TITLE_SEARCH",
+      "태그 검색"
+    ],
+    [
+      "SI_DP_UNIT_TAG_DESC_SEARCH_EX",
+      "#공격력+"
+    ],
+    [
+      "SI_DP_UNIT_TAG_DESC_SEARCH",
+      "샵(<COLOR=#FFBC00>#</COLOR>) 기호를 사용하면 각 유닛의 태그를 검색합니다."
+    ],
+    [
+      "SI_DP_COLLECTION_TRAINING_MODE_TITLE",
+      "연습 모드를 진행할 맵을 선택해주세요."
+    ],
+    [
+      "SI_DP_COLLECTION_TRAINING_MODE_PRACTICE",
+      "연습 맵"
+    ],
+    [
+      "SI_DP_COLLECTION_TRAINING_MODE_NORMAL",
+      "전투 맵"
+    ],
+    [
+      "SI_DP_OPTION_KILLLOG_HIDE_PART",
+      "일부 표시"
+    ],
+    [
+      "SI_DP_OPTION_KILLLOG_TARGET_ALL",
+      "모두"
+    ],
+    [
+      "SI_DP_OPTION_KILLLOG_TARGET_ONLY_ENEMY",
+      "적 정보만"
+    ],
+    [
+      "SI_DP_OPTION_KILLLOG_TARGET_ONLY_TEAM",
+      "아군 정보만"
+    ],
+    [
+      "SI_DP_SUBSTREAM_OMEN_NOT_ENTER",
+      "<color=#ff2626><i>Dies irae, dies illa Solvet saeclum in favilla</i></color>"
+    ],
+    [
+      "SI_DP_POPUP_SKIN_TAG_READY",
+      "스킨 출시 이후 확인 가능합니다."
+    ],
+    [
+      "SI_DP_CHOICE_SKIN_CONFIRM_RECHECK_READY_TEXT",
+      "<color=#FFBC00>※ 선택한 스킨은 출시 예정 스킨으로 출시 전까지 유닛 적용이 불가능합니다.</color>"
+    ],
+    [
+      "SI_DP_PVP_BAN_UNIT_NOT_ENTER",
+      "편성 금지된 유닛이 포함되어 있습니다."
+    ],
+    [
+      "SI_DP_PVP_BAN_UNIT_NOT_SELECT",
+      "밴 지정 유닛은 편성할 수 없습니다."
+    ],
+    [
+      "SI_DP_PVP_BAN_LIST_FREE_BAN",
+      "프리 밴 기간입니다."
+    ],
+    [
+      "SI_PVP_SEASON_BAN_LIST_SUB_DESC",
+      "로테이션 밴에서 승수가 가장 많은 유닛과 캐스팅 밴을 통해 선정된 유닛 총 2종이 시즌 밴에 매주 추가됩니다.\n시즌 밴에 추가된 유닛은 해당 시즌 종료까지 소대에 편성할 수 없습니다."
+    ],
+    [
+      "SI_DP_POPUP_NOT_RECEIVE_TITLE",
+      "미수령 보상 안내"
+    ],
+    [
+      "SI_DP_POPUP_NOT_RECEIVE_DESC",
+      "미수령 보상이 있어 아래의 물품을 지급해드렸습니다."
+    ],
+    [
+      "SI_DP_POPUP_PVP_CASTING_BAN_NO_ENTER",
+      "시즌 시작 후 첫 주 동안은 캐스팅 밴을 진행할 수 없습니다."
+    ],
+    [
+      "SI_DP_DECK_UNIT_STATE_BAN",
+      "편성 금지"
+    ],
+    [
+      "SI_DP_GAUNTLET_BAN_POPUP_DESC_UNIT",
+      "밴 지정된 유닛은 시즌이 끝날때까지 편성이 금지됩니다."
+    ],
+    [
+      "SI_DP_TACTIC_UPDATE_TEXT_UNIT_SELECT_WARNNING",
+      "선택한 사원과의 전술 단계 합계가 최대치를 초과하여\n전술 업데이트를 진행하는 경우 전술 단계 초과분 만큼 잃게됩니다.\n\n계속 진행하시겠습니까?"
+    ],
+    [
+      "SI_DP_OPR_SKILL_TEXT_UNIT_SELECT_WARNNING",
+      "선택한 사원과의 기술 레벨 합계가 최대치를 초과하여\n기술 전수를 진행하는 경우 기술 단계 초과분 만큼 잃게됩니다.\n\n계속 진행하시겠습니까?"
+    ]
+  ]
+}

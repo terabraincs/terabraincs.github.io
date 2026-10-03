@@ -1,0 +1,30 @@
+{
+  "name": "countersideviewer-main",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --webpack",
+    "build": "next build --webpack && node scripts/prepare-export.mjs",
+    "start": "node scripts/serve.mjs",
+    "test": "node --experimental-strip-types --test tests/deployment.test.mjs",
+    "verify:export": "node scripts/verify-export.mjs"
+  },
+  "dependencies": {
+    "@pixi-spine/base": "^4.0.6",
+    "@pixi-spine/runtime-3.7": "^4.0.6",
+    "next": "16.2.9",
+    "pixi.js": "^7.4.3",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.9",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

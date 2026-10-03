@@ -1,0 +1,6326 @@
+{
+  "asset_name": "LUA_SI_COLLECTION_V0_KOREA_b",
+  "root_name": "m_dicString",
+  "data": [
+    [
+      "SI_COLLECTION_OPR_PROFILE_TYPE_01",
+      "소속"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_TYPE_02",
+      "직급"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_TYPE_03",
+      "작전성향"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_MENU_ACHIVE_TAB_RATE",
+      "성취도 달성률"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_MENU_LIFETIME_REPLAY",
+      "종신 재직 다시보기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_MENU_LIFETIME_REPLAY_DESC",
+      "다시 회상하실 종신 계약을 선택해주세요."
+    ],
+    [
+      "SI_COLLECTION_PROFILE_MENU_LIFETIME_REPLAY_MODIFIED",
+      "연출 변경"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_MENU_LIST_BACKGROUND",
+      "배경 목록"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_MENU_LIST_EMBLEM",
+      "엠블럼 목록"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_MENU_LIST_FRAME",
+      "프레임 목록"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_MENU_LIST_OPERATOR",
+      "오퍼레이터 목록"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_MENU_LIST_STORY",
+      "스토리 목록"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_MENU_LIST_TEAMUP",
+      "팀업 목록"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_MENU_REWRD_VIEW",
+      "일괄 보상 받기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_MENU_REWRD_VIEW_DESC",
+      "수집요소의 보상을 일괄로 받을 수 있으며, 그 상세는 다음과 같습니다."
+    ],
+    [
+      "SI_COLLECTION_PROFILE_MENU_TAB_PROFILE",
+      "정보 조회"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_MENU_TAB_VOICE",
+      "음성 기록"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_BIRTH",
+      "생일"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CHARACTER",
+      "사원 정보"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CORRUPTED_CORE",
+      "집속 반응"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CORRUPTED_DATING",
+      "대인 양상"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CORRUPTED_NAME",
+      "식별명"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CORRUPTED_NOTED",
+      "주의 사항"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CORRUPTED_OBSERVE",
+      "최초 관측일"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CORRUPTED_OBSERVE_DIVE",
+      "최초 관측 심도"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CORRUPTED_RESIDUAL",
+      "잔류 사념"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CORRUPTED_SHAPE",
+      "형태"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CORRUPTED_TYPE",
+      "식별 신호"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_AI",
+      "AI 정밀도"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_ALTERATION",
+      "개조 수준"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_AVERAGE",
+      "평균 출력"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_COLLAPSE",
+      "계면 붕괴도"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_CONTROL",
+      "제어 수준"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_CORRUPTED",
+      "침식 오염도"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_COSTS",
+      "운용 비용"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_DEPENDENCE",
+      "이터니움 의존도"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_EFFICIENCY",
+      "에너지 효율"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_EVALUATION",
+      "전술 평가"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_EXPERT",
+      "대 침식 전술"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_HOSTILITY",
+      "적대성"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_LEADERSHIP",
+      "통솔력"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_MAXPOWER",
+      "최대 출력"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_MEASURE",
+      "CRF 측정"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_MEASURE_CORRUPTED",
+      "개체 위험성"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_MEASURE_MECHA",
+      "제조 스펙"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_MEASURE_SOLDIER",
+      "기량 측정"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_MECHA_ANTI",
+      "대 침식"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_MOBILITY",
+      "기동성"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_REINFORCED",
+      "신체 강화"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_REMAIN",
+      "전투 지속"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_RESISTANCE",
+      "침식 내성"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_CRF_SENSITIVITY",
+      "침식파 강도"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_DESC_PROFILE_PROFILE",
+      "해당 사원의 다양한 정보를 취합해 요약한 프로필입니다."
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_DISLIKE",
+      "싫어하는 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_GENDER",
+      "성별"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_GROUP_CLASSIFY",
+      "병종 목표"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_GROUP_ENTER",
+      "최초 투입"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_GROUP_FOUNDING",
+      "창설지"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_GROUP_FROM",
+      "출신"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_GROUP_MAIN",
+      "주요 임무"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_GROUP_NAME",
+      "그룹 이름"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_GROUP_POPULARITY",
+      "대외 인지도"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_GROUP_SIZE",
+      "그룹 규모"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_GROUP_TARGET",
+      "부대 목표"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_GROUP_WEAPON",
+      "주무기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_HEIGHT",
+      "신장"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_LEVEL_COMBAT",
+      "전투 기술"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_LEVEL_COMMAND",
+      "지휘 역량"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_LIKE",
+      "좋아하는 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_MECHA_ARMOUR",
+      "장갑 종류"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_MECHA_CLASSIFY",
+      "기체 분류"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_MECHA_DESIGNED",
+      "제조사"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_MECHA_ENGINE",
+      "동력원"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_MECHA_HEIGHT",
+      "전고"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_MECHA_MODULE",
+      "제어모듈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_MECHA_NAME",
+      "제식 명칭"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_MECHA_RELEASE",
+      "출고식"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_MECHA_WEAPON",
+      "주무장"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_NAME",
+      "이름"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_PROFILE_CENSORED",
+      "CENSORED"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_PROFILE_PAST",
+      "과거"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_PROFILE_PROFILE",
+      "프로필"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_PROFILE_WEAPON",
+      "무기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_SPECIALITY",
+      "특기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_TYPE_TEAMUP",
+      "팀업"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_BIRTH",
+      "{0} {1}일"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CLB",
+      "█████"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_A",
+      "A"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_ALTERATION_A_DESC",
+      "사이보그"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_ALTERATION_B_DESC",
+      "전신 개조"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_ALTERATION_C_DESC",
+      "다소 개조"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_ALTERATION_D_DESC",
+      "일부 개조"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_A_DESC",
+      "우수"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_B",
+      "B"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_B_DESC",
+      "양호"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_C",
+      "C"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_AI_A_DESC",
+      "초 인공지능"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_AI_B_DESC",
+      "강 인공지능"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_AI_C_DESC",
+      "약 인공지능"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_AI_D_DESC",
+      "교전 알고리즘"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_AVERAGE_A_DESC",
+      "T5"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_AVERAGE_B_DESC",
+      "T4"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_AVERAGE_C_DESC",
+      "T3"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_AVERAGE_D_DESC",
+      "T2"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_AVERAGE_E_DESC",
+      "T1"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_COLLAPSE_A_DESC",
+      "침식 재난"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_COLLAPSE_B_DESC",
+      "매우 심각"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_COLLAPSE_C_DESC",
+      "심각"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_COLLAPSE_D_DESC",
+      "경계"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_COLLAPSE_E_DESC",
+      "주의"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_DEPENDENCE_A_DESC",
+      "최적화"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_DEPENDENCE_B_DESC",
+      "효율적"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_DEPENDENCE_C_DESC",
+      "표준"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_DEPENDENCE_D_DESC",
+      "비효율적"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_DEPENDENCE_E_DESC",
+      "소모적"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_EVALUATION_A_DESC",
+      "특례"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_EVALUATION_B_DESC",
+      "베테랑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_EVALUATION_C_DESC",
+      "프로"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_EVALUATION_D_DESC",
+      "언더 그라운드"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_EVALUATION_E_DESC",
+      "미숙"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_EXPERT_A_DESC",
+      "대 침식 전문"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_EXPERT_B_DESC",
+      "CSE LV.3 방호"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_EXPERT_C_DESC",
+      "CSE LV.2 방호"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_EXPERT_D_DESC",
+      "CSE LV.1 방호"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_EXPERT_E_DESC",
+      "불가능"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_HOSTILITY_A_DESC",
+      "흉포함"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_HOSTILITY_B_DESC",
+      "적대적"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_HOSTILITY_C_DESC",
+      "공격적"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_HOSTILITY_D_DESC",
+      "경계함"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_LEADERSHIP_A_DESC",
+      "초군체급"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_LEADERSHIP_B_DESC",
+      "군체급"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_LEADERSHIP_C_DESC",
+      "무리급"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_LEADERSHIP_D_DESC",
+      "소규모"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_LEADERSHIP_E_DESC",
+      "단독"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_REMAIN_A_DESC",
+      "매우 높음"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_REMAIN_B_DESC",
+      "높음"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_REMAIN_C_DESC",
+      "보통"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_REMAIN_D_DESC",
+      "낮음"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_REMAIN_E_DESC",
+      "매우 낮음"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_SENSITIVITY_A_DESC",
+      "5종"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_SENSITIVITY_B_DESC",
+      "4종"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_SENSITIVITY_C_DESC",
+      "3종"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_SENSITIVITY_D_DESC",
+      "2종"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_CRF_SENSITIVITY_E_DESC",
+      "1종"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_C_DESC",
+      "표준"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_D",
+      "D"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_D_DESC",
+      "취약"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_E",
+      "E"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_E_DESC",
+      "전무"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_F",
+      "없음"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_CRF_S",
+      "규격 외"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_FROM_POLICE",
+      "현역 경찰"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_FROM_POLICE_RETIRE",
+      "퇴역 경찰"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_FROM_VETERAN",
+      "전직 군인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_HUMAN_FEMALE",
+      "여성"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_HUMAN_GROUP",
+      "{0}±{1}"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_HUMAN_MALE",
+      "남성"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_MECHA",
+      "메카닉"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_OTHER_FEMALE",
+      "여성형"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_OTHER_MALE",
+      "남성형"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_SOLDIER",
+      "솔저"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GROUP_FOUNDING_001",
+      "그라운드 원"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GROUP_POPULARITY_A_DESC",
+      "전설적"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GROUP_POPULARITY_B_DESC",
+      "유명한"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GROUP_POPULARITY_C_DESC",
+      "흔히 알려짐"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GROUP_POPULARITY_D_DESC",
+      "언더독"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GROUP_POPULARITY_E_DESC",
+      "무명"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT",
+      "{0}cm"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_MECHA",
+      "{0}M"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_A_DESC",
+      "특례"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_B_DESC",
+      "준수"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_C_DESC",
+      "숙달"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_DESC",
+      "일반"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_D_DESC",
+      "일반"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_E_DESC",
+      "주의"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_A_DESC",
+      "전설적"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_B_DESC",
+      "유명"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_C_DESC",
+      "흔히 알려짐"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_D_DESC",
+      "언더독"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_E_DESC",
+      "무명"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_MECHA_DESIGNED_001",
+      "오픈 라이선스"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_MECHA_DESIGNED_002",
+      "스틸 레인 인더스트리얼"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_MECHA_DESIGNED_003",
+      "로터스 중공업 그룹"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_MECHA_DESIGNED_004",
+      "메트로폴리스"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_MECHA_DESIGNED_005",
+      "다국적 합자 대 침식전 연구소 - 퓨처 앳 워"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_MECHA_DESIGNED_006",
+      "관리국 기밀"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_MECHA_DESIGNED_007",
+      "제너럴 B 디펜스"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_MECHA_DESIGNED_008",
+      "리히트 마틴"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_MECHA_DESIGNED_009",
+      "이디스 트윈즈 시험 제작"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_MECHA_DESIGNED_010",
+      "성간연합"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_MECHA_DESIGNED_011",
+      "북방합의체"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_NULL",
+      "불명"
+    ],
+    [
+      "SI_DATE_MONTH_1",
+      "1월"
+    ],
+    [
+      "SI_DATE_MONTH_10",
+      "10월"
+    ],
+    [
+      "SI_DATE_MONTH_11",
+      "11월"
+    ],
+    [
+      "SI_DATE_MONTH_12",
+      "12월"
+    ],
+    [
+      "SI_DATE_MONTH_2",
+      "2월"
+    ],
+    [
+      "SI_DATE_MONTH_3",
+      "3월"
+    ],
+    [
+      "SI_DATE_MONTH_4",
+      "4월"
+    ],
+    [
+      "SI_DATE_MONTH_5",
+      "5월"
+    ],
+    [
+      "SI_DATE_MONTH_6",
+      "6월"
+    ],
+    [
+      "SI_DATE_MONTH_7",
+      "7월"
+    ],
+    [
+      "SI_DATE_MONTH_8",
+      "8월"
+    ],
+    [
+      "SI_DATE_MONTH_9",
+      "9월"
+    ],
+    [
+      "SI_COLLECTION_NAME_1012",
+      "ST-DSA078M 스패로우"
+    ],
+    [
+      "SI_COLLECTION_NAME_1013",
+      "ST-DSA078B 우드픽커"
+    ],
+    [
+      "SI_COLLECTION_NAME_1014",
+      "ST-DBT095 하운드"
+    ],
+    [
+      "SI_COLLECTION_NAME_1015",
+      "ST-DBT101P 라이노"
+    ],
+    [
+      "SI_COLLECTION_NAME_1016",
+      "ST-DAH205 버자드"
+    ],
+    [
+      "SI_COLLECTION_NAME_1017",
+      "ST-DTV328 투 앤 하프"
+    ],
+    [
+      "SI_COLLECTION_NAME_1021",
+      "무반동포병"
+    ],
+    [
+      "SI_COLLECTION_NAME_1034",
+      "PQ-9 리퍼"
+    ],
+    [
+      "SI_COLLECTION_NAME_1037",
+      "FWL - 15C 아라크네"
+    ],
+    [
+      "SI_COLLECTION_NAME_1039",
+      "FWL - 11M 발리스타"
+    ],
+    [
+      "SI_COLLECTION_NAME_1040",
+      "FWL - 31X 타이탄"
+    ],
+    [
+      "SI_COLLECTION_NAME_1068",
+      "ACT49S 이프리트 경전차"
+    ],
+    [
+      "SI_COLLECTION_NAME_1069",
+      "ACT51M 타라스크 주력전차"
+    ],
+    [
+      "SI_COLLECTION_NAME_1070",
+      "ACT52L 에스타크 자주곡사포"
+    ],
+    [
+      "SI_COLLECTION_NAME_1081",
+      "ALT-1 링컨"
+    ],
+    [
+      "SI_COLLECTION_NAME_1084",
+      "ATAC - 130 건쉽"
+    ],
+    [
+      "SI_COLLECTION_NAME_1123",
+      "가브리엘 준 더 비셔스브레이커"
+    ],
+    [
+      "SI_COLLECTION_NAME_1161",
+      "유나 스프링필드&레일리"
+    ],
+    [
+      "SI_COLLECTION_NAME_1190",
+      "EVOLVED - 001"
+    ],
+    [
+      "SI_COLLECTION_NAME_1203",
+      "샬롯 마르티네즈"
+    ],
+    [
+      "SI_COLLECTION_NAME_1208",
+      "라파엘라 주리 더 에빌체이서"
+    ],
+    [
+      "SI_COLLECTION_NAME_1210",
+      "G-01 골리앗"
+    ],
+    [
+      "SI_COLLECTION_NAME_1219",
+      "E-03 Self-propelled Gun 그렌델"
+    ],
+    [
+      "SI_COLLECTION_NAME_1247",
+      "레베카 카트린느"
+    ],
+    [
+      "SI_COLLECTION_NAME_2040",
+      "FWL - 31X 타이탄"
+    ],
+    [
+      "SI_COLLECTION_NAME_32401",
+      "비렛타 누"
+    ],
+    [
+      "SI_COLLECTION_NAME_32717",
+      "헤스티아"
+    ],
+    [
+      "SI_COLLECTION_NAME_32724",
+      "나탈리아 리소바"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1001",
+      "임금 체불"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1002",
+      "과거"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1003",
+      "초과 근무"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1004",
+      "작전 실패"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1005",
+      "균형 잡힌 채식 위주 식단"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1006",
+      "소형 조류"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1007",
+      "말 안 듣는 아이들"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1008",
+      "지원"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1009",
+      "보호"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1010",
+      "정찰"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1011",
+      "방어"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1012",
+      "스마트 이온 배터리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1013",
+      "스마트 이온 배터리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1014",
+      "합성 디젤 엔진"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1015",
+      "합성 디젤 엔진"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1016",
+      "터보샤프트 엔진"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1017",
+      "합성 디젤 엔진"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1018",
+      "침식체"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1019",
+      "보호"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1020",
+      "매복 및 정찰"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1021",
+      "확보 및 지원"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1022",
+      "보호"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1023",
+      "진지 구축 및 방어"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1024",
+      "디젤 엔진"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1025",
+      "디젤 엔진"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1026",
+      "디젤 엔진"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1027",
+      "디젤 엔진"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1028",
+      "정찰 및 구조"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1029",
+      "확보 및 보호"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1030",
+      "확보 및 지원"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1031",
+      "침투"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1032",
+      "합성 디젤 엔진"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1033",
+      "터보샤프트 엔진"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1034",
+      "개량형 터보프롭 엔진"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1037",
+      "스마트 이온 배터리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1039",
+      "독립형 이터니움 배터리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1040",
+      "이터니움 드라이브"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1041",
+      "아줌마, 여사님으로 불리는 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1042",
+      "선생님을 괴롭히는 사람"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1043",
+      "투구게"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1044",
+      "벌칙 게임"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1045",
+      "따분한 예능"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1046",
+      "작위적인 비극"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1047",
+      "독방"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1048",
+      "특별히 없음"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1049",
+      "술"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1050",
+      "과도한 관심"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1051",
+      "인싸"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1052",
+      "인싸"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1055",
+      "피망"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1059",
+      "정치"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1060",
+      "배금주의"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1061",
+      "방종"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1062",
+      "꼰대"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1063",
+      "주삿바늘"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1064",
+      "무모함"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1065",
+      "우회 차단"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1066",
+      "침투 및 지원"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1067",
+      "정찰 및 보호"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1068",
+      "이터니움 드라이브"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1069",
+      "이터니움 드라이브"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1070",
+      "이터니움 드라이브"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1072",
+      "비밀을 폭로하려는 자"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1073",
+      "지루한 거"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1077",
+      "확보"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1078",
+      "후방 침투"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1079",
+      "진지 구축 및 지원"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1080",
+      "터보샤프트 엔진 2기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1081",
+      "항공 연료 가스터빈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1082",
+      "MABL 개량형 터보팬 엔진"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1083",
+      "개량형 터보팬 엔진 4기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1084",
+      "개량형 터보프롭 엔진 4기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1085",
+      "불의, 악몽"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1086",
+      "비겁한 속임수"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1087",
+      "과보호"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1088",
+      "게으름뱅이"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1089",
+      "부단장 잔소리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1090",
+      "민트 초코를 부정하는 사람"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1091",
+      "가게 적자"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1092",
+      "패배"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1093",
+      "누군가를 아프게 하는 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1096",
+      "파인애플 피자"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1098",
+      "특근, 잔소리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1099",
+      "딱딱한 바게트"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1100",
+      "잊혀진다는 생각"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1101",
+      "짖는 개"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1102",
+      "히어로물에 과학적 논리를 들이대는 사람"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1103",
+      "감형"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1104",
+      "눅눅한 시리얼"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1105",
+      "시리얼"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1109",
+      "냉동식품"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1110",
+      "마늘 요리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1111",
+      "비굴한 사냥감"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1112",
+      "레몬"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1113",
+      "노래 부르기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1114",
+      "커피"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1115",
+      "물웅덩이"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1116",
+      "진명으로 부르기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1117",
+      "무단횡단"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1118",
+      "무뢰한"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1119",
+      "아가씨의 돌발 행동"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1120",
+      "독이 든 술"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1121",
+      "패스트 푸드"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1122",
+      "학교 생활"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1123",
+      "세속적인 집착"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1124",
+      "사고뭉치들"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1125",
+      "시금치"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1126",
+      "대형병원"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1127",
+      "불발"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1128",
+      "밤거리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1129",
+      "야근, 잔업, 주말 출근"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1130",
+      "병아리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1131",
+      "악성 민원인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1132",
+      "바나나 껍질"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1133",
+      "엠바고"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1134",
+      "딱딱한 분위기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1135",
+      "발톱을 안 다듬은 곰"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1136",
+      "격한 운동"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1137",
+      "수수께끼"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1138",
+      "초과 근무"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1139",
+      "초자연적 존재(유령)"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1142",
+      "약품 냄새"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1143",
+      "덜렁이"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1144",
+      "현실주의자"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1145",
+      "정찰 및 확보"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1146",
+      "인류 멸망"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1147",
+      "쇠사슬"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1148",
+      "기타등등"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1149",
+      "에크하르트 초월지식 학회"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1150",
+      "클리포트 인자"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1151",
+      "복장 지적"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1152",
+      "낮잠 방해"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1154",
+      "공과금"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1155",
+      "독립형 이터니움 배터리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1157",
+      "피"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1158",
+      "안 쓰는 비품"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1159",
+      "연봉협상"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1160",
+      "2,000kw이상의 전력"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1161",
+      "레일리의 잔소리(유나)\n불장난(레일리)"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1162",
+      "과거"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1163",
+      "현장 근무"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1164",
+      "태풍"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1165",
+      "불규칙적인 수면"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1166",
+      "신분증 요구"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1167",
+      "실험"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1169",
+      "스포일러"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1170",
+      "찬미"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1171",
+      "인류 멸망"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1172",
+      "열량 보충용 영양제"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1173",
+      "설치류"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1174",
+      "우정"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1175",
+      "좌안"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1176",
+      "흉부의 결정"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1177",
+      "교실 수업"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1178",
+      "꿈틀대는 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1179",
+      "숙취 해소제"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1180",
+      "겨울"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1181",
+      "비둘기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1187",
+      "지원 및 약탈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1188",
+      "침투"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1189",
+      "귀여운 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1190",
+      "개량형 이터니움 드라이브"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1191",
+      "얄궂은 운명"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1192",
+      "지각 배달"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1193",
+      "약물 일체"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1194",
+      "체념"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1195",
+      "인간"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1197",
+      "아베스타 드라이브"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1198",
+      "가슴 중앙"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1199",
+      "삶은 브로콜리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1200",
+      "자신의 어두운 밤눈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1201",
+      "인간"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1202",
+      "배금주의"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1203",
+      "가문"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1204",
+      "다이어트"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1205",
+      "맨정신"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1206",
+      "불가능"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1207",
+      "고양이, 무례한 손님"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1208",
+      "필멸의 악"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1211",
+      "거짓말쟁이"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1212",
+      "초콜릿"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1213",
+      "미확인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1214",
+      "가슴 중앙"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1215",
+      "그로니아 반군"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1216",
+      "가슴 중앙"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1217",
+      "정치"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1218",
+      "소인배"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1220",
+      "악몽에 시달리는 사람"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1221",
+      "농담 금지"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1222",
+      "화약"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1223",
+      "비오는 날"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1224",
+      "방어 및 지원"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1225",
+      "전파 방해, FAILED!, ERROR!"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1226",
+      "패션 테러리스트"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1227",
+      "60,000MW이상의 전력"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1231",
+      "교화 및 수술"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1232",
+      "패배"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1233",
+      "학회의 손님"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1234",
+      "고향"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1235",
+      "감성"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1236",
+      "외투 입기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1237",
+      "후두"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1238",
+      "남의 취향을 무시하는 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1239",
+      "냉동식품"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1240",
+      "싸움"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1241",
+      "간지럼, 가위 눌림"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1242",
+      "우완"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1243",
+      "멀미"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1244",
+      "어른"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1245",
+      "우주"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1246",
+      "고양이\n※싫진 않지만, 못 만진다."
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1247",
+      "버려지는 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1248",
+      "낮에 깨어 있기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1250",
+      "궤변"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1251",
+      "방심"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1252",
+      "쿨하지 못한 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1253",
+      "고향"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1254",
+      "좌측 대퇴부"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1255",
+      "굴"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1256",
+      "기대를 저버리는 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1257",
+      "메이드 코스튬"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1258",
+      "아버지를 실망시키는 일"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1259",
+      "생선 속여 팔기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1260",
+      "에델 마이트너"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1261",
+      "무책임한 인간"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1262",
+      "침식파 변환 에너지집속기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1263",
+      "뿔이 베개를 뚫고 나온 아침"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1264",
+      "자기 혈액"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1265",
+      "뜨거운 음식"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1266",
+      "너무 큰 귀"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1267",
+      "시덥잖은 농담"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1268",
+      "메모리 코어"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1269",
+      "밝고 시끄러운 장소, 흡연자"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1270",
+      "추운 곳에서 잠자기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1271",
+      "뿔을 만져지는 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1272",
+      "페퍼민트차"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1273",
+      "배신"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1274",
+      "뒷조사"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1275",
+      "어두운 곳, 악몽"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1276",
+      "협박"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1277",
+      "더러운 공기, 고독"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1278",
+      "요란하고 실속없는 정치인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1279",
+      "말 안듣는 꼬맹이들"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1280",
+      "빚쟁이 계모"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1282",
+      "기도문 외우기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1285",
+      "음… 운석?"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1286",
+      "소독약 냄새"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1287",
+      "뿔"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1288",
+      "기부, 보름달"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1289",
+      "계피사탕"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1290",
+      "갈증"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1291",
+      "귀찮은 일 너무 싫어(진실)"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1292",
+      "외로움"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1293",
+      "요인 암살 및 납치"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1294",
+      "맨션 시절 흑역사"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1295",
+      "호러 영화"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1296",
+      "지루한 연극"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1297",
+      "오이"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1298",
+      "담배 냄새"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1299",
+      "꿈에서 깨어난 순간"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1300",
+      "혼자 있기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1301",
+      "사망 플래그"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1302",
+      "글 쓰는 데 방해"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1303",
+      "단장님 잔소리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1304",
+      "발 밑의 그림자"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1305",
+      "이터니움 드라이브"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1306",
+      "머리 위에 올라가는 손"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1307",
+      "족쇄, 감옥"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1308",
+      "시간 낭비, 예산 책정"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1310",
+      "가짜 눈물, 불쌍한 척"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_1311",
+      "정해진 운명"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2001",
+      "의류 쇼핑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2005",
+      "4번째 탄환"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2006",
+      "비열한 사람"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2018",
+      "침식체"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2040",
+      "이터니움 드라이브"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2042",
+      "긴급 스케줄"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2044",
+      "천둥 소리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2050",
+      "불의에 대한 침묵"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2062",
+      "작업 중의 알람 메시지"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2085",
+      "불의"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2091",
+      "무능한 마녀"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2098",
+      "보고서"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2101",
+      "매운 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2112",
+      "레몬"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2118",
+      "품위에 걸맞지 않은 행동"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2134",
+      "순무"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2136",
+      "가혹한 훈련"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2138",
+      "눈물"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2148",
+      "따분하고 똑같은 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2152",
+      "낮잠 방해"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2158",
+      "무단 열외"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_2189",
+      "끈적거리는 유기물"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_3006",
+      "둥지를 못 떠나는 새"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_30101",
+      "연봉인상"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_30201",
+      "불필요한 노동"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_30301",
+      "충분해 라는 말"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_30401",
+      "술"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_30501",
+      "클로에의 사망 플래그"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_30601",
+      "야근"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_30701",
+      "범죄조직"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_30801",
+      "카페 스트레가 휴무일"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_30901",
+      "주말을 계획하는 사람들"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_31001",
+      "안전수칙 미준수"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_31101",
+      "어린아이"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_31201",
+      "놀이에서 지는 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_31301",
+      "사촌동생"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_31401",
+      "누전"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_31501",
+      "아델리펭귄의 초점없는 눈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_31601",
+      "받아들이는 체념"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_31701",
+      "외출 금지"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_31801",
+      "잡초"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_31901",
+      "무더위"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32001",
+      "불"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32101",
+      "운동"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32201",
+      "무리하는 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32301",
+      "기상"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32501",
+      "동물 학대"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32601",
+      "아저씨 농담"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32701",
+      "예상치 못한 변수"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32711",
+      "노란 딱지"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32712",
+      "지나친 스킨쉽"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32713",
+      "외로움"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32714",
+      "불륜"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32715",
+      "금전적 손해"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32716",
+      "고객의 컴플레인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32718",
+      "나이 언급"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32719",
+      "초콜릿 케이크"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32720",
+      "탄 냄새"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32721",
+      "하룻고양이"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32722",
+      "의외로, 아침에 약함"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32723",
+      "기계 만지는 일"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32724",
+      "귀신"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32725",
+      "수염깎기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_DISLIKE_32726",
+      "말대꾸, 문어"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1008",
+      "전직 군인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1009",
+      "전직 군인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1010",
+      "전직 군인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1011",
+      "전직 군인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1012",
+      "전투용 드론"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1013",
+      "전투용 드론"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1014",
+      "3.5세대 민수용 주력전차"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1015",
+      "대 침식 공성전차"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1016",
+      "무인 경공격 헬기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1017",
+      "전술 수송 차량"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1019",
+      "전직 군인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1020",
+      "전직 군인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1021",
+      "전직 군인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1022",
+      "전직 군인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1023",
+      "전직 군인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1024",
+      "자주곡사포"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1025",
+      "자주대공포"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1026",
+      "다연장 로켓"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1027",
+      "다목적 전술 차량"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1028",
+      "현역 경찰"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1029",
+      "퇴역 경찰"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1030",
+      "현역 경찰"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1031",
+      "퇴역 경찰"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1032",
+      "시가전용 장갑차량"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1033",
+      "시가전용 정찰 헬기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1034",
+      "시가전용 무인 공격기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1037",
+      "시가전용 기동병기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1039",
+      "전술 투하형 이동포탑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1040",
+      "시작형 섬멸 병기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1065",
+      "기밀"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1066",
+      "기밀"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1067",
+      "기밀"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1068",
+      "대 침식 화력지원 경전차"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1069",
+      "대 침식 주력전차"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1070",
+      "대 침식 초장거리 자주포"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1077",
+      "현역 군인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1078",
+      "현역 군인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1079",
+      "현역 군인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1080",
+      "다목적 공중 수송기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1081",
+      "3.5세대 대 침식 주력전차"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1082",
+      "5세대 스텔스 다기능 전투기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1083",
+      "초음속 전략 폭격기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1084",
+      "지원형 공격기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1145",
+      "민간인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1155",
+      "전천후 다목적 가변전투기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1160",
+      "GAP 시그마 타입 시리즈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1175",
+      "데몬 타입 침식체"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1176",
+      "데몬 타입 침식체"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1187",
+      "범죄자"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1188",
+      "범죄자"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1196",
+      "수금용 위력 행사 프레임"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1197",
+      "범인류 이민선단 호위기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1198",
+      "데몬 타입 침식체"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1210",
+      "군용 중장갑 공성전차"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1213",
+      "데몬 타입 침식체"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1214",
+      "데모고르곤"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1216",
+      "데몬 타입 침식체"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1219",
+      "대 침식 중장갑 사족보행 병기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1224",
+      "왕립군"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1227",
+      "GAP 시그마 타입 시리즈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1231",
+      "학회 내 지원자"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1237",
+      "데몬 타입 침식체"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1242",
+      "데모고르곤(추정)"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1254",
+      "데몬 타입 침식체"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1262",
+      "이족보행 화력병기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1268",
+      "마트료시카 인형"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1287",
+      "하베스터 퀸"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1293",
+      "베타트릭스"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1304",
+      "신성 정보 집합체"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_1305",
+      "대 침식 섬멸 병기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_GENDER_2040",
+      "대 침식 섬멸 병기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1008",
+      "8~12인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1009",
+      "4~5인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1010",
+      "1~2인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1011",
+      "4~5인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1019",
+      "3~4인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1020",
+      "1인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1021",
+      "2인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1022",
+      "2인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1023",
+      "2~3인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1028",
+      "6~8인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1029",
+      "3~4인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1030",
+      "3~4인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1031",
+      "3~4인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1065",
+      "2~3인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1066",
+      "4~5인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1067",
+      "3~4인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1070",
+      "이동 모드 : 2.8 / 사격 모드 : 3.5"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1077",
+      "6~8인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1078",
+      "8~10인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1079",
+      "3~4인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1145",
+      "3인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1155",
+      "파이터 모드 : 3.8 / 재니터 모드 : 7.4"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1175",
+      "인간형"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1176",
+      "부유형"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1187",
+      "3~4인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1188",
+      "1인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1198",
+      "인간형"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1213",
+      "갑주형"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1214",
+      "부유형"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1216",
+      "인간형"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1224",
+      "8~10인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1231",
+      "3인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1237",
+      "인간형"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1242",
+      "부유형"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1254",
+      "현상체"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1287",
+      "군체"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1293",
+      "3~4인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_1304",
+      "인간형"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_HEIGHT_31101",
+      "불명"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1008",
+      "돌격소총"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1009",
+      "진압방패"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1010",
+      "저격소총"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1011",
+      "산탄총"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1012",
+      "기관총"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1013",
+      "고폭탄 발사대"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1014",
+      "120mm MG254 활강포"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1015",
+      "능동 유기압식 파일 벙커"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1016",
+      "공대지 베인파이어 미사일"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1017",
+      "-"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1019",
+      "개량형 돌격소총"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1020",
+      "저격소총"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1021",
+      "무반동포"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1022",
+      "대공 미사일"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1023",
+      "박격포"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1024",
+      "52구경장 155mm 곡사포"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1025",
+      "23mm 기관포 4문"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1026",
+      "227mm 로켓탄"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1027",
+      "중기관총"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1028",
+      "기관단총"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1029",
+      "이터니움 합금 방패"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1030",
+      "유탄 발사기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1031",
+      "산탄총"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1032",
+      "중기관총"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1033",
+      "대지용 미니건 ATG"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1034",
+      "LBU-16 미사일"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1037",
+      "기관총"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1039",
+      "개틀링식 기관포, 특수장갑 관통탄"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1040",
+      "155mm 아틀라틀포, 팔랑크스 미사일"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1065",
+      "고분자 특수검"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1066",
+      "돌격소총"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1067",
+      "슈트 연동형 제압방패"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1068",
+      "80mm 샐러맨더 오토캐넌"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1069",
+      "고출력 레이저포"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1070",
+      "155mm 입자포"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1077",
+      "개량형 돌격소총"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1078",
+      "돌격소총"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1079",
+      "기관단총"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1080",
+      "7.62mm 미니건"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1081",
+      "120mm XM360E2 저반동포"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1082",
+      "사이드와인더 미사일, 공대공 레이저"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1083",
+      "복합 유도 항공 폭탄"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1084",
+      "120mm 박격포, 25mm기관포"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1145",
+      "방패/소총/산탄총"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1155",
+      "칼리더스 암즈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1160",
+      "치환 에너지 방출기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1161",
+      "주의(유나)\n숙달(레일리)"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1175",
+      "신체 변이"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1176",
+      "물질 분해 • 재조립"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1187",
+      "기관단총"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1188",
+      "폭발형 추진기관 해머"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1190",
+      "전술 융합탄 - 네메시스, 고출력 레일 건"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1196",
+      "열혈 변호사"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1197",
+      "펄스건, 대검 엘부르즈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1198",
+      "세검술"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1210",
+      "600mm M-2035 대구경 충격포"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1213",
+      "고유 냉병기 사용"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1214",
+      "정신 붕괴"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1216",
+      "기만술"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1219",
+      "280mm M-2038 심판의 망치, T-800 다연장 미사일"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1224",
+      "소총 : 청동가지"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1227",
+      "물리형 아바타 건틀렛, 치환 에너지 방출기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1231",
+      "저격소총으로 추정"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1237",
+      "비행"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1242",
+      "염동력"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1254",
+      "자살 충동"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1262",
+      "보론 T6 분광 천공기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1268",
+      "리펄서 건"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1287",
+      "환경 적응력, 꼬리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1293",
+      "개량형 밸런스 브레이커"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1304",
+      "대 신성 사슬"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_1305",
+      "아이테르 입자포, 페르세스 미사일"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMBAT_2040",
+      "캐니스터식 대공포탄, 하드킬 파일 벙커"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1012",
+      "경장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1013",
+      "경장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1014",
+      "중장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1015",
+      "중장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1016",
+      "경장갑, 저중량 탄소 섬유ATA"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1017",
+      "중장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1024",
+      "경장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1025",
+      "경장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1026",
+      "경장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1027",
+      "경장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1032",
+      "중장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1033",
+      "경장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1034",
+      "경장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1037",
+      "경장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1039",
+      "경장갑, 리펄스 배리어"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1040",
+      "이터니움 합금 장갑판"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1065",
+      "미상"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1066",
+      "미상"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1067",
+      "미상"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1068",
+      "중장갑, 강화 배리어 코팅"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1069",
+      "합성 장갑 - 키메라 스케일, 표준 베리어 코팅"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1070",
+      "합성 장갑 - 메모리얼 플레이트, 표준 베리어 코팅"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1080",
+      "경장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1081",
+      "대 침식 복합장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1082",
+      "경장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1083",
+      "경장갑, 강습용 베리어 코팅 시스템"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1084",
+      "경장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1155",
+      "이터니움 합금 장갑, 재니터 배리어"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1160",
+      "경장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1161",
+      "주의(유나)\n일반(레일리)"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1175",
+      "귀환"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1176",
+      "외로움"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1187",
+      "악명높음"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1188",
+      "악명높음"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1190",
+      "포식한 모든 부품"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1196",
+      "역장"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1197",
+      "공간 왜곡 역장"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1198",
+      "집착"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1210",
+      "중장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1213",
+      "후회"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1216",
+      "애착"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1219",
+      "중장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1224",
+      "잘 모름"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1227",
+      "홀로그램 에너지 필터"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1231",
+      "미상"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1237",
+      "생존"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1242",
+      "사명감"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1254",
+      "체념"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1262",
+      "중장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1268",
+      "중장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1287",
+      "없음"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1293",
+      "미상"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1304",
+      "충의"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_1305",
+      "아다만트 합금 장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LEVEL_COMMAND_2040",
+      "오리칼쿰 초중장갑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1001",
+      "돈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1003",
+      "조기 퇴근"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1004",
+      "회사와 사장님"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1005",
+      "고기!"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1006",
+      "총기 액세서리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1007",
+      "중화기 정비"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1008",
+      "대 침식 방어전"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1009",
+      "대 침식 방어전"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1010",
+      "기업 의뢰"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1011",
+      "대 침식 방어전"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1012",
+      "생체 모방형 AI - SPARROW"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1013",
+      "생체 모방형 AI - SPARROW (화재 진압용)"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1014",
+      "ST 교전 알고리즘"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1015",
+      "ST 교전 알고리즘"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1016",
+      "3세대 보우스트링 FCS"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1017",
+      "ST 교전 알고리즘"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1018",
+      "달콤한 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1019",
+      "운송 경호"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1020",
+      "운송 경호"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1021",
+      "차량 저지"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1022",
+      "대공 방어"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1023",
+      "경로 안전 확보"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1024",
+      "FOX\n※유사시, 탑승자 직접 제어 가능"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1025",
+      "FOX\n※유사시, 탑승자 직접 제어 가능"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1026",
+      "FOX\n※유사시, 탑승자 직접 제어 가능"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1027",
+      "FOX\n※유사시, 탑승자 직접 제어 가능"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1028",
+      "시가 돌파전"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1029",
+      "대 침식 방어전"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1030",
+      "시가 돌파전"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1031",
+      "대 침식 돌파전"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1032",
+      "전자동모듈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1033",
+      "전자동모듈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1034",
+      "전자동모듈 - 정밀 타격 OS 보완형"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1037",
+      "자율 사고 AI - 스파이더링 시스템"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1039",
+      "반복 학습형 AI - FAW SOFT"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1040",
+      "자율 사고 AI - 독립형 TCS 모듈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1041",
+      "꿈을 이루는 아이돌"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1042",
+      "선생님♥"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1043",
+      "뭐든지 1등!"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1044",
+      "시청자와의 소통"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1045",
+      "낮잠"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1046",
+      "성가"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1047",
+      "스플래터"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1048",
+      "자원 봉사"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1049",
+      "코스프레"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1050",
+      "고전 게임, 스트리트 카운터2"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1051",
+      "불로소득"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1052",
+      "게임"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1055",
+      "느와르 영화"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1059",
+      "뜨개질"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1060",
+      "피자"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1061",
+      "매뉴얼"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1062",
+      "탄산 음료"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1063",
+      "스승님"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1064",
+      "부대 친목활동"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1065",
+      "정화전선 구축"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1066",
+      "정화전선 구축"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1067",
+      "정화전선 구축"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1068",
+      "독립형 제어 시스템 - 이오 / 집탄율 안정화 OS"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1069",
+      "독립형 제어 시스템 - 이오"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1070",
+      "독립형 제어 시스템 - 이오"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1072",
+      "안대"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1073",
+      "사탕"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1077",
+      "대 침식 특수작전"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1078",
+      "특수작전"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1079",
+      "기갑부대 보조"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1080",
+      "웨폰즈 시스템"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1081",
+      "웨폰즈 시스템"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1082",
+      "웨폰즈 시스템"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1083",
+      "웨폰즈 시스템"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1084",
+      "웨폰즈 시스템 - AZRAEL"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1085",
+      "동물 잠옷(극비)"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1086",
+      "기사도 정신, 무용담"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1087",
+      "나들이"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1088",
+      "훈련"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1089",
+      "바비큐"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1090",
+      "민트 초코"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1091",
+      "아이들"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1092",
+      "극복"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1093",
+      "신메뉴 고안"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1096",
+      "드론"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1098",
+      "드라이브"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1099",
+      "슈크림 빵"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1100",
+      "같이 하는 공놀이"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1101",
+      "식물 돌보기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1102",
+      "초코바닐라 우유"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1103",
+      "DIY"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1104",
+      "머핀"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1105",
+      "복권"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1109",
+      "드라마"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1110",
+      "숙성된 와인"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1111",
+      "보름달"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1112",
+      "첫눈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1113",
+      "매미소리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1114",
+      "벚꽃 구경"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1115",
+      "전통차"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1116",
+      "흑막 행동"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1117",
+      "정리정돈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1118",
+      "티 타임"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1119",
+      "스카치 에그"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1120",
+      "보드카 마티니"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1121",
+      "친구"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1122",
+      "달콤한 디저트"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1123",
+      "모든 것의 균형"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1124",
+      "반주"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1125",
+      "가면 카운터"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1126",
+      "프리스타일 랩"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1127",
+      "폭발"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1128",
+      "오믈렛"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1129",
+      "재난이 없는 상황"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1130",
+      "등산"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1131",
+      "햄스터"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1132",
+      "규정 준수"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1133",
+      "진실"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1134",
+      "아이스크림"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1135",
+      "복실복실동물"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1136",
+      "브레멘 동물전대, 화이트 래빗, 과자"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1137",
+      "군고구마"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1138",
+      "아이스크림"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1139",
+      "첨단 전자 제품"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1142",
+      "가족"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1143",
+      "기차 여행"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1144",
+      "일확천금"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1145",
+      "대 침식 특수 작전"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1146",
+      "훈련, 그리고 훈련"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1147",
+      "지식"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1148",
+      "스릴, 바이올런스"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1149",
+      "고고학"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1151",
+      "학생회실 방문자"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1152",
+      "애니메이션"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1154",
+      "언니"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1155",
+      "자율 사고 AI - T.W.I.N.S"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1157",
+      "프라모델 조립"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1158",
+      "작곡"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1159",
+      "포괄임금제"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1160",
+      "능동형 전자 백신 / 질량부여 홀로그램"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1161",
+      "민트 초코(유나)\n벽난로(레일리)"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1162",
+      "주인님"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1163",
+      "매운 음식"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1164",
+      "바다 낚시"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1165",
+      "푹신한 침구류"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1166",
+      "야경 감상"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1167",
+      "오빠(아인)\n나도 오빠!(츠바이)"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1169",
+      "인형극"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1170",
+      "비단 찢는 소리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1171",
+      "영웅"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1172",
+      "흑백 • 무성영화"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1173",
+      "여행"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1174",
+      "라디오 청취"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1175",
+      "Lv.3"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1176",
+      "Lv.3"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1177",
+      "이면세계 탐험"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1178",
+      "판타지 소설"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1179",
+      "데생"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1180",
+      "호라이즌 파이낸스"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1181",
+      "꿈과 희망"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1187",
+      "힘을 키우는 모든 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1188",
+      "힘이 필요한 모든 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1189",
+      "무리한 개조"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1191",
+      "운명의 상대"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1192",
+      "칠리 도그"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1193",
+      "재봉"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1194",
+      "선향"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1195",
+      "구원자"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1196",
+      "자율 사고 AI"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1197",
+      "자율 사고 AI"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1198",
+      "LV.4"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1199",
+      "팔로워 약탈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1200",
+      "전통차"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1201",
+      "첫번째 무녀"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1202",
+      "파인애플 피자"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1203",
+      "황태자"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1204",
+      "우유"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1205",
+      "순정만화"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1206",
+      "친구의 부탁"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1207",
+      "드라마, 약간의 일탈에서 오는 묘한 고양감"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1208",
+      "순한 맛 컵라면"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1210",
+      "대화력전 사격 통제 모듈 - ZEMINIA"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1211",
+      "육상 종목, 축구"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1212",
+      "산책"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1213",
+      "현실"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1214",
+      "가변심도"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1215",
+      "하드 록"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1216",
+      "LV.4"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1217",
+      "뜨개질"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1218",
+      "공연"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1219",
+      "대화력전 사격 통제 모듈 - ZEMINIA"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1220",
+      "인간의 선함"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1221",
+      "감자 에일"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1222",
+      "식단 짜기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1223",
+      "지식의 가르침"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1224",
+      "대 침식 방어전"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1225",
+      "떠가는 구름, 비행기, 자유"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1226",
+      "사냥"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1227",
+      "능동형 전자 백신 / 질량부여 홀로그램"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1231",
+      "연구 보조"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1232",
+      "부와 명예"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1233",
+      "사진 촬영"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1234",
+      "팬케이크"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1235",
+      "기계새"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1236",
+      "빙수"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1237",
+      "LV.3"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1238",
+      "선생님"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1239",
+      "드라마"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1240",
+      "양치기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1241",
+      "헤비 메탈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1242",
+      "기밀"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1243",
+      "펜릴 소대"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1244",
+      "마카롱"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1245",
+      "맥주"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1246",
+      "순정 만화"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1247",
+      "자이언츠는 최강의 팀이라고!"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1248",
+      "조각케이크"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1250",
+      "뱅쇼"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1251",
+      "불꽃놀이"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1252",
+      "파티 타임"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1253",
+      "진심"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1254",
+      "가변심도"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1255",
+      "해적의 낭만"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1256",
+      "연주회 감상"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1257",
+      "부트 졸로키아"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1258",
+      "신념 탄압"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1259",
+      "모든 해산물"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1260",
+      "인간"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1261",
+      "피시 앤 칩스"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1262",
+      "그림자파편 제어 모듈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1263",
+      "포장마차 음식"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1264",
+      "향수, 명령에 복종"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1265",
+      "닭가슴살"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1266",
+      "싱싱한 채소 특히, 당근"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1267",
+      "강습! 브레멘 동물전대"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1269",
+      "시트러스 향, 딸기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1270",
+      "따뜻한 식사"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1271",
+      "포도"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1272",
+      "축제 구경"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1273",
+      "딸기우유에 적신 슈크림빵"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1274",
+      "인간 관찰"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1275",
+      "사진 촬영, 향초"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1276",
+      "기부와 봉사"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1277",
+      "상쾌한 공기, 수리야"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1278",
+      "클래식 감상"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1279",
+      "패배자들의 야유"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1280",
+      "기사문학, 캉파뉴"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1282",
+      "꿈틀거리는 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1285",
+      "돈까스(지운 흔적 있음), 동료!"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1286",
+      "순진한 아이"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1287",
+      "현실"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1288",
+      "돈, 에그타르트"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1289",
+      "자매님들과 일상대화(어려움)"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1290",
+      "포도 주스, 게티아"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1291",
+      "그야, 기사단의 모두죠♥(거짓)"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1292",
+      "미나 선배"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1293",
+      "마스터에 대한 봉사"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1294",
+      "페퍼로니 피자"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1295",
+      "동물 잠옷 입고 인형 끌어안기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1296",
+      "명상"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1297",
+      "푹신푹신한 쿠션"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1298",
+      "곶감"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1299",
+      "도로 질주, 새벽 공기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1300",
+      "예쁘고 반짝거린다면 뭐든지"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1301",
+      "오타쿠 농담"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1302",
+      "개다래나무 향"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1303",
+      "재활용 분리수거"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1305",
+      "자율 사고 AI - 독립형 TCS 모듈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1306",
+      "구름, 흐린 날씨"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1307",
+      "일출, 대해적"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1308",
+      "하룻고양이"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1310",
+      "인삼, 진심 어린 감사"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_1311",
+      "땅에서 자라는 것이라면 잡초까지도"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2001",
+      "컵라면"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2005",
+      "양껏 먹기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2006",
+      "블랙 네트워크 서칭"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2018",
+      "달콤한 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2040",
+      "자율 사고 AI - 독립형 TCS 모듈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2042",
+      "선생님♥"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2044",
+      "시청자와의 소통"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2050",
+      "근성"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2062",
+      "방콕 라이프"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2085",
+      "단원들과의 유대감"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2091",
+      "무알콜 맥주"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2098",
+      "분식집"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2101",
+      "관심 갖는 사람에게 식물 가르쳐주기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2112",
+      "첫눈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2118",
+      "노블리스 오블리주"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2134",
+      "아이스크림"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2136",
+      "귀여운 동물, 전우"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2138",
+      "추억으로 여기는 물건"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2148",
+      "순진한 사냥감, 예상치 못한 일"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2152",
+      "푹신한 안드레아스 소령"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2158",
+      "자작곡 연주"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_2189",
+      "복잡한 기계 아티펙트"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_3006",
+      "능력있는 사람의 지시"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_30101",
+      "순종적인 사원"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_30201",
+      "튼튼한 실험 지원자"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_30301",
+      "SF영화"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_30401",
+      "돈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_30501",
+      "맥주, 소파, 주말"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_30601",
+      "소개팅"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_30701",
+      "클럽, 쇼핑"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_30801",
+      "오므라이스"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_30901",
+      "커피냅"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_31001",
+      "개인용 이동식 리프터"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_31101",
+      "불복자 처형"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_31201",
+      "자동 업데이트"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_31301",
+      "함선 피규어 수집"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_31401",
+      "조각모음"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_31501",
+      "안아주기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_31601",
+      "군인정신"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_31701",
+      "해적놀이"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_31801",
+      "정원 가꾸기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_31901",
+      "품절 대란"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32001",
+      "걸즈 토크"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32101",
+      "달콤한 간식"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32201",
+      "고향"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32301",
+      "초코바"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32501",
+      "귀여운 켈베로스"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32601",
+      "감자 스튜"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32701",
+      "아버지"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32711",
+      "내 사랑, 미고래♥"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32712",
+      "전자 장비 점검"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32713",
+      "고철 수집"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32714",
+      "와인 주조"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32715",
+      "아이들의 성장"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32716",
+      "여행"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32718",
+      "귀여운 학생들"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32719",
+      "일단, 안경을 돌려주세요"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32720",
+      "멍멍이"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32721",
+      "해바라기씨"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32722",
+      "스타일링"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32723",
+      "불꽃놀이"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32724",
+      "율리아님이 주신 생강 사탕"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32725",
+      "낚시"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_LIKE_32726",
+      "요리, 해적"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1001",
+      "가계부 작성"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1002",
+      "전투 전반"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1003",
+      "선동"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1004",
+      "고민 상담"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1005",
+      "팔씨름"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1006",
+      "초장거리 저격"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1007",
+      "초토화"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1018",
+      "사냥"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1041",
+      "아이돌이 될 인재 발굴"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1042",
+      "미소"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1043",
+      "패션 스타일링"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1044",
+      "영상 편집"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1045",
+      "댄스"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1046",
+      "지식 탐구"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1047",
+      "침식체 썰기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1048",
+      "요리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1049",
+      "스케이트보딩"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1050",
+      "남은 반찬으로 만든 볶음밥"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1051",
+      "장래계획"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1052",
+      "스피드런"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1055",
+      "소비"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1059",
+      "부대 지휘·관리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1060",
+      "히어로 랜딩"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1061",
+      "원주율 암산"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1062",
+      "해킹"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1063",
+      "필살기 작명"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1064",
+      "추론"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1065",
+      "구 관리국"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1066",
+      "구 관리국"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1067",
+      "구 관리국"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1072",
+      "점술"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1073",
+      "스케이트보딩"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1085",
+      "정정당당한 승부"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1086",
+      "머리치기 1만 번"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1087",
+      "숨은 그림 찾기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1088",
+      "자기 관리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1089",
+      "동생들 돌보기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1090",
+      "접객"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1091",
+      "저주 의식"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1092",
+      "어디로든 갈 수 있음!"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1093",
+      "비약 제조"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1096",
+      "임기응변"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1097",
+      "잠입"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1098",
+      "용의자 추격"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1099",
+      "범죄자 진압"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1100",
+      "응원"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1101",
+      "작은 움직임 관찰"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1102",
+      "카운터 능력 분석"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1103",
+      "야간 실내전"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1104",
+      "범죄자 처단"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1105",
+      "저격수 제거"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1109",
+      "TV 시청"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1110",
+      "깔끔한 뒤처리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1111",
+      "도망치는 녀석 쫓기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1112",
+      "서예"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1113",
+      "검술"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1114",
+      "궁도"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1115",
+      "가사 전반"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1116",
+      "동료 만들기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1117",
+      "길거리 싸움"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1118",
+      "가출, 혹은 출가"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1119",
+      "기관의 시설 관리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1120",
+      "변장"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1121",
+      "전부(?)"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1122",
+      "전장 설계"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1123",
+      "인의 자세 유지"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1124",
+      "상급자 보좌"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1125",
+      "변신 포즈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1126",
+      "믹싱"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1127",
+      "폭파"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1128",
+      "권투"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1129",
+      "현장에서의 임시 대응"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1130",
+      "물체의 질량을 조정할 수 있음"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1131",
+      "잔소리 참기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1132",
+      "규칙 세우기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1133",
+      "정보 수집"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1134",
+      "함정 만들기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1135",
+      "위기 감지"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1136",
+      "밀리터리 지식"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1137",
+      "운이 좋은 편"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1138",
+      "상황 적응"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1139",
+      "페이퍼 워크"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1142",
+      "분대 지휘 및 협상"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1143",
+      "차량 수리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1144",
+      "힘 쓰는 일"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1146",
+      "정보 공작"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1147",
+      "대식"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1148",
+      "생존"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1149",
+      "탐구활동"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1150",
+      "전투 전반"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1151",
+      "후배 지도"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1152",
+      "잠결에 발명"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1154",
+      "가계부 작성"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1157",
+      "음성 기록"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1158",
+      "사람 찾기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1159",
+      "투자금 유치"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1161",
+      "화염 마법"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1162",
+      "만능 메이드"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1163",
+      "스코빌 지수 갱신"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1164",
+      "빨래"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1165",
+      "조향"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1166",
+      "고민 상담"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1167",
+      "숨바꼭질"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1169",
+      "인형 조련"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1170",
+      "경국지색"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1171",
+      "정보 공작"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1172",
+      "실험체 교육"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1173",
+      "건물 철거"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1174",
+      "교란"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1175",
+      "추적"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1176",
+      "관찰"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1177",
+      "유물 발굴"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1178",
+      "자신이 만든 검술"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1179",
+      "협상"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1180",
+      "인형 눈 붙이기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1181",
+      "마술쇼"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1187",
+      "이면세계"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1188",
+      "이면세계"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1189",
+      "전산 무력화"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1191",
+      "생명 공학"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1192",
+      "속사포 설명"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1193",
+      "보육"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1194",
+      "평정심"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1195",
+      "강령술"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1198",
+      "침투"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1199",
+      "즉흥적인 판단"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1200",
+      "바느질"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1201",
+      "생명 강탈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1202",
+      "정면돌파"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1203",
+      "아르카데나 제국 장검법"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1204",
+      "반성"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1205",
+      "고민 상담"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1206",
+      "소원의 성취"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1207",
+      "칵테일 제조"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1208",
+      "폴 댄스"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1210",
+      "북방 합의체"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1211",
+      "「구두」를 사용한 고속 이동"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1212",
+      "강아지 돌보기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1213",
+      "기피"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1215",
+      "심문"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1216",
+      "의태"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1217",
+      "부대 지휘·관리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1218",
+      "통치"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1219",
+      "북방 합의체"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1220",
+      "꿈의 제어"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1221",
+      "기동 저격, 기계 관리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1222",
+      "부상자 치료"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1223",
+      "고서 관리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1224",
+      "노르드나빅"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1225",
+      "AI 네트워크에서 정보 수집"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1226",
+      "이발"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1231",
+      "ESPR 의학부"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1232",
+      "승부에서 이기는 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1233",
+      "에그타르트 만들기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1234",
+      "생존"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1235",
+      "연구활동"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1236",
+      "약점간파"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1237",
+      "접근"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1238",
+      "코스프레"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1239",
+      "TV 시청"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1240",
+      "검술"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1241",
+      "프로그래밍"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1242",
+      "상잔"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1243",
+      "도전!"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1244",
+      "오래 달리기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1245",
+      "나이프 투척"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1246",
+      "차원 함선 운용"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1247",
+      "야구"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1248",
+      "살기 감지"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1250",
+      "변호"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1251",
+      "전장 설계"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1252",
+      "술고래"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1253",
+      "생존"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1254",
+      "은둔"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1255",
+      "대포 발사!"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1256",
+      "신앙 구현"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1257",
+      "잠입 임무"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1258",
+      "미래 예측"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1259",
+      "생선 손질"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1260",
+      "미식"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1261",
+      "가사 전반"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1263",
+      "어떤 소재든 장비로 가공"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1264",
+      "받은만큼 돌려주기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1265",
+      "웨이트 트레이닝, 복싱"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1266",
+      "당근 샐러드 만들기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1267",
+      "물건 조립"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1268",
+      "북방 합의체"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1269",
+      "사기꾼 분별"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1270",
+      "빛을 이용한 저격"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1271",
+      "고장난 것 고치기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1272",
+      "검술 지도"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1273",
+      "외발뛰기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1274",
+      "메소드 연기, 각본 집필"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1275",
+      "침식체 섬멸"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1276",
+      "육류 요리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1277",
+      "공기 순환"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1278",
+      "멸종된 새 깃털 수집"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1279",
+      "만화 캐릭터 흉내"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1280",
+      "특촬물을 보며 체득한 각종 포즈"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1282",
+      "그라피티(본인 주장)"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1285",
+      "그림 그리기(특히 초상화)"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1286",
+      "블랙네트워크 조사"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1287",
+      "의태"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1288",
+      "퇴마"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1289",
+      "겁줘서 쫓아내기(좋은 의도로)"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1290",
+      "혈마법"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1291",
+      "연기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1292",
+      "현실 개변"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1293",
+      "맨션"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1294",
+      "나이프 파이팅"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1295",
+      "검술"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1296",
+      "표적산출"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1297",
+      "이것저것 깨물기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1298",
+      "도시락 싸기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1299",
+      "시제품 테스트"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1300",
+      "사랑스럽게 친해지기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1301",
+      "아티팩트 감정"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1302",
+      "드라마 집필"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1303",
+      "나이프 게임"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1304",
+      "섬멸"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1306",
+      "전력의 틈 보완"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1307",
+      "지진, 해일"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1308",
+      "발명"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1310",
+      "위기의 순간에 구해주기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_1311",
+      "씨를 심고 수확 기다리기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2001",
+      "가계부 작성"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2005",
+      "동물적인 감각"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2006",
+      "고가치 표적 처리"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2018",
+      "사냥"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2042",
+      "합동 무대"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2044",
+      "식도락 방송"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2050",
+      "근검절약"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2062",
+      "해킹"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2085",
+      "선행"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2091",
+      "저주"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2098",
+      "파트너 커버"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2101",
+      "뭐든 애정으로 돌보기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2112",
+      "서예"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2118",
+      "왈츠"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2134",
+      "분위기 메이커"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2136",
+      "위기의 전우를 돕는 것"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2138",
+      "고양이 돌보기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2148",
+      "성공에 훼방놓기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2152",
+      "조수들과 잠결에 발명"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2158",
+      "비품 개조"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_2189",
+      "수집품의 성능 한계 시험"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_3006",
+      "전황 분석"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_30101",
+      "파트너십 구축"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_30201",
+      "재능있는 인재 선별"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_30301",
+      "불량품 판별"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_30401",
+      "오늘 하루 점치기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_30501",
+      "교본대로 하기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_30601",
+      "지출 보고서 작성"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_30701",
+      "암산"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_30801",
+      "협상"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_30901",
+      "불가능한 일정을 되게 하기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_31001",
+      "빠른 정비"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_31101",
+      "함정과 기만 전술"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_31201",
+      "끝말잇기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_31301",
+      "의심하지 않기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_31401",
+      "효율적인 분석"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_31501",
+      "요리(사람이 먹는 것)"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_31601",
+      "수싸움"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_31701",
+      "디도스 방어"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_31801",
+      "약물 제조"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_31901",
+      "여름 특별 세일♬"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32001",
+      "그래피티★"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32101",
+      "마왕의 권능"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32201",
+      "엄마 손길"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32301",
+      "공간 좌표 간섭"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32501",
+      "크리처 드로잉"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32601",
+      "기계 정비"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32701",
+      "인과율 계산"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32711",
+      "일방적 편파 중계"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32712",
+      "건틀렛 전자전"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32713",
+      "물건 고치기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32714",
+      "취한 채로 말타기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32715",
+      "아이 돌보기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32716",
+      "관광 코스 설계"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32718",
+      "간식 준비"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32719",
+      "안경 찾기(못 찾음)"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32720",
+      "에그타르트 만들기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32721",
+      "발명"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32722",
+      "지휘"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32723",
+      "의중 읽기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32724",
+      "뚝딱뚝딱 수리하기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32725",
+      "검술지도, 점치기"
+    ],
+    [
+      "SI_COLLECTION_PROFILE_VALUE_SPECIALITY_32726",
+      "검을 이용한 모든 것"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_1228",
+      "코드 기아스 콜라보"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_1256",
+      "엘리시온"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_1260",
+      "얄다바오트의 자녀들"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_1267",
+      "시린그라드"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_2230",
+      "코드 기아스 콜라보"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1012",
+      "기갑 병기"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1013",
+      "기갑 병기"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1014",
+      "기갑 병기"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1015",
+      "기갑 병기"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1016",
+      "기갑 병기"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1017",
+      "기갑 병기"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1024",
+      "올드 아머드"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1025",
+      "올드 아머드"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1026",
+      "올드 아머드"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1027",
+      "올드 아머드"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1032",
+      "즉응 기동대"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1033",
+      "즉응 기동대"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1034",
+      "즉응 기동대"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1068",
+      "완전 자동화 전력"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1069",
+      "완전 자동화 전력"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1070",
+      "완전 자동화 전력"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1080",
+      "웨폰즈 시스템"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1081",
+      "웨폰즈 시스템"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1082",
+      "웨폰즈 시스템"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1083",
+      "웨폰즈 시스템"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1084",
+      "웨폰즈 시스템"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1197",
+      "콜드 케이스 137번 「자동 인형」"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1228",
+      "홍련 성천팔극식"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_1235",
+      "종신학회장"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_2042",
+      "볼륨 업"
+    ],
+    [
+      "SI_COLLECTION_TEAMPUP_DESC_2044",
+      "베스트스트리머"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_30101",
+      "코핀 컴퍼니"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_30201",
+      "코핀 컴퍼니 연구소"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_30301",
+      "코핀 컴퍼니 테크"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_30401",
+      "코핀 컴퍼니 컨트롤 타워"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_30501",
+      "코핀 컴퍼니 컨트롤 타워"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_30701",
+      "존 메이슨 용병 사무소"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_30801",
+      "엉클 샘이 신뢰하는 그곳"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_30901",
+      "코핀 컴퍼니 연구소"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_31001",
+      "코핀 컴퍼니 테크"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_31101",
+      "리플레이서 신디케이트"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_31201",
+      "퓨처 앳 워"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_31301",
+      "관제사 육성 아카데미"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_31401",
+      "퓨처 앳 워"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_30601",
+      "코핀 컴퍼니"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_31601",
+      "리플레이서 신디케이트"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_31701",
+      "미래전략실"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_31501",
+      "관리국 다수 지부"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_31801",
+      "멘션"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_31901",
+      "편의점 아포칼립스"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32001",
+      "호라이즌 투자기금"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32101",
+      "그레모리바"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32201",
+      "모네 가족임다!"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32301",
+      "다크 세븐"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32501",
+      "서브컬처 연구회"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32601",
+      "국경 수비대"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32701",
+      "검은 평의회"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32711",
+      "슈팅스타 엔터테인먼트"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32712",
+      "카나리아 스쿼드"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32713",
+      "시린그라드"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32714",
+      "그루터기"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32715",
+      "미래전략실"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32716",
+      "바루나 투어"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32718",
+      "관리국 카운터 아카데미"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32719",
+      "제 9호 기적심의회"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32720",
+      "발렌티누스 수도원"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32721",
+      "구 관리국 : 야크샤 전대"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32722",
+      "구원기사단"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32723",
+      "노스텔지어 공방"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32724",
+      "북방합의체"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32725",
+      "삼군문 별동대"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_01_VALUE_32726",
+      "프론트 베이"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_30101",
+      "부사장"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_30201",
+      "침식생물학 교수"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_30301",
+      "공방 책임자"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_30401",
+      "정규 관제사"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_30501",
+      "정규 관제사"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_30701",
+      "사무소 경리"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_30801",
+      "비밀 요원"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_30901",
+      "연구실 조교 1호"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_31001",
+      "격납고 책임자"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_31101",
+      "2급 간부"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_31201",
+      "보급형"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_31301",
+      "견습 관제사"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_31401",
+      "보급형"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_30601",
+      "관리 부장"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_31601",
+      "킹"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_31701",
+      "실장"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_31501",
+      "완전 자동화 전력"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_31801",
+      "마스터"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_31901",
+      "수습 아르바이트생"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32001",
+      "수금원"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32101",
+      "마왕님(자칭)"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32201",
+      "모네 엄마임다!"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32301",
+      "넘버 5"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32501",
+      "2호 연구원"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32601",
+      "기술장교"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32701",
+      "의장"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32711",
+      "개인 스트리머"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32712",
+      "스태프"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32713",
+      "친절한 이웃"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32714",
+      "제사장"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32715",
+      "명예 직원"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32716",
+      "대표"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32718",
+      "이사장"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32719",
+      "집행사제"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32720",
+      "종교학부장"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32721",
+      "구 관리국 전대 공학자"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32722",
+      "별의 인도자"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32723",
+      "경호직"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32724",
+      "뚝딱뚝딱 박사님"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32725",
+      "대장"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_02_VALUE_32726",
+      "크루 가문의 안주인"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_30101",
+      "실리주의"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_30201",
+      "다소 실험적"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_30301",
+      "다소 실험적"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_30401",
+      "미신에 의존"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_30501",
+      "예산에 맞춤"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_30701",
+      "계산적이나 정에 약함"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_30801",
+      "더 많은 예산"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_30901",
+      "사족 없이 원칙대로"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_31001",
+      "현장에 휘둘림"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_31101",
+      "무자비"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_31201",
+      "상냥하고 의욕적"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_31301",
+      "조심스러움"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_31401",
+      "친절함"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_30601",
+      "상황에 따라 유연함"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_31601",
+      "위기를 이용"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_31701",
+      "본능적"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_31501",
+      "다소 포용적"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_31801",
+      "무자비함"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_31901",
+      "예측불능"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32001",
+      "무대포"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32101",
+      "권위를 내세우나, 의존적"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32201",
+      "포용적"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32301",
+      "연산을 통해 판단함"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32501",
+      "호기심"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32601",
+      "즉흥적으로 판단"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32701",
+      "철저히 계산적임"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32711",
+      "열성적"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32712",
+      "스포츠"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32713",
+      "협력 추구"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32714",
+      "늘 취해있음"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32715",
+      "일단 저지르는 편"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32716",
+      "의욕적이나 미숙함"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32718",
+      "너그러움"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32719",
+      "부끄러움"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32720",
+      "치밀함"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32721",
+      "호들갑이 심함"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32722",
+      "신중하고 계산적"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32723",
+      "큰 놈부터 친다"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32724",
+      "폭실아 부탁해!"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32725",
+      "주어진 운명을 따라"
+    ],
+    [
+      "SI_COLLECTION_OPR_PROFILE_03_VALUE_32726",
+      "전투광"
+    ]
+  ]
+}

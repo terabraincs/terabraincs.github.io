@@ -1,0 +1,194 @@
+{
+  "asset_name": "LUA_SI_PVP_RANK_TIER_KOREA_b",
+  "root_name": "m_dicString",
+  "data": [
+    [
+      "SI_PVP_RANK_TIER_BRONZE_6",
+      "<color=#bf6248>브론즈 6</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_BRONZE_5",
+      "<color=#bf6248>브론즈 5</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_BRONZE_4",
+      "<color=#bf6248>브론즈 4</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_BRONZE_3",
+      "<color=#bf6248>브론즈 3</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_BRONZE_2",
+      "<color=#bf6248>브론즈 2</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_BRONZE_1",
+      "<color=#bf6248>브론즈 1</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_SILVER_5",
+      "<color=#b2c4d0>실버 5</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_SILVER_4",
+      "<color=#b2c4d0>실버 4</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_SILVER_3",
+      "<color=#b2c4d0>실버 3</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_SILVER_2",
+      "<color=#b2c4d0>실버 2</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_SILVER_1",
+      "<color=#b2c4d0>실버 1</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_GOLD_5",
+      "<color=#efd294>골드 5</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_GOLD_4",
+      "<color=#efd294>골드 4</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_GOLD_3",
+      "<color=#efd294>골드 3</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_GOLD_2",
+      "<color=#efd294>골드 2</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_GOLD_1",
+      "<color=#efd294>골드 1</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_PLATINUM_5",
+      "<color=#a3bdff>플래티넘 5</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_PLATINUM_4",
+      "<color=#a3bdff>플래티넘 4</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_PLATINUM_3",
+      "<color=#a3bdff>플래티넘 3</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_PLATINUM_2",
+      "<color=#a3bdff>플래티넘 2</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_PLATINUM_1",
+      "<color=#a3bdff>플래티넘 1</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_DIAMOND_5",
+      "<color=#abe4ff>다이아몬드 5</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_DIAMOND_4",
+      "<color=#abe4ff>다이아몬드 4</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_DIAMOND_3",
+      "<color=#abe4ff>다이아몬드 3</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_DIAMOND_2",
+      "<color=#abe4ff>다이아몬드 2</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_DIAMOND_1",
+      "<color=#abe4ff>다이아몬드 1</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_MASTER_5",
+      "<color=#ffffff>마스터 5</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_MASTER_4",
+      "<color=#ffffff>마스터 4</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_MASTER_3",
+      "<color=#ffffff>마스터 3</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_MASTER_2",
+      "<color=#ffffff>마스터 2</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_MASTER_1",
+      "<color=#ffffff>마스터 1</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_GRANDMASTER_5",
+      "<color=#ffffff>그랜드마스터 5</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_GRANDMASTER_4",
+      "<color=#ffffff>그랜드마스터 4</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_GRANDMASTER_3",
+      "<color=#ffffff>그랜드마스터 3</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_GRANDMASTER_2",
+      "<color=#ffffff>그랜드마스터 2</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_GRANDMASTER_1",
+      "<color=#ffffff>그랜드마스터 1</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_CHALLENGER_5",
+      "<color=#ffdf5d>챌린저 5</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_CHALLENGER_4",
+      "<color=#ffdf5d>챌린저 4</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_CHALLENGER_3",
+      "<color=#ffdf5d>챌린저 3</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_CHALLENGER_2",
+      "<color=#ffdf5d>챌린저 2</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_CHALLENGER_1",
+      "<color=#ffdf5d>챌린저 1</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_GOLD",
+      "<color=#efd294>골드</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_PLATINUM",
+      "<color=#a3bdff>플래티넘</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_DIAMOND",
+      "<color=#abe4ff>다이아몬드</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_MASTER",
+      "<color=#ffffff>마스터</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_GRANDMASTER",
+      "<color=#ffffff>그랜드마스터</color>"
+    ],
+    [
+      "SI_PVP_RANK_TIER_CHALLENGER",
+      "<color=#ffdf5d>챌린저</color>"
+    ]
+  ]
+}

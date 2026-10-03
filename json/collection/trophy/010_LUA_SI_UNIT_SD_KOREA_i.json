@@ -1,0 +1,1313 @@
+{
+  "asset_name": "LUA_SI_UNIT_SD_KOREA_i",
+  "root_name": "m_dicString",
+  "data": [
+    [
+      "SI_BLANK_V2"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DELTA_CA_KYLE_AP",
+      "미니 카린웡"
+    ],
+    [
+      "SI_UNIT_NAME_SD_GUILTY_CA_JACKO",
+      "미니 잭 오"
+    ],
+    [
+      "SI_UNIT_NAME_SD_SECURITY_CA_SERGEANT",
+      "미니 크리스티나 브레히트"
+    ],
+    [
+      "SI_UNIT_NAME_SD_HARMONY_CA_ARMOR",
+      "미니 에클레시아"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ESPR_CA_SHADOW",
+      "미니 이브 마이트너"
+    ],
+    [
+      "SI_UNIT_NAME_SD_RAS_MA_DINO",
+      "미니 셰퍼드&러처"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ADMIN_CA_CAT",
+      "미니 앨리스"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ADMIN_C_RABBIT",
+      "미니 주디 스위프트"
+    ],
+    [
+      "SI_UNIT_NAME_SD_SABOTAGE_CA_SWORD",
+      "미니 마브카"
+    ],
+    [
+      "SI_UNIT_NAME_SD_CHAMBER_S_ENGINEER",
+      "미니 스펜서"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ROOT_CA_HUNTRESS",
+      "미니 모드레드"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ROOT_C_DEMON",
+      "미니 모르가나"
+    ],
+    [
+      "SI_UNIT_NAME_SD_JAPAN_C_CHIHIRO_PR",
+      "미니 하야미 사나에"
+    ],
+    [
+      "SI_UNIT_NAME_SD_SIXWING_CA_ACTOR",
+      "미니 스완 클레어"
+    ],
+    [
+      "SI_UNIT_NAME_SD_RAS_C_RIBBON",
+      "미니 크레데레"
+    ],
+    [
+      "SI_UNIT_NAME_SD_VARUNA_CA_CHAKRAM",
+      "미니 수리야"
+    ],
+    [
+      "SI_UNIT_NAME_SD_VARUNA_C_WIND",
+      "미니 아닐라"
+    ],
+    [
+      "SI_UNIT_NAME_SD_LOTUS_C_KNUCKLE",
+      "미니 파티마"
+    ],
+    [
+      "SI_UNIT_NAME_SD_REAPER_SA_COMMANDER",
+      "미니 펠릭스"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ADMIN_C_AURA",
+      "미니 오러"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DANMACHI_C_RYU",
+      "미니 류 리온"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DANMACHI_CA_AIS",
+      "미니 아이즈 발렌슈타인"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DANMACHI_C_BELL",
+      "미니 벨 크라넬"
+    ],
+    [
+      "SI_UNIT_NAME_SD_VATICAN_C_CINDY_PR",
+      "미니 신디 루퍼"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ACADEMY_CA_TWINTAIL",
+      "미니 나이엘 블루스틸"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ALT_C_SEO_YOON_PR",
+      "미니 서윤"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ADMIN_CA_BIRDCAGE",
+      "미니 솔로베"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ESPR_CA_BLUE",
+      "미니 루시아 릿지"
+    ],
+    [
+      "SI_UNIT_NAME_SD_BAR_S_BARTENDER_PR",
+      "미니 니콜"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ESPR_C_GOETIA",
+      "미니 카타리나"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ZODIAC_C_HAMMER",
+      "미니 메데이아 데이비스"
+    ],
+    [
+      "SI_UNIT_NAME_SD_FENRIR_CA_INTERN",
+      "미니 노엘"
+    ],
+    [
+      "SI_UNIT_NAME_SD_BETA_S_REPLICA",
+      "미니 블랙 로즈"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ZODIAC_CA_CHARLOTTE",
+      "미니 에스테로사 드 슈발리에"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ADMIN_CA_CLOUD",
+      "미니 연화"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ZODIAC_C_ARROW",
+      "미니 카란티시르 데 레탈리아"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ATELIER_C_JWIBUL",
+      "미니 베스카"
+    ],
+    [
+      "SI_UNIT_NAME_SD_GAMECIRCLE_C_STAR_PR",
+      "미니 미리네"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ZODIAC_C_SCISSORS",
+      "미니 아셀라"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ESPR_CA_KNIGHT",
+      "미니 호수의 기사"
+    ],
+    [
+      "SI_UNIT_NAME_SD_FUTURE_M_TITAN_PR",
+      "미니 타이탄"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ADMIN_C_RAT",
+      "미니 닥터 메이시"
+    ],
+    [
+      "SI_UNIT_NAME_SD_FENRIR_CA_HILDE_PR",
+      "미니 힐데"
+    ],
+    [
+      "SI_UNIT_NAME_SD_G1_C_TAOIST",
+      "미니 민하"
+    ],
+    [
+      "SI_UNIT_NAME_SD_ANAPILIS_CA_SCYTHE",
+      "미니 아나필리스"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_DEVIL_WEAR_HORN",
+      "악마의 뿔"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_DEVIL_WEAR_WING",
+      "악마의 날개"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_DEVIL_WEAR_TAIL",
+      "악마의 꼬리"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ANGEL_WEAR_HALO",
+      "천사의 헤일로"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_CAT_BLACK_WEAR_EAR",
+      "동물 - 검은 고양이 귀"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_CAT_BLACK_WEAR_TAIL",
+      "동물 - 검은 고양이 꼬리"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_CAT_WHITE_WEAR_EAR",
+      "동물 - 흰 고양이 귀"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_CAT_WHITE_WEAR_TAIL",
+      "동물 - 흰 고양이 꼬리"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_DOG_BROWN_WEAR_EAR",
+      "동물 - 갈색 강아지 귀"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_DOG_BROWN_WEAR_TAIL",
+      "동물 - 갈색 강아지 꼬리"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_DOG_WHITE_WEAR_EAR",
+      "동물 - 흰 강아지 귀"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_DOG_WHITE_WEAR_TAIL",
+      "동물 - 흰 강아지 꼬리"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_POLICE_GOODS_SIREN",
+      "경찰차 사이렌"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_NEWS_GOODS_DESK",
+      "뉴스 - 데스크"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_NEWS_FRAME_REC",
+      "뉴스 - 생방송 중"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_NEWS_GOODS_ONAIR",
+      "뉴스 - ON AIR"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_CENSORED_WEAR_BUBBLE",
+      "검열된 말풍선"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_CENSORED_GOODS_R18",
+      "18금"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_BIRTHDAY_GOODS_BALLOON",
+      "생일 풍선"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_BIRTHDAY_FRAME_GARLAND_STRING",
+      "생일 가랜드"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_BIRTHDAY_WEAR_PEAKED_HAT",
+      "생일 꼬깔 모자"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_BIRTHDAY_GOODS_CAKE",
+      "생일 케이크"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_BIRTHDAY_WEAR_GLASSES",
+      "생일 안경"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_BABY_WEAR_PACIFIER",
+      "공갈 젖꼭지"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_BABY_WEAR_BABY_BIB",
+      "턱받이"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_EMOTION_WEAR_ANGRY",
+      "감정표현 - 빠직"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_EMOTION_WEAR_TEAR",
+      "감정표현 - 눈물"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_EMOTION_WEAR_TEETH",
+      "감정표현 - 건치"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_EMOTION_WEAR_SURPRISED",
+      "감정표현 - 놀람"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_EMOTION_WEAR_DEPRESSED",
+      "감정표현 - 우울"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_MARK_GOODS_EXCLAMATION",
+      "기호 - 느낌표 !"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_MARK_GOODS_X",
+      "기호 - ×"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_MARK_GOODS_HEART",
+      "기호 - 하트 ♥"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_MARK_GOODS_STAR",
+      "기호 - 별 ⭐"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_FASHION_WEAR_SUNGLASS",
+      "선글라스"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_FASHION_WEAR_EYE_PATCH",
+      "소지품 - 이지수의 안대"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_FASHION_WEAR_SNAPBACK",
+      "힙합 모자"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_FASHION_WEAR_GOLD_CHAIN",
+      "합격 목걸이"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_FASHION_WEAR_MASK",
+      "마스크"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_FASHION_WEAR_GAS_MASK",
+      "방독면"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_FASHION_WEAR_RIBBON",
+      "리본"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_FASHION_WEAR_THICK_GLASSES",
+      "뱅뱅이 안경"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_FASHION_WEAR_BUMP",
+      "혹"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_FASHION_WEAR_AMULET",
+      "행운을 부르는 부적"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_PANEL_FRAME_THEATER",
+      "배경 - 극장"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_PANEL_FRAME_SNS",
+      "배경 - 윙스타그램"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_PARODY_ROMANCE_COMIC_EYES",
+      "사랑이 담긴 눈"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_COMICS_SPEECH_BUBBLE",
+      "생각하는 말풍선"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_COMICS_CONCENTRATION_LINE",
+      "만화적 표현 - 검은색 집중선"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_COMICS_ONOMATOPOEIA",
+      "소리치는 말풍선"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_CHARACTER_ADMIN_ARTILLERY",
+      "소지품 - 솔개"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_CHARACTER_FENRIR_INNER",
+      "소지품 - 아이러브펜릴 굿즈"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ITEM_FOOD_CUP_NOODLE",
+      "컵라면"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ITEM_FOOD_INSTANT_COFFEE",
+      "커피 스틱"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ITEM_FOOD_HAMBERGER",
+      "햄버거"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ITEM_FOOD_POTATO_SNACK",
+      "감자칩"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ITEM_FOOD_MANGA_NIKU",
+      "만화 고기"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_EMOTION_WEAR_TEAR_THIN",
+      "감정표현 - 얇은 눈물"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_CENSORED_GOODS_BAR_BLACK",
+      "검은색 모자이크"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_POLICE_FRAME_MUGSHOT",
+      "머그샷 배경지"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_GAUNTELET_GOODS_BAN",
+      "BAN"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_FASHION_WEAR_AMULET_ROUNDED",
+      "액운을 막는 부적"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_POLICE_FRAME_POLICELINE_REVERSED",
+      "폴리스 라인(빗금)"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_COMICS_SIGH_BUBBLE",
+      "한숨"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_SUPERKO_WEAR_CAP",
+      "슈퍼코의 모자"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_SUPERKO_WEAR_EAR",
+      "슈퍼코의 귀"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_SUPERKO_WEAR_TAIL",
+      "슈퍼코의 꼬리"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_FASHION_WEAR_GLASSES_HORN_RIMMED",
+      "뿔테 안경"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_FASHION_WEAR_GLASSES_HALF_FRAME",
+      "반무테 안경"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_FASHION_WEAR_GLASSES_OVERSIZE",
+      "알 큰 안경"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_FASHION_WEAR_GLASSES_NEON",
+      "네온사인 안경"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_COW_WEAR_EAR",
+      "동물 - 젖소 귀"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_COW_WEAR_NECK",
+      "동물 - 젖소 목걸이"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_COW_WEAR_TAIL",
+      "동물 - 젖소 꼬리"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_NEWS_FRAME_REC_UI",
+      "배경 - 영상 촬영"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ITEM_WEAR_GLOW_STICK",
+      "야광봉"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_EMOTION_WEAR_BLUSH_001",
+      "만화적 표현 - 홍조 1"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_EMOTION_WEAR_BLUSH_002",
+      "만화적 표현 - 홍조 2"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_EMOTION_WEAR_BLUSH_003",
+      "만화적 표현 - 홍조 3"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_EMOTION_WEAR_BLUSH_004",
+      "만화적 표현 - 홍조 4"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_EMOTION_FRAME_SHAKING",
+      "감정표현 - 부들부들"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_COMICS_CONCENTRATION_LINE_WHITE",
+      "만화적 표현 - 하얀 집중선"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_COMICS_FRAME_SHOCKED",
+      "만화적 표현 - 충격"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_COMIC_DEPRESSED",
+      "만화적 표현 - 검은색 효과선"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_COMIC_DEPRESSED_WHITE",
+      "만화적 표현 - 흰색 효과선"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_FASHION_WEAR_SUNGLASS_ALIEN",
+      "외계인 선글라스"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_FASHION_WEAR_SUNGLASS_8BIT",
+      "8BIT 선글라스"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_STICKER_ALT_001",
+      "스티커 - 유진과 샤오린"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_STICKER_COFFIN_001",
+      "스티커 - 코핀 컴퍼니"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_STICKER_FENRIR_001",
+      "스티커 - 펜릴 소대"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_STICKER_HB_001",
+      "스티커 - 미야와 가은"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_STICKER_DELTA_001_MAGICAL",
+      "스티커 - 매지컬 마리아"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_STICKER_DELTA_002_CYBERCAT",
+      "스티커 - 사이버 캣"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_STICKER_DELTA_003_CYBERCAT_BW",
+      "스티커 - 사이버 캣(B/W)"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_STICKER_DELTA_004_CYBERCAT_OLD",
+      "스티커 - 과거의 사이버캣"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_STICKER_DELTA_005_CYBERCAT_CURRENT",
+      "스티커 - 현재의 사이버캣"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_STICKER_DELTA_006_JAKETHUNDER",
+      "스티커 - 제이크썬더!!"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_STICKER_DELTA_007_TROPHY_HEAD",
+      "스티커 - 침식체 머리"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_STICKER_DELTA_008_RIP_AND_TEAR",
+      "스티커 - 프리덤 스트라이크"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_LOGO_COUNTERSIDE_001_WHITE",
+      "로고 - COUNTERSIDE"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_LOGO_COUNTERSIDE_002_BLACK",
+      "로고 - COUNTERSIDE(검정색)"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_LOGO_MACHINEGAP_001_BLACK",
+      "로고 - 머신 갑"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_LOGO_MACHINEGAP_002_WHITE",
+      "로고 - 머신 갑(하얀색)"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_CHIFUYU_STREGA",
+      "치후유 - 이것도 스트레가의 마법?"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_FRONTBAY_TENTACLE",
+      "크라켄의 다리"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_LEVIA_16",
+      "레비아 - 짜잔~ 누구게요?"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_SIGMA_17",
+      "시그마 - 아빠! 인형 놀이하자!"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_VIOLET_18",
+      "진보라 - 먹어…… 내 비장의 기술"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_ROSARIA_19",
+      "로자리아 - 이번 시즌도 제법이구나"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_ORCA_20",
+      "오르카 - 달콤하고… 쫀득해…"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_KYLE_AP_21",
+      "카린 웡 - 전 대원, 제 지휘를 따르세요."
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_DEF_FENRIR_1",
+      "펜릴 소대 마크"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_XMAS_SANTA_HAT",
+      "산타 모자"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_XMAS_SANTA_BEARD",
+      "산타 수염"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_XMAS_RUDOLPH_NOSE",
+      "루돌프 코"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_XMAS_ANTLER",
+      "사슴뿔"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_XMAS_SOCKS",
+      "크리스마스 선물 양말"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_XMAS_CANDY",
+      "크리스마스 사탕"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_DEF_ALT_2",
+      "알트 소대 마크"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_SEO_YOON_22",
+      "서윤 - 행운의 부적이랍니다?"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_DEF_R7_3",
+      "R7 비정규 순찰대 마크"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_CRIMSON_23",
+      "오지만디아스 - 노는 게 너무 좋아"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_DEF_FUTUREATWAR_4",
+      "퓨처 앳 워 마크"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_STAFF_24",
+      "시엘 - 이렇게 하는 게 맞소?"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_DEF_FREEDOM_5",
+      "프리덤 라이더즈"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_JAKE_25",
+      "제이크 - 찌릿할 거다."
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_DEF_DELTA_6",
+      "델타 세븐"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_ARMOR_26",
+      "에클레시아 - 좋은 음악이구나."
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_TRUMPET_27",
+      "루나 - 몰래 먹으려 했는데…"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_DEF_ZODIAC_7",
+      "조디악나이츠 블루시프트 마크"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_VIOLIN_28",
+      "셰나 - 배고프지, 루나?"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_BASSOON_29",
+      "플라가 - 나보단 이 아이에게 부탁해 봐"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_DEF_VARUNA_8",
+      "바루나 투어 마크"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_BASS_30",
+      "카르멘 - 감자튀김의 여유"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_CONDUCT_31",
+      "네퀴티아 - 빛나는 미소의 스페셜 버거"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_CHARLOTTE_32",
+      "에스테로사 - 에스테로사우루스"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_PIONE_33",
+      "피오네 로웰 - 집게 기사단"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_ARIUS_34",
+      "에리어스 에스퀘데 - 바다 위의 보물"
+    ],
+    [
+      "SI_UNIT_NAME_SD_OPR_HESTIA",
+      "미니 헤스티아"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_LIV_35",
+      "리브 앨런 - 치명적인 상어"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_MARIA_36",
+      "마리아 안토노프 - 황야의 델타세븐"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_SYLVIA_37",
+      "실비아 레나 쿠퍼 - 핑크빛 쇼다운"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_QUEEN_38",
+      "제이나 크로펠 - 카우걸 슬로우 라이프"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_ACTOR_39",
+      "스완 클레어 - 바니걸 온더폴"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_LEE_JISOO_40",
+      "이지수 - 바니걸 언더커버"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_AMY_41",
+      "에이미 - 이런 것도 된다구?"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_TRUMPET_42",
+      "루나 - 잘 먹겠습니다람쥐"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_SETSUNA_43",
+      "나나하라 치나츠 - 일단은 사슴이니까요"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_SGSO_44",
+      "시그마&시솝 - 동생한테 양보해야지"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_DINO_45",
+      "셰퍼드&러처 - 핥!"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_YOOMINA_46",
+      "유미나 - 아껴 둔 건데!"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_CLAW_47",
+      "드라코 - 이런 것도 모르다니, 허접 학생들이네"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_FLAG_48",
+      "샬롯 - 전하가 사주셨어요~"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_ASSAULT_49",
+      "라이카 - 전화 또 안 받네"
+    ],
+    [
+      "SI_UNIT_NAME_SD_DECO_ACTIVITY_SHIELD_50",
+      "펠리세트 - 전학생이 무서워"
+    ],
+    [
+      "SI_UNIT_NAME_C_SIXWING_NA_YUBIN_SKILL_TROPHY",
+      "나유빈 : 파멸의 날개"
+    ],
+    [
+      "SI_UNIT_NAME_C_SIXWING_LEE_JISOO_SKILL_TROPHY",
+      "이지수 : 금술 백야천주살"
+    ],
+    [
+      "SI_UNIT_NAME_C_SIXWING_AMY_SKILL_TROPHY",
+      "에이미 퍼스트윙 : 리퍼 슬래시"
+    ],
+    [
+      "SI_UNIT_NAME_CA_HILDE_SKILL_TROPHY",
+      "힐데 : 버스터 오버 드라이브"
+    ],
+    [
+      "SI_UNIT_NAME_CA_YOO_MI_NA_SKILL_TROPHY",
+      "유미나 : 울브즈베인 레거시"
+    ],
+    [
+      "SI_UNIT_NAME_CA_ADMIN_LEE_SUYEON_SKILL_TROPHY",
+      "이수연 : 스트라이크 코드: LSY"
+    ],
+    [
+      "SI_UNIT_NAME_CA_STREGA_YOO_NA_SKILL_TROPHY",
+      "유나 스프링필드 : 프로미넌스"
+    ],
+    [
+      "SI_UNIT_NAME_ALT_CA_SEO_YOON_SKILL_TROPHY",
+      "서윤 : 디어사이드 클리빙"
+    ],
+    [
+      "SI_UNIT_NAME_REPLACER_CA_KING_SKILL_TROPHY",
+      "리플레이서 킹 : 디멘션 캘러미티"
+    ],
+    [
+      "SI_UNIT_NAME_REPLACER_CA_QUEEN_SKILL_TROPHY",
+      "리플레이서 퀸 : 체크메이트"
+    ],
+    [
+      "SI_UNIT_NAME_CORRUPTED_CA_MINISTRA_SKILL_TROPHY",
+      "미니스트라 : 오만한 자에게 절망을"
+    ],
+    [
+      "SI_UNIT_NAME_SCAVENGER_MA_EVOLVE_SKILL_TROPHY",
+      "이볼브 원 : 종전거부 : 네메시스"
+    ],
+    [
+      "SI_UNIT_NAME_CA_JOO_SHI_YOON_SKILL_TROPHY",
+      "주시윤 : 마음이 가는 곳에 검이 있다"
+    ],
+    [
+      "SI_UNIT_NAME_FUTURE_MA_LOAN_SKILL_TROPHY",
+      "호라이즌 : 오버 더 호라이즌"
+    ],
+    [
+      "SI_UNIT_NAME_DELTA_CA_JAKE_SKILL_TROPHY",
+      "제이크 워커 : 맨 오브 스톰"
+    ],
+    [
+      "SI_UNIT_NAME_ALPHA_CA_JIA_SKILL_TROPHY",
+      "신지아 : 이노베이션 리얼리티"
+    ],
+    [
+      "SI_UNIT_NAME_HARMONY_CA_CONDUCT_SKILL_TROPHY",
+      "마에스트로 네퀴티아 : 종말의 악장"
+    ],
+    [
+      "SI_UNIT_NAME_DELTA_CA_MARIA_SKILL_TROPHY",
+      "마리아 안토노프 : 콜 오브 듀티"
+    ],
+    [
+      "SI_UNIT_NAME_BORDER_SA_HORSE_SKILL_TROPHY",
+      "큐리안 : 키 오브 아발론"
+    ],
+    [
+      "SI_UNIT_NAME_RAS_MA_TOWER_SKILL_TROPHY",
+      "시그마 : 파이널 패턴 : 테라 레이저"
+    ],
+    [
+      "SI_UNIT_NAME_GEASS_MA_SEITEN_SKILL_TROPHY",
+      "코우즈키 카렌 : 복사파동기구"
+    ],
+    [
+      "SI_UNIT_NAME_ESPR_CA_FROZEN_SKILL_TROPHY",
+      "레지나 맥크레디 : 대동결"
+    ],
+    [
+      "SI_UNIT_NAME_JAPAN_CA_SENHIME_SKILL_TROPHY",
+      "나나하라 치후유 : 피안의 계절"
+    ],
+    [
+      "SI_UNIT_NAME_FALLEN_CA_ROSARIA_SKILL_TROPHY",
+      "로자리아 르 프리데 : 격의 차이"
+    ],
+    [
+      "SI_UNIT_NAME_KNIGHT_CA_SAVIOR_SKILL_TROPHY",
+      "레이 : 마왕 진군"
+    ],
+    [
+      "SI_UNIT_NAME_ADMIN_CA_ARTILLERY_SKILL_TROPHY",
+      "류드밀라 : 강철의 눈보라"
+    ],
+    [
+      "SI_UNIT_NAME_DELTA_CA_KYLE_AP_SKILL_TROPHY",
+      "카린 웡 : 최종 결전 무장함 : 아이기스"
+    ],
+    [
+      "SI_UNIT_NAME_SECURITY_CA_SERGEANT_SKILL_TROPHY",
+      "크리스티나 브레히트 : 점화"
+    ],
+    [
+      "SI_UNIT_NAME_HARMONY_CA_ARMOR_SKILL_TROPHY",
+      "에클레시아 : 천지개벽"
+    ],
+    [
+      "SI_UNIT_NAME_ESPR_CA_SHADOW_SKILL_TROPHY",
+      "이브 마이트너 : 팔랭제네지"
+    ],
+    [
+      "SI_UNIT_NAME_RAS_MA_DINO_SKILL_TROPHY",
+      "셰퍼드&러처 : 분광 천공기"
+    ],
+    [
+      "SI_UNIT_NAME_ALPHA_CA_JIA_SPECIAL_SKILL_TROPHY",
+      "신지아 : 만발하는 흑심"
+    ],
+    [
+      "SI_UNIT_NAME_ESPR_CA_FROZEN_SPECIAL_SKILL_TROPHY",
+      "레지나 : 푸른 몽환의 밀회"
+    ],
+    [
+      "SI_UNIT_NAME_FALLEN_CA_ROSARIA_SPECIAL_SKILL_TROPHY",
+      "로자리아 르 프리데 : 매지컬★슬레이어"
+    ],
+    [
+      "SI_UNIT_NAME_CA_STREGA_YOO_NA_CLB_003_SKILL_TROPHY",
+      "타카나시 키아라 : 아임 낫 어 치킨"
+    ],
+    [
+      "SI_UNIT_NAME_KNIGHT_C_HOLY_SPECIAL_SKILL_TROPHY",
+      "모리 칼리오페 : 실례, RIP♡"
+    ],
+    [
+      "SI_UNIT_NAME_C_ESPR_SHADOW_SPECIAL_SKILL_TROPHY",
+      "니노마에 이나니스 : 다 같이, 타코다치!"
+    ],
+    [
+      "SI_UNIT_NAME_JUNIOR_C_POLEARM_SPECIAL_SKILL_TROPHY",
+      "가우르 구라 : aaaaaaaa~!"
+    ],
+    [
+      "SI_UNIT_NAME_C_YG_HARIM_SPECIAL_SKILL_TROPHY",
+      "왓슨 아멜리아 : 범인 스포일러"
+    ],
+    [
+      "SI_UNIT_NAME_PUPPET_C_BLIND_SPECIAL_SKILL_TROPHY",
+      "IRyS : 희망의 궤적"
+    ],
+    [
+      "SI_UNIT_NAME_ADMIN_CA_CAT_SKILL_TROPHY",
+      "앨리스 브레이드우드 : 안타르다나 아스트라"
+    ],
+    [
+      "SI_UNIT_NAME_KNIGHT_C_HOLY_MEMORIAL_SKILL_TROPHY",
+      "루크레시아 : 염원하는 추억"
+    ],
+    [
+      "SI_UNIT_NAME_JAPAN_CA_SENHIME_MEMORIAL_SKILL_TROPHY",
+      "나나하라 치후유 : 피어나는 추억 "
+    ],
+    [
+      "SI_UNIT_NAME_SABOTAGE_CA_SWORD_SKILL_TROPHY",
+      "마브카 : 스푸트니크 사샤"
+    ],
+    [
+      "SI_UNIT_NAME_C_SIXWING_NA_YUBIN_CHANGE_SKILL_TROPHY",
+      "대적자가 이럴 리가"
+    ],
+    [
+      "SI_UNIT_NAME_C_BD_ROI_CHANGE_SKILL_TROPHY",
+      "물벼룩이 이럴 리가"
+    ],
+    [
+      "SI_UNIT_NAME_ACADEMY_C_TWINTAIL_CHANGE_SKILL_TROPHY",
+      "학생회장이 될 리가"
+    ],
+    [
+      "SI_UNIT_NAME_C_JAPAN_SETSUNA_CHANGE_SKILL_TROPHY",
+      "당주님께서 이럴 리가"
+    ],
+    [
+      "SI_UNIT_NAME_DELTA_CA_JAKE_CONTEST_SKILL_TROPHY",
+      "대령님이 이럴 리가"
+    ],
+    [
+      "SI_UNIT_NAME_HARMONY_CA_ARMOR_SPECIAL_SKILL_TROPHY",
+      "에클레시아 : 마왕강림"
+    ],
+    [
+      "SI_UNIT_NAME_ROOT_CA_HUNTRESS_SKILL_TROPHY",
+      "모드레드 : 마왕살"
+    ],
+    [
+      "SI_UNIT_NAME_CORRUPTED_CA_MINISTRA_CONTEST_SKILL_TROPHY",
+      "미니스트라 : 꽃을 위한 경배를"
+    ],
+    [
+      "SI_UNIT_NAME_DELTA_CA_KYLE_AP_CONTEST_SKILL_TROPHY",
+      "카린 웡 : 두뇌파 명탐정"
+    ],
+    [
+      "SI_UNIT_NAME_BORDER_C_BOWGUN_BUNNY_SKILL_TROPHY",
+      "엘라 : 메디컬 레빗"
+    ],
+    [
+      "SI_UNIT_NAME_ESPR_C_SNIPER_BUNNY_SKILL_TROPHY",
+      "아그네스 : 스위트 바니 헌터"
+    ],
+    [
+      "SI_UNIT_NAME_ALPHA_C_SPEAR_BUNNY_SKILL_TROPHY",
+      "라파엘라 : 스포트라이트는 내 거야!"
+    ],
+    [
+      "SI_UNIT_NAME_MILITIA_C_SCISSOR_BUNNY_SKILL_TROPHY",
+      "레비아 타니스 : 보팔래빗이 온다"
+    ],
+    [
+      "SI_UNIT_NAME_GAMECIRCLE_C_VIOLET_BUNNY_SKILL_TROPHY",
+      "진보라 : 연구회의 과묵 토끼"
+    ],
+    [
+      "SI_UNIT_NAME_GUILTY_C_SOL_SKILL_TROPHY",
+      "솔 배드가이 : 헤비몹 세머트리"
+    ],
+    [
+      "SI_UNIT_NAME_GUILTY_S_MAY_SKILL_TROPHY",
+      "메이 : 그레이트 야마다 어택"
+    ],
+    [
+      "SI_UNIT_NAME_GUILTY_S_MILLIA_SKILL_TROPHY",
+      "밀리아 레이지 : 윙어"
+    ],
+    [
+      "SI_UNIT_NAME_GUILTY_C_RAMLETHAL_SKILL_TROPHY",
+      "램리썰 밸런타인 : 칼바도스"
+    ],
+    [
+      "SI_UNIT_NAME_GUILTY_M_INO_SKILL_TROPHY",
+      "이노 : 메갈로매니아"
+    ],
+    [
+      "SI_UNIT_NAME_GUILTY_CA_JACKO_SKILL_TROPHY",
+      "잭 오 : 포에버 엘리시온 드라이버"
+    ],
+    [
+      "SI_UNIT_NAME_C_JAPAN_SENHIME_SUMMER_SKILL_TROPHY",
+      "나나하라 치후유 : 쪽빛 무사"
+    ],
+    [
+      "SI_UNIT_NAME_C_ESPR_SHADOW_SUMMER_SKILL_TROPHY",
+      "에델 마이트너 : 해변의 탐식자"
+    ],
+    [
+      "SI_UNIT_NAME_BARCODE_C_CHILDREN_SUMMER_SKILL_TROPHY",
+      "아인&츠바이 : 하나부터 열까지 돌고래!"
+    ],
+    [
+      "SI_UNIT_NAME_HARMONY_C_VIOLIN_SUMMER_SKILL_TROPHY",
+      "셰나 : 베케이션 버스킹"
+    ],
+    [
+      "SI_UNIT_NAME_HARMONY_C_BASS_SUMMER_SKILL_TROPHY",
+      "카르멘 : 음흉한 발룬티어"
+    ],
+    [
+      "SI_UNIT_NAME_DELTA_C_QUEEN_SUMMER_SKILL_TROPHY",
+      "제이나 크로펠 : 미스 델타 홀스타인"
+    ],
+    [
+      "SI_UNIT_NAME_ALPHA_C_CHOWON_PR_SUMMER_SKILL_TROPHY",
+      "김초원 : 방과 후 수영 활동"
+    ],
+    [
+      "SI_UNIT_NAME_HARMONY_C_BASSOON_SUMMER_SKILL_TROPHY",
+      "플라가 : 뙤약볕 그늘 아래"
+    ],
+    [
+      "SI_UNIT_NAME_ESPR_CA_SHADOW_SUMMER_SKILL_TROPHY",
+      "이브 마이트너 : 녹아드는 새니티"
+    ],
+    [
+      "SI_UNIT_NAME_SIXWING_CA_ACTOR_SKILL_TROPHY",
+      "스완 : 노스텔지어 파노라마"
+    ],
+    [
+      "SI_UNIT_NAME_VARUNA_CA_CHAKRAM_SKILL_TROPHY",
+      "수리야 : 수리야스트라"
+    ],
+    [
+      "SI_UNIT_NAME_BAR_C_CEO_SUMMER_SKILL_TROPHY",
+      "그레모리 : 풍요의 초대"
+    ],
+    [
+      "SI_UNIT_NAME_C_JOO_SHI_YOON_AP_SUMMER_SKILL_TROPHY",
+      "주시영 : VIP 검객"
+    ],
+    [
+      "SI_UNIT_NAME_C_DELTA_KYLE_AP_SUMMER_SKILL_TROPHY",
+      "카린 웡 : 테크니컬 다이버"
+    ],
+    [
+      "SI_UNIT_NAME_MAID_C_MASK_SUMMER_SKILL_TROPHY",
+      "릴리 : 해변의 위장자"
+    ],
+    [
+      "SI_UNIT_NAME_C_YOO_MI_NA_SUMMER_SKILL_TROPHY",
+      "유미나 : 초보 휴양객"
+    ],
+    [
+      "SI_UNIT_NAME_DREAM_C_NIGHTMARE_SUMMER_SKILL_TROPHY",
+      "루루 나이트메어 : 미아 포착"
+    ],
+    [
+      "SI_UNIT_NAME_SCHOOL_C_STAFF_CHANGE_SKILL_TROPHY",
+      "시엘 : 선도부장이 이럴 리가"
+    ],
+    [
+      "SI_UNIT_NAME_CHARADE_C_CRIMSON_CHANGE_SKILL_TROPHY",
+      "오지만디아스 : 챔피언이 이럴 리가"
+    ],
+    [
+      "SI_UNIT_NAME_CA_STREGA_YOO_NA_SPECIAL_SKILL_TROPHY",
+      "유나 스프링필드 : 그대의 수호천사"
+    ],
+    [
+      "SI_UNIT_NAME_REAPER_SA_COMMANDER_SKILL_TROPHY",
+      "펠릭스 : 화력 검증 실험"
+    ],
+    [
+      "SI_UNIT_NAME_GAMECIRCLE_C_STAR_PARTY_SKILL_TROPHY",
+      "미리네 : 히어로★스타라이트"
+    ],
+    [
+      "SI_UNIT_NAME_GAMECIRCLE_C_VIOLET_PARTY_SKILL_TROPHY",
+      "진보라 : 바이올렛 위치"
+    ],
+    [
+      "SI_UNIT_NAME_DANMACHI_C_RYU_SKILL_TROPHY",
+      "류 리온 : 루미노스 윈드"
+    ],
+    [
+      "SI_UNIT_NAME_DANMACHI_CA_AIS_SKILL_TROPHY",
+      "아이즈 발렌슈타인 : 릴 라파가"
+    ],
+    [
+      "SI_UNIT_NAME_DANMACHI_C_BELL_SKILL_TROPHY",
+      "벨 크라넬 : 아르고 베스타"
+    ],
+    [
+      "SI_UNIT_NAME_ACADEMY_CA_TWINTAIL_SKILL_TROPHY",
+      "나이엘 : 진(眞) 카타스트로피 블레이드"
+    ],
+    [
+      "SI_UNIT_NAME_C_VATICAN_CLOUDIA_X_MAS_SKILL_TROPHY",
+      "클로디아 넬슨 : 기적의 파티시에르"
+    ],
+    [
+      "SI_UNIT_NAME_ADMIN_CA_BIRDCAGE_SKILL_TROPHY",
+      "솔로베 : 괴물 쫓는 숲"
+    ],
+    [
+      "SI_UNIT_NAME_CA_YOO_MI_NA_SPECIAL_SKILL_TROPHY",
+      "유미나 : 늑대의 겨울나기"
+    ],
+    [
+      "SI_UNIT_NAME_MAID_C_MASK_NEWYEAR2025_SKILL_TROPHY",
+      "릴리 : 순결의 마스커레이드"
+    ],
+    [
+      "SI_UNIT_NAME_CA_ADMIN_LEE_SUYEON_RECITAL_SKILL_TROPHY",
+      "이수연 : 상냥한 솔리스트"
+    ],
+    [
+      "SI_UNIT_NAME_ALT_CA_SEO_YOON_RECITAL_SKILL_TROPHY",
+      "서윤 : 풀어헤친 멜로디"
+    ],
+    [
+      "SI_UNIT_NAME_M_RAS_TOWER_RECITAL_SKILL_TROPHY",
+      "시그마 : 꿈꾸는 하모니"
+    ],
+    [
+      "SI_UNIT_NAME_ESPR_CA_BLUE_SKILL_TROPHY",
+      "루시아 릿지 : 낭광증"
+    ],
+    [
+      "SI_UNIT_NAME_HARMONY_CA_CONDUCT_WEDDING_SKILL_TROPHY",
+      "마에스트로 네퀴티아 : 웨딩 하모니"
+    ],
+    [
+      "SI_UNIT_NAME_C_STREGA_LAURA_WEDDING_SKILL_TROPHY",
+      "라우라 베아트릭스 : 마녀의 입맞춤"
+    ],
+    [
+      "SI_UNIT_NAME_PUPPET_C_WHIP_WEDDING_SKILL_TROPHY",
+      "하랍 : 백의의 샤덴프로이데"
+    ],
+    [
+      "SI_UNIT_NAME_C_FALLEN_ROSARIA_WEDDING_SKILL_TROPHY",
+      "로자리아 르 프리데 : 정실대첩"
+    ],
+    [
+      "SI_UNIT_NAME_C_HB_MIYA_WEDDING_SKILL_TROPHY",
+      "미야 : 우리 결혼할까요?"
+    ],
+    [
+      "SI_UNIT_NAME_C_ALT_XIAOLIN_WEDDING_SKILL_TROPHY",
+      "샤오린 : 예식장의 파수꾼"
+    ],
+    [
+      "SI_UNIT_NAME_FENRIR_CA_INTERN_SKILL_TROPHY",
+      "노엘 : 페르 아스페라 아드 아스트라"
+    ],
+    [
+      "SI_UNIT_NAME_ZODIAC_CA_CHARLOTTE_SKILL_TROPHY",
+      "에스테로사 : 프라이드 오브 나이츠"
+    ],
+    [
+      "SI_UNIT_NAME_SIXWING_CA_ACTOR_SPECIAL_SKILL_TROPHY",
+      "스완 클레어 : 흑조의 서약"
+    ],
+    [
+      "SI_UNIT_NAME_REAPER_SA_COMMANDER_SUMMER_SKILL_TROPHY",
+      "펠릭스 : 금빛 여름"
+    ],
+    [
+      "SI_UNIT_NAME_VARUNA_C_WIND_SUMMER_SKILL_TROPHY",
+      "아닐라 : 청명한 해변의 인솔자"
+    ],
+    [
+      "SI_UNIT_NAME_C_FALLEN_ROSARIA_SUMMER_SKILL_TROPHY",
+      "로자리아 르 프리데 : 마왕의 휴가"
+    ],
+    [
+      "SI_UNIT_NAME_C_SCHOOL_PRESIDENT_SUMMER_SKILL_TROPHY",
+      "옌 싱 란체스터 : 수중 전술 교사"
+    ],
+    [
+      "SI_UNIT_NAME_FENRIR_C_INTERN_SUMMER_SKILL_TROPHY",
+      "노엘 : 수수께끼의 관광객 N양"
+    ],
+    [
+      "SI_UNIT_NAME_M_RAS_TOWER_SUMMER_SKILL_TROPHY",
+      "시그마 : 보물을 찾는 서퍼"
+    ],
+    [
+      "SI_UNIT_NAME_C_SCHOOL_CHAIR_SUMMER_SKILL_TROPHY",
+      "이디스 트윈즈 : 꿈 속을 표류 중"
+    ],
+    [
+      "SI_UNIT_NAME_C_SIXWING_LEE_JISOO_SUMMER_SKILL_TROPHY",
+      "이지수 : 한여름밤의 표범"
+    ],
+    [
+      "SI_UNIT_NAME_C_BD_ELIZABETH_SUMMER_SKILL_TROPHY",
+      "엘리자베스 팬드래건 : 푸른 귀족들의 주인"
+    ],
+    [
+      "SI_UNIT_NAME_ADMIN_CA_CLOUD_SKILL_TROPHY",
+      "연화 : 삼라만상 가르기"
+    ],
+    [
+      "SI_UNIT_NAME_RAS_MA_TOWER_SPECIAL_SKILL_TROPHY",
+      "시그마 : 태엽 감는 소녀"
+    ],
+    [
+      "SI_UNIT_NAME_ESPR_CA_KNIGHT_SKILL_TROPHY",
+      "호수의 기사 : 호수 속에 잠긴 영광"
+    ],
+    [
+      "SI_UNIT_NAME_ADMIN_C_AURA_X_MAS_SKILL_TROPHY",
+      "오러 : 매혹의 매뉴얼"
+    ],
+    [
+      "SI_UNIT_NAME_ZODIAC_CA_CHARLOTTE_X_MAS_SKILL_TROPHY",
+      "에스테로사 드 슈발리에 : 수줍은 노을녘 별빛"
+    ],
+    [
+      "SI_UNIT_NAME_FENRIR_CA_HILDE_PR_SKILL_TROPHY",
+      "프레이야 힐데 : 쓰론 브레이커"
+    ],
+    [
+      "SI_UNIT_NAME_ANAPILIS_CA_SCYTHE_SKILL_TROPHY",
+      "아나필리스 : 운명을 끊어내는 낫"
+    ],
+    [
+      "SI_UNIT_DESC_SD_V2",
+      "대표 사원으로 설정할 수 있는 인형입니다"
+    ],
+    [
+      "SI_UNIT_DESC_SD_DECO",
+      "메인화면 로비에 배치해 꾸밀 수 있습니다."
+    ]
+  ]
+}

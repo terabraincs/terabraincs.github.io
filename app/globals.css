@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;800;900&display=swap");
+@import "tailwindcss";
+
+:root {
+  --background: #0b0d12;
+  --foreground: #e5e7eb;
+  --grade-n: #333333;
+  --grade-r: #187091;
+  --grade-sr: #6d1d7f;
+  --grade-ssr: #efe100;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100%;
+  background: var(--background);
+}
+
+body {
+  min-height: 100%;
+  background: var(--background);
+  color: var(--foreground);
+  font-family: "Noto Sans KR", "Malgun Gothic", "Apple SD Gothic Neo",
+    "Segoe UI", Arial, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.voice-dialogue-card {
+  transition:
+    background-color 160ms ease,
+    border-color 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.voice-dialogue-card:has([data-voice-playing="true"]) {
+  border-color: #4f8fd6;
+  background-color: #163e68;
+  box-shadow: inset 4px 0 0 #72b4f4;
+}

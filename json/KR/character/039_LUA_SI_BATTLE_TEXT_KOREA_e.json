@@ -1,0 +1,1017 @@
+{
+  "asset_name": "LUA_SI_BATTLE_TEXT_KOREA_e",
+  "root_name": "m_dicString",
+  "data": [
+    [
+      "SI_BATTLE_TEST",
+      "테스트용 텍스트"
+    ],
+    [
+      "SI_BATTLE_BUFF_SILANCE",
+      "스킬 봉인"
+    ],
+    [
+      "SI_BATTLE_BUFF_INVINCIBLE",
+      "피해면역"
+    ],
+    [
+      "SI_BATTLE_BUFF_SUPERARMOR_SKILL",
+      "특수기 이하 경직 면역"
+    ],
+    [
+      "SI_BATTLE_BUFF_SUPERARMOR_HYPER",
+      "궁극기 이하 경직 면역"
+    ],
+    [
+      "SI_BATTLE_BUFF_SUPERARMOR_SUPER",
+      "모든 경직면역"
+    ],
+    [
+      "SI_BATTLE_BUFF_ADD_ATTACK_RANGE",
+      "공격범위 증가"
+    ],
+    [
+      "SI_BATTLE_BUFF_DISPEL_BUFF",
+      "버프 무효화"
+    ],
+    [
+      "SI_BATTLE_BUFF_DISPEL_DEBUFF",
+      "디버프 무효화"
+    ],
+    [
+      "SI_BATTLE_MONSTER_RAID_BASIC_RAID_BOSS_1_HYPER",
+      "브리트라가 힘을 모으고 있다!"
+    ],
+    [
+      "SI_BATTLE_MONSTER_BOSS_BASIC_MACHINE_GAP_MK1_MOVE_START",
+      "기동형 머신갑은 60초동안 가동합니다"
+    ],
+    [
+      "SI_BATTLE_MONSTER_BOSS_BASIC_MACHINE_GAP_MK3_MOVE_START",
+      "기동형 머신-갓은 60초 동안 가동합니다"
+    ],
+    [
+      "SI_BATTLE_BUFF_CRASH_BARRIER",
+      "배리어 무효"
+    ],
+    [
+      "SI_BATTLE_IMMUNE_BARRIER",
+      "배리어 봉쇄"
+    ],
+    [
+      "SI_BATTLE_IMMUNE_STUN",
+      "스턴 면역"
+    ],
+    [
+      "SI_BATTLE_IMMUNE_SILENCE",
+      "침묵 면역"
+    ],
+    [
+      "SI_BATTLE_IMMUNE_MOVE_SLOW",
+      "이속 감소 면역"
+    ],
+    [
+      "SI_BATTLE_IMMUNE_ATTACK_SLOW",
+      "공속 감소 면역"
+    ],
+    [
+      "SI_BATTLE_IMMUNE_AIRBORNE",
+      "에어본 면역"
+    ],
+    [
+      "SI_BATTLE_IMMUNE_SKILL_COOLTIME",
+      "스킬 쿨타임 면역"
+    ],
+    [
+      "SI_BATTLE_IMMUNE_BUFF_DAMAGE",
+      "버프 데미지 면역"
+    ],
+    [
+      "SI_BATTLE_BUFF_UNIT_LEVEL_UP",
+      "레벨 업 +{0}"
+    ],
+    [
+      "SI_BATTLE_BUFF_UNIT_LEVEL_DOWN",
+      "레벨 다운 –{0}"
+    ],
+    [
+      "SI_BATTLE_BUFF_STUN",
+      "스턴"
+    ],
+    [
+      "SI_BATTLE_MONSTER_BOSS_BASIC_MINISTRA_PV_CA_PHASE",
+      "<color=#FFBC00FF>유미나</color>의 출격 돌진을 활용해 <color=#C57BF4>약화영역</color>을 벗어나세요!"
+    ],
+    [
+      "SI_BATTLE_BUFF_SLEEP",
+      "수면"
+    ],
+    [
+      "SI_BATTLE_IMMUNE_SLEEP",
+      "수면 면역"
+    ],
+    [
+      "SI_BATTLE_BUFF_ADD_ATTACK_UNIT_COUNT",
+      "유효타격수 증가"
+    ],
+    [
+      "SI_BATTLE_MONSTER_BOSS_BASIC_FALLEN_ROSARIA_ADMIN_PHASE",
+      "30초 안에 로자리아를 저지하지 못하면 불꽃이 맵 전체에 피해를 입히기 시작합니다."
+    ],
+    [
+      "SI_BATTLE_MONSTER_BOSS_BASIC_ADMIN_GREATSWORD_ADMIN_PHASE",
+      "알렉스의 배리어를 해제하지 못하면 공격속도가 계속 상승합니다."
+    ],
+    [
+      "SI_BATTLE_MONSTER_BOSS_BASIC_MINISTRA_ADMIN_START",
+      "솔리키타티오가 함선에 가까이 접근하게 되면 강력한 궁극기를 사용합니다."
+    ],
+    [
+      "SI_BATTLE_MONSTER_BOSS_BASIC_MINISTRA_ADMIN_PHASECHANGE2",
+      "유닛으로 투사체를 막지 않으면 함선이 공격 받을 수 있습니다."
+    ],
+    [
+      "SI_BATTLE_MONSTER_BOSS_BASIC_MINISTRA_ADMIN_SKILL1",
+      "경직 면역이 없으면 솔리키타티오의 공격에 휩싸이기 쉽습니다."
+    ],
+    [
+      "SI_BATTLE_MONSTER_BOSS_BASIC_ADMIN_ARTILLERY_ADMIN_START",
+      "포대를 부수지 못하면 소환되는 유닛들로 인해 류드밀라의 공격력이 계속 상승하게 됩니다."
+    ],
+    [
+      "SI_BATTLE_MONSTER_ELITE_BASIC_ADMIN_MACHINEGUN_ADMIN_DIE",
+      "이프리트가 파괴된 위치에 스킬충전속도 감소영역이 생성되었습니다."
+    ],
+    [
+      "SI_BATTLE_RAID_BOSS_1_NIGHTMARE_PHASE2",
+      "<color=#FFBC00FF>비능력자</color>의 공격이 유효해 보인다"
+    ],
+    [
+      "SI_BATTLE_RAID_BOSS_1_NIGHTMARE_PHASE3",
+      "<color=#FFBC00FF>기계병기</color>의 공격이 유효해 보인다"
+    ],
+    [
+      "SI_BATTLE_RAID_BOSS_1_NIGHTMARE_PHASE4",
+      "<color=#FFBC00FF>특수능력자</color>의 공격이 유효해 보인다"
+    ],
+    [
+      "SI_BATTLE_BUFF_CONFUSE",
+      "혼란"
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_HALLOWEEN_ESPR_FROZEN_PV_CA_PHASE",
+      "<color=#FF5E00>레일리</color>는 죽더라도 <color=#FFE400>1회</color>에 한해서 5초 뒤 온전하게 부활합니다"
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_HALLOWEEN_ESPR_FROZEN_PV_CA_PHASE2",
+      "<color=#FF5E00>레일리</color>는 기본 공격 <color=#FFE400>5회</color> 마다, 가장 먼 적들을 무력화 시킬 수 있습니다"
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_SIXWING_NA_YUBIN_PV_CA_START",
+      "<color=#FF0000>나유빈</color>을 사용하면 적들의 <color=#B2EBF4>배리어</color>는 한순간에 무력화 됩니다"
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_SIXWING_NA_YUBIN_PV_CA_PHASE",
+      "적들은 배리어가 해제되면서 <color=#FF0000>남은 배리어 수치만큼</color> 피해를 입게 됩니다"
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_MODERATOR_TYPE_AB_START",
+      "모더레이터는 적을 처치할 때마다 공격력이 상승합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_MODERATOR_TYPE_AB_ASTAND",
+      "8초 이상 모더레이터의 시선을 끌지 못하면 <color=#FF0000>충전 없이 강력한 공격</color>을 실행합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_MODERATOR_TYPE_A_SKILL",
+      "모더레이터의 공격속도가 상승합니다. 연막은 명중 능력치를 지속적으로 감소시킵니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_MODERATOR_TYPE_B_SKILL",
+      "모더레이터의 스킬충전속도가 상승합니다. 독무는 최대 체력을 지속적으로 감소시킵니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_MODERATOR_TYPE_AB_CHARGE",
+      "피해를 누적시켜 충전을 막지 못하면 <color=#B2EBF4>배리어를 해제</color>하는 강력한 공격을 실행합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_MODERATOR_TYPE_A_RAGE",
+      "<color=#FF0000>모더레이터가 함선에 공격을 집중하기 시작합니다.</color>"
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_MODERATOR_TYPE_B_RAGE",
+      "<color=#FF0000>모더레이터가 무차별 포격을 시작합니다.</color>"
+    ],
+    [
+      "SI_BATTLE_IMMORTAL",
+      "불사"
+    ],
+    [
+      "SI_BATTLE_DAMAGE_TRANSFER",
+      "피해전이 {0}%"
+    ],
+    [
+      "SI_BATTLE_DAMAGE_REFLECTION",
+      "피해반사 {0}%"
+    ],
+    [
+      "SI_BATTLE_BUFF_NO_TARGETED",
+      "은신"
+    ],
+    [
+      "SI_BATTLE_BUFF_NOT_CAST_BUFF",
+      "버프 시전 금지 "
+    ],
+    [
+      "SI_BATTLE_BUFF_NOT_CAST_SUMMON",
+      "유닛 소환 금지"
+    ],
+    [
+      "SI_BATTLE_BUFF_NOT_FORCE_MISS",
+      "실명"
+    ],
+    [
+      "SI_BATTLE_BUFF_NOT_FORCE_HIT",
+      "필중"
+    ],
+    [
+      "SI_BATTLE_DAMAGE_LIMIT_BY_HP",
+      "최대 피해제한"
+    ],
+    [
+      "SI_BATTLE_MOB_GUILD_BOSS_START",
+      "해당 전투는 <color=#FFE400>필드 내 모든 위치</color>에 유닛을 소환할 수 있습니다."
+    ],
+    [
+      "SI_BATTLE_MOB_GUILD_BOSS_HYPER2",
+      "보스의 돌진에 <color=#FFE400>유닛이 부딪힐 때마다</color> 돌진 데미지가 감소합니다."
+    ],
+    [
+      "SI_BATTLE_HEAL_FEEDBACK",
+      "회복 역류 {0}%"
+    ],
+    [
+      "SI_BATTLE_MOB_GUILD_BOSS_HYPER1",
+      "붕괴한 필드는 일정 시간 <color=#FFE400>지상 유닛</color>에 피해를 줍니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_MINISTRA_TOUGH_END",
+      "<color=#FF0000>싫증난 솔리키타티오가 함선을 노리기 시작합니다.</color>"
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_SHADE_CORRUPTED_CA_MINISTRA_CM",
+      "스피라가 미니스트라쪽을 신경쓰고 있습니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_SPORTS_ACADEMY_C_TWINTAIL_CM_MB1",
+      "큭! 뒤에서 빤히 구경만 할 거야? 팀전이니까 날 도와야지!"
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_SPORTS_ACADEMY_C_TWINTAIL_CM_MB2",
+      "각성!? 규칙 위반이야! 이렇게 된 이상 이쪽도 협공하겠어!"
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_SPORTS_ACADEMY_C_TWINTAIL_CM_MU",
+      "뭐야, 순 잔챙이들 뿐이잖아? 뒤에서 구경이나 하고 있으라고."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_TYRANT_DEFFENDER_PASSIVE",
+      "<color=#FFE400>타이런트의 방패</color>는 유닛의 최대 체력을 감소시킵니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_TYRANT_STRIKER_PASSIVE",
+      "<color=#FFE400>타이런트의 대검</color>은 유닛의 체력과 회복량을 감소시킵니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_TYRANT_DEFFENDER_PATTERN",
+      "<color=#FFE400>일정 횟수의 타격</color>을 입혀 타이런트의 충전을 저지해야 합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_TYRANT_STRIKER_PATTERN",
+      "타이런트가 <color=#FFE400>함선</color>쪽에 대검을 소환합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BUFF_SPORTS_BONUS_DRONE",
+      "골드 캐치! 추가 자원을 드립니다!"
+    ],
+    [
+      "SI_BATTLE_BUFF_DETECT",
+      "은신감지"
+    ],
+    [
+      "SI_BATTLE_IMMUNE_CONFUSE",
+      "혼란 면역"
+    ],
+    [
+      "SI_BATTLE_BUFF_FORCE_EVADE",
+      "완전 회피"
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_DIVE_SCAVENGER_MA_EVOLVE_START",
+      "<color=#FFE400>이볼브 원</color>은 맵에 있는 모든 유닛들이 죽을수록 강해집니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_DIVE_SCAVENGER_MA_EVOLVE_PASSIVE",
+      "<color=#FFE400>이볼브 원</color>이 맵에 있는 모든 메카닉을 흡수합니다."
+    ],
+    [
+      "SI_BATTLE_MIYA_EMPTY"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_0",
+      "<#17FFFD>시청자</color>님이 <#17FFFD>1000</color>원 후원!<br>"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_1",
+      "<#17FFFD>시청자</color>님이 <#17FFFD>3000</color>원 후원!<br>"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_2",
+      "<#17FFFD>시청자</color>님이 <#17FFFD>5000</color>원 후원!<br>"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_3",
+      "<#17FFFD>시청자</color>님이 <#17FFFD>10000</color>원 후원!<br>"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_4",
+      "<#17FFFD>시청자</color>님이 <#17FFFD>50000</color>원 후원!<br>"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_0",
+      "악 내눈"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_1",
+      "아니 무슨ㅋㅋ"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_2",
+      "???"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_3",
+      "설마"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_4",
+      "아 제발"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_5",
+      "미하~ 미하~"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_6",
+      "님 HOXY?"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_7",
+      "응?"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_8",
+      ">_<"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_9",
+      "ㅋㅋㅋㅋ"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_10",
+      "급발진 진정해~"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_11",
+      "이걸 해냅니다"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_12",
+      "누나 나 죽어"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_13",
+      "갑분 감나빗!"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_14",
+      "이번 판 이기면ㅋㅋ"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_15",
+      "타이밍 오졌따뤼~"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_16",
+      "다 맞추면 5만원"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_17",
+      "이 타이밍에 궁을!?"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_18",
+      "갑분궁?"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_19",
+      "이.. 걸.. 하하하"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_20",
+      "에임 연습 좀 하자ㅎㅎ"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_21",
+      "클립각 나오죠~"
+    ],
+    [
+      "SI_BATTLE_MIYA_DONATION_EXT_22",
+      "이게 미야지ㅋ"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_0",
+      "<#17FFFD>시청자</color>님이 <#17FFFD>1</color>개월 구독!<br>"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_1",
+      "<#17FFFD>시청자</color>님이 <#17FFFD>2</color>개월 구독!<br>"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_2",
+      "<#17FFFD>시청자</color>님이 <#17FFFD>3</color>개월 구독!<br>"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_3",
+      "<#17FFFD>시청자</color>님이 <#17FFFD>4</color>개월 구독!<br>"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_4",
+      "<#17FFFD>시청자</color>님이 <#17FFFD>5</color>개월 구독!<br>"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_5",
+      "<#17FFFD>시청자</color>님이 <#17FFFD>6</color>개월 구독!<br>"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_6",
+      "<#17FFFD>시청자</color>님이 <#17FFFD>7</color>개월 구독!<br>"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_7",
+      "<#17FFFD>시청자</color>님이 <#17FFFD>8</color>개월 구독!<br>"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_8",
+      "<#17FFFD>시청자</color>님이 <#17FFFD>9</color>개월 구독!<br>"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_EXT_0",
+      "이걸 미야가ㅋㅋ"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_EXT_1",
+      "미야 커엽다"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_EXT_2",
+      "꿀잼"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_EXT_3",
+      "에임 뭐죠?"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_EXT_4",
+      "감나빗!"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_EXT_5",
+      "누나 나 죽어"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_EXT_6",
+      "응?"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_EXT_7",
+      "아 제발"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_EXT_8",
+      "느낌 좋다"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_EXT_9",
+      "미하~ 미하~"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_EXT_10",
+      "???"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_EXT_11",
+      "이.. 걸.. 하하하"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_EXT_12",
+      "사격중지"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_EXT_13",
+      "갑분 감나빗!"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_EXT_14",
+      "ㅋㅋㅋㅋ"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_EXT_15",
+      "울지마~"
+    ],
+    [
+      "SI_BATTLE_MIYA_SUBSCRIPTION_EXT_16",
+      ">__<"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_0",
+      "이게 맞네?"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_1",
+      "훈수잼"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_2",
+      "훈수ㄴㄴ"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_3",
+      "감나빗!"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_4",
+      "이걸ㄷㄷ"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_5",
+      "으악ㅋ"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_6",
+      "아군이다!"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_7",
+      "ㅇㅇ"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_8",
+      "기승전"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_9",
+      "ㅋㅋ"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_10",
+      "ㅋㅋㅋ"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_11",
+      "ㅎㅎ"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_12",
+      "ㅎㅎㅎ"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_13",
+      "커엽"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_14",
+      "오오"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_15",
+      "급발진?"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_16",
+      "무엇?"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_17",
+      "앗"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_18",
+      "무효"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_19",
+      "에임ㄷㄷ"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_20",
+      "에임 무엇?"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_21",
+      "ㄷㄷ"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_22",
+      "와ㅎㅎ"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_23",
+      "괜찮아ㅋ"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_24",
+      "맞추면 구독"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_25",
+      "아니"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_26",
+      "설마"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_27",
+      "이걸"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_28",
+      "이게?"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_29",
+      "머야"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_30",
+      "아군이다"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_31",
+      "사격중지"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_32",
+      "느낌 좋다"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_33",
+      "드론"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_34",
+      "오"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_35",
+      "ㅎㄷ"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_36",
+      "ㅎㄷㄷ"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_37",
+      "꿀잼"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_38",
+      "뭐죠?"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_39",
+      "대체"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_40",
+      "울지마~"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_41",
+      "브이"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_42",
+      "죽창 가나요?"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_43",
+      "이거 악기가방?"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_44",
+      "선글라스?"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_45",
+      "장전"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_46",
+      "장전해"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_47",
+      "ㅠㅠ"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_48",
+      "ㅜㅜ"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_49",
+      "ㅅㅅ"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_50",
+      "ㅅ"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_51",
+      ">__<"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_52",
+      "-_-"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_53",
+      ">_<"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_54",
+      "-_<"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_55",
+      ">_-"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_56",
+      ">.<"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_57",
+      "=_="
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_58",
+      ">>"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_59",
+      "<<"
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_60",
+      ".."
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_61",
+      "..."
+    ],
+    [
+      "SI_BATTLE_MIYA_HYPER_SKILL_62",
+      "...."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_REGEN_KNIGHT_PATTERN1",
+      "지속시간이 끝나기 전까지 배리어를 <color=#B2EBF4>해제</color>못하면 강력한 공격을 실행합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_REGEN_KNIGHT_PATTERN2",
+      "<color=#B2EBF4>토템</color>이 부숴지기 전까지, 보스가 피해면역상태가 됩니다 "
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_REGEN_KNIGHT_START",
+      "<color=#B2EBF4>리플레이서 강화 방패병</color>은 보스의 피해를 대신 받습니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_REGEN_KNIGHT_PATTERN_SUCCESS",
+      "배리어를 해제하는데 <color=#FF0000>실패</color> 하였습니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_REGEN_KNIGHT_PATTERN_FAIL",
+      "배리어를 해제하는데 <color=#00D8FF>성공</color> 하였습니다."
+    ],
+    [
+      "SI_BATTLE_IMMUNE_FORCE_MISS",
+      "실명 면역"
+    ],
+    [
+      "SI_BATTLE_BUFF_FEAR",
+      "공포"
+    ],
+    [
+      "SI_BATTLE_IMMUNE_FEAR",
+      "공포 면역"
+    ],
+    [
+      "SI_BATTLE_BUFF_NOHEAL",
+      "회복 불가"
+    ],
+    [
+      "SI_BATTLE_IMMUNE_COMMON",
+      "{0} 면역"
+    ],
+    [
+      "SI_BATTLE_BUFF_BLOCK_BUFF",
+      "버프 금지"
+    ],
+    [
+      "SI_BATTLE_BUFF_BLOCK_DEBUFF",
+      "디버프 면역"
+    ],
+    [
+      "SI_BATTLE_MOB_ELITE_CHALLENGE_TRIM_BOMB_JUNGLE",
+      "봄의 폭발은 더 월의 경직 저항력을 낮춥니다."
+    ],
+    [
+      "SI_BATTLE_MOB_ELITE_CHALLENGE_TRIM_BLASTER_JUNGLE",
+      "독을 머금은 머리의 독가스는 더 월에게 유효합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_CHALLENGE_TRIM_GHILLIE",
+      "길리의 수면가스에 의해 잠들어 있는 동안은 체력이 회복됩니다."
+    ],
+    [
+      "SI_BATTLE_BUFF_CHILL",
+      "냉기"
+    ],
+    [
+      "SI_BATTLE_BUFF_FREEZE",
+      "빙결"
+    ],
+    [
+      "SI_BATTLE_IMMUNE_NEGATIVE_STATUS",
+      "상태이상 면역"
+    ],
+    [
+      "SI_BATTLE_IMMUNE_CC",
+      "군중제어 면역"
+    ],
+    [
+      "SI_BATTLE_BUFF_HOLD",
+      "속박"
+    ],
+    [
+      "SI_BATTLE_BUFF_NO_EVADE",
+      "회피 불가"
+    ],
+    [
+      "SI_BATTLE_BUFF_TAUNT",
+      "도발"
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_EQC_CANARY",
+      "카나리아 스쿼드는 체력이 10% 이하가되면 그로기 상태가 됩니다. \n1명을 그로기 상태로 만든 후 15초안에 모두 그로기 상태로 만들지 못하면 위험합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_HARMONY_SOPRANO_ATTACK_RANGE",
+      "소프라노는 적이 일정거리 떨어질 경우 강력한 전체 공격을 시전합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_HARMONY_SOPRANO_HYPER",
+      "소프라노의 궁극기에 6회 피격당한 디펜더와 스트라이커는 혼란 상태가 됩니다."
+    ],
+    [
+      "SI_BATTLE_IMMUNE_INSTANTKILL",
+      "즉사 면역"
+    ],
+    [
+      "SI_BATTLE_BUFF_EXILE",
+      "왜곡"
+    ],
+    [
+      "SI_BATTLE_IMMUNE_HP_RATE_DAMAGE",
+      "체력 비례 피해 면역"
+    ],
+    [
+      "SI_BATTLE_MOB_ELITE_EVENT_WAVE_BONUS_DRONE",
+      "황금 드론을 처치하면 일정시간동안 아군의 공격속도가 증가합니다."
+    ],
+    [
+      "SI_BATTLE_HEAL_TRANSFER",
+      "회복강탈 {0}%"
+    ],
+    [
+      "SI_BATTLE_BUFF_NOMOVE",
+      "고정"
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_RAID_COMMON_RAID_BOSS_3_1",
+      "촉수를 3기 처치하면 크라켄을 <color=#FFFF00>그로기</color> 상태로 만들 수 있으며, 그로기 중 크라켄의 방어력이 30% 감소합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_RAID_COMMON_RAID_BOSS_3_2",
+      "크라켄의 공격이 거세집니다. 촉수는 왜곡 상태가 되어 피격을 받지 않는 상태가 됩니다."
+    ],
+    [
+      "SI_BATTLE_IRONWALL",
+      "철벽"
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_CORRUPTED_MIMIC_COUNT_1",
+      "니블이 <color=#FFE400>퇴각하는 적 유닛</color>의 힘을 <color=#FF0000>흡수</color>합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_CORRUPTED_MIMIC_FAIL",
+      "니블이 충분한 힘을 흡수하여 <color=#FF0000>적극적으로 공격</color>하기 시작합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_CORRUPTED_MIMIC_SUCCESS",
+      "니블이 <color=#B2EBF4>지금까지 흡수했던 힘을 모두 소진</color>했습니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_CORRUPTED_MIMIC_COUNT_1_COUNTER",
+      "니블이 <color=#FFE400>출격하는 적 카운터 유닛</color>의 힘을 <color=#FF0000>흡수</color>합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_EP14_BEAST_BASIC_N_START",
+      "비스트가 <color=#FFE400>20초</color>마다 전진하며 <color=#FF0000>매우 강력한 피해</color>를 입힙니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_EP14_BASIC_GRAVE_OBJECT_START",
+      "서생이 <color=#FFE400>침식 쐐기</color>가 있는 지점까지 도달하도록 <color=#FF0000>디몰리셔</color>를 처치해야 합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_EP14_CORRUPTED_TIGER_START",
+      "세 짐승의 범은 <color=#B2EBF4>궁극기</color>를 <color=#FFE400>일정 횟수 이상</color> 시전하면 강력한 공격을 준비합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_EP14_CORRUPTED_TIGER_PHASECHANGE",
+      "배리어를 <color=#B2EBF4>해제</color>하지 못하면 강력한 공격을 실행합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_ELITE_DEFENCE_SPELL_MOB_SPAWN_1",
+      "침식 보주는 <color=#FFE400>일정 시간</color>마다 생성됩니다. \n침식 보주 <color=#FFE400>5개</color>가 모이면 몬스터 웨이브 레벨을 20씩 상승시키고, 출격자원을 감소시키는 피해를 가합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_ELITE_DEFENCE_SPELL_MOB_SPAWN_2",
+      "<color=#FFE400>침식 보주 제거</color> 카드를 사용하여 침식 보주를 제거할 수 있습니다."
+    ],
+    [
+      "SI_BATTLE_MOB_ELITE_DEFENCE_SPELL_COST_INCREASE",
+      "효과를 발동할 때마다 <color=#FFE400>코스트 회복량+20%</color>"
+    ],
+    [
+      "SI_BATTLE_MOB_ELITE_DEFENCE_SPELL_LEVEL_UP",
+      "효과를 발동할 때마다 <color=#FFE400>아군 유닛 레벨+10</color>"
+    ],
+    [
+      "SI_BATTLE_MOB_ELITE_DEFENCE_SPELL_DISTURB_KILL_SPAWN",
+      "효과를 발동할 때마다 <color=#FFE400>전장의 모든 침식 보주 제거, 모든 적에게 스턴 부여</color>"
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_CORRUPTED_ARMOR_FAIL",
+      "피해가 누적된 반동으로 모르스가 <color=#B2EBF4>특수기를 시전하지 않습니다.</color>"
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_CORRUPTED_ARMOR_SUCCESS",
+      "모르스가 <color=#FFE400>받는 피해</color>가 <color=#FF0000>일시적으로 크게 감소</color>합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_CORRUPTED_ARMOR_BACKSIDE",
+      "모르스의 후방에 위치한 유닛은 주기적으로 <color=#FF0000>강력한 피해</color>를 받습니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_CORRUPTED_ARMOR_COUNT",
+      "<color=#FFE400>퇴각하는 적 유닛</color>에 의해 모르스가 <color=#FF0000>분노</color>합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_CORRUPTED_ARMOR_START",
+      "모르스는 특수기 시전 시 <color=#B2EBF4>받는 피해가 크게 감소합니다.</color> 모르스에게 <color=#FFE400>충분한 피해</color>를 가하면 일시적으로 특수기를 시전하지 않는 상태가 됩니다."
+    ],
+    [
+      "SI_BATTLE_MOB_ELITE_DEFENCE_SPELL_DISTURB_KILL_BATTLE_20",
+      "<color=#FFE400>침식 보주 제거</color> 카드 사용 시 시그마가 <color=#FF0000>폭주 상태</color>가 됩니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_CORRUPTED_THAGIRION_SUMMON_1",
+      "<color=#B2EBF4>타기리온의 손</color>이 일정 시간 동안 적에게 <color=#FFE400>속박 상태</color>를 부여합니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_CORRUPTED_THAGIRION_SUMMON_2",
+      "<color=#B2EBF4>타기리온의 손</color>이 사망하면 <color=#FFE400>속박 상태</color>는 즉시 해제됩니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_CORRUPTED_THAGIRION_SKILL",
+      "타기리온이 실을 거둬들이며 범위 내의 <color=#FFBC00FF>적 레인저, 스나이퍼</color>를 끌어당깁니다."
+    ],
+    [
+      "SI_BATTLE_MOB_BOSS_FIERCE_CORRUPTED_THAGIRION_HYPER",
+      "타기리온의 궁극기에 피격당한 <color=#FFBC00FF>적 스트라이커</color>는 <color=#FFE400>스킬 봉인</color> 상태가 됩니다."
+    ]
+  ]
+}

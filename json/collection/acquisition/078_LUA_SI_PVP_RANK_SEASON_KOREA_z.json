@@ -1,0 +1,834 @@
+{
+  "asset_name": "LUA_SI_PVP_RANK_SEASON_KOREA_z",
+  "root_name": "m_dicString",
+  "data": [
+    [
+      "SI_PVP_RANK_SEASON_NAME_CBT",
+      "프리미엄 시즌"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_TEST",
+      "테스트 시즌"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_IBT",
+      "IBT 시즌"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_PRE",
+      "프리 시즌"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON1",
+      "시즌 1"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON2",
+      "시즌 2"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON3",
+      "시즌 3"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON4",
+      "시즌 4"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON5",
+      "시즌 5"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON6",
+      "시즌 6"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON7",
+      "시즌 7"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON8",
+      "시즌 8"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON9",
+      "시즌 9"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON10",
+      "시즌 10"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON11",
+      "시즌 11"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON12",
+      "시즌 12"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON13",
+      "시즌 13"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON14",
+      "시즌 14"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON15",
+      "시즌 15"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON16",
+      "시즌 16"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON17",
+      "시즌 17"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON18",
+      "시즌 18"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON19",
+      "시즌 19"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON20",
+      "시즌 20"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON21",
+      "시즌 21"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON22",
+      "시즌 22"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON23",
+      "시즌 23"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON24",
+      "시즌 24"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON25",
+      "시즌 25"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON26",
+      "시즌 26"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON27",
+      "시즌 27"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON28",
+      "시즌 28"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON29",
+      "시즌 29"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON30",
+      "시즌 30"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON31",
+      "시즌 31"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON32",
+      "시즌 32"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON33",
+      "시즌 33"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON34",
+      "시즌 34"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON35",
+      "시즌 35"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON36",
+      "시즌 36"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON37",
+      "시즌 37"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON38",
+      "시즌 38"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON39",
+      "시즌 39"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON40",
+      "시즌 40"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON41",
+      "시즌 41"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON42",
+      "시즌 42"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON43",
+      "시즌 43"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON44",
+      "시즌 44"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON45",
+      "시즌 45"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON46",
+      "시즌 46"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON47",
+      "시즌 47"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON48",
+      "시즌 48"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON49",
+      "시즌 49"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON50",
+      "시즌 50"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON51",
+      "시즌 51"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON52",
+      "시즌 52"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON53",
+      "시즌 53"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SEASON54",
+      "시즌 54"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_BETA_SEASON1_1",
+      "베타 시즌 1-1"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_BETA_SEASON1_2",
+      "베타 시즌 1-2"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_BETA_SEASON1_3",
+      "베타 시즌 1-3"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_BETA_SEASON1-4",
+      "베타 시즌 1-4"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_PREMIER1_1",
+      "프리미어 시즌 1-1"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_PREMIER1_2",
+      "프리미어 시즌 1-2"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_PREMIER1_3",
+      "프리미어 시즌 1-3"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_PREMIER1_4",
+      "프리미어 시즌 1-4"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_PREMIER2_1",
+      "프리미어 시즌 2-1"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_PREMIER2_2",
+      "프리미어 시즌 2-2"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_PREMIER2_3",
+      "프리미어 시즌 2-3"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_PREMIER2_4",
+      "프리미어 시즌 2-4"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_LOYAL",
+      "로얄 시즌"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_DEVOTION",
+      "디보션 시즌"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_COURAGE",
+      "커리지 시즌"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SINCERE",
+      "신시어 시즌"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_ALPHA",
+      "알파 테스트"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_BETA",
+      "베타 테스트"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_BETA_COURAGE",
+      "베타 : 커리지"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_BETA_SINCERE",
+      "베타 : 신시어"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_BETA_LOYAL",
+      "베타 : 로얄"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_PRE2022",
+      "2022 프리 시즌"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_BETA_DEVOTION",
+      "베타 : 디보션"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_V2_NAME_LOYAL_FIRST",
+      "로얄 : 상반기"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_V2_NAME_LOYAL_SECOND",
+      "로얄 : 하반기"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_V2_NAME_DEVOTION_FIRST",
+      "디보션 : 상반기"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_V2_NAME_DEVOTION_SECOND",
+      "디보션 : 하반기"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_V2_NAME_COURAGE_FIRST",
+      "커리지 : 상반기"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_V2_NAME_COURAGE_SECOND",
+      "커리지 : 하반기"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_V2_NAME_SINCERE_FIRST",
+      "신시어 : 상반기"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_V2_NAME_SINCERE_SECOND",
+      "신시어 : 하반기"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_LOYAL_V2",
+      "{0} 로얄 시즌"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_DEVOTION_V2",
+      "{0} 디보션 시즌"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_COURAGE_V2",
+      "{0} 커리지 시즌"
+    ],
+    [
+      "SI_PVP_RANK_SEASON_NAME_SINCERE_V2",
+      "{0} 신시어 시즌"
+    ],
+    [
+      "SI_PVP_LEAGUE_SEASON_NAME_BETA",
+      "BETA"
+    ],
+    [
+      "SI_PVP_LEAGUE_SEASON_NAME",
+      "시즌 {0}"
+    ],
+    [
+      "SI_PVP_GAUNTLET_EVENTMATCH_REWARD_DESC",
+      "아케이드 {0}회 플레이"
+    ],
+    [
+      "SI_PVP_GAUNTLET_EVENTMATCH_REWARD_DAILY_DESC",
+      "매일 아케이드 {0}회 플레이 (반복 미션)"
+    ],
+    [
+      "SI_PVP_GAUNTLET_EVENTMATCH_REWARD_DAILY_WIN_DESC",
+      "매일 아케이드 {0}회 승리"
+    ],
+    [
+      "SI_PVP_GAUNTLET_EVENTMATCH_REWARD_WIN_DESC",
+      "아케이드 {0}회 승리"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_NAME_STAT",
+      "건틀렛 룰"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_NAME_STAT_ARCADE",
+      "아케이드 룰"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_NAME_SQUARD_EVENTMATCH",
+      "아케이드 소대"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_NAME_REWARD_SEASON",
+      "시즌 보상"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_NAME_REWARD_PLAY",
+      "참가 보상"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_NAME_ROTATION_BAN",
+      "금주의 밴&업"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_NAME_ROTATION_BAN_NO",
+      "밴&업 미적용"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_NAME_RULE_ARCADE",
+      "특별 규칙"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_NAME_RULE_NO_EQUIP",
+      "장비 미적용"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_STAT",
+      " - 장비와 성장으로 증가한 체력, 공격력, 방어력의 <color=#ffdb6c>10%만 적용됩니다.</color>\n - 함선 등급에 따라 증가하는 <color=#ffdb6c>기초 출격자원은 적용되지 않습니다.</color>\n - SSR등급의 함선은 <color=#ffdb6c>최대 피해제한 20% 효과를 갖습니다.</color>"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_STAT_SHIP_BUFF_SINCERE",
+      " - SSR등급의 함선은 <color=#ffdb6c>치명타 피해 저향 50% 증가 및 최대 피해제한 20% 효과를 갖습니다.</color>"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_STAT_ARCADE_1",
+      " - 함선 등급에 따라 증가하는 <color=#ffdb6c>기초 출격자원은 적용되지 않습니다.</color>\n - SSR등급의 함선은 <color=#ffdb6c>최대 피해제한 20% 효과를 갖습니다.</color>"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_STAT_ARCADE_SSRPERCENT",
+      " - 함선 등급에 따라 증가하는 <color=#ffdb6c>기초 출격자원은 적용되지 않습니다.</color>\n - SSR등급의 함선은 <color=#ffdb6c>최대 피해제한 {0}% 효과를 갖습니다.</color>"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_STAT_ARCADE_STAT10PERCENT",
+      " - 장비와 성장으로 증가한 체력, 공격력, 방어력의 <color=#ffdb6c>10%만 적용됩니다.</color>"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_STAT_ARCADE_SHIP_BUFF_PERCENT",
+      " - SSR등급의 함선은 <color=#ffdb6c>최대 피해제한 {0}% 효과를 갖습니다."
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_STAT_ARCADE_DECK_SUFFLE",
+      " - 유닛은 소대를 편성한 순서와 무관하게, 임의 순서대로 덱에 들어옵니다."
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_STAT_ARCADE_NO_COST_BUFF",
+      " - 함선 등급에 따라 증가하는 <color=#ffdb6c>기초 출격자원은 적용되지 않습니다.</color>"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_STAT_ARCADE_NO_SHIP_BUFF",
+      " - SSR등급의 함선에 <color=#ffdb6c>컨텐츠마다 다른 최대 피해제한 효과가 적용됩니다.</color>"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_STAT_ARCADE_NO_DECK_SUFFLE",
+      " - 유닛은 소대를 편성한 순서대로 덱에 들어옵니다."
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_SQUARD_EVENTMATCH",
+      " - 이번 아케이드에서는 랭크전 소대를 사용합니다 \n - 다음 유닛이 강제됩니다 [<color=#ffdb6c>{0}</color>]"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_SQUARD_EVENTMATCH_ALL",
+      " - 이번 아케이드에서는 랭크전 소대를 사용합니다 \n - 함선 {0}종 / 오퍼레이터 {1}종 / 유닛 {2}종을 편성해야 합니다."
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_SQUARD_EVENTMATCH_NO_OPR",
+      " - 이번 아케이드에서는 랭크전 소대를 사용합니다 \n - 함선 {0}종 / 유닛 {1}종을 편성해야 합니다."
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_REWARD_SEASON",
+      " - 일요일마다 정산을 통해서 현재 내가 속한 [리그 보상]을 얻습니다.\n - 더 높은 리그로 올라가서, 더 많은 보상을 노려보세요!"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_REWARD_PLAY",
+      " - 아케이드에 참여해서 소정의 보상을 얻을 수 있습니다."
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_ROTATION_BAN",
+      " - 지난 랭크전에서 유닛 사용 빈도와 승률을 기반으로 밴&업을 정합니다\n - 밴 대상은 <color=#FF2626>패널티가 적용됩니다.</color>\n - 상위 300위 유저 투표를 통해 캐스팅 밴을 할 수 있습니다\n - <color=#FF2626>유닛과 함선만 BAN될 수 있습니다.</color>\n - 업 대상은 <color=#ffdb6c>출격 비용이 1 감소하며, 버프가 적용됩니다.</color>"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_ROTATION_BAN_ASYNC",
+      "{0} \n - <color=#ffdb6c>방어 소대에 한정</color>해서 [ 금주의 밴&업 ]의 영향을 받습니다."
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_ROTATION_BAN_NO",
+      " - <color=#FF2626>[금주의 밴&업]이 적용되지 않습니다.</color>"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_RULE_ARCADE_UNIT_TESTFLIGHT",
+      " - 이번 아케이드에서는 각성 등급 유닛 사용이 강제됩니다! \n　　[<color=#ffdb6c>{0}</color>]\n - 대상 유닛에게는 강력한 버프가 적용됩니다!\n - <color=#ffdb6c>장비를 착용할 수 없습니다.</color>"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_RULE_ARCADE_NO_EQUIP",
+      " - <color=#ffdb6c>장비 능력치가 적용되지 않습니다.</color>"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_RULE_ARCADE_NO_REARM",
+      " - <color=#ffdb6c>재무장 유닛은 사용할 수 없습니다.</color>"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_RULE_ARCADE_NO_OPR",
+      " - <color=#ffdb6c>오퍼레이터를 사용할 수 없습니다.</color>"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_RULE_ARCADE_LIMIT_AWAKEN",
+      " - 이번 아케이드에서는 각성 등급 유닛 사용이 강제됩니다! \n　　[<color=#ffdb6c>{0}</color>]"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_RULE_ARCADE_LIMIT_SR_N",
+      " - 이번 아케이드에서는 특정 등급 유닛 사용이 강제됩니다! \n　　[<color=#ffdb6c>SR 등급 이하</color>]"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_RULE_ARCADE_TEAM_TESTFLIGHT",
+      " - 이번 아케이드에서는 다음 팀업 유닛 사용이 강제됩니다! \n　　[<color=#ffdb6c>{0}</color>]"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_RULE_ARCADE_2RULE",
+      "{0}\n{1}"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_RULE_ARCADE_3RULE",
+      "{0}\n{1}\n{2}"
+    ],
+    [
+      "SI_PVP_UI_KEYWORD_DESC_RULE_ARCADE_4RULE",
+      "{0}\n{1}\n{2}\n{3}"
+    ],
+    [
+      "SI_PVP_CHAMPIONSHIP_SEASON_RULE",
+      "<b><color=#4EC2F3>[챔피언십]</color></b>\n<color=#FFFFFF>- 시즌 기간 중에 유저들간 매칭 및 플레이가 가능하며, 글로벌 밴을 설정한 이후에 매칭을 시도할 수 있습니다.</color>\n<color=#FFFFFF>- 자신보다 높은 승점의 유저에게 승리하면 승점을 많이 얻고, 질 경우 적게 잃습니다.</color>\n<color=#FFFFFF>- 자신보다 낮은 승점의 유저에게 승리하면 승점을 적게 얻고, 질 경우 많이 잃습니다.</color>\n<color=#FFFFFF>- 승점을 일정 이상 얻으면 상위 리그로 올라갈 수 있습니다.</color>\n<color=#FFFFFF>- 일부 리그에서, 해당 리그의 승점보다 1점 이하로 떨어지면 강등될 수 있습니다.</color>\n<color=#FFFFFF>- 경기 도중 포기를 하게될 경우 몰수패 처리로 인해 더 많은 승점을 잃게됩니다.</color>\n<color=#FFFFFF>- 마지막 플레이 이후 48시간 플레이를 하지 않을 경우 정산 시간에 {0}점이 차감, 이후 매일 {1}점씩 차감되며, 차감으로 인해 리그 강등이 발생될 수 있습니다. 차감 도중 플레이를 하게될 경우 차감 룰이 멈추게됩니다. 승점 차감 룰은 {2}점 이하에서는 발생하지 않습니다.</color>\n<color=#FFFFFF>- 매일 00:00~{3}:00(UTC+9)에는 매칭이 불가능하며, 해당 시간 내에 점수 정산이 이뤄집니다.</color>\n<color=#FFFFFF>- 시즌이 종료되고 결산 기간 시 최종 점수에 따라 보상이 지급됩니다.</color>\n\n<b><color=#4EC2F3>[챔피언십 전투 환경]</color></b>\n<color=#FFFFFF>- 장비와 성장으로 증가한 체력, 공격력, 방어력의 10%만 적용됩니다.</color>\n<color=#FFFFFF>- SSR 등급의 함선은 최대 피해제한 20% 및 치명타 피해 저항 50% 효과를 갖습니다.</color>\n<color=#FFFFFF>- 남은 시간에 따라 회복 약화가 최대 80%까지 강화됩니다.</color> "
+    ],
+    [
+      "SI_PVP_CHAMPIONSHIP_SEASON_RULE_V2",
+      "<b><color=#4EC2F3>[챔피언십]</color></b>\n<color=#FFFFFF>- 시즌 기간 중에 유저들간 매칭 및 플레이가 가능하며, 글로벌 밴을 설정한 이후에 매칭을 시도할 수 있습니다.</color>\n<color=#FFFFFF>- 자신보다 높은 승점의 유저에게 승리하면 승점을 많이 얻고, 질 경우 적게 잃습니다.</color>\n<color=#FFFFFF>- 자신보다 낮은 승점의 유저에게 승리하면 승점을 적게 얻고, 질 경우 많이 잃습니다.</color>\n<color=#FFFFFF>- 승점이 일정 수준 이상으로 차이가 나는 유저와 매칭될 경우 최대 혹은 최소 승점을 얻거나 잃을 수 있습니다.</color>\n<color=#FFFFFF>- 승점을 일정 이상 얻으면 상위 리그로 올라갈 수 있습니다.</color>\n<color=#FFFFFF>- 브론즈 ~ 다이아몬드 리그에서는 패배를 하여도 승점을 잃지 않습니다.</color>\n<color=#FFFFFF>- 일부 리그에서, 해당 리그의 승점보다 1점 이하로 떨어지면 강등될 수 있습니다.</color>\n<color=#FFFFFF>- 밴픽 진행 도중 포기를 하게될 경우에만 몰수패 처리로 인해 더 많은 승점을 잃게됩니다.</color>\n<color=#FFFFFF>- 밴픽 진행 도중 상대방이 포기를 하게될 경우에만 몰수 처리로 인해 승점을 적게 얻게됩니다.</color>\n<color=#FFFFFF>- 마지막 플레이 이후 48시간 플레이를 하지 않을 경우 정산 시간에 {0}점이 차감, 이후 매일 {1}점씩 차감되며, 차감으로 인해 리그 강등이 발생될 수 있습니다. 차감 도중 플레이를 하게될 경우 차감 룰이 멈추게됩니다. 승점 차감 룰은 {2}점 이하에서는 발생하지 않습니다.</color>\n<color=#FFFFFF>- 매일 00:00~{3}:00(UTC+9)에는 매칭이 불가능하며, 해당 시간 내에 승점 정산이 이뤄집니다.</color>\n<color=#FFFFFF>- 시즌이 종료되고 결산 기간 시 최종 승점에 따라 보상이 지급됩니다.</color>\n\n<b><color=#4EC2F3>[챔피언십 전투 환경]</color></b>\n<color=#FFFFFF>- 장비와 성장으로 증가한 체력, 공격력, 방어력의 10%만 적용됩니다.</color>\n<color=#FFFFFF>- SSR 등급의 함선은 최대 피해제한 20% 및 치명타 피해 저항 50% 효과를 갖습니다.</color>\n<color=#FFFFFF>- 남은 시간에 따라 회복 약화가 최대 80%까지 강화됩니다.</color>"
+    ],
+    [
+      "SI_PVP_CHAMPIONSHIP_SEASON_RULE_V3",
+      "<b><color=#4EC2F3>[최고 레벨 적용 시즌]</color></b>\n<color=#FFFFFF>- 최고 레벨 적용 시즌일 경우 다음과 같이 적용이 됩니다.</color>\n<color=#FFFFFF>- 사원의 경우 Lv.120, 스킬 레벨 Max, 전술 업데이트 6단계, 리액터 해방된 상태로 적용됩니다.</color>\n<color=#FFFFFF>- 오퍼레이터의 경우 Lv.100, 지휘 기술 Lv.8, 보조 기술 Lv.11로 적용됩니다.</color>\n<color=#FFFFFF>- 함선의 경우 Lv.100으로 적용됩니다.</color>\n\n<b><color=#4EC2F3>[챔피언십]</color></b>\n<color=#FFFFFF>- 시즌 기간 중에 유저들간 매칭 및 플레이가 가능하며, 글로벌 밴을 설정한 이후에 매칭을 시도할 수 있습니다.</color>\n<color=#FFFFFF>- 자신보다 높은 승점의 유저에게 승리하면 승점을 많이 얻고, 질 경우 적게 잃습니다.</color>\n<color=#FFFFFF>- 자신보다 낮은 승점의 유저에게 승리하면 승점을 적게 얻고, 질 경우 많이 잃습니다.</color>\n<color=#FFFFFF>- 승점이 일정 수준 이상으로 차이가 나는 유저와 매칭될 경우 최대 혹은 최소 승점을 얻거나 잃을 수 있습니다.</color>\n<color=#FFFFFF>- 승점을 일정 이상 얻으면 상위 리그로 올라갈 수 있습니다.</color>\n<color=#FFFFFF>- 브론즈 ~ 다이아몬드 리그에서는 패배를 하여도 승점을 잃지 않습니다.</color>\n<color=#FFFFFF>- 일부 리그에서, 해당 리그의 승점보다 1점 이하로 떨어지면 강등될 수 있습니다.</color>\n<color=#FFFFFF>- 밴픽 진행 도중 포기를 하게될 경우에만 몰수패 처리로 인해 더 많은 승점을 잃게됩니다.</color>\n<color=#FFFFFF>- 밴픽 진행 도중 상대방이 포기를 하게될 경우에만 몰수 처리로 인해 승점을 적게 얻게됩니다.</color>\n<color=#FFFFFF>- 마지막 플레이 이후 48시간 플레이를 하지 않을 경우 정산 시간에 {0}점이 차감, 이후 매일 {1}점씩 차감되며, 차감으로 인해 리그 강등이 발생될 수 있습니다. 차감 도중 플레이를 하게될 경우 차감 룰이 멈추게됩니다. 승점 차감 룰은 {2}점 이하에서는 발생하지 않습니다.</color>\n<color=#FFFFFF>- 매일 00:00~{3}:00(UTC+9)에는 매칭이 불가능하며, 해당 시간 내에 승점 정산이 이뤄집니다.</color>\n<color=#FFFFFF>- 시즌이 종료되고 결산 기간 시 최종 승점에 따라 보상이 지급됩니다.</color>\n\n<b><color=#4EC2F3>[챔피언십 전투 환경]</color></b>\n<color=#FFFFFF>- 장비와 성장으로 증가한 체력, 공격력, 방어력의 10%만 적용됩니다.</color>\n<color=#FFFFFF>- SSR 등급의 함선은 최대 피해제한 20% 및 치명타 피해 저항 50% 효과를 갖습니다.</color>\n<color=#FFFFFF>- 남은 시간에 따라 회복 약화가 최대 80%까지 강화됩니다.</color>"
+    ],
+    [
+      "SI_PVP_UNLIMITED_SEASON_RULE",
+      "<b><color=#4EC2F3>[언리미티드]</color></b>\n<color=#FFFFFF>- 시즌 기간 중에 유저들간 매칭 및 플레이가 가능합니다.</color>\n<color=#FFFFFF>- 금주의 밴&업이 적용되지 않습니다.</color>\n<color=#FFFFFF>- 자신보다 높은 승점의 유저에게 승리하면 승점을 많이 얻고, 질 경우 적게 잃습니다.</color>\n<color=#FFFFFF>- 자신보다 낮은 승점의 유저에게 승리하면 승점을 적게 얻고, 질 경우 많이 잃습니다.</color>\n<color=#FFFFFF>- 승점을 일정 이상 얻으면 상위 리그로 올라갈 수 있습니다.</color>\n<color=#FFFFFF>- 브론즈 리그에서는 패배를 하여도 승점을 잃지 않습니다.</color>\n<color=#FFFFFF>- 일부 리그에서, 해당 리그의 승점보다 1점 이하로 떨어지면 강등될 수 있습니다.</color>\n<color=#FFFFFF>- 마지막 플레이 이후 48시간 플레이를 하지 않을 경우 정산 시간에 {0}점이 차감, 이후 매일 {1}점씩 차감되며, 차감으로 인해 리그 강등이 발생될 수 있습니다. 차감 도중 플레이를 하게될 경우 차감 룰이 멈추게됩니다. 승점 차감 룰은 {2}점 이하에서는 발생하지 않습니다.</color>\n<color=#FFFFFF>- 매일 00:00~{3}:00(UTC+9)에는 매칭이 불가능하며, 해당 시간 내에 승점 정산이 이뤄집니다.</color>\n<color=#FFFFFF>- 시즌이 종료되고 결산 기간 시 최종 승점에 따라 보상이 지급됩니다.</color>\n\n<b><color=#4EC2F3>[언리미티드 전투 환경]</color></b>\n<color=#FFFFFF>- 장비와 성장으로 증가한 체력, 공격력, 방어력의 10%만 적용됩니다.</color>\n<color=#FFFFFF>- SSR 등급의 함선은 최대 피해제한 20% 및 치명타 피해 저항 50% 효과를 갖습니다.</color>\n<color=#FFFFFF>- 남은 시간에 따라 회복 약화가 최대 80%까지 강화됩니다.</color>"
+    ],
+    [
+      "SI_PVP_UNLIMITED_SEASON_RULE_V2",
+      "<b><color=#4EC2F3>[언리미티드]</color></b>\n<color=#FFFFFF>- 시즌 기간 중에 유저들간 매칭 및 플레이가 가능합니다.</color>\n<color=#FFFFFF>- 금주의 밴&업이 적용되지 않습니다.</color>\n<color=#FFFFFF>- 자신보다 높은 승점의 유저에게 승리하면 승점을 많이 얻고, 질 경우 적게 잃습니다.</color>\n<color=#FFFFFF>- 자신보다 낮은 승점의 유저에게 승리하면 승점을 적게 얻고, 질 경우 많이 잃습니다.</color>\n<color=#FFFFFF>- 승점이 일정 수준 이상으로 차이가 나는 유저와 매칭될 경우 최대 혹은 최소 승점을 얻거나 잃을 수 있습니다.</color>\n<color=#FFFFFF>- 승점을 일정 이상 얻으면 상위 리그로 올라갈 수 있습니다.</color>\n<color=#FFFFFF>- 브론즈 ~ 다이아몬드 리그에서는 패배를 하여도 승점을 잃지 않습니다.</color>\n<color=#FFFFFF>- 일부 리그에서, 해당 리그의 승점보다 1점 이하로 떨어지면 강등될 수 있습니다.</color>\n<color=#FFFFFF>- 마지막 플레이 이후 48시간 플레이를 하지 않을 경우 정산 시간에 {0}점이 차감, 이후 매일 {1}점씩 차감되며, 차감으로 인해 리그 강등이 발생될 수 있습니다. 차감 도중 플레이를 하게될 경우 차감 룰이 멈추게됩니다. 승점 차감 룰은 {2}점 이하에서는 발생하지 않습니다.</color>\n<color=#FFFFFF>- 매일 00:00~{3}:00(UTC+9)에는 매칭이 불가능하며, 해당 시간 내에 승점 정산이 이뤄집니다.</color>\n<color=#FFFFFF>- 시즌이 종료되고 결산 기간 시 최종 승점에 따라 보상이 지급됩니다.</color>\n\n<b><color=#4EC2F3>[언리미티드 전투 환경]</color></b>\n<color=#FFFFFF>- 장비와 성장으로 증가한 체력, 공격력, 방어력의 10%만 적용됩니다.</color>\n<color=#FFFFFF>- SSR 등급의 함선은 최대 피해제한 20% 및 치명타 피해 저항 50% 효과를 갖습니다.</color>\n<color=#FFFFFF>- 남은 시간에 따라 회복 약화가 최대 80%까지 강화됩니다.</color>"
+    ],
+    [
+      "SI_PVP_UNLIMITED_SEASON_RULE_V3",
+      "<b><color=#4EC2F3>[최고 레벨 적용 시즌]</color></b>\n<color=#FFFFFF>- 최고 레벨 적용 시즌일 경우 다음과 같이 적용이 됩니다.</color>\n<color=#FFFFFF>- 사원의 경우 Lv.120, 스킬 레벨 Max, 전술 업데이트 6단계, 리액터 해방된 상태로 적용됩니다.</color>\n<color=#FFFFFF>- 오퍼레이터의 경우 Lv.100, 지휘 기술 Lv.8, 보조 기술 Lv.11로 적용됩니다.</color>\n<color=#FFFFFF>- 함선의 경우 Lv.100으로 적용됩니다.</color>\n\n<b><color=#4EC2F3>[언리미티드]</color></b>\n<color=#FFFFFF>- 시즌 기간 중에 유저들간 매칭 및 플레이가 가능합니다.</color>\n<color=#FFFFFF>- 금주의 밴&업이 적용되지 않습니다.</color>\n<color=#FFFFFF>- 자신보다 높은 승점의 유저에게 승리하면 승점을 많이 얻고, 질 경우 적게 잃습니다.</color>\n<color=#FFFFFF>- 자신보다 낮은 승점의 유저에게 승리하면 승점을 적게 얻고, 질 경우 많이 잃습니다.</color>\n<color=#FFFFFF>- 승점이 일정 수준 이상으로 차이가 나는 유저와 매칭될 경우 최대 혹은 최소 승점을 얻거나 잃을 수 있습니다.</color>\n<color=#FFFFFF>- 승점을 일정 이상 얻으면 상위 리그로 올라갈 수 있습니다.</color>\n<color=#FFFFFF>- 브론즈 ~ 다이아몬드 리그에서는 패배를 하여도 승점을 잃지 않습니다.</color>\n<color=#FFFFFF>- 일부 리그에서, 해당 리그의 승점보다 1점 이하로 떨어지면 강등될 수 있습니다.</color>\n<color=#FFFFFF>- 마지막 플레이 이후 48시간 플레이를 하지 않을 경우 정산 시간에 {0}점이 차감, 이후 매일 {1}점씩 차감되며, 차감으로 인해 리그 강등이 발생될 수 있습니다. 차감 도중 플레이를 하게될 경우 차감 룰이 멈추게됩니다. 승점 차감 룰은 {2}점 이하에서는 발생하지 않습니다.</color>\n<color=#FFFFFF>- 매일 00:00~{3}:00(UTC+9)에는 매칭이 불가능하며, 해당 시간 내에 승점 정산이 이뤄집니다.</color>\n<color=#FFFFFF>- 시즌이 종료되고 결산 기간 시 최종 승점에 따라 보상이 지급됩니다.</color>\n\n<b><color=#4EC2F3>[언리미티드 전투 환경]</color></b>\n<color=#FFFFFF>- 장비와 성장으로 증가한 체력, 공격력, 방어력의 10%만 적용됩니다.</color>\n<color=#FFFFFF>- SSR 등급의 함선은 최대 피해제한 20% 및 치명타 피해 저항 50% 효과를 갖습니다.</color>\n<color=#FFFFFF>- 남은 시간에 따라 회복 약화가 최대 80%까지 강화됩니다.</color>"
+    ],
+    [
+      "SI_PVP_UNLIMITED_SEASON_RULE_V4",
+      "<b><color=#4EC2F3>[최고 레벨 적용 및 장비 미적용 시즌]</color></b>\n<color=#FFFFFF>- 장비 미적용 시즌일 경우 장비의 능력치가 적용되지 않습니다 .</color>\n<color=#FFFFFF>- 최고 레벨 적용 시즌일 경우 다음과 같이 적용이 됩니다.</color>\n<color=#FFFFFF>- 사원의 경우 Lv.120, 스킬 레벨 Max, 전술 업데이트 6단계, 리액터 해방된 상태로 적용됩니다.</color>\n<color=#FFFFFF>- 오퍼레이터의 경우 Lv.100, 지휘 기술 Lv.8, 보조 기술 Lv.11로 적용됩니다.</color>\n<color=#FFFFFF>- 함선의 경우 Lv.100으로 적용됩니다.</color>\n\n<b><color=#4EC2F3>[언리미티드]</color></b>\n<color=#FFFFFF>- 시즌 기간 중에 유저들간 매칭 및 플레이가 가능합니다.</color>\n<color=#FFFFFF>- 금주의 밴&업이 적용되지 않습니다.</color>\n<color=#FFFFFF>- 자신보다 높은 승점의 유저에게 승리하면 승점을 많이 얻고, 질 경우 적게 잃습니다.</color>\n<color=#FFFFFF>- 자신보다 낮은 승점의 유저에게 승리하면 승점을 적게 얻고, 질 경우 많이 잃습니다.</color>\n<color=#FFFFFF>- 승점이 일정 수준 이상으로 차이가 나는 유저와 매칭될 경우 최대 혹은 최소 승점을 얻거나 잃을 수 있습니다.</color>\n<color=#FFFFFF>- 승점을 일정 이상 얻으면 상위 리그로 올라갈 수 있습니다.</color>\n<color=#FFFFFF>- 브론즈 ~ 다이아몬드 리그에서는 패배를 하여도 승점을 잃지 않습니다.</color>\n<color=#FFFFFF>- 일부 리그에서, 해당 리그의 승점보다 1점 이하로 떨어지면 강등될 수 있습니다.</color>\n<color=#FFFFFF>- 마지막 플레이 이후 48시간 플레이를 하지 않을 경우 정산 시간에 {0}점이 차감, 이후 매일 {1}점씩 차감되며, 차감으로 인해 리그 강등이 발생될 수 있습니다. 차감 도중 플레이를 하게될 경우 차감 룰이 멈추게됩니다. 승점 차감 룰은 {2}점 이하에서는 발생하지 않습니다.</color>\n<color=#FFFFFF>- 매일 00:00~{3}:00(UTC+9)에는 매칭이 불가능하며, 해당 시간 내에 승점 정산이 이뤄집니다.</color>\n<color=#FFFFFF>- 시즌이 종료되고 결산 기간 시 최종 승점에 따라 보상이 지급됩니다.</color>\n\n<b><color=#4EC2F3>[언리미티드 전투 환경]</color></b>\n<color=#FFFFFF>- 장비와 성장으로 증가한 체력, 공격력, 방어력의 10%만 적용됩니다.</color>\n<color=#FFFFFF>- SSR 등급의 함선은 최대 피해제한 20% 및 치명타 피해 저항 50% 효과를 갖습니다.</color>\n<color=#FFFFFF>- 남은 시간에 따라 회복 약화가 최대 80%까지 강화됩니다.</color>"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_TITLE_2023_01_AWAKEN",
+      "각성 모의전"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_DESC_2023_01_AWAKEN",
+      "제공되는 각성 캐릭터와 함선으로 건틀렛 친선 경기를 즐겨보세요!\n서로 동일한 각성 캐릭터와 버프가 제공됩니다."
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_001",
+      "<b>※ 아케이드 경기장 이용 규칙</b> \n\n - 매일 경기장 입장 가능\n - 장비 능력치는 적용되지 않습니다.\n - 밴&업 미적용"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_RULE_TIME_DAILY",
+      "<b>※ 아케이드 경기장 이용 규칙</b> \n\n - 매일 {0}~{1}까지 입장 가능\n - 장비를 착용할 수 없습니다."
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_RULE_TIME_WED_END",
+      "<b>※ 아케이드 경기장 이용 규칙</b> \n\n - 수~일 {0}~{1}까지 입장 가능\n - 장비를 착용할 수 없습니다."
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_RULE_TIME_WEEKEND",
+      "<b>※ 아케이드 경기장 이용 규칙</b> \n\n - 금,토,일 {0}~{1}까지 입장 가능\n - 장비를 착용할 수 없습니다."
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_RULE_TIME_DAILY_OVERTIME",
+      "<b>※ 아케이드 경기장 이용 규칙</b> \n\n - 매일 {0}~다음날 {1}까지 입장 가능\n - 장비를 착용할 수 없습니다."
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_RULE_TIME_WED_END_OVERTIME",
+      "<b>※ 아케이드 경기장 이용 규칙</b> \n\n - 수~일 {0}~다음날 {1}까지 입장 가능\n - 장비를 착용할 수 없습니다."
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_RULE_TIME_WEEKEND_OVERTIME",
+      "<b>※ 아케이드 경기장 이용 규칙</b> \n\n - 금,토,일 {0}~다음날 {1}까지 입장 가능\n - 장비를 착용할 수 없습니다."
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_RULE_TIME_DAILY_OVERTIME_NO_ITEM",
+      "<b>※ 아케이드 경기장 이용 규칙</b> \n\n - 매일 {0}~다음날 {1}까지 입장 가능"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_RULE_DEFAULT",
+      "규칙\n\n- 밴&업 미적용\n- 장비 능력치 미적용\n- 각성 유닛 사용 불가\n- 재무장 유닛 사용 불가\n- 오퍼레이터 사용 불가"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_RULE_NOSSR",
+      "규칙\n\n- 장비 능력치 미적용\n- SR등급 이하 유닛만 사용 가능\n- 재무장 유닛 사용 불가\n- 오퍼레이터 사용 불가"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_NO_OPR",
+      "규칙\n\n- 밴&업 미적용\n- 장비 능력치 미적용\n- 오퍼레이터 사용 불가"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_MAXLV",
+      "규칙\n\n- 밴&업 미적용\n- 장비 능력치 미적용\n- 오퍼레이터 사용 불가\n- 최고 레벨 적용"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_NO_OPR_SPELL_V1",
+      "규칙\n\n- 밴&업 미적용\n- 장비 능력치 미적용\n- 오퍼레이터 사용 불가\n\n-스트라이크 패키지 : ALPHA\n대부분의 방어능력을 무시하는 강한 공격\n시전 시간 4초, 좁은 범위, 지상 효과(보스 제외)\n\n-스트라이크 패키지 : BRAVO\n대부분의 방어능력을 무시하는 공격\n시전 시간 0.5초, 일반 범위, 전천후 효과(보스 제외)\n범위 안에 12초간 [회복 불가]효과 부여, 3코스트 이하는 추가적으로 방어능력과 모든 능력치가 치명적으로 감소됨"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_NO_OPR_SPELL_V2",
+      "규칙\n\n- 밴&업 미적용\n\n-스트라이크 패키지 : ALPHA\n대부분의 방어능력을 무시하는 강한 공격\n1회 출격 제한, \n시전 시간 4초, 좁은 범위, 지상 효과(보스 제외)\n\n-스트라이크 패키지 : CHARLIE\n대부분의 공격능력을 무시하는 방어\n1회 출격 제한, \n시전 시간 0.5초, 좁은 범위, 전천후 효과(보스 제외)\n범위 안에 3초간 [피해면역◇]효과 부여"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_CAT_TEST",
+      "규칙\n\n- 장비 능력치 적용\n- 밴&업 적용\n\n앨리스 브레이드우드 변경 점\n\n- 강화 상태 중 적과 거리가 벌어지면 특수기를 쿨타임과 상관없이 출격 당 최대 2회 까지 재발동\n- 강화 상태 중 공격력 30% 증가 -> 50% 증가로 변경\n- 브리트라 렐릭 장비 보정치 적용"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_SPELLCARD",
+      "규칙\n\n- 장비 능력치 적용\n- 밴&업 적용\n\n-스트라이크 패키지 : ALPHA\n대부분의 방어능력을 무시하는 강한 공격\n시전 시간 4초, 좁은 범위, 지상 효과\n\n-스트라이크 패키지 : BRAVO\n대부분의 방어능력을 무시하는 공격\n시전 시간 0.5초, 일반 범위, 전천후 효과\n범위 안에 12초간 [회복 불가]효과 부여, 3코스트 이하는 추가적으로 방어능력과 모든 능력치가 치명적으로 감소됨"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_LONG_MAP",
+      "규칙\n\n- 밴&업 미적용\n- 장비 능력치 미적용\n- 오퍼레이터 사용 불가\n- 스테이지 길이 50% 증가"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_RULE_HEALDOWN",
+      "규칙\n\n- 모든 유닛 회복 약화 80%\n- 밴&업 미적용\n- 장비 능력치 적용"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_RULE_HEALDOWN_60",
+      "규칙\n\n- 모든 유닛 회복 약화 60%\n- 밴&업 미적용\n- 장비 능력치 적용"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_RULE_AWAKEN",
+      "규칙\n\n- 밴&업 미적용\n- 장비 능력치 적용"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_RULE_UPBAN",
+      "규칙\n\n- 밴&업 적용\n- 장비 능력치 미적용"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_RULE_DAMAGE_INCREASE",
+      "규칙\n\n- 밴&업 미적용\n- 장비 능력치 적용\n\n- 시간에 따라 받는 피해 증가"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_RULE_MAESTRO",
+      "규칙\n\n- 소환하는 엘리시움 연주자별로 해제불가의 특수 효과가 발생(최대 4개체)\n\n- 바이올리니스트(스나이퍼)\n보스를 포함한 모든 적의 초당 체력 -1%, 공격력-5%, 받는 피해증폭 +5%\n\n- 베이시스트(서포터)\n보스를 포함한 모든 아군의 초당 체력 +0.6%, 공격력+5%, 받는 피해감쇄 +5%\n\n- 네퀴티아는 받는 회복량+60% 효과 보유\n\n - 네퀴티아의 스킬 [피날레](쿨타임:45초)\n모든 적에게 8초간 해제가 불가능한 버프 무효화를 부여. 현재 연주자 구성의 효과를 5배로 증가하여 해당하는 대상에게 8초간 부여."
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_RULE_AUTO",
+      "규칙\n\n- 수동 조작 불가\n- 출격 순서 고정\n- 밴&업 미적용\n- 장비 능력치 적용"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_DRAFTBANPICK",
+      "규칙\n\n- 드래프트 밴픽 적용\n- 장비 능력치 미적용\n- 최고 레벨 적용"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_DRAFTBANPICK_EQUIP",
+      "규칙\n\n- 드래프트 밴픽 적용\n- 장비 능력치 적용"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_CLB_001",
+      "규칙\n\n- 동시 출격 최대 2명\n- 밴&업 미적용\n- 장비 능력치 미적용\n- 오퍼레이터 사용 불가"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_1RULE",
+      "<b>※ 아케이드 경기장 이용 규칙</b> \n\n{0}"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_2RULE",
+      "<b>※ 아케이드 경기장 이용 규칙</b> \n\n{0}\n{1}"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_TIME",
+      " - 매일 {0}~{1}까지 입장 가능"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_TIME_OVERTIME",
+      " - 매일 {0}~다음날 {1}까지 입장 가능"
+    ],
+    [
+      "SI_PF_EVENTMATCH_MAIN_MENU_RULE_PLAY_NO_ITEM",
+      " - 장비 능력치는 적용되지 않습니다."
+    ],
+    [
+      "SI_PVP_EVENTMATCH_TITLE_2023_02",
+      "총학생회 실습 강연"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_DESC_2023_02",
+      "총학생회 임원 시엘 선배님의 감독하에 아케이드 실습 강연이 시작됩니다!\n여러분! 실습이에요! 실습!"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_TITLE_2023_NO_REARM_AWAKEN",
+      "마지막 비장의 카드"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_DESC_2023_NO_REARM_AWAKEN",
+      "덱의 가장 마지막 순번에 랜덤한 각성 유닛이 배치됩니다.\n누가 될지 아무도 장담 못해!"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_TITLE_CLASSIC",
+      "건틀렛 클래식"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_TITLE_AWAKEN",
+      "각성 아케이드"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_TITLE_CLB_001",
+      "NETWORK"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_DESC_CLB_001",
+      "시뮬레이션에 실시간 온라인 매칭이 업데이트되었습니다!\n새로운 캐릭터와 함께 많은 테스트 부탁드릴게요! (feat.올리비에 박)"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_TITLE_2023_05",
+      "상태창! 스테이터스 오픈!"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_DESC_2023_05",
+      "<color=#ffdb6c><SYSTEM> 공격속도, 이동속도, 스킬 충전속도가 강화되었습니다.</color>"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_TITLE_2023_06",
+      "건틀렛 시뮬레이터"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_DESC_2023_06",
+      "건틀렛 리그에 도전하기 앞서 다양한 전략을 실험할 수 있습니다!\n안전을 위해 함선에 보호 정책이 적용됩니다."
+    ],
+    [
+      "SI_PVP_EVENTMATCH_DESC_2023_07",
+      "이런, 시뮬레이터가 상태가 이상하네요\n스탯이 왜 이렇게 높지 ( '～`；)"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_TITLE_2023_08",
+      "제{0}회 최대 {1} 토너먼트"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_DESC_2023_08",
+      "총 {0}종, <color=#ffdb6c>챔피언의 자리를 노리는 각성 유닛</color>이 랜덤하게 배정됩니다."
+    ],
+    [
+      "SI_PVP_EVENTMATCH_TITLE_2023_09",
+      "붉은 여왕과 하얀 여왕"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_DESC_2023_09",
+      "돌아온 세기의 대결."
+    ],
+    [
+      "SI_PVP_EVENTMATCH_TITLE_2023_10",
+      "Battle in the Sky"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_DESC_2023_10",
+      "희망, 구원, 고통, 두려움."
+    ],
+    [
+      "SI_PVP_EVENTMATCH_TITLE_2023_11",
+      "The NEW age"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_DESC_2023_11",
+      "그들이 안배해 놓은 피할 수 없는 세계의 법칙이!"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_TITLE_2023_12",
+      "훈련소"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_DESC_2023_12",
+      "건틀렛의 미래는 이곳에서 시작된다"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_TITLE_2023_13",
+      "엘리시움 필하모닉"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_DESC_2023_13",
+      "Cadenza ad libitum"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_TITLE_2024_01",
+      "오토 배틀"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_DESC_2024_01",
+      "수동 조작이 불가능합니다"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_TITLE_2024_04",
+      "데인저 클로즈 화력 지원"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_DESC_2024_04",
+      "미 확인 목표에 대한 스트라이크 패키지 B형 출격 개시"
+    ],
+    [
+      "SI_PVP_EVENTMATCH_DESC_2024_08",
+      "수동 조작이 불가능하며, 토너먼트 밴이 투표 후 적용됩니다."
+    ]
+  ]
+}

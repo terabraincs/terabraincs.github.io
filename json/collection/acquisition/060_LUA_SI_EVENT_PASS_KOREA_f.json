@@ -1,0 +1,38 @@
+{
+  "asset_name": "LUA_SI_EVENT_PASS_KOREA_f",
+  "root_name": "m_dicString",
+  "data": [
+    [
+      "SI_EVENT_PASS_TITLE_001",
+      "카운터 패스 : 커리어"
+    ],
+    [
+      "SI_EVENT_PASS_TITLE_CLB_001",
+      "카운터 패스 : 솔 배드가이"
+    ],
+    [
+      "SI_EVENT_PASS_SPECIAL_TITLE_001",
+      "스페셜 플랜"
+    ],
+    [
+      "SI_EVENT_PASS_SPECIAL_DESC_001",
+      "스페셜 플랜 활성화!\n카운터 패스를 레벨 업을 통해\n신규 유닛을 획득 할 수 있습니다."
+    ],
+    [
+      "SI_EVENT_PASS_SPECIAL_PLUS_TITLE_001",
+      "스페셜 플랜 + 패스레벨 15"
+    ],
+    [
+      "SI_EVENT_PASS_SPECIAL_PLUS_TITLE_002",
+      "스페셜 플랜 + 패스레벨 20"
+    ],
+    [
+      "SI_EVENT_PASS_SPECIAL_PLUS_DESC_001",
+      "스페셜 플랜 활성화! + 패스 레벨 15 UP!\n구매 즉시 카운터 패스 레벨 15 상승\n신규 유닛을 획득 할 수 있습니다."
+    ],
+    [
+      "SI_EVENT_PASS_SPECIAL_PLUS_DESC_002",
+      "스페셜 플랜 활성화! + 패스 레벨 20 UP!\n구매 즉시 카운터 패스 레벨 20 상승\n신규 유닛을 획득 할 수 있습니다."
+    ]
+  ]
+}

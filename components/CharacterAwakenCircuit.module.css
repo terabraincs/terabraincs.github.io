@@ -1,0 +1,41 @@
+.plane {
+  container-type: size;
+  height: 107.91%;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%) rotate(36deg) scale(2);
+  transform-origin: center;
+  width: 108.594%;
+}
+
+.mirror {
+  transform: scaleX(-1);
+  transform-origin: center;
+}
+
+.texture {
+  animation: awaken-circuit-uv 100s linear infinite;
+  background-repeat: repeat;
+  background-size: 100cqw 43.47826087cqh;
+  height: 100%;
+  position: absolute;
+  width: 100%;
+  will-change: background-position;
+}
+
+@keyframes awaken-circuit-uv {
+  from {
+    background-position: 0 0;
+  }
+
+  to {
+    background-position: -1000cqw -43.47826087cqh;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .texture {
+    animation: none;
+  }
+}

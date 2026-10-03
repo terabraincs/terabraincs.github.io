@@ -1,0 +1,190 @@
+{
+  "asset_name": "LUA_SI_UNIT_OPR_KOREA_h",
+  "root_name": "m_dicString",
+  "data": [
+    [
+      "SI_UNIT_NAME_OPR_LEE_SUYEON",
+      "이수연"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_OLIVIA_PARK",
+      "올리비에 박"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_ANASTASIA",
+      "아나스타샤 체르노바"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_CHLOE",
+      "클로에 스타시커"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_LENA",
+      "레나 맥켄지"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_JANG_WEI",
+      "장 웨이"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_MARK_FINRI",
+      "마크 핀리"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_LEE_YOONJUNG",
+      "이윤정"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_NAHIRIN",
+      "나희린"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_REPLACER_COMMANDAR",
+      "리플레이서 사령관"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_ALICIA",
+      "라임"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_ACADEMY_FRESHMAN",
+      "아카데미 상급생"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_AUTOMATA",
+      "보급형 오토마타"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_KIMHANA",
+      "김하나"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_OLD_ALICIA",
+      "모네카"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_REPLACER_KING",
+      "리플레이서 킹"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_RAS_TOWER",
+      "시그마"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_MASTER",
+      "맨션 마스터"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_SERINA_SUMMER",
+      "세리나 크루"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_GRAFFITI",
+      "레이첼 도즈"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_MOMO",
+      "모모"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_MOTHER",
+      "모에나"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_REPLACER_LOOK",
+      "리플레이서 룩"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_VILLETTA",
+      "비렛타 누"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_DAIN",
+      "정다인"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_VIVIEN",
+      "비비안 래시포드"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_SYSOP",
+      "시솝"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_MITCH",
+      "베티 미치"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_CANARY_STAFF",
+      "스키너"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_SHASHA",
+      "사샤"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_ROOT_DRUID",
+      "멀린"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_SPEAKER",
+      "유피"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_ASHA",
+      "아샤"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_HESTIA",
+      "헤스티아"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_BOOK",
+      "비블리데 루체"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_AGNES",
+      "아그네스"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_RAT",
+      "쥐스틴 메이시"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_GRACE",
+      "그레이스 버밍엄"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_LEEJISOO",
+      "이지수"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_NATALIA",
+      "나탈리아"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_DOGABI",
+      "명달"
+    ],
+    [
+      "SI_UNIT_NAME_OPR_CREW",
+      "메리 크루"
+    ],
+    [
+      "SI_UNIT_DESC_OPR_SSR",
+      "SSR 등급 오퍼레이터"
+    ],
+    [
+      "SI_UNIT_DESC_OPR_SR",
+      "SR 등급 오퍼레이터"
+    ],
+    [
+      "SI_UNIT_DESC_OPR_R",
+      "R 등급 오퍼레이터"
+    ],
+    [
+      "SI_UNIT_DESC_OPR_N",
+      "N 등급 오퍼레이터"
+    ]
+  ]
+}

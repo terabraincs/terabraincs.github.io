@@ -1,0 +1,3042 @@
+{
+  "asset_name": "LUA_SI_ATTENDANCE_TEMPLET_KOREA_w",
+  "root_name": "m_dicString",
+  "data": [
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_NORMAL",
+      "월간 출근 보상"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_LAUNCH",
+      "런칭 특별 보상"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_NEW_02",
+      "테스트 기념 선물"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_NEW_03",
+      "창업 기념 보상"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_VALEN20",
+      "발렌타인"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_NEW_04",
+      "신임 지원 플랜"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_SPRING20",
+      "따스한 봄"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_SPRING20_02",
+      "푸르른 봄"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_SPRING_RACING",
+      "스프링 레이싱"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_MAY_GOLDEN_WEEK",
+      "가정의달"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_1ST_ANNIVERSARY",
+      "100일 기념"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_PVP_SEASON1",
+      "전략전 오픈"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_VER20_RENEWAL",
+      "리뉴얼 전야제"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_NEW_RENEWAL",
+      "창업 기념 선물"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_BRAND_NEW",
+      "2.0 리뉴얼"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_SPECIAL_SUMMER",
+      "스페셜 바캉스"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_200DAYS",
+      "200일 기념"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_NEW_RENEWAL_02",
+      "신임 집중 지원"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_TWN_CBT_EVENT",
+      "CBT 기념"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_TWN_CBT_CASH",
+      "매일 매일 쿼츠"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_CHUSEOK",
+      "한가위 기념"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_NEW_RENEWAL_03",
+      "초특급 신임"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_RETURN_202003",
+      "복직 특별 선물"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_RETURN_202008",
+      "복직 집중 지원"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_RETURN_202009",
+      "초특급 복직"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_HALLOWEEN",
+      "할로윈 기념"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_PEPERO",
+      "빼빼로데이 기념"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_ENCHANT",
+      "내정 강화 시즌"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_300DAYS",
+      "300일 기념"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_XMAS",
+      "크리스마스 기념"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_ANNIVERSARY_1",
+      "1주년 기념"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_NEWYEAR",
+      "새해 기념"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_50DAYS",
+      "50일 기념"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_REPLACER",
+      "리플레이서 시즌"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_FOOLS",
+      "배달 음식 쿠폰"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_CHILD",
+      "어린이의 마음"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_SHOP_RENEWAL",
+      "편의점 아포칼립스"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_LABOR",
+      "근로자의 날"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_100_EVE",
+      "사장님취임! 100일 도달 출석체크"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_SIGMA",
+      "시그마의 그림일기"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_SPORTS",
+      "운동회 개막!"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_500DAYS",
+      "500일 기념"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_30DAYS",
+      "30일 기념!"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_CHALLENGE_BOOSTING",
+      "챌린지 특별 보급"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_HOLYDAY_BONUS",
+      "연휴 특별 일일 상여!"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_CLB_001",
+      "LET'S ROCK!"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_EQUIP_ENCHANT",
+      "장비 강화 시즌"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_PRIVATE_EQUIP_POLICY",
+      "전용장비 정책변경 사과보상"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_CHN_PBT_EVENT",
+      "PBT 기념"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_ANNIVERSARY_1_5YEAR",
+      "1.5주년 기념"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_WEDDING",
+      "하객들을 위한 답례품!"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_SPECIAL_SUMMER_2021",
+      "부사장의 휴가!"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_HOLYDAY_2021",
+      "연휴 기념!"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_OFFICE",
+      "본사 오픈 기념!"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_AUTUMN_2021",
+      "가을이 오면"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_BAM_10",
+      "대나무 숲의 영주님 특별 선물!"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_HALLOWEEN_V2",
+      "HAPPY HALLOWEEN!"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_HORIZON",
+      "호라이즌의 아티팩트"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_REARMAMENT",
+      "재무장 기념 특별 보급"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_BLACK_11",
+      "LUCKY BLACK FRIDAY!"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_AUTUMN_SPORTS",
+      "가을 운동회 개막"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_NEW_AWAKEN",
+      "각성 업데이트 기념 특별 보상"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_JAPAN_NANA",
+      "여우가면의 특별 선물"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_XMAS_V2",
+      "따뜻한 산장 연회"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_NEWYEAR_2022",
+      "행운 가득! 새해맞이"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_7TIER_EQUIP",
+      "7티어 기념 특별 보급"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_WANTED",
+      "특별 수사 기념 보급"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_ADMIN",
+      "메이즈 전대의 보급품"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_ENVELOPE",
+      "대박 기원 2022"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_LIMIT_FESTIVAL",
+      "융합핵 페스티벌"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_ANNIVERSARY_2YEAR",
+      "2주년 기념"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_VALEN_22",
+      "스위트 프로모션"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_STREGA",
+      "스트레가 방문 기념 선물"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_SPRING_BLOSSOM",
+      "봄 맞이 피크닉 기념품"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_FOOLS_2022",
+      "기묘한 회사의 출근체크"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_HARMONY",
+      "봄날의 선율 출근체크"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_ANNIVERSARY_0_5YEAR",
+      "반주년 기념 출근체크"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_FAM_05",
+      "행복을 전하는 선물"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_INTER_06",
+      "여름 맞이 특별 선물"
+    ],
+    [
+      "SI_ATTNED_TAB_NAME_MAIN_QLE_EP",
+      "클리포트 게임 기념 출근체크"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_INTER_07",
+      "핫-썸머 페스티벌"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_NIGHTMARE_ES",
+      "악몽 탈출 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_ROYAL_SUP",
+      "왕실 지원 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_INTER_08",
+      "부사장의 특별 보너스"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_HOLY_DAY_22",
+      "학생회의 연휴 특별 선물"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_CLB_002",
+      "애쉬포드 학원제 기념 선물"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_ANNIVERSARY_1_G",
+      "코핀 컴퍼니 디너 파티"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_HALLOWEEN_V3",
+      "오싹한 축제"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_ANNIVERSARY_1_5YEAR_G",
+      "코핀 컴퍼니 추수감사절"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_1000DAYS",
+      "1000일 기념"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_ANNIVERSARY_2YEAR_G",
+      "코핀 컴퍼니 홀리데이"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_CLB_003",
+      "매일 매일 홀로에그"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_XMAS_V3",
+      "성야제 파티"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SERVICE_TRANSFER",
+      "넥스트 스텝"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_NEWYEAR_2023",
+      "새해맞이 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_EVE_3",
+      "전야제 카운트다운!"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_GLOBAL_FIRST",
+      "NEW ORIGIN"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_SPRING_BLOSSOM_V2",
+      "봄 나들이 출근체크"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_BONUS",
+      "김하나의 특별 보너스"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_GLOBAL_FIRST_HALF_ANN_EVE",
+      "하프 애니버서리 전야제"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_GLOBAL_FIRST_HALF_ANN",
+      "NEW ORIGIN 하프 애니버서리"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_ZLONG_REACTOR",
+      "얼터니움 리액터 기념 출근체크"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_HOLY_DAY_23",
+      "연휴 특별 출근체크"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_GLOBAL_FIRST_HALF_ANN_EVE_ZL",
+      "3주년 애니버서리 전야제"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_GLOBAL_FIRST_HALF_ANN_ZL",
+      "3주년 애니버서리"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_GLOBAL_FIRST_1YEAR",
+      "애니버서리 감사제"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_BONUS_V2",
+      "아나스타샤의 특별 보급"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_BONUS_V3",
+      "나희린의 특별 보너스"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_BONUS_V4",
+      "유닛 성장 시즌"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_ERROR_REWARD",
+      "바이너리 특별 보급"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_MAIN_CLB_004",
+      "헤스티아의 축복"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_EVE",
+      "{0}주년 애니버서리 전야제"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_ANNIVERSARY",
+      "{0}주년 애니버서리 감사제"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_NORMAL",
+      "ATTENDANCE"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_LAUNCH",
+      "LAUNCHING"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_NEW_02",
+      "ROOKIE"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_VALEN20",
+      "VALENTINE"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_NEW_04",
+      "NEW CEO"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_SPRING20",
+      "SPRING"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_SPRING_RACING",
+      "RACING"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_MAY_GOLDEN_WEEK",
+      "FAMILY"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_1ST_ANNIVERSARY",
+      "100DAY"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_PVP_SEASON1",
+      "ASYNC PVP"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_VER20_RENEWAL",
+      "RENEW NIGHT"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_BRAND_NEW",
+      "2.0 UPDATE"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_SPECIAL_SUMMER",
+      "SUMMER!"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_200DAYS",
+      "200DAY"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_TWN_CBT_EVENT",
+      "CBT EVENT"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_TWN_CBT_CASH",
+      "EVERYDAY"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_ENCHANT",
+      "EVENT"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_RETURN_202003",
+      "RETURN"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_300DAYS",
+      "300DAY"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_ANNIVERSARY_1",
+      "1YEAR"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_50DAYS",
+      "50DAY"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_REPLACER",
+      "REPLACER"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_FOOLS",
+      "FOOD DAY"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_CHN_PBT_EVENT",
+      "PBT EVENT"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_ANNIVERSARY_1_5YEAR",
+      "1.5YEAR"
+    ],
+    [
+      "SI_ATTEND_TAB_NAME_SUB_ANNIVERSARY_2YEAR",
+      "2YEAR"
+    ],
+    [
+      "SI_ATTEND_TITLE_NORMAL_01",
+      "이 달의 출근체크 보상"
+    ],
+    [
+      "SI_ATTEND_MAIL_TITLE_RTN1_01",
+      "복직 기념 특별 출근 보상"
+    ],
+    [
+      "SI_ATTEND_TITLE_LAUNCH_01",
+      "런칭 기념 특별 출근 보상"
+    ],
+    [
+      "SI_ATTEND_TITLE_IBT_01",
+      "테스트 기념 특별 출근 보상"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW03_01",
+      "창업 기념 특별 출근 보상"
+    ],
+    [
+      "SI_ATTEND_TITLE_VALEN_01",
+      "발렌타인 특별 출근 보상♡"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEWBIE_202001_01",
+      "신임 CEO 15일 지원 플랜 보상"
+    ],
+    [
+      "SI_ATTEND_TITLE_SPRING_2020_01",
+      "따스한 봄 특별 출근 보상♧"
+    ],
+    [
+      "SI_ATTEND_TITLE_SPRING_2020_02_01",
+      "푸르른 봄 특별 출근 보상♤"
+    ],
+    [
+      "SI_ATTEND_TITLE_SPRING_RACING_01",
+      "스프링 레이싱 출근 보상"
+    ],
+    [
+      "SI_ATTEND_TITLE_MAY_GOLDEN_WEEK_01",
+      "가정의달 출근 보상"
+    ],
+    [
+      "SI_ATTEND_TITLE_100DAYS_ANNIVERSARY_01",
+      "100일 기념 특별 보상 [1일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_100DAYS_ANNIVERSARY_02",
+      "100일 기념 특별 보상 [2일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_100DAYS_ANNIVERSARY_03",
+      "100일 기념 특별 보상 [3일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_100DAYS_ANNIVERSARY_04",
+      "100일 기념 특별 보상 [4일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_100DAYS_ANNIVERSARY_05",
+      "100일 기념 특별 보상 [5일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_100DAYS_ANNIVERSARY_06",
+      "100일 기념 특별 보상 [6일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_100DAYS_ANNIVERSARY_07",
+      "100일 기념 특별 보상 [7일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_100DAYS_ANNIVERSARY_08",
+      "100일 기념 특별 보상 [8일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_100DAYS_ANNIVERSARY_09",
+      "100일 기념 특별 보상 [9일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_100DAYS_ANNIVERSARY_10",
+      "100일 기념 특별 보상 [10일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_PVP_SEASON1_01",
+      "건틀렛 전략전 오픈 기념 출근 보상"
+    ],
+    [
+      "SI_ATTEND_TITLE_VER20_RENEWAL_01",
+      "리뉴얼 전야제 출근 보상"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_01",
+      "신임 CEO를 위한 특별 지원 [1일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_02",
+      "신임 CEO를 위한 특별 지원 [2일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_03",
+      "신임 CEO를 위한 특별 지원 [3일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_04",
+      "신임 CEO를 위한 특별 지원 [4일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_05",
+      "신임 CEO를 위한 특별 지원 [5일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_06",
+      "신임 CEO를 위한 특별 지원 [6일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_07",
+      "신임 CEO를 위한 특별 지원 [7일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_08",
+      "신임 CEO를 위한 특별 지원 [8일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_09",
+      "신임 CEO를 위한 특별 지원 [9일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_10",
+      "신임 CEO를 위한 특별 지원 [10일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_11",
+      "신임 CEO를 위한 특별 지원 [11일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_12",
+      "신임 CEO를 위한 특별 지원 [12일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_13",
+      "신임 CEO를 위한 특별 지원 [13일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_14",
+      "신임 CEO를 위한 특별 지원 [14일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_15",
+      "신임 CEO를 위한 특별 지원 [15일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_16",
+      "신임 CEO를 위한 특별 지원 [16일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_17",
+      "신임 CEO를 위한 특별 지원 [17일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_18",
+      "신임 CEO를 위한 특별 지원 [18일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_19",
+      "신임 CEO를 위한 특별 지원 [19일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL_20",
+      "신임 CEO를 위한 특별 지원 [20일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_BRAND_NEW_01",
+      "카운터사이드 2.0 리뉴얼 업데이트 기념!"
+    ],
+    [
+      "SI_ATTEND_TITLE_SPECIAL_SUMMER_2020_01",
+      "스페셜 바캉스 특별 출근체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_200DAYS_ANNIVERSARY_01",
+      "200일 기념 특별 보상 [1일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_200DAYS_ANNIVERSARY_02",
+      "200일 기념 특별 보상 [2일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_200DAYS_ANNIVERSARY_03",
+      "200일 기념 특별 보상 [3일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_200DAYS_ANNIVERSARY_04",
+      "200일 기념 특별 보상 [4일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_200DAYS_ANNIVERSARY_05",
+      "200일 기념 특별 보상 [5일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_200DAYS_ANNIVERSARY_06",
+      "200일 기념 특별 보상 [6일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_200DAYS_ANNIVERSARY_07",
+      "200일 기념 특별 보상 [7일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL02_01",
+      "신임 CEO 집중 지원 [1일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL02_02",
+      "신임 CEO 집중 지원 [2일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL02_03",
+      "신임 CEO 집중 지원 [3일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL02_04",
+      "신임 CEO 집중 지원 [4일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL02_05",
+      "신임 CEO 집중 지원 [5일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL02_06",
+      "신임 CEO 집중 지원 [6일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL02_07",
+      "신임 CEO 집중 지원 [7일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL02_08",
+      "신임 CEO 집중 지원 [8일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL02_09",
+      "신임 CEO 집중 지원 [9일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_RENEWAL02_10",
+      "신임 CEO 집중 지원 [10일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_01",
+      "김하나의 복직 특별 보상 [1일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_02",
+      "김하나의 복직 특별 보상 [2일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_03",
+      "김하나의 복직 특별 보상 [3일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_04",
+      "김하나의 복직 특별 보상 [4일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_05",
+      "김하나의 복직 특별 보상 [5일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_06",
+      "김하나의 복직 특별 보상 [6일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_07",
+      "김하나의 복직 특별 보상 [7일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_08",
+      "김하나의 복직 특별 보상 [8일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_09",
+      "김하나의 복직 특별 보상 [9일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_10",
+      "김하나의 복직 특별 보상 [10일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_11",
+      "김하나의 복직 특별 보상 [11일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_12",
+      "김하나의 복직 특별 보상 [12일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_13",
+      "김하나의 복직 특별 보상 [13일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_14",
+      "김하나의 복직 특별 보상 [14일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_15",
+      "김하나의 복직 특별 보상 [15일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_16",
+      "김하나의 복직 특별 보상 [16일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_17",
+      "김하나의 복직 특별 보상 [17일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_18",
+      "김하나의 복직 특별 보상 [18일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_19",
+      "김하나의 복직 특별 보상 [19일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202003_20",
+      "김하나의 복직 특별 보상 [20일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202005_01",
+      "레나와 클로에의 복직 특별 보상 [1일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202005_02",
+      "레나와 클로에의 복직 특별 보상 [2일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202005_03",
+      "레나와 클로에의 복직 특별 보상 [3일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202005_04",
+      "레나와 클로에의 복직 특별 보상 [4일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202005_05",
+      "레나와 클로에의 복직 특별 보상 [5일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202005_06",
+      "레나와 클로에의 복직 특별 보상 [6일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202005_07",
+      "레나와 클로에의 복직 특별 보상 [7일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202005_08",
+      "레나와 클로에의 복직 특별 보상 [8일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202005_09",
+      "레나와 클로에의 복직 특별 보상 [9일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202005_10",
+      "레나와 클로에의 복직 특별 보상 [10일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202005_11",
+      "레나와 클로에의 복직 특별 보상 [11일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202005_12",
+      "레나와 클로에의 복직 특별 보상 [12일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202005_13",
+      "레나와 클로에의 복직 특별 보상 [13일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202005_14",
+      "레나와 클로에의 복직 특별 보상 [14일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202005_15",
+      "레나와 클로에의 복직 특별 보상 [15일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202008_01",
+      "복직 CEO 집중 지원 [1일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202008_02",
+      "복직 CEO 집중 지원 [2일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202008_03",
+      "복직 CEO 집중 지원 [3일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202008_04",
+      "복직 CEO 집중 지원 [4일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202008_05",
+      "복직 CEO 집중 지원 [5일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202008_06",
+      "복직 CEO 집중 지원 [6일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202008_07",
+      "복직 CEO 집중 지원 [7일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202008_08",
+      "복직 CEO 집중 지원 [8일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202008_09",
+      "복직 CEO 집중 지원 [9일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_202008_10",
+      "복직 CEO 집중 지원 [10일차]"
+    ],
+    [
+      "SI_ATTEND_TITLE_TWN_CBT_EVENT_01",
+      "CBT 기념 출근 체크 보상"
+    ],
+    [
+      "SI_ATTEND_TITLE_TWN_CBT_NEW_01",
+      "매일 매일 쿼츠 지급 보상"
+    ],
+    [
+      "SI_ATTEND_TITLE_CHUSEOK_EVENT_01",
+      "한가위 기념 출근 체크 보상"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_SUPER_01",
+      "신임 CEO 초특급 지원 보상"
+    ],
+    [
+      "SI_ATTEND_TITLE_RETURN_SUPER_01",
+      "복직 CEO 초특급 지원 보상"
+    ],
+    [
+      "SI_ATTEND_TITLE_HALLOWEEN_EVENT_01",
+      "할로윈 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_TWN_OBT_EVENT_01",
+      "런칭 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_PEPERO_EVENT_01",
+      "빼빼로데이 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_ENCHANT_EVENT_01",
+      "내정 강화 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_ENCHANT_EVENT_02",
+      "내정 강화 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_ENCHANT_EVENT_03",
+      "내정 강화 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_ENCHANT_EVENT_04",
+      "내정 강화 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_ENCHANT_EVENT_05",
+      "내정 강화 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_ENCHANT_EVENT_06",
+      "내정 강화 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_ENCHANT_EVENT_07",
+      "내정 강화 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_300DAYS_01",
+      "300일 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_XMAS_01",
+      "크리스마스 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_1ST_ANNIVERSARY_01",
+      "[1일차] 1주년 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_1ST_ANNIVERSARY_02",
+      "[2일차] 1주년 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_1ST_ANNIVERSARY_03",
+      "[3일차] 1주년 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_1ST_ANNIVERSARY_04",
+      "[4일차] 1주년 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_1ST_ANNIVERSARY_05",
+      "[5일차] 1주년 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_1ST_ANNIVERSARY_06",
+      "[6일차] 1주년 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_1ST_ANNIVERSARY_07",
+      "[7일차] 1주년 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_1ST_ANNIVERSARY_08",
+      "[8일차] 1주년 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_1ST_ANNIVERSARY_09",
+      "[9일차] 1주년 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_1ST_ANNIVERSARY_10",
+      "[10일차] 1주년 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_1ST_ANNIVERSARY_11",
+      "[11일차] 1주년 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_1ST_ANNIVERSARY_12",
+      "[12일차] 1주년 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_1ST_ANNIVERSARY_13",
+      "[13일차] 1주년 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_1ST_ANNIVERSARY_14",
+      "[14일차] 1주년 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_1ST_ANNIVERSARY_15",
+      "[15일차] 1주년 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEWYEAR_01",
+      "새해 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEWYEAR_02",
+      "새해 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEWYEAR_03",
+      "새해 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEWYEAR_04",
+      "새해 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEWYEAR_05",
+      "새해 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEWYEAR_06",
+      "새해 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEWYEAR_07",
+      "새해 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_50DAY_01",
+      "50일 기념 출근 체크 1일차"
+    ],
+    [
+      "SI_ATTEND_TITLE_50DAY_02",
+      "50일 기념 출근 체크 2일차"
+    ],
+    [
+      "SI_ATTEND_TITLE_50DAY_03",
+      "50일 기념 출근 체크 3일차"
+    ],
+    [
+      "SI_ATTEND_TITLE_50DAY_04",
+      "50일 기념 출근 체크 4일차"
+    ],
+    [
+      "SI_ATTEND_TITLE_50DAY_05",
+      "50일 기념 출근 체크 5일차"
+    ],
+    [
+      "SI_ATTEND_TITLE_50DAY_06",
+      "50일 기념 출근 체크 6일차"
+    ],
+    [
+      "SI_ATTEND_TITLE_50DAY_07",
+      "50일 기념 출근 체크 7일차"
+    ],
+    [
+      "SI_ATTEND_TITLE_REPLACER_01",
+      "리플레이서 시즌 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_FOOLS_01",
+      "띵동! 배달 음식이 도착했어요!"
+    ],
+    [
+      "SI_ATTEND_TITLE_CHILD_01",
+      "어린이의 마음으로 출근체크!"
+    ],
+    [
+      "SI_ATTEND_TITLE_SHOP_RENEWAL",
+      "편의점 아포칼립스 리모델링 기념!"
+    ],
+    [
+      "SI_ATTEND_TITLE_LABOR",
+      "노동자를 위한 특별 보상 지급!"
+    ],
+    [
+      "SI_ATTEND_TITLE_100_EVE",
+      "사장님취임! 100일 도달 출석체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_SIGMA",
+      "아빠에게 주는 선물이야!"
+    ],
+    [
+      "SI_ATTEND_TITLE_SPORTS",
+      "아카데미 운동회 개막!"
+    ],
+    [
+      "SI_ATTEND_TITLE_500DAYS",
+      "500일까지 함께 해 줘서 감사합니다!"
+    ],
+    [
+      "SI_ATTEND_TITLE_30DAYS",
+      "30일 기념 출근체크!"
+    ],
+    [
+      "SI_ATTEND_TITLE_CHALLENGE_BOOSTING",
+      "챌린지 보급 도착!"
+    ],
+    [
+      "SI_ATTEND_TITLE_CHN_PBT_EVENT_01",
+      "PBT 기념 출근 체크 보상"
+    ],
+    [
+      "SI_ATTEND_TITLE_1_5ST_ANNIVERSARY",
+      "1.5주년 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_WEDDING",
+      "웨딩 스킨 출시 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_SPECIAL_SUMMER_2021",
+      "부사장의 휴가 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_HOLYDAY_2021",
+      "연휴 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_OFFICE",
+      "본사 오픈 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_AUTUMN_2021",
+      "가을이 오면 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_BAM_10",
+      "대나무 숲의 영주님 특별 선물"
+    ],
+    [
+      "SI_ATTEND_TITLE_HALLOWEEN_V2",
+      "HAPPY HALLOWEEN 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_HORIZON",
+      "호라이즌의 아티팩트 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_REARMAMENT",
+      "재무장 기념 특별 보급"
+    ],
+    [
+      "SI_ATTEND_TITLE_BLACK_11",
+      "LUCKY BLACK FRIDAY 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_AUTUMN_SPORTS",
+      "가을 운동회 개막 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEW_AWAKEN",
+      "각성 업데이트 기념 특별 보상"
+    ],
+    [
+      "SI_ATTEND_TITLE_JAPAN_NANA",
+      "여우가면의 특별 출근체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_XMAS_V2",
+      "따뜻한 산장 연회 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_NEWYEAR_2022",
+      "행운 가득! 새해맞이 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_7TIER_EQUIP",
+      "7티어 기념 특별 보급 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_WANTED",
+      "특별수사 기념 보급 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_ADMIN",
+      "메이즈 전대의 보급품 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_ENVELOPE",
+      "대박 기원 2022 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_LIMIT_FESTIVAL",
+      "융합핵 페스티벌 출근체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_ANNIVERSARY_2YEAR",
+      "2주년 기념 출근 체크"
+    ],
+    [
+      "SI_ATTEND_TITLE_VALEN_22",
+      "스위트 프로모션 출근체크"
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_01",
+      "1일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_02",
+      "2일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_03",
+      "3일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_04",
+      "4일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_05",
+      "5일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_06",
+      "6일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_07",
+      "7일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_08",
+      "8일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_09",
+      "9일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_10",
+      "10일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_11",
+      "11일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_12",
+      "12일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_13",
+      "13일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_14",
+      "14일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_15",
+      "15일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_16",
+      "16일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_17",
+      "17일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_18",
+      "18일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_19",
+      "19일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_20",
+      "20일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_21",
+      "21일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_22",
+      "22일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_23",
+      "23일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_24",
+      "24일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_25",
+      "25일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_26",
+      "26일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_27",
+      "27일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_28",
+      "28일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_29",
+      "29일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_30",
+      "30일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NORMAL_31",
+      "31일차 출근체크 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_MAIL_DESC_RTN1_01",
+      "사장님의 복직을 축하드리며, 특별 보상을 드립니다."
+    ],
+    [
+      "SI_ATTEND_DESC_LAUNCH_01",
+      "런칭 기념 1일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_LAUNCH_02",
+      "런칭 기념 2일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_LAUNCH_03",
+      "런칭 기념 3일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_LAUNCH_04",
+      "런칭 기념 4일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_LAUNCH_05",
+      "런칭 기념 5일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_LAUNCH_06",
+      "런칭 기념 6일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_LAUNCH_07",
+      "런칭 기념 7일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_IBT_01",
+      "테스트 기념 1일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_IBT_02",
+      "테스트 기념 2일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_IBT_03",
+      "테스트 기념 3일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_IBT_04",
+      "테스트 기념 4일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_IBT_05",
+      "테스트 기념 5일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_IBT_06",
+      "테스트 기념 6일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_IBT_07",
+      "테스트 기념 7일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_IBT_08",
+      "테스트 기념 8일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_IBT_09",
+      "테스트 기념 9일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_IBT_10",
+      "테스트 기념 10일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW03_01",
+      "창업 기념 1일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW03_02",
+      "창업 기념 2일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW03_03",
+      "창업 기념 3일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW03_04",
+      "창업 기념 4일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW03_05",
+      "창업 기념 5일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW03_06",
+      "창업 기념 6일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW03_07",
+      "창업 기념 7일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW03_08",
+      "창업 기념 8일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW03_09",
+      "창업 기념 9일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW03_10",
+      "창업 기념 10일차 특별 보상 입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VALEN_01",
+      "발렌타인 맞이 1일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VALEN_02",
+      "발렌타인 맞이 2일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VALEN_03",
+      "발렌타인 맞이 3일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VALEN_04",
+      "발렌타인 맞이 4일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VALEN_05",
+      "발렌타인 맞이 5일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VALEN_06",
+      "발렌타인 맞이 6일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VALEN_07",
+      "발렌타인 맞이 7일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VALEN_08",
+      "발렌타인 맞이 8일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VALEN_09",
+      "발렌타인 맞이 9일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VALEN_10",
+      "발렌타인 맞이 10일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEWBIE_202001_01",
+      "신임 CEO 지원 플랜 1일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEWBIE_202001_02",
+      "신임 CEO 지원 플랜 2일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEWBIE_202001_03",
+      "신임 CEO 지원 플랜 3일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEWBIE_202001_04",
+      "신임 CEO 지원 플랜 4일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEWBIE_202001_05",
+      "신임 CEO 지원 플랜 5일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEWBIE_202001_06",
+      "신임 CEO 지원 플랜 6일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEWBIE_202001_07",
+      "신임 CEO 지원 플랜 7일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEWBIE_202001_08",
+      "신임 CEO 지원 플랜 8일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEWBIE_202001_09",
+      "신임 CEO 지원 플랜 9일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEWBIE_202001_10",
+      "신임 CEO 지원 플랜 10일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEWBIE_202001_11",
+      "신임 CEO 지원 플랜 11일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEWBIE_202001_12",
+      "신임 CEO 지원 플랜 12일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEWBIE_202001_13",
+      "신임 CEO 지원 플랜 13일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEWBIE_202001_14",
+      "신임 CEO 지원 플랜 14일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEWBIE_202001_15",
+      "신임 CEO 지원 플랜 15일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_01",
+      "따스한 봄 맞이 1일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_02",
+      "따스한 봄 맞이 2일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_03",
+      "따스한 봄 맞이 3일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_04",
+      "따스한 봄 맞이 4일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_05",
+      "따스한 봄 맞이 5일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_06",
+      "따스한 봄 맞이 6일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_07",
+      "따스한 봄 맞이 7일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_08",
+      "따스한 봄 맞이 8일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_09",
+      "따스한 봄 맞이 9일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_10",
+      "따스한 봄 맞이 10일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_11",
+      "따스한 봄 맞이 11일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_12",
+      "따스한 봄 맞이 12일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_13",
+      "따스한 봄 맞이 13일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_14",
+      "따스한 봄 맞이 14일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_15",
+      "따스한 봄 맞이 15일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_16",
+      "따스한 봄 맞이 16일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_17",
+      "따스한 봄 맞이 17일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_18",
+      "따스한 봄 맞이 18일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_19",
+      "따스한 봄 맞이 19일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_20",
+      "따스한 봄 맞이 20일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_02_01",
+      "푸르른 봄 맞이 1일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_02_02",
+      "푸르른 봄 맞이 2일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_02_03",
+      "푸르른 봄 맞이 3일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_02_04",
+      "푸르른 봄 맞이 4일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_02_05",
+      "푸르른 봄 맞이 5일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_02_06",
+      "푸르른 봄 맞이 6일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_02_07",
+      "푸르른 봄 맞이 7일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_02_08",
+      "푸르른 봄 맞이 8일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_02_09",
+      "푸르른 봄 맞이 9일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_02_10",
+      "푸르른 봄 맞이 10일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_02_11",
+      "푸르른 봄 맞이 11일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_02_12",
+      "푸르른 봄 맞이 12일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_02_13",
+      "푸르른 봄 맞이 13일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_02_14",
+      "푸르른 봄 맞이 14일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_2020_02_15",
+      "푸르른 봄 맞이 15일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_01",
+      "스프링 레이싱 1일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_02",
+      "스프링 레이싱 2일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_03",
+      "스프링 레이싱 3일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_04",
+      "스프링 레이싱 4일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_05",
+      "스프링 레이싱 5일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_06",
+      "스프링 레이싱 6일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_07",
+      "스프링 레이싱 7일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_08",
+      "스프링 레이싱 8일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_09",
+      "스프링 레이싱 9일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_10",
+      "스프링 레이싱 10일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_11",
+      "스프링 레이싱 11일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_12",
+      "스프링 레이싱 12일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_13",
+      "스프링 레이싱 13일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_14",
+      "스프링 레이싱 14일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_15",
+      "스프링 레이싱 15일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_16",
+      "스프링 레이싱 16일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_17",
+      "스프링 레이싱 17일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_18",
+      "스프링 레이싱 18일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_19",
+      "스프링 레이싱 19일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_RACING_20",
+      "스프링 레이싱 20일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_MAY_GOLDEN_WEEK_01",
+      "가정의달 1일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_MAY_GOLDEN_WEEK_02",
+      "가정의달 2일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_MAY_GOLDEN_WEEK_03",
+      "가정의달 3일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_MAY_GOLDEN_WEEK_04",
+      "가정의달 4일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_MAY_GOLDEN_WEEK_05",
+      "가정의달 5일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_MAY_GOLDEN_WEEK_06",
+      "가정의달 6일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_MAY_GOLDEN_WEEK_07",
+      "가정의달 7일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_MAY_GOLDEN_WEEK_08",
+      "가정의달 8일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_MAY_GOLDEN_WEEK_09",
+      "가정의달 9일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_MAY_GOLDEN_WEEK_10",
+      "가정의달 10일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_MAY_GOLDEN_WEEK_11",
+      "가정의달 11일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_MAY_GOLDEN_WEEK_12",
+      "가정의달 12일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_MAY_GOLDEN_WEEK_13",
+      "가정의달 13일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_MAY_GOLDEN_WEEK_14",
+      "가정의달 14일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_MAY_GOLDEN_WEEK_15",
+      "가정의달 15일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_100DAYS_ANNIVERSARY_01",
+      "사장님, 앞으로도 잘 부탁드립니다!!"
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_01",
+      "건틀렛 전략전 오픈 기념 1일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_02",
+      "건틀렛 전략전 오픈 기념 2일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_03",
+      "건틀렛 전략전 오픈 기념 3일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_04",
+      "건틀렛 전략전 오픈 기념 4일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_05",
+      "건틀렛 전략전 오픈 기념 5일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_06",
+      "건틀렛 전략전 오픈 기념 6일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_07",
+      "건틀렛 전략전 오픈 기념 7일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_08",
+      "건틀렛 전략전 오픈 기념 8일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_09",
+      "건틀렛 전략전 오픈 기념 9일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_10",
+      "건틀렛 전략전 오픈 기념 10일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_11",
+      "건틀렛 전략전 오픈 기념 11일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_12",
+      "건틀렛 전략전 오픈 기념 12일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_13",
+      "건틀렛 전략전 오픈 기념 13일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_14",
+      "건틀렛 전략전 오픈 기념 14일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_15",
+      "건틀렛 전략전 오픈 기념 15일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_16",
+      "건틀렛 전략전 오픈 기념 16일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_17",
+      "건틀렛 전략전 오픈 기념 17일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_18",
+      "건틀렛 전략전 오픈 기념 18일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_19",
+      "건틀렛 전략전 오픈 기념 19일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_PVP_SEASON1_20",
+      "건틀렛 전략전 오픈 기념 20일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VER20_RENEWAL_01",
+      "리뉴얼 전야제 1일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VER20_RENEWAL_02",
+      "리뉴얼 전야제 2일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VER20_RENEWAL_03",
+      "리뉴얼 전야제 3일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VER20_RENEWAL_04",
+      "리뉴얼 전야제 4일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VER20_RENEWAL_05",
+      "리뉴얼 전야제 5일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VER20_RENEWAL_06",
+      "리뉴얼 전야제 6일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VER20_RENEWAL_07",
+      "리뉴얼 전야제 7일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VER20_RENEWAL_08",
+      "리뉴얼 전야제 8일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VER20_RENEWAL_09",
+      "리뉴얼 전야제 9일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_VER20_RENEWAL_10",
+      "리뉴얼 전야제 10일차 특별 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_RENEWAL_01",
+      "사장님, 내일도 찾아와주세요!♡"
+    ],
+    [
+      "SI_ATTEND_DESC_BRAND_NEW_01",
+      "함께 해주실 사장님께 드리는 1일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_BRAND_NEW_02",
+      "함께 해주실 사장님께 드리는 2일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_BRAND_NEW_03",
+      "함께 해주실 사장님께 드리는 3일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_BRAND_NEW_04",
+      "함께 해주실 사장님께 드리는 4일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_BRAND_NEW_05",
+      "함께 해주실 사장님께 드리는 5일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_BRAND_NEW_06",
+      "함께 해주실 사장님께 드리는 6일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_BRAND_NEW_07",
+      "함께 해주실 사장님께 드리는 7일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPECIAL_SUMMER_2020_01",
+      "시원한 여름휴가와 함께하는 1일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPECIAL_SUMMER_2020_02",
+      "시원한 여름휴가와 함께하는 2일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPECIAL_SUMMER_2020_03",
+      "시원한 여름휴가와 함께하는 3일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPECIAL_SUMMER_2020_04",
+      "시원한 여름휴가와 함께하는 4일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPECIAL_SUMMER_2020_05",
+      "시원한 여름휴가와 함께하는 5일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPECIAL_SUMMER_2020_06",
+      "시원한 여름휴가와 함께하는 6일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPECIAL_SUMMER_2020_07",
+      "시원한 여름휴가와 함께하는 7일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPECIAL_SUMMER_2020_08",
+      "시원한 여름휴가와 함께하는 8일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPECIAL_SUMMER_2020_09",
+      "시원한 여름휴가와 함께하는 9일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPECIAL_SUMMER_2020_10",
+      "시원한 여름휴가와 함께하는 10일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPECIAL_SUMMER_2020_11",
+      "시원한 여름휴가와 함께하는 11일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPECIAL_SUMMER_2020_12",
+      "시원한 여름휴가와 함께하는 12일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPECIAL_SUMMER_2020_13",
+      "시원한 여름휴가와 함께하는 13일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPECIAL_SUMMER_2020_14",
+      "시원한 여름휴가와 함께하는 14일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SPECIAL_SUMMER_2020_15",
+      "시원한 여름휴가와 함께하는 15일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_RENEWAL02_01",
+      "신임 CEO 집중 지원 1일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_RENEWAL02_02",
+      "신임 CEO 집중 지원 2일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_RENEWAL02_03",
+      "신임 CEO 집중 지원 3일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_RENEWAL02_04",
+      "신임 CEO 집중 지원 4일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_RENEWAL02_05",
+      "신임 CEO 집중 지원 5일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_RENEWAL02_06",
+      "신임 CEO 집중 지원 6일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_RENEWAL02_07",
+      "신임 CEO 집중 지원 7일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_RENEWAL02_08",
+      "신임 CEO 집중 지원 8일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_RENEWAL02_09",
+      "신임 CEO 집중 지원 9일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_RENEWAL02_10",
+      "신임 CEO 집중 지원 10일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_RETURN_202008_01",
+      "복직 CEO 집중 지원 1일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_RETURN_202008_02",
+      "복직 CEO 집중 지원 2일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_RETURN_202008_03",
+      "복직 CEO 집중 지원 3일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_RETURN_202008_04",
+      "복직 CEO 집중 지원 4일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_RETURN_202008_05",
+      "복직 CEO 집중 지원 5일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_RETURN_202008_06",
+      "복직 CEO 집중 지원 6일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_RETURN_202008_07",
+      "복직 CEO 집중 지원 7일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_RETURN_202008_08",
+      "복직 CEO 집중 지원 8일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_RETURN_202008_09",
+      "복직 CEO 집중 지원 9일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_RETURN_202008_10",
+      "복직 CEO 집중 지원 10일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_CBT_EVENT_01",
+      "CBT 기념 1일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_CBT_EVENT_02",
+      "CBT 기념 2일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_CBT_EVENT_03",
+      "CBT 기념 3일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_CBT_EVENT_04",
+      "CBT 기념 4일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_CBT_EVENT_05",
+      "CBT 기념 5일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_CBT_EVENT_06",
+      "CBT 기념 6일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_CBT_EVENT_07",
+      "CBT 기념 7일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_CBT_NEW_01",
+      "1일차 쿼츠 지급 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_CBT_NEW_02",
+      "2일차 쿼츠 지급 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_CBT_NEW_03",
+      "3일차 쿼츠 지급 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_CBT_NEW_04",
+      "4일차 쿼츠 지급 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_CBT_NEW_05",
+      "5일차 쿼츠 지급 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_CBT_NEW_06",
+      "6일차 쿼츠 지급 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_CBT_NEW_07",
+      "7일차 쿼츠 지급 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_CHUSEOK_EVENT_01",
+      "한가위 기념 1일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_CHUSEOK_EVENT_02",
+      "한가위 기념 2일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_CHUSEOK_EVENT_03",
+      "한가위 기념 3일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_CHUSEOK_EVENT_04",
+      "한가위 기념 4일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_CHUSEOK_EVENT_05",
+      "한가위 기념 5일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_CHUSEOK_EVENT_06",
+      "한가위 기념 6일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_CHUSEOK_EVENT_07",
+      "한가위 기념 7일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_SUPER_01",
+      "초특급 지원 1일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_SUPER_02",
+      "초특급 지원 2일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_SUPER_03",
+      "초특급 지원 3일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_SUPER_04",
+      "초특급 지원 4일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_SUPER_05",
+      "초특급 지원 5일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_SUPER_06",
+      "초특급 지원 6일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_SUPER_07",
+      "초특급 지원 7일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_SUPER_08",
+      "초특급 지원 8일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_SUPER_09",
+      "초특급 지원 9일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_SUPER_10",
+      "초특급 지원 10일차 출근체크 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_HALLOWEEN_EVENT_01",
+      "해피 할로윈! ʕ•ﻌ•ʔ♡ 1일차"
+    ],
+    [
+      "SI_ATTEND_DESC_HALLOWEEN_EVENT_02",
+      "해피 할로윈! ʕ•ﻌ•ʔ♡ 2일차"
+    ],
+    [
+      "SI_ATTEND_DESC_HALLOWEEN_EVENT_03",
+      "해피 할로윈! ʕ•ﻌ•ʔ♡ 3일차"
+    ],
+    [
+      "SI_ATTEND_DESC_HALLOWEEN_EVENT_04",
+      "해피 할로윈! ʕ•ﻌ•ʔ♡ 4일차"
+    ],
+    [
+      "SI_ATTEND_DESC_HALLOWEEN_EVENT_05",
+      "해피 할로윈! ʕ•ﻌ•ʔ♡ 5일차"
+    ],
+    [
+      "SI_ATTEND_DESC_HALLOWEEN_EVENT_06",
+      "해피 할로윈! ʕ•ﻌ•ʔ♡ 6일차"
+    ],
+    [
+      "SI_ATTEND_DESC_HALLOWEEN_EVENT_07",
+      "해피 할로윈! ʕ•ﻌ•ʔ♡ 7일차"
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_OBT_EVENT_01",
+      "환영합니다! ʕ•ﻌ•ʔ♡ 1일차"
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_OBT_EVENT_02",
+      "환영합니다! ʕ•ﻌ•ʔ♡ 2일차"
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_OBT_EVENT_03",
+      "환영합니다! ʕ•ﻌ•ʔ♡ 3일차"
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_OBT_EVENT_04",
+      "환영합니다! ʕ•ﻌ•ʔ♡ 4일차"
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_OBT_EVENT_05",
+      "환영합니다! ʕ•ﻌ•ʔ♡ 5일차"
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_OBT_EVENT_06",
+      "환영합니다! ʕ•ﻌ•ʔ♡ 6일차"
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_OBT_EVENT_07",
+      "환영합니다! ʕ•ﻌ•ʔ♡ 7일차"
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_OBT_EVENT_08",
+      "환영합니다! ʕ•ﻌ•ʔ♡ 8일차"
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_OBT_EVENT_09",
+      "환영합니다! ʕ•ﻌ•ʔ♡ 9일차"
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_OBT_EVENT_10",
+      "환영합니다! ʕ•ﻌ•ʔ♡ 10일차"
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_OBT_EVENT_11",
+      "환영합니다! ʕ•ﻌ•ʔ♡ 11일차"
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_OBT_EVENT_12",
+      "환영합니다! ʕ•ﻌ•ʔ♡ 12일차"
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_OBT_EVENT_13",
+      "환영합니다! ʕ•ﻌ•ʔ♡ 13일차"
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_OBT_EVENT_14",
+      "환영합니다! ʕ•ﻌ•ʔ♡ 14일차"
+    ],
+    [
+      "SI_ATTEND_DESC_TWN_OBT_EVENT_15",
+      "환영합니다! ʕ•ﻌ•ʔ♡ 15일차"
+    ],
+    [
+      "SI_ATTEND_DESC_PEPERO_EVENT_01",
+      "빼빼로데이 선물 배송 완료! ʕ•ﻌ•ʔ♡ 1일차"
+    ],
+    [
+      "SI_ATTEND_DESC_PEPERO_EVENT_02",
+      "빼빼로데이 선물 배송 완료! ʕ•ﻌ•ʔ♡ 2일차"
+    ],
+    [
+      "SI_ATTEND_DESC_PEPERO_EVENT_03",
+      "빼빼로데이 선물 배송 완료! ʕ•ﻌ•ʔ♡ 3일차"
+    ],
+    [
+      "SI_ATTEND_DESC_PEPERO_EVENT_04",
+      "빼빼로데이 선물 배송 완료! ʕ•ﻌ•ʔ♡ 4일차"
+    ],
+    [
+      "SI_ATTEND_DESC_PEPERO_EVENT_05",
+      "빼빼로데이 선물 배송 완료! ʕ•ﻌ•ʔ♡ 5일차"
+    ],
+    [
+      "SI_ATTEND_DESC_PEPERO_EVENT_06",
+      "빼빼로데이 선물 배송 완료! ʕ•ﻌ•ʔ♡ 6일차"
+    ],
+    [
+      "SI_ATTEND_DESC_PEPERO_EVENT_07",
+      "빼빼로데이 선물 배송 완료! ʕ•ﻌ•ʔ♡ 7일차"
+    ],
+    [
+      "SI_ATTEND_DESC_ENCHANT_EVENT_01",
+      "내정 강화 시즌입니다! 파이팅! 1일차"
+    ],
+    [
+      "SI_ATTEND_DESC_ENCHANT_EVENT_02",
+      "내정 강화 시즌입니다! 파이팅! 2일차"
+    ],
+    [
+      "SI_ATTEND_DESC_ENCHANT_EVENT_03",
+      "내정 강화 시즌입니다! 파이팅! 3일차"
+    ],
+    [
+      "SI_ATTEND_DESC_ENCHANT_EVENT_04",
+      "내정 강화 시즌입니다! 파이팅! 4일차"
+    ],
+    [
+      "SI_ATTEND_DESC_ENCHANT_EVENT_05",
+      "내정 강화 시즌입니다! 파이팅! 5일차"
+    ],
+    [
+      "SI_ATTEND_DESC_ENCHANT_EVENT_06",
+      "내정 강화 시즌입니다! 파이팅! 6일차"
+    ],
+    [
+      "SI_ATTEND_DESC_ENCHANT_EVENT_07",
+      "내정 강화 시즌입니다! 파이팅! 7일차"
+    ],
+    [
+      "SI_ATTEND_DESC_300DAYS_01",
+      "앞으로도 함께 해 주실 거죠? ʕ•ﻌ•ʔ♡ 1일차"
+    ],
+    [
+      "SI_ATTEND_DESC_300DAYS_02",
+      "앞으로도 함께 해 주실 거죠? ʕ•ﻌ•ʔ♡ 2일차"
+    ],
+    [
+      "SI_ATTEND_DESC_300DAYS_03",
+      "앞으로도 함께 해 주실 거죠? ʕ•ﻌ•ʔ♡ 3일차"
+    ],
+    [
+      "SI_ATTEND_DESC_300DAYS_04",
+      "앞으로도 함께 해 주실 거죠? ʕ•ﻌ•ʔ♡ 4일차"
+    ],
+    [
+      "SI_ATTEND_DESC_300DAYS_05",
+      "앞으로도 함께 해 주실 거죠? ʕ•ﻌ•ʔ♡ 5일차"
+    ],
+    [
+      "SI_ATTEND_DESC_300DAYS_06",
+      "앞으로도 함께 해 주실 거죠? ʕ•ﻌ•ʔ♡ 6일차"
+    ],
+    [
+      "SI_ATTEND_DESC_300DAYS_07",
+      "앞으로도 함께 해 주실 거죠? ʕ•ﻌ•ʔ♡ 7일차"
+    ],
+    [
+      "SI_ATTEND_DESC_300DAYS_08",
+      "앞으로도 함께 해 주실 거죠? ʕ•ﻌ•ʔ♡ 8일차"
+    ],
+    [
+      "SI_ATTEND_DESC_300DAYS_09",
+      "앞으로도 함께 해 주실 거죠? ʕ•ﻌ•ʔ♡ 9일차"
+    ],
+    [
+      "SI_ATTEND_DESC_300DAYS_10",
+      "앞으로도 함께 해 주실 거죠? ʕ•ﻌ•ʔ♡ 10일차"
+    ],
+    [
+      "SI_ATTEND_DESC_300DAYS_11",
+      "앞으로도 함께 해 주실 거죠? ʕ•ﻌ•ʔ♡ 11일차"
+    ],
+    [
+      "SI_ATTEND_DESC_300DAYS_12",
+      "앞으로도 함께 해 주실 거죠? ʕ•ﻌ•ʔ♡ 12일차"
+    ],
+    [
+      "SI_ATTEND_DESC_300DAYS_13",
+      "앞으로도 함께 해 주실 거죠? ʕ•ﻌ•ʔ♡ 13일차"
+    ],
+    [
+      "SI_ATTEND_DESC_300DAYS_14",
+      "앞으로도 함께 해 주실 거죠? ʕ•ﻌ•ʔ♡ 14일차"
+    ],
+    [
+      "SI_ATTEND_DESC_300DAYS_15",
+      "앞으로도 함께 해 주실 거죠? ʕ•ﻌ•ʔ♡ 15일차"
+    ],
+    [
+      "SI_ATTEND_DESC_XMAS_01",
+      "메리 카사 크리스마스! ʕ•ﻌ•ʔ♡ 1일차"
+    ],
+    [
+      "SI_ATTEND_DESC_XMAS_02",
+      "메리 카사 크리스마스! ʕ•ﻌ•ʔ♡ 2일차"
+    ],
+    [
+      "SI_ATTEND_DESC_XMAS_03",
+      "메리 카사 크리스마스! ʕ•ﻌ•ʔ♡ 3일차"
+    ],
+    [
+      "SI_ATTEND_DESC_XMAS_04",
+      "메리 카사 크리스마스! ʕ•ﻌ•ʔ♡ 4일차"
+    ],
+    [
+      "SI_ATTEND_DESC_XMAS_05",
+      "메리 카사 크리스마스! ʕ•ﻌ•ʔ♡ 5일차"
+    ],
+    [
+      "SI_ATTEND_DESC_XMAS_06",
+      "메리 카사 크리스마스! ʕ•ﻌ•ʔ♡ 6일차"
+    ],
+    [
+      "SI_ATTEND_DESC_XMAS_07",
+      "메리 카사 크리스마스! ʕ•ﻌ•ʔ♡ 7일차"
+    ],
+    [
+      "SI_ATTEND_DESC_XMAS_08",
+      "메리 카사 크리스마스! ʕ•ﻌ•ʔ♡ 8일차"
+    ],
+    [
+      "SI_ATTEND_DESC_XMAS_09",
+      "메리 카사 크리스마스! ʕ•ﻌ•ʔ♡ 9일차"
+    ],
+    [
+      "SI_ATTEND_DESC_XMAS_10",
+      "메리 카사 크리스마스! ʕ•ﻌ•ʔ♡ 10일차"
+    ],
+    [
+      "SI_ATTEND_DESC_XMAS_11",
+      "메리 카사 크리스마스! ʕ•ﻌ•ʔ♡ 11일차"
+    ],
+    [
+      "SI_ATTEND_DESC_XMAS_12",
+      "메리 카사 크리스마스! ʕ•ﻌ•ʔ♡ 12일차"
+    ],
+    [
+      "SI_ATTEND_DESC_XMAS_13",
+      "메리 카사 크리스마스! ʕ•ﻌ•ʔ♡ 13일차"
+    ],
+    [
+      "SI_ATTEND_DESC_XMAS_14",
+      "메리 카사 크리스마스! ʕ•ﻌ•ʔ♡ 14일차"
+    ],
+    [
+      "SI_ATTEND_DESC_XMAS_15",
+      "메리 카사 크리스마스! ʕ•ﻌ•ʔ♡ 15일차"
+    ],
+    [
+      "SI_ATTEND_DESC_1ST_ANNIVERSARY_01",
+      "1년을 함께 해주신 사장님 감사합니다! (〃▽〃)"
+    ],
+    [
+      "SI_ATTEND_DESC_NEWYEAR_01",
+      "새해에도 카운터사이드와 함께! ʕ•ﻌ•ʔ♡ 1일차"
+    ],
+    [
+      "SI_ATTEND_DESC_NEWYEAR_02",
+      "새해에도 카운터사이드와 함께! ʕ•ﻌ•ʔ♡ 2일차"
+    ],
+    [
+      "SI_ATTEND_DESC_NEWYEAR_03",
+      "새해에도 카운터사이드와 함께! ʕ•ﻌ•ʔ♡ 3일차"
+    ],
+    [
+      "SI_ATTEND_DESC_NEWYEAR_04",
+      "새해에도 카운터사이드와 함께! ʕ•ﻌ•ʔ♡ 4일차"
+    ],
+    [
+      "SI_ATTEND_DESC_NEWYEAR_05",
+      "새해에도 카운터사이드와 함께! ʕ•ﻌ•ʔ♡ 5일차"
+    ],
+    [
+      "SI_ATTEND_DESC_NEWYEAR_06",
+      "새해에도 카운터사이드와 함께! ʕ•ﻌ•ʔ♡ 6일차"
+    ],
+    [
+      "SI_ATTEND_DESC_NEWYEAR_07",
+      "새해에도 카운터사이드와 함께! ʕ•ﻌ•ʔ♡ 7일차"
+    ],
+    [
+      "SI_ATTEND_DESC_REPLACER_01",
+      "리플레이서와 함께! 1일차"
+    ],
+    [
+      "SI_ATTEND_DESC_REPLACER_02",
+      "리플레이서와 함께! 2일차"
+    ],
+    [
+      "SI_ATTEND_DESC_REPLACER_03",
+      "리플레이서와 함께! 3일차"
+    ],
+    [
+      "SI_ATTEND_DESC_REPLACER_04",
+      "리플레이서와 함께! 4일차"
+    ],
+    [
+      "SI_ATTEND_DESC_REPLACER_05",
+      "리플레이서와 함께! 5일차"
+    ],
+    [
+      "SI_ATTEND_DESC_REPLACER_06",
+      "리플레이서와 함께! 6일차"
+    ],
+    [
+      "SI_ATTEND_DESC_REPLACER_07",
+      "리플레이서와 함께! 7일차"
+    ],
+    [
+      "SI_ATTEND_DESC_REPLACER_08",
+      "리플레이서와 함께! 8일차"
+    ],
+    [
+      "SI_ATTEND_DESC_REPLACER_09",
+      "리플레이서와 함께! 9일차"
+    ],
+    [
+      "SI_ATTEND_DESC_REPLACER_10",
+      "리플레이서와 함께! 10일차"
+    ],
+    [
+      "SI_ATTEND_DESC_REPLACER_11",
+      "리플레이서와 함께! 11일차"
+    ],
+    [
+      "SI_ATTEND_DESC_REPLACER_12",
+      "리플레이서와 함께! 12일차"
+    ],
+    [
+      "SI_ATTEND_DESC_REPLACER_13",
+      "리플레이서와 함께! 13일차"
+    ],
+    [
+      "SI_ATTEND_DESC_REPLACER_14",
+      "리플레이서와 함께! 14일차"
+    ],
+    [
+      "SI_ATTEND_DESC_REPLACER_15",
+      "리플레이서와 함께! 15일차"
+    ],
+    [
+      "SI_ATTEND_DESC_FOOLS_01",
+      "배달 1일차 도장 꾹! 맛있게 드세요!"
+    ],
+    [
+      "SI_ATTEND_DESC_FOOLS_02",
+      "배달 2일차 도장 꾹! 이거 먹을 수 있는거야?!"
+    ],
+    [
+      "SI_ATTEND_DESC_FOOLS_03",
+      "배달 3일차 도장 꾹! 맛있게 드세요!"
+    ],
+    [
+      "SI_ATTEND_DESC_FOOLS_04",
+      "배달 4일차 도장 꾹! 내일도 찾아주실거죠?"
+    ],
+    [
+      "SI_ATTEND_DESC_FOOLS_05",
+      "배달 5일차 도장 꾹! 맛있게 드세요!"
+    ],
+    [
+      "SI_ATTEND_DESC_FOOLS_06",
+      "배달 6일차 도장 꾹! 단골 고객님을 위한 선물!"
+    ],
+    [
+      "SI_ATTEND_DESC_FOOLS_07",
+      "배달 7일차 도장 꾹! 맛있게 드세요!"
+    ],
+    [
+      "SI_ATTEND_DESC_FOOLS_08",
+      "배달 8일차 도장 꾹! 오늘도 감사합니다!"
+    ],
+    [
+      "SI_ATTEND_DESC_FOOLS_09",
+      "배달 9일차 도장 꾹! 맛있게 드세요!"
+    ],
+    [
+      "SI_ATTEND_DESC_FOOLS_10",
+      "축하드려요! 모든 도장을 다 찍었어요!"
+    ],
+    [
+      "SI_ATTEND_DESC_CHILD_01",
+      "아기 카운터들을 위한 맘마 1일차!"
+    ],
+    [
+      "SI_ATTEND_DESC_CHILD_02",
+      "아기 카운터들을 위한 맘마 2일차!"
+    ],
+    [
+      "SI_ATTEND_DESC_CHILD_03",
+      "아기 카운터들을 위한 맘마 3일차!"
+    ],
+    [
+      "SI_ATTEND_DESC_CHILD_04",
+      "아기 카운터들을 위한 맘마 4일차!"
+    ],
+    [
+      "SI_ATTEND_DESC_CHILD_05",
+      "아기 카운터들을 위한 맘마 5일차!"
+    ],
+    [
+      "SI_ATTEND_DESC_CHILD_06",
+      "아기 카운터들을 위한 맘마 6일차!"
+    ],
+    [
+      "SI_ATTEND_DESC_CHILD_07",
+      "아기 카운터들을 위한 맘마 7일차!"
+    ],
+    [
+      "SI_ATTEND_DESC_SHOP_RENEWAL",
+      "세리나의 특별 사은품 {0}일차!"
+    ],
+    [
+      "SI_ATTEND_DESC_LABOR",
+      "머신갑의 특별 격려금 {0}일차!"
+    ],
+    [
+      "SI_ATTEND_DESC_SIGMA",
+      "시그마의 깜짝 선물 {0}일차!"
+    ],
+    [
+      "SI_ATTEND_DESC_SPORTS",
+      "아카데미 운동회 {0}일차 선물! ʕ•ﻌ•ʔ♡"
+    ],
+    [
+      "SI_ATTEND_DESC_500DAYS",
+      "500일 기념 선물 {0}일차!"
+    ],
+    [
+      "SI_ATTEND_DESC_30DAYS",
+      "30일 기념 선물 {0}일차!"
+    ],
+    [
+      "SI_ATTEND_DESC_CHALLENGE_BOOSTING",
+      "챌린지 보급 지원 {0}일차!"
+    ],
+    [
+      "SI_ATTEND_DESC_CLB_001",
+      "콜라보 기념 선물 {0}일차!"
+    ],
+    [
+      "SI_ATTEND_DESC_EQUIP_ENCHANT",
+      "장비 강화 시즌 {0}일차 지원품 도착!"
+    ],
+    [
+      "SI_ATTEND_DESC_PRIVATE_EQUIP_POLICY",
+      "불편을 드려 죄송합니다."
+    ],
+    [
+      "SI_ATTEND_DESC_1_5ST_ANNIVERSARY",
+      "1.5주년 기념 {0}일차 출근 보상 지급 ~ ♡"
+    ],
+    [
+      "SI_ATTEND_DESC_WEDDING",
+      "웨딩 스킨 출시 기념 {0}일차 보상입니다~"
+    ],
+    [
+      "SI_ATTEND_DESC_SPECIAL_SUMMER_2021",
+      "부사장의 휴가 기념 {0}일차 보상입니다~"
+    ],
+    [
+      "SI_ATTEND_DESC_CBT_EVENT_CN",
+      "CBT 기념 {0}일차 출근 체크 선물입니다!"
+    ],
+    [
+      "SI_ATTEND_DESC_HOLYDAY_2021",
+      "연휴 기념 {0}일차 출근 체크 보상입니다~"
+    ],
+    [
+      "SI_ATTEND_DESC_OFFICE",
+      "본사 오픈 기념 {0}일차 출근 체크 보상입니다~"
+    ],
+    [
+      "SI_ATTEND_DESC_AUTUMN_2021",
+      "가을이 오면 출근 체크 {0}일차 보상 지급 ~ ♬"
+    ],
+    [
+      "SI_ATTEND_DESC_BAM_10",
+      "대나무 숲의 영주님 특별 선물 {0}일차 보상입니다!"
+    ],
+    [
+      "SI_ATTEND_DESC_HALLOWEEN_V2",
+      "HAPPY HALLOWEEN {0}일차 보상입니다~"
+    ],
+    [
+      "SI_ATTEND_DESC_HORIZON",
+      "호라이즌의 아티팩트 출근 체크 {0}일차 보상입니다!"
+    ],
+    [
+      "SI_ATTEND_DESC_REARMAMENT",
+      "{0}일차 재무장 특별 보급입니다~☆"
+    ],
+    [
+      "SI_ATTEND_DESC_BLACK_11",
+      "{0}일차 LUCKY BLACK FRIDAY 기념 선물입니다!"
+    ],
+    [
+      "SI_ATTEND_DESC_AUTUMN_SPORTS",
+      "{0}일차 가을 운동회 개막 선물 입니다~☆"
+    ],
+    [
+      "SI_ATTEND_DESC_NEW_AWAKEN",
+      "각성 업데이트 기념 {0}일차 특별 보상입니다♡"
+    ],
+    [
+      "SI_ATTEND_DESC_JAPAN_NANA",
+      "여우가면의 특별 선물 {0}일차 보상 지급!"
+    ],
+    [
+      "SI_ATTEND_DESC_XMAS_V2",
+      "따뜻한 산장 연회에 오신 사장님들께 드리는 {0}일차 보상!"
+    ],
+    [
+      "SI_ATTEND_DESC_NEWYEAR_2022",
+      "행운이 가득한 새해맞이 {0}일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_7TIER_EQUIP",
+      "7티어 기념 특별 {0}일차 보급품!"
+    ],
+    [
+      "SI_ATTEND_DESC_WANTED",
+      "특별 수사에 참여하시는 사장님들께 드리는 {0}일차 보급."
+    ],
+    [
+      "SI_ATTEND_DESC_ADMIN",
+      "메이즈 전대의 {0}일차 보급품 도착!"
+    ],
+    [
+      "SI_ATTEND_DESC_ENVELOPE",
+      "대박 기원 2022 출근 {0}일차 보상입니다!"
+    ],
+    [
+      "SI_ATTEND_DESC_LIMIT_FESTIVAL",
+      "융합핵 페스티벌 출근 {0}일차 보상 지급~"
+    ],
+    [
+      "SI_ATTEND_DESC_ANNIVERSARY_2YEAR",
+      "2주년 기념 {0}일차 출근 보상 지급 ~ ♡"
+    ],
+    [
+      "SI_ATTEND_DESC_VALEN_22",
+      "스위트 프로모션 {0}일차 선물 도착♡"
+    ],
+    [
+      "SI_ATTEND_DESC_STREGA",
+      "스트레가 방문 기념 {0}일차 선물 지급"
+    ],
+    [
+      "SI_ATTEND_DESC_SPRING_BLOSSOM",
+      "봄 맞이 피크닉 {0}일차 기념품 도착~"
+    ],
+    [
+      "SI_ATTEND_DESC_FOOLS_2022",
+      "기묘한 회사의 {0}일차 보상 도착~"
+    ],
+    [
+      "SI_ATTEND_DESC_HARMONY",
+      "봄날의 선율 {0}일차 출근 보상입니다~"
+    ],
+    [
+      "SI_ATTEND_DESC_ANNIVERSARY_0_5YEAR",
+      "사장님들, 반주년 기념 {0}일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_FAM_05",
+      "행복을 전하는 {0}일차 선물 지급!"
+    ],
+    [
+      "SI_ATTEND_DESC_QLI_EP",
+      "클리포트 게임 업데이트 기념 {0}일차 보상 입니다~"
+    ],
+    [
+      "SI_ATTEND_DESC_INTER_07",
+      "핫-썸머 페스티벌 {0}일차 출근체크 보상입니다!"
+    ],
+    [
+      "SI_ATTEND_DESC_NIGHTMARE_ES",
+      "악몽 탈출 {0}일차 보상입니다~"
+    ],
+    [
+      "SI_ATTEND_DESC_CASH_15DAY",
+      "매일 쿼츠 지급! {0}일차 보상입니다!"
+    ],
+    [
+      "SI_ATTEND_DESC_ROYAL_SUP",
+      "왕실 지원 {0}일차 보상을 드립니다."
+    ],
+    [
+      "SI_ATTEND_DESC_INTER_08",
+      "부사장의 {0}일차 특별 보너스를 드립니다."
+    ],
+    [
+      "SI_ATTEND_DESC_HOLY_DAY_22",
+      "학생회에서 연휴를 맞아 {0}일차 선물을 드립니다."
+    ],
+    [
+      "SI_ATTEND_DESC_1ST_ANNIVERSARY_01_G",
+      "디너 파티에 참여 해주신 사장님 감사합니다! (〃▽〃)"
+    ],
+    [
+      "SI_ATTEND_DESC_1_5ST_ANNIVERSARY_G",
+      "추수감사절 기념 {0}일차 출근 보상 지급 ~ ♡"
+    ],
+    [
+      "SI_ATTEND_DESC_ANNIVERSARY_2YEAR_G",
+      "홀리데이 기념 {0}일차 출근 보상 지급 ~ ♡"
+    ],
+    [
+      "SI_ATTEND_DESC_XMAS_V3",
+      "성야제 파티 {0}일차 보상을 드립니다."
+    ],
+    [
+      "SI_ATTEND_DESC_SERVICE_TRANSFER",
+      "넥스트 스텝 {0}일차 보상을 드립니다."
+    ],
+    [
+      "SI_ATTEND_DESC_NEWYEAR_2023",
+      "새해를 기념하여 {0}일차 보상 지급~!"
+    ],
+    [
+      "SI_ATTEND_DESC_EVE_3",
+      "글로벌 원년 카운트 다운 {0}일차!"
+    ],
+    [
+      "SI_ATTEND_DESC_GLOBAL_FIRST",
+      "NEW ORIGIN {0}일차 보상을 드립니다."
+    ],
+    [
+      "SI_ATTNED_DESC_SPRING_BLOSSOM_V2",
+      "봄 나들이 {0}일차 보상을 드립니다."
+    ],
+    [
+      "SI_ATTEND_DESC_BONUS",
+      "김하나의 {0}일차 특별 보너스를 드립니다."
+    ],
+    [
+      "SI_ATTEND_DESC_GLOBAL_FIRST_HALF_ANN_EVE",
+      "하프 애니버서리 전야제 {0}일차 보상입니다."
+    ],
+    [
+      "SI_ATTNED_DESC_GLOBAL_FIRST_HALF_ANN",
+      "하프 애니버서리 {0}일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_ZLONG_REACTOR",
+      "얼터니움 리액터 출시 기념 {0}일차 보상입니다."
+    ],
+    [
+      "SI_ATTNED_DESC_HOLY_DAY_23",
+      "연휴 특별 {0}일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_GLOBAL_FIRST_HALF_ANN_EVE_ZL",
+      "3주년 애니버서리 전야제 {0}일차 보상입니다."
+    ],
+    [
+      "SI_ATTNED_DESC_GLOBAL_FIRST_HALF_ANN_ZL",
+      "3주년 애니버서리 {0}일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_EVE_4",
+      "애니버서리 전야제 {0}일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_GLOBAL_FIRST_1YEAR",
+      "애니버서리 감사제 {0}일차 보상입니다."
+    ],
+    [
+      "SI_ATTEND_DESC_BONUS_V2",
+      "사장님께 드리는 {0}일차 보상입니다!"
+    ],
+    [
+      "SI_ATTEND_DESC_ERROR_REWARD",
+      "바이너리 특별 보급 {0}일차 보상입니다."
+    ]
+  ]
+}

@@ -1,0 +1,1710 @@
+{
+  "asset_name": "LUA_SI_USER_TITLE_TEMPLET_KOREA_w",
+  "root_name": "m_dicString",
+  "data": [
+    [
+      "SI_ITEM_USERTITLE_NAME_1500001",
+      "펜릴 소대"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500002",
+      "알트 소대"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500003",
+      "스틸레인"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500004",
+      "R7 비정규 순찰대"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500005",
+      "FENNEC FOX"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500006",
+      "블랙 타이드"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500007",
+      "퓨처 앳 워"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500008",
+      "제9호 기적심의회"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500009",
+      "프리덤 라이더즈"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500010",
+      "델타 세븐"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500011",
+      "델타 세븐 : 패스파인더"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500012",
+      "스테이츠 오브 원"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500013",
+      "조디악나이츠 : 블루시프트"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500014",
+      "스트레가"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500015",
+      "알파트릭스 이노베이션"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500016",
+      "프론티어"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500017",
+      "데이마인 채굴4팀"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500018",
+      "오피셜 서포트"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500019",
+      "구 관리국 : 펜릴 전대"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500020",
+      "구 관리국 : 메이즈 전대"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500021",
+      "하트베리"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500022",
+      "메이슨 용병 사무소"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500023",
+      "화이트 래빗"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500024",
+      "제 4 특별기동수사대"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500025",
+      "나나하라 가문연합"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500026",
+      "폴른 호크"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500027",
+      "ESPR"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500028",
+      "아카데미 총학생회"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500029",
+      "플로라 메이드 서비스"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500030",
+      "민병대"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500031",
+      "크로넨워스 인형극단"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500032",
+      "히어로 특별육성반"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500033",
+      "육익"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500034",
+      "코핀 컴퍼니"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500035",
+      "제프티 바이오테크"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500036",
+      "리플레이서 신디케이트"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500037",
+      "호라이즌 투자기금"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500038",
+      "데몬 타입 침식체"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500039",
+      "관리국 카운터 아카데미"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500040",
+      "스캐빈저"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500041",
+      "구원기사단"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500042",
+      "엘리시움 필하모닉"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500043",
+      "프론트 베이 샤크스"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500044",
+      "사흉신"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500045",
+      "그레모리 바"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500046",
+      "OZ"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500047",
+      "그로니아 보안국"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500048",
+      "북방합의체"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500049",
+      "국경수비대"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500050",
+      "서브컬처 연구회"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500051",
+      "카나리아 스쿼드"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500052",
+      "프리드웬 기관"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500053",
+      "최후의 발키리"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500054",
+      "계장님"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500055",
+      "불굴의 늑대"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500056",
+      "최고의 에이스"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500057",
+      "견습 대마녀"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500058",
+      "대적자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500059",
+      "미스틸테인 기동"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500060",
+      "리플레이서"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500061",
+      "체크메이트"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500062",
+      "소중한 자매"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500063",
+      "첫번째 날개"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500064",
+      "최상위 포식자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500065",
+      "아라한"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500066",
+      "피자 메이커"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500067",
+      "대령"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500068",
+      "사랑으로 만들어진"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500069",
+      "악단 지휘자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500070",
+      "차원을 달리는"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500071",
+      "명사수"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500072",
+      "최종 단계"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500073",
+      "종신 학회장"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500074",
+      "무사"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500075",
+      "아스모데우스"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500076",
+      "검술의 천재"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500077",
+      "그림자 사냥꾼"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500078",
+      "함장"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500079",
+      "푸른 장미"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500080",
+      "위대한 정적"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500081",
+      "탐식자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500082",
+      "숨겨둔 힘을 개방한"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500083",
+      "저주를 부르는 눈"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500084",
+      "한 번 물면 놓지 않는"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500085",
+      "코핀 컴퍼니 부사장"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500086",
+      "불에 타고 계십니다만"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500087",
+      "세상을 떠받치는 자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500088",
+      "항상 뒤를 조심해"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500089",
+      "누가 왕의 앞에 서는가"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500090",
+      "여왕폐하 만세"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500091",
+      "널 놓치고 싶지 않아"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500092",
+      "패션 지적을 싫어하는"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500093",
+      "인간들의 시대는 끝났다"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500094",
+      "화내시는 건 아니겠죠?"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500095",
+      "기동 목적은 인류 수호"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500096",
+      "어디서 천둥소리 안 들려?"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500097",
+      "어때요? 참 쉽죠?"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500098",
+      "듣는 것만으로 충분합니다"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500099",
+      "국방 의무에 동참하게나"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500100",
+      "피해 볼 테면 피해 보라고"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500101",
+      "힘조절을 할 줄 모르는"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500102",
+      "얼어붙은 감정의 소유자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500103",
+      "가로막는 자는 벤다!"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500104",
+      "의자에서 일어난"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500105",
+      "당신들은 준비가 안 됐어요"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500106",
+      "메이즈 포격전대"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500107",
+      "그 날개를 펴라"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500108",
+      "더는 도망치지 않겠어!"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500109",
+      "하늘에서 내려온"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500110",
+      "아무리 먹어도 배고파"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500111",
+      "종언의 지배자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500112",
+      "라스트 스탠드 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500113",
+      "시즌 1 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500114",
+      "시즌 1 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500115",
+      "예측가"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500116",
+      "FLEX-!"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500117",
+      "스타 플레이어"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500118",
+      "백전백승"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500119",
+      "와일드 정복자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500120",
+      "플레임 정복자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500121",
+      "트리니티 정복자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500122",
+      "브리트라 슬레이어"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500123",
+      "인히비터 슬레이어"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500124",
+      "크라켄 슬레이어"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500125",
+      "딥 다이버"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500126",
+      "만발하는 흑심"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500127",
+      "푸른 몽환의 밀회"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500128",
+      "매지컬★슬레이어"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500129",
+      "날아가도 놀라지 마요"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500130",
+      "크와아아아아아앙"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500131",
+      "라스트 스탠드 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500132",
+      "시즌 2 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500133",
+      "시즌 2 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500134",
+      "노는 게 제일 좋아!"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500135",
+      "2024 로얄시즌 랭크전 1위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500136",
+      "2024 로얄시즌 랭크전 2위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500137",
+      "2024 로얄시즌 랭크전 3위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500138",
+      "건틀렛 랭크전 TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500139",
+      "건틀렛 랭크전 TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500140",
+      "라스트 스탠드 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500141",
+      "시즌 3 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500142",
+      "시즌 3 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500143",
+      "와일드 정복자 (퍼스트)"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500144",
+      "플레임 정복자 (퍼스트)"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500145",
+      "트리니티 정복자 (퍼스트)"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500146",
+      "야크샤들의 왕"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500147",
+      "First in, Last out"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500148",
+      "라스트 스탠드 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500149",
+      "시즌 4 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500150",
+      "시즌 4 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500151",
+      "정예 스쿼드"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500152",
+      "BETA : 스쿼드 TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500153",
+      "BETA : 스쿼드 TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500154",
+      "BETA : 스쿼드 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500155",
+      "미래를 보았다"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500156",
+      "2024 디보션시즌 랭크전 1위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500157",
+      "2024 디보션시즌 랭크전 2위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500158",
+      "2024 디보션시즌 랭크전 3위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500161",
+      "2024 커리지시즌 랭크전 1위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500162",
+      "2024 커리지시즌 랭크전 2위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500163",
+      "2024 커리지시즌 랭크전 3위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500166",
+      "2024 신시어시즌 랭크전 1위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500167",
+      "2024 신시어시즌 랭크전 2위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500168",
+      "2024 신시어시즌 랭크전 3위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500172",
+      "시즌 5 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500173",
+      "시즌 5 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500174",
+      "잔혹한 학살 인형"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500175",
+      "세례 받은 영혼"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500176",
+      "시니어"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500177",
+      "챔버"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500179",
+      "시즌 6 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500180",
+      "시즌 6 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500181",
+      "저 잘했나요?"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500182",
+      "당신은 이미 죽어있어요"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500183",
+      "PRESTIGE VIP"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500184",
+      "밴픽 전략가"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500186",
+      "S1 : 스쿼드 TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500187",
+      "S1 : 스쿼드 TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500188",
+      "S1 : 스쿼드 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500189",
+      "마왕 강림"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500190",
+      "건틀렛 랭크전 TOP 50"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500191",
+      "건틀렛 랭크전 TOP 200"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500192",
+      "건틀렛 랭크전 TOP 50"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500193",
+      "건틀렛 랭크전 TOP 200"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500194",
+      "건틀렛 랭크전 TOP 50"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500195",
+      "건틀렛 랭크전 TOP 200"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500196",
+      "유노의 천칭"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500197",
+      "LET'S ROCK"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500198",
+      "종언의 끝을 마주한"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500199",
+      "계획대로야"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500200",
+      "스페셜리스트"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500201",
+      "진격의 학살자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500202",
+      "최후의 방패"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500203",
+      "정점에 다다른 자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500204",
+      "챔피언에 도전하는"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500205",
+      "유망주"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500206",
+      "전문 학살자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500207",
+      "사냥의 시작"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500208",
+      "도시 수호자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500209",
+      "방어의 대가"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500210",
+      "트리니티 포스"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500211",
+      "근원 탐색자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500212",
+      "건틀렛 클래식"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500213",
+      "백조의 노래"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500214",
+      "SWAN SONG"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500216",
+      "시즌 7 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500217",
+      "시즌 7 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500219",
+      "시즌 8 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500220",
+      "시즌 8 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500221",
+      "인도하는 태양"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500222",
+      "어둠을 두려워 말라"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500224",
+      "S2 : 스쿼드 TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500225",
+      "S2 : 스쿼드 TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500226",
+      "S2 : 스쿼드 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500227",
+      "BETA : 챔피언십 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500228",
+      "BETA : 챔피언십 TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500229",
+      "BETA : 챔피언십 TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500230",
+      "BETA : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500231",
+      "그대의 수호천사"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500233",
+      "시즌 9 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500234",
+      "시즌 9 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500235",
+      "붉은 마녀"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500236",
+      "NEW ORDER"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500237",
+      "BETA : 언리미티드 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500238",
+      "BETA : 언리미티드 TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500239",
+      "BETA : 언리미티드 TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500242",
+      "S3 : 스쿼드 TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500243",
+      "S3 : 스쿼드 TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500244",
+      "S3 : 스쿼드 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500245",
+      "S1 : 챔피언십 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500246",
+      "S1 : 챔피언십 TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500247",
+      "S1 : 챔피언십 TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500248",
+      "S1 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500249",
+      "S1 : 언리미티드 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500250",
+      "S1 : 언리미티드 TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500251",
+      "S1 : 언리미티드 TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500252",
+      "S1 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500253",
+      "검희"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500254",
+      "파밀리아 미스"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500255",
+      "최강의 엘리트"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500256",
+      "인류의 영웅"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500258",
+      "시즌 10 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500259",
+      "시즌 10 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500260",
+      "2025 로얄시즌 랭크전 1위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500261",
+      "2025 로얄시즌 랭크전 2위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500262",
+      "2025 로얄시즌 랭크전 3위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500267",
+      "2025 디보션시즌 랭크전 1위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500268",
+      "2025 디보션시즌 랭크전 2위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500269",
+      "2025 디보션시즌 랭크전 3위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500274",
+      "2025 커리지시즌 랭크전 1위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500275",
+      "2025 커리지시즌 랭크전 2위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500276",
+      "2025 커리지시즌 랭크전 3위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500281",
+      "2025 신시어시즌 랭크전 1위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500282",
+      "2025 신시어시즌 랭크전 2위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500283",
+      "2025 신시어시즌 랭크전 3위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500288",
+      "S1 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500290",
+      "S4 : 스쿼드 TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500291",
+      "S4 : 스쿼드 TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500292",
+      "S4 : 스쿼드 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500293",
+      "그림 그려줄까요?"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500294",
+      "당신, 엄청 귀엽네요!"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500296",
+      "시즌 11 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500297",
+      "시즌 11 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500298",
+      "늑대의 겨울나기"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500299",
+      "S2 : 챔피언십 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500300",
+      "S2 : 챔피언십 TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500301",
+      "S2 : 챔피언십 TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500302",
+      "S2 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500303",
+      "S2 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500304",
+      "S2 : 언리미티드 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500305",
+      "S2 : 언리미티드 TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500306",
+      "S2 : 언리미티드 TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500307",
+      "S2 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500308",
+      "S2 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500309",
+      "엑소시스트"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500310",
+      "돈은 항상 옳다"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500312",
+      "S5 : 스쿼드 TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500313",
+      "S5 : 스쿼드 TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500314",
+      "S5 : 스쿼드 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500316",
+      "시즌 12 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500317",
+      "시즌 12 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500318",
+      "발렌티누스 수도원"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500319",
+      "S3 : 언리미티드 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500320",
+      "S3 : 언리미티드 TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500321",
+      "S3 : 언리미티드 TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500322",
+      "S3 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500323",
+      "S3 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500324",
+      "도전! 승리를 향해!"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500325",
+      "슈퍼 노엘! 출격합니다!"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_DEVELOPER",
+      "STUDIOBSIDE"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500327",
+      "S1 : The Worlds TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500328",
+      "S1 : The Worlds TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500329",
+      "S1 : The Worlds TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500330",
+      "The Worlds TOP 32"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500332",
+      "시즌 13 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500333",
+      "시즌 13 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500334",
+      "S4 : 언리미티드 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500335",
+      "S4 : 언리미티드 TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500336",
+      "S4 : 언리미티드 TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500337",
+      "S4 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500338",
+      "S4 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500339",
+      "열두 별의 경애"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500340",
+      "어둠 속 헤아리는 별"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500341",
+      "흑조의 서약"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500343",
+      "시즌 14 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500344",
+      "시즌 14 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500345",
+      "S5 : 언리미티드 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500346",
+      "S5 : 언리미티드 TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500347",
+      "S5 : 언리미티드 TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500348",
+      "S5 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500349",
+      "S5 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500350",
+      "반전 세계의 관측자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500351",
+      "세계의 관찰자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500352",
+      "S2 : The Worlds TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500353",
+      "S2 : The Worlds TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500354",
+      "S2 : The Worlds TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500355",
+      "The Worlds TOP 32"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500356",
+      "라스트 스탠드 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500357",
+      "시즌 15 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500358",
+      "시즌 15 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500359",
+      "인력사무소"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500360",
+      "S3 : 챔피언십 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500361",
+      "S3 : 챔피언십 TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500362",
+      "S3 : 챔피언십 TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500363",
+      "S3 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500364",
+      "S3 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500365",
+      "구름을 헤엄치는"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500366",
+      "바라밀 명도"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500367",
+      "S6 : 언리미티드 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500368",
+      "S6 : 언리미티드 TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500369",
+      "S6 : 언리미티드 TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500370",
+      "S6 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500371",
+      "S6 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500373",
+      "시즌 16 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500374",
+      "시즌 16 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500376",
+      "시즌 17 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500377",
+      "시즌 17 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500378",
+      "BETA : 대탐사 정복자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500379",
+      "태엽 감는 소녀"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500380",
+      "배반의 기사"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500381",
+      "어머니를 위해서"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500383",
+      "시즌 18 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500384",
+      "시즌 18 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500385",
+      "2026 로얄시즌 랭크전 1위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500386",
+      "2026 로얄시즌 랭크전 2위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500387",
+      "2026 로얄시즌 랭크전 3위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500392",
+      "2026 디보션시즌 랭크전 1위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500393",
+      "2026 디보션시즌 랭크전 2위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500394",
+      "2026 디보션시즌 랭크전 3위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500399",
+      "2026 커리지시즌 랭크전 1위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500400",
+      "2026 커리지시즌 랭크전 2위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500401",
+      "2026 커리지시즌 랭크전 3위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500406",
+      "2026 신시어시즌 랭크전 1위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500407",
+      "2026 신시어시즌 랭크전 2위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500408",
+      "2026 신시어시즌 랭크전 3위"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500414",
+      "시즌 19 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500415",
+      "시즌 19 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500416",
+      "S3 : The Worlds TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500417",
+      "S3 : The Worlds TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500418",
+      "S3 : The Worlds TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500420",
+      "S4 : 챔피언십 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500421",
+      "S4 : 챔피언십 TOP 2"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500422",
+      "S4 : 챔피언십 TOP 3"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500423",
+      "S4 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500424",
+      "S4 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500425",
+      "S1 : 대탐사 정복자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500426",
+      "달을 쫓는 늑대"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500427",
+      "검을 둘로 쪼개지 마라"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500428",
+      "라스트 스탠드 TOP 1"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500429",
+      "시즌 20 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500430",
+      "시즌 20 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500431",
+      "S2 : 대탐사 정복자"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500433",
+      "시즌 21 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500434",
+      "시즌 21 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500436",
+      "시즌 22 : TOP 10"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500437",
+      "시즌 22 : TOP 100"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500438",
+      "세계의 의지"
+    ],
+    [
+      "SI_ITEM_USERTITLE_NAME_1500439",
+      "인형처럼 순수한"
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC",
+      "{0} 미션 달성 시 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500111",
+      "수많은 탐사와 추격 끝에 종언을 선고한 절대적인 지배자에게 주어지는 영광스러운 칭호."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500112",
+      "라스트 스탠드 S1 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500113",
+      "라스트 스탠드 S1 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500114",
+      "라스트 스탠드 S1 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500115",
+      "{0}에서 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_PRESTIGE",
+      "프레스티지 : {0} 에서 획득 할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_LAST",
+      "라스트 스탠드 S{0} 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500134",
+      "아케이드 참가 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500135",
+      "{0} 로얄 시즌 랭크전 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500136",
+      "{0} 로얄 시즌 랭크전 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500137",
+      "{0} 로얄 시즌 랭크전 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500138",
+      "{0} 로얄 시즌 랭크전 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500139",
+      "{0} 로얄 시즌 랭크전 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500143",
+      "트리밍 와일드 100단계 클리어 칭호."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500144",
+      "트리밍 플레임 100단계 클리어 칭호."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500145",
+      "트리밍 트리니티 60단계 클리어 칭호."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_TOURNAMENT_BETA",
+      "스쿼드 토너먼트 BETA 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500155",
+      "스쿼드 토너먼트 예측 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500156",
+      "{0} 디보션 시즌 랭크전 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500161",
+      "{0} 커리지 시즌 랭크전 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500166",
+      "{0} 신시어 시즌 랭크전 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500184",
+      "아케이드 승리 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_TOURNAMENT",
+      "스쿼드 토너먼트 시즌{0} 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500198",
+      "격전지원 종언 시즌에 참여해주신 사장님의 공로를 기리는 칭호"
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500199",
+      "아케이드 참가 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500210",
+      "필사적인 저항으로 세계를 지켜내 모두를 하나의 희망으로 인도한 위대한 자를 기리는 영광스러운 칭호."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500211",
+      "근원을 찾아 사선을 맴도는 용감한자에게 주어지는 칭호"
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500212",
+      "아케이드 참가 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_CHAMPIONSHIP",
+      "챔피언십 시즌 {0} 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_UNLIMITED",
+      "언리미티드 시즌 {0} 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_STUDIOBISDE_DEVELOPER",
+      "스튜디오비사이드 개발자 칭호입니다. 일반적인 경로로는 입수 할 수 없습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_WORLD_TOURNAMENT",
+      "스쿼드 토너먼트 - The Worlds 시즌{0} 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500350",
+      "반전 세계를 관측하여 세계의 진실을 마주한 위대한 선도자에게 주어지는 영광스러운 칭호.\n<color=#FFFF33><i>'가장 높은 곳에서 가장 밝게 빛나는 당신에게…'</i></color>"
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500351",
+      "세계의 시작과 끝, 그리고 현재를 관찰하는 누군가를 위한 칭호."
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_1500359",
+      "협력사에 사원을 많이 파견한 사장님의 공로를 기리는 칭호"
+    ],
+    [
+      "SI_ITEM_USERTITLE_DESC_EXPLORE",
+      "대탐사 시즌 {0} 보상으로 획득할 수 있습니다."
+    ],
+    [
+      "SI_TITLE_CATEGORY_MISSION",
+      "업적"
+    ],
+    [
+      "SI_TITLE_CATEGORY_TEAMUP",
+      "팀업"
+    ],
+    [
+      "SI_TITLE_CATEGORY_PRESTIGE",
+      "프레스티지"
+    ],
+    [
+      "SI_TITLE_CATEGORY_TACTICAL",
+      "전술 업데이트"
+    ],
+    [
+      "SI_TITLE_CATEGORY_GAUNTLET",
+      "건틀렛"
+    ],
+    [
+      "SI_TITLE_CATEGORY_FIRERCE",
+      "격전 지원"
+    ],
+    [
+      "SI_TITLE_CATEGORY_LAST",
+      "라스트 스탠드"
+    ],
+    [
+      "SI_TITLE_CATEGORY_TOURNAMENT",
+      "스쿼드 토너먼트"
+    ],
+    [
+      "SI_TITLE_CATEGORY_CHAMPIONSHIP",
+      "챔피언쉽"
+    ],
+    [
+      "SI_TITLE_CATEGORY_UNLIMITED",
+      "언리미티드"
+    ],
+    [
+      "SI_TITLE_CATEGORY_EVENT",
+      "이벤트"
+    ]
+  ]
+}
