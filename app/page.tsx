@@ -64,8 +64,8 @@ const hubCards = [
         href: deploymentUrl("/minigames"),
         badge: "MINI GAME",
         description: "인게임 미니게임 플레이",
-        imagePath: deploymentUrl("/minigames/match-ten/images/texture/UI_SINGLE_MATCHTEN_CUT_02.png"),
-        overlayImagePath: deploymentUrl("/minigames/match-ten/images/texture/UI_SINGLE_MATCHTEN_DECO_01.png"),
+        imagePath: deploymentUrl("/game-assets/match-ten/images/texture/UI_SINGLE_MATCHTEN_CUT_02.png"),
+        overlayImagePath: deploymentUrl("/game-assets/match-ten/images/texture/UI_SINGLE_MATCHTEN_DECO_01.png"),
     },
 ];
 export default function Home() {

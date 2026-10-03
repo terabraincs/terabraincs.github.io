@@ -23,7 +23,7 @@ jobs:
           PAGES_BASE_PATH: ${{ steps.pages.outputs.base_path }}
         run: |
           printf 'NEXT_PUBLIC_BASE_PATH=%s\n' "$PAGES_BASE_PATH" >> "$GITHUB_ENV"
-          printf 'NEXT_PUBLIC_MINIGAMES_BASE_PATH=%s\n' 'https://terabraincs.github.io/CounterSideViewer_Minigames' >> "$GITHUB_ENV"
+          printf 'NEXT_PUBLIC_MINIGAMES_BASE_PATH=%s\n' '/minigames' >> "$GITHUB_ENV"
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
