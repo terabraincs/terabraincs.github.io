@@ -4,6 +4,7 @@ import CollectionAcquisitionList from "@/components/CollectionAcquisitionList";
 import CollectionFramePreview from "@/components/CollectionFramePreview";
 import CollectionSortButtons from "@/components/CollectionSortButtons";
 import SearchInput from "@/components/SearchInput";
+import ListResultCount from "@/components/ListResultCount";
 import type { CollectionFrameItem } from "@/lib/collectionFrames";
 export default function CollectionFrameList({ frames, }: {
     frames: CollectionFrameItem[];
@@ -56,20 +57,18 @@ export default function CollectionFrameList({ frames, }: {
         };
     }, [selectedFrame]);
     return (<>
-      <section className="mt-8 border-y border-[#343844] bg-[#111318] px-4 py-5 sm:px-5">
-        <div className="flex flex-col gap-3 lg:flex-row lg:items-center">
-          <label className="flex min-w-0 flex-1 items-center gap-3 border border-[#4b5563] bg-[#0b0d12] px-4 py-3 focus-within:border-white">
-            <SearchInput value={keyword} onChange={(event) => setKeyword(event.target.value)} ariaLabel="프레임 검색" containerClassName="flex-1" inputClassName="bg-transparent text-sm text-[#e5e7eb] outline-none placeholder:text-[#565c6b]"/>
+      <section className="mt-8 border border-[#343844] bg-[#111318] p-4">
+        <div className="flex flex-col gap-3 lg:flex-row lg:items-end">
+          <label className="flex h-11 min-w-0 flex-1 items-center gap-3 border border-[#4b5563] bg-[#0b0d12] px-4 focus-within:border-white">
+            <SearchInput value={keyword} onChange={(event) => setKeyword(event.target.value)} ariaLabel="프레임 검색" containerClassName="h-full flex-1" inputClassName="h-full bg-transparent text-sm text-[#e5e7eb] outline-none placeholder:text-[#565c6b]"/>
           </label>
 
-          <CollectionSortButtons label="프레임" value={sortMode} onChange={setSortMode}/>
+          <div className="flex items-center justify-between gap-3 lg:justify-end">
+            <CollectionSortButtons label="프레임" value={sortMode} onChange={setSortMode}/>
+            <ListResultCount label="프레임" count={visibleFrames.length} total={frames.length}/>
+          </div>
         </div>
       </section>
-
-      <div className="mt-6 flex items-center justify-between border-b border-[#343844] pb-3 text-sm font-bold">
-        <span className="text-[#9ca3af]">검색 결과</span>
-        <span className="text-white">{visibleFrames.length}개</span>
-      </div>
 
       {visibleFrames.length > 0 ? (<div className="mt-5 grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6">
           {visibleFrames.map((frame) => (<button key={frame.id} type="button" aria-haspopup="dialog" onClick={() => setSelectedFrame(frame)} className="group min-w-0 overflow-hidden border border-[#343844] bg-[#171a21] text-left transition hover:-translate-y-1 hover:border-white hover:bg-[#222631] focus:outline-none focus:ring-2 focus:ring-[#9ca3af]">

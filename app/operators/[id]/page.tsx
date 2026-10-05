@@ -48,10 +48,7 @@ export default async function OperatorDetailPage({ params, }: OperatorDetailPage
           </Link>
 
           <header className="mt-5 border-b border-[#343844] pb-6">
-            <p className="text-sm font-semibold tracking-[0.28em] text-white">
-              OPERATOR DETAIL
-            </p>
-            <div className="mt-3 flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+            <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
               <div>
                 <h1 className="text-3xl font-black text-white sm:text-4xl">
                   {operator.name}

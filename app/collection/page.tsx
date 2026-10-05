@@ -28,10 +28,7 @@ export default function CollectionPage() {
       <main className="flex-1">
         <article className="mx-auto w-full max-w-6xl px-4 py-10 sm:px-6 sm:py-14 lg:px-8">
           <header className="border-b border-[#343844] pb-5">
-            <p className="text-sm font-semibold tracking-[0.28em] text-[#9ca3af]">
-              COLLECTION
-            </p>
-            <h1 className="mt-3 text-3xl font-bold text-[#cfd4dc] sm:text-4xl">
+            <h1 className="text-3xl font-bold text-[#cfd4dc] sm:text-4xl">
               수집 요소
             </h1>
           </header>
@@ -39,11 +36,7 @@ export default function CollectionPage() {
           <div className="mt-8 grid gap-4 md:grid-cols-2">
             <Link href={deploymentUrl("/collection/titles")} className="group grid min-h-40 grid-cols-[minmax(0,1fr)_140px] overflow-hidden border border-[#343844] bg-[#171a21] transition hover:border-white hover:bg-[#1d2029] focus:outline-none focus:ring-2 focus:ring-[#9ca3af] sm:grid-cols-[minmax(0,1fr)_220px]">
               <div className="flex min-w-0 flex-col justify-center p-5">
-                <span className="text-xs font-bold text-[#9ca3af]">TITLE</span>
-                <h2 className="mt-2 text-2xl font-black text-white">칭호</h2>
-                <p className="mt-3 text-sm font-bold text-[#9ca3af]">
-                  {titles.length}종
-                </p>
+                <h2 className="text-2xl font-black text-white">칭호</h2>
               </div>
               <div className="flex items-center justify-center border-l border-[#343844] bg-[#0b0d12] p-3">
                 {previewTitle?.imagePath ? (<div className="relative aspect-[4/1] w-full max-w-[256px]">
@@ -54,11 +47,7 @@ export default function CollectionPage() {
 
             <Link href={deploymentUrl("/collection/emblems")} className="group grid min-h-40 grid-cols-[minmax(0,1fr)_140px] overflow-hidden border border-[#343844] bg-[#171a21] transition hover:border-white hover:bg-[#1d2029] focus:outline-none focus:ring-2 focus:ring-[#9ca3af] sm:grid-cols-[minmax(0,1fr)_220px]">
               <div className="flex min-w-0 flex-col justify-center p-5">
-                <span className="text-xs font-bold text-[#9ca3af]">EMBLEM</span>
-                <h2 className="mt-2 text-2xl font-black text-white">엠블럼</h2>
-                <p className="mt-3 text-sm font-bold text-[#9ca3af]">
-                  {emblems.length}종
-                </p>
+                <h2 className="text-2xl font-black text-white">엠블럼</h2>
               </div>
               <div className="flex items-center justify-center border-l border-[#343844] bg-[#0b0d12] p-3">
                 {previewEmblem?.imagePath ? (<div className="relative h-28 w-28">
@@ -69,11 +58,7 @@ export default function CollectionPage() {
 
             <Link href={deploymentUrl("/collection/frames")} className="group grid min-h-40 grid-cols-[minmax(0,1fr)_140px] overflow-hidden border border-[#343844] bg-[#171a21] transition hover:border-white hover:bg-[#1d2029] focus:outline-none focus:ring-2 focus:ring-[#9ca3af] sm:grid-cols-[minmax(0,1fr)_220px]">
               <div className="flex min-w-0 flex-col justify-center p-5">
-                <span className="text-xs font-bold text-[#9ca3af]">FRAME</span>
-                <h2 className="mt-2 text-2xl font-black text-white">프레임</h2>
-                <p className="mt-3 text-sm font-bold text-[#9ca3af]">
-                  {frames.length}종
-                </p>
+                <h2 className="text-2xl font-black text-white">프레임</h2>
               </div>
               <div className="flex items-center justify-center border-l border-[#343844] bg-[#0b0d12] p-3">
                 {previewFrame?.imagePath ? (<div className="w-28 transition group-hover:scale-105">
@@ -84,16 +69,10 @@ export default function CollectionPage() {
 
             <Link href={deploymentUrl("/collection/trophies")} className="group grid min-h-40 grid-cols-[minmax(0,1fr)_140px] overflow-hidden border border-[#343844] bg-[#171a21] transition hover:border-white hover:bg-[#1d2029] focus:outline-none focus:ring-2 focus:ring-[#9ca3af] sm:grid-cols-[minmax(0,1fr)_220px]">
               <div className="flex min-w-0 flex-col justify-center p-5">
-                <span className="text-xs font-bold text-[#9ca3af]">
-                  TROPHY
-                </span>
-                <div className="mt-2 flex items-center gap-2">
+                <div className="flex items-center gap-2">
                   <Image src={deploymentUrl("/collection/trophy/ui/NKM_UI_UNIT_SELECT_LIST_TAP_ICON_TROPHY.png")} alt="" width={24} height={24} className="object-contain"/>
                   <h2 className="text-2xl font-black text-white">트로피</h2>
                 </div>
-                <p className="mt-3 text-sm font-bold text-[#9ca3af]">
-                  {trophies.length}종
-                </p>
               </div>
               <div className="flex items-center justify-center overflow-hidden border-l border-[#343844] bg-[#0b0d12] p-3">
                 {previewTrophy?.imagePath ? (<div className="relative h-28 w-28 transition group-hover:scale-105">

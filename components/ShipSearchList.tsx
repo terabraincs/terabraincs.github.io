@@ -3,12 +3,13 @@ import { useMemo, useState } from "react";
 import Image from "@/components/DeploymentImage";
 import Link from "@/components/DeploymentLink";
 import SearchInput from "@/components/SearchInput";
+import ListResultCount from "@/components/ListResultCount";
 import RarityIcon from "@/components/RarityIcon";
 import type { ShipListItem } from "@/lib/ships";
 type ShipSearchListProps = {
     ships: ShipListItem[];
 };
-type FilterKey = "shipTitles" | "grades";
+type FilterKey = "shipTypes" | "shipTitles" | "grades";
 type FilterState = Record<FilterKey, string[]>;
 type FilterSection = {
     key: FilterKey;
@@ -18,6 +19,7 @@ type FilterSection = {
 };
 function createEmptyFilters(): FilterState {
     return {
+        shipTypes: [],
         shipTitles: [],
         grades: [],
     };
@@ -37,6 +39,16 @@ function matchesSelectedFilter(selectedValues: string[], value?: string) {
         return true;
     }
     return Boolean(value && selectedValues.includes(value));
+}
+function getShipFilterValue(ship: ShipListItem, key: FilterKey) {
+    switch (key) {
+        case "shipTypes":
+            return ship.shipType;
+        case "shipTitles":
+            return ship.title;
+        case "grades":
+            return ship.grade;
+    }
 }
 function getFilterButtonClass(isSelected: boolean) {
     return [
@@ -58,6 +70,11 @@ export default function ShipSearchList({ ships }: ShipSearchListProps) {
     const filterSections = useMemo<FilterSection[]>(() => {
         const sections: FilterSection[] = [
             {
+                key: "shipTypes",
+                title: "함선 종류",
+                options: ["정규", "이벤트"],
+            },
+            {
                 key: "shipTitles",
                 title: "함선 타입",
                 options: ["강습함", "순양함", "중장갑함", "특무함"],
@@ -71,9 +88,7 @@ export default function ShipSearchList({ ships }: ShipSearchListProps) {
         ];
         return sections.map((section) => ({
             ...section,
-            options: section.options.filter((option) => ships.some((ship) => section.key === "shipTitles"
-                ? ship.title === option
-                : ship.grade === option)),
+            options: section.options.filter((option) => ships.some((ship) => getShipFilterValue(ship, section.key) === option)),
         })).filter((section) => section.options.length > 0);
     }, [ships]);
     const activeFilterCount = Object.values(selectedFilters).reduce((total, values) => total + values.length, 0);
@@ -81,8 +96,9 @@ export default function ShipSearchList({ ships }: ShipSearchListProps) {
         return ships.filter((ship) => {
             const matchesKeyword = !normalizedKeyword || getSearchText(ship).includes(normalizedKeyword);
             const matchesShipTitle = matchesSelectedFilter(selectedFilters.shipTitles, ship.title);
+            const matchesShipType = matchesSelectedFilter(selectedFilters.shipTypes, ship.shipType);
             const matchesGrade = matchesSelectedFilter(selectedFilters.grades, ship.grade);
-            return matchesKeyword && matchesShipTitle && matchesGrade;
+            return matchesKeyword && matchesShipType && matchesShipTitle && matchesGrade;
         });
     }, [normalizedKeyword, selectedFilters, ships]);
     function toggleFilterValue(key: FilterKey, value: string) {
@@ -101,22 +117,21 @@ export default function ShipSearchList({ ships }: ShipSearchListProps) {
         setSelectedFilters(createEmptyFilters());
     }
     return (<div className="mt-8">
-      <div className="flex flex-col gap-3 rounded-md border border-[#343844] bg-[#171a21] p-4 sm:flex-row sm:items-center sm:justify-between">
+      <div className="flex flex-col gap-3 rounded-md border border-[#343844] bg-[#171a21] p-4 sm:flex-row sm:items-end sm:justify-between">
         <div className="flex min-w-0 flex-1 flex-col gap-3 sm:flex-row">
           <label className="flex min-w-0 flex-1 flex-col gap-2">
             <span className="text-sm font-bold text-white">함선 검색</span>
             <SearchInput value={searchKeyword} onChange={(event) => setSearchKeyword(event.target.value)} ariaLabel="함선 검색" inputClassName="h-11 rounded border border-[#343844] bg-[#0b0d12] text-sm font-medium text-[#e5e7eb] outline-none transition placeholder:text-[#5b6270] focus:border-white focus:ring-2 focus:ring-[#9ca3af]/30"/>
           </label>
-          <div className="flex w-full flex-col gap-2 sm:w-40">
-            <span className="text-sm font-bold text-white">조건 필터</span>
-            <button type="button" onClick={() => setIsFilterOpen(true)} className="h-11 rounded border border-[#343844] bg-[#0b0d12] px-3 text-sm font-bold text-[#e5e7eb] transition hover:border-white hover:text-white focus:outline-none focus:ring-2 focus:ring-[#9ca3af]/30">
-              필터{activeFilterCount > 0 ? ` ${activeFilterCount}개` : ""}
-            </button>
+          <div className="flex items-end gap-3 sm:shrink-0">
+            <div className="flex min-w-0 flex-1 flex-col gap-2 sm:w-40 sm:flex-none">
+              <span className="text-sm font-bold text-white">조건 필터</span>
+              <button type="button" onClick={() => setIsFilterOpen(true)} className="h-11 rounded border border-[#343844] bg-[#0b0d12] px-3 text-sm font-bold text-[#e5e7eb] transition hover:border-white hover:text-white focus:outline-none focus:ring-2 focus:ring-[#9ca3af]/30">
+                필터{activeFilterCount > 0 ? ` ${activeFilterCount}개` : ""}
+              </button>
+            </div>
+            <ListResultCount label="함선" count={filteredShips.length} total={ships.length}/>
           </div>
-        </div>
-
-        <div className="text-sm font-semibold text-white">
-          {filteredShips.length} / {ships.length}
         </div>
       </div>
 

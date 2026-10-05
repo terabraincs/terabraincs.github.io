@@ -3,6 +3,7 @@ import { useMemo, useState } from "react";
 import Image from "@/components/DeploymentImage";
 import Link from "@/components/DeploymentLink";
 import SearchInput from "@/components/SearchInput";
+import ListResultCount from "@/components/ListResultCount";
 import RarityIcon from "@/components/RarityIcon";
 import type { OperatorListItem } from "@/lib/operators";
 type OperatorSearchListProps = {
@@ -35,27 +36,27 @@ export default function OperatorSearchList({ operators, }: OperatorSearchListPro
     }, [normalizedKeyword, operators, selectedGrade]);
     return (<div className="mt-8">
       <div className="rounded-md border border-[#343844] bg-[#171a21] p-4">
-        <div className="grid gap-3 md:grid-cols-[minmax(0,1fr)_260px_auto] md:items-end">
+        <div className="grid gap-3 md:grid-cols-[minmax(0,1fr)_auto] md:items-end">
           <label className="flex min-w-0 flex-col gap-2">
             <span className="text-sm font-bold text-white">오퍼레이터 검색</span>
             <SearchInput value={searchKeyword} onChange={(event) => setSearchKeyword(event.target.value)} ariaLabel="오퍼레이터 검색" inputClassName="h-11 rounded border border-[#343844] bg-[#0b0d12] text-sm font-medium text-[#e5e7eb] outline-none transition placeholder:text-[#5b6270] focus:border-white focus:ring-2 focus:ring-[#9ca3af]/30"/>
           </label>
 
-          <div className="flex flex-col gap-2">
-            <span className="text-sm font-bold text-white">희귀도</span>
-            <div className="grid grid-cols-4 gap-2">
-              {gradeOptions.map((grade) => (<button key={grade} type="button" aria-label={`${grade} 희귀도`} aria-pressed={selectedGrade === grade} onClick={() => setSelectedGrade((currentGrade) => currentGrade === grade ? "" : grade)} className={`h-11 border text-sm font-black transition ${selectedGrade === grade
+          <div className="flex min-w-0 items-end gap-3">
+            <div className="flex min-w-0 flex-1 flex-col gap-2 md:w-[260px] md:flex-none">
+              <span className="text-sm font-bold text-white">희귀도</span>
+              <div className="grid grid-cols-4 gap-2">
+                {gradeOptions.map((grade) => (<button key={grade} type="button" aria-label={`${grade} 희귀도`} aria-pressed={selectedGrade === grade} onClick={() => setSelectedGrade((currentGrade) => currentGrade === grade ? "" : grade)} className={`h-11 border text-sm font-black transition ${selectedGrade === grade
                 ? "border-white bg-white text-[#111318]"
                 : "border-[#343844] bg-[#0b0d12] text-[#9ca3af] hover:border-white hover:text-white"}`}>
-                  <span className="flex justify-center">
-                    <RarityIcon grade={grade} size="sm"/>
-                  </span>
-                </button>))}
+                    <span className="flex justify-center">
+                      <RarityIcon grade={grade} size="sm"/>
+                    </span>
+                  </button>))}
+              </div>
             </div>
-          </div>
 
-          <div className="text-sm font-semibold text-white">
-            {filteredOperators.length} / {operators.length}
+            <ListResultCount label="오퍼레이터" count={filteredOperators.length} total={operators.length}/>
           </div>
         </div>
       </div>

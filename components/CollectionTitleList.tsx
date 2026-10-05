@@ -3,6 +3,7 @@ import { useMemo, useState } from "react";
 import Image from "@/components/DeploymentImage";
 import CollectionSortButtons from "@/components/CollectionSortButtons";
 import SearchInput from "@/components/SearchInput";
+import ListResultCount from "@/components/ListResultCount";
 import type { CollectionTitleCategory, CollectionTitleItem, } from "@/lib/collectionTitles";
 type CollectionTitleListProps = {
     titles: CollectionTitleItem[];
@@ -40,33 +41,31 @@ export default function CollectionTitleList({ titles, categories, }: CollectionT
         });
     }, [categoryId, normalizedKeyword, sortMode, titles]);
     return (<>
-      <section className="mt-8 border-y border-[#343844] bg-[#111318] px-4 py-5 sm:px-5">
-        <div className="flex flex-col gap-3 lg:flex-row lg:items-center">
-          <label className="flex min-w-0 flex-1 items-center gap-3 border border-[#4b5563] bg-[#0b0d12] px-4 py-3 focus-within:border-white">
-            <SearchInput value={keyword} onChange={(event) => setKeyword(event.target.value)} ariaLabel="칭호 검색" containerClassName="flex-1" inputClassName="bg-transparent text-sm text-[#e5e7eb] outline-none placeholder:text-[#565c6b]"/>
+      <section className="mt-8 border border-[#343844] bg-[#111318] p-4">
+        <div className="flex flex-col gap-3 lg:flex-row lg:items-end">
+          <label className="flex h-11 min-w-0 flex-1 items-center gap-3 border border-[#4b5563] bg-[#0b0d12] px-4 focus-within:border-white">
+            <SearchInput value={keyword} onChange={(event) => setKeyword(event.target.value)} ariaLabel="칭호 검색" containerClassName="h-full flex-1" inputClassName="h-full bg-transparent text-sm text-[#e5e7eb] outline-none placeholder:text-[#565c6b]"/>
           </label>
 
-          <CollectionSortButtons label="칭호" value={sortMode} onChange={setSortMode}/>
+          <div className="flex items-center justify-between gap-3 lg:justify-end">
+            <CollectionSortButtons label="칭호" value={sortMode} onChange={setSortMode}/>
+            <ListResultCount label="칭호" count={visibleTitles.length} total={titles.length}/>
+          </div>
         </div>
 
         <div className="mt-4 grid grid-cols-2 gap-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6">
           <button type="button" onClick={() => setCategoryId(0)} aria-pressed={categoryId === 0} className={`min-h-11 border px-3 py-2 text-sm font-bold transition ${categoryId === 0
             ? "border-white bg-white text-[#111318]"
             : "border-[#4b5563] bg-black/30 text-[#9ca3af] hover:border-white hover:text-white"}`}>
-            전체 {titles.length}
+            전체
           </button>
           {categories.map((category) => (<button key={category.id} type="button" onClick={() => setCategoryId(category.id)} aria-pressed={categoryId === category.id} className={`min-h-11 border px-3 py-2 text-sm font-bold transition ${categoryId === category.id
                 ? "border-white bg-white text-[#111318]"
                 : "border-[#4b5563] bg-black/30 text-[#9ca3af] hover:border-white hover:text-white"}`}>
-              {category.name} {category.count}
+              {category.name}
             </button>))}
         </div>
       </section>
-
-      <div className="mt-6 flex items-center justify-between border-b border-[#343844] pb-3 text-sm font-bold">
-        <span className="text-[#9ca3af]">검색 결과</span>
-        <span className="text-white">{visibleTitles.length}개</span>
-      </div>
 
       {visibleTitles.length > 0 ? (<div className="mt-5 grid gap-4 lg:grid-cols-2 xl:grid-cols-3">
           {visibleTitles.map((title) => (<article key={title.id} className="min-w-0 border border-[#343844] bg-[#171a21] p-4">

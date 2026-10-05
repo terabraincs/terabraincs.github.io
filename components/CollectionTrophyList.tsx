@@ -3,8 +3,10 @@ import { deploymentUrl } from "@/lib/deployment";
 import { useEffect, useMemo, useState } from "react";
 import Image from "@/components/DeploymentImage";
 import CharacterAwakenCircuit from "@/components/CharacterAwakenCircuit";
+import CollectionSortButtons from "@/components/CollectionSortButtons";
 import RarityIcon from "@/components/RarityIcon";
 import SearchInput from "@/components/SearchInput";
+import ListResultCount from "@/components/ListResultCount";
 import type { CollectionTrophyCategory, CollectionTrophyItem, } from "@/lib/collectionTrophies";
 type TrophyFilterState = {
     categories: CollectionTrophyCategory[];
@@ -72,6 +74,7 @@ export default function CollectionTrophyList({ trophies, }: {
     trophies: CollectionTrophyItem[];
 }) {
     const [searchKeyword, setSearchKeyword] = useState("");
+    const [sortMode, setSortMode] = useState<"order" | "name">("order");
     const [isFilterOpen, setIsFilterOpen] = useState(false);
     const [selectedFilters, setSelectedFilters] = useState<TrophyFilterState>(createEmptyFilters);
     const [selectedTrophy, setSelectedTrophy] = useState<CollectionTrophyItem | null>(null);
@@ -98,8 +101,13 @@ export default function CollectionTrophyList({ trophies, }: {
                 matchesSelectedFilter(selectedFilters.categories, trophy.category) &&
                 matchesSelectedFilter(selectedFilters.roles, trophy.role) &&
                 matchesSelectedFilter(selectedFilters.grades, trophy.grade));
+        }).sort((first, second) => {
+            if (sortMode === "name") {
+                return first.name.localeCompare(second.name, "ko-KR");
+            }
+            return first.order - second.order;
         });
-    }, [normalizedKeyword, selectedFilters, trophies]);
+    }, [normalizedKeyword, selectedFilters, sortMode, trophies]);
     useEffect(() => {
         if (!selectedTrophy) {
             return;
@@ -130,7 +138,7 @@ export default function CollectionTrophyList({ trophies, }: {
         });
     }
     return (<>
-      <div className="mt-6 flex flex-col gap-3 rounded-lg border border-[#343844] bg-[#171a21] p-4 sm:flex-row sm:items-center sm:justify-between">
+      <div className="mt-6 flex flex-col gap-3 rounded-lg border border-[#343844] bg-[#171a21] p-4 lg:flex-row lg:items-end lg:justify-between">
         <div className="flex min-w-0 flex-1 flex-col gap-3 sm:flex-row">
           <label className="flex min-w-0 flex-1 flex-col gap-2">
             <span className="text-sm font-bold text-white">트로피 검색</span>
@@ -143,8 +151,9 @@ export default function CollectionTrophyList({ trophies, }: {
             </button>
           </div>
         </div>
-        <div className="shrink-0 text-sm font-semibold text-white">
-          {visibleTrophies.length} / {trophies.length}개
+        <div className="flex items-center justify-between gap-3 lg:justify-end">
+          <CollectionSortButtons label="트로피" value={sortMode} onChange={setSortMode}/>
+          <ListResultCount label="트로피" count={visibleTrophies.length} total={trophies.length}/>
         </div>
       </div>
 

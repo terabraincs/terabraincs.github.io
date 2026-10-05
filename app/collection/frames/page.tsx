@@ -15,22 +15,16 @@ export default function CollectionFramesPage() {
       <SiteHeader />
 
       <main className="flex-1">
-        <article className="mx-auto w-full max-w-7xl px-4 py-10 sm:px-6 sm:py-14 lg:px-8">
+        <article className="mx-auto w-full max-w-6xl px-4 py-10 sm:px-6 sm:py-14 lg:px-8">
           <Link href={deploymentUrl("/collection")} className="inline-flex items-center text-sm font-semibold text-white transition hover:text-[#d1d5db]">
             ← 수집 요소
           </Link>
 
           <header className="mt-5 border-b border-[#343844] pb-5">
-            <p className="text-sm font-semibold tracking-[0.28em] text-[#9ca3af]">
-              FRAME
-            </p>
-            <div className="mt-3 flex flex-wrap items-end justify-between gap-3">
+            <div className="flex flex-wrap items-end justify-between gap-3">
               <h1 className="text-3xl font-bold text-[#cfd4dc] sm:text-4xl">
                 프레임
               </h1>
-              <span className="text-sm font-bold text-[#9ca3af]">
-                {frames.length}종
-              </span>
             </div>
           </header>
 

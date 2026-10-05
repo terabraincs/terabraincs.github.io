@@ -22,9 +22,6 @@ export default function CollectionTrophiesPage() {
           </Link>
 
           <header className="mt-5 flex flex-col gap-3 border-b border-[#343844] pb-6">
-            <p className="text-sm font-semibold tracking-[0.28em] text-white">
-              TROPHY LIST
-            </p>
             <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
               <div>
                 <div className="flex items-center gap-3">
@@ -37,9 +34,6 @@ export default function CollectionTrophiesPage() {
                   사원형 SD 트로피를 구분, 클래스와 희귀도별로 확인할 수 있습니다.
                 </p>
               </div>
-              <p className="text-sm font-semibold text-white">
-                {trophies.length}개
-              </p>
             </div>
           </header>
 

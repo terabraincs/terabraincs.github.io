@@ -36,6 +36,7 @@ type UnitStatRow = {
     m_RespawnCost?: number;
     m_StatData?: {
         m_Stat?: Record<string, number>;
+        m_StatPerLevel?: Record<string, number>;
     };
 };
 type ShipSkillRow = {
@@ -49,6 +50,7 @@ type ShipSkillRow = {
 };
 type ShipLevelRow = {
     m_ShipStarGrade: number;
+    m_ShipLimitBreakGrade?: number;
     m_ShipRareGrade: string;
     m_ShipMaxLevel?: number;
 };
@@ -78,7 +80,12 @@ export type ShipSkillStage = {
 };
 export type ShipStat = {
     label: string;
-    value: string;
+    baseValue: number;
+    perLevelValue: number;
+};
+export type ShipLimitBreakLevel = {
+    grade: number;
+    maxLevel: number;
 };
 export type ShipListItem = {
     id: string;
@@ -94,10 +101,12 @@ export type ShipListItem = {
 };
 export type ShipDetail = ShipListItem & {
     sortId: number;
+    description: string;
     stages: ShipStage[];
     skillStages: ShipSkillStage[];
     stats: ShipStat[];
-    limitBreakLevels: string[];
+    maxLevel: number;
+    limitBreakLevels: ShipLimitBreakLevel[];
 };
 const gradeMap: Record<string, {
     label: string;
@@ -136,7 +145,7 @@ const shipStyleIconFileMap: Record<string, string> = {
     NUST_SHIP_PATROL: "AB_UI_WARFARE_SHIP_INFO_TYPE_05.png",
 };
 const shipTypeMap: Record<string, string> = {
-    SHIP_NORMAL: "일반",
+    SHIP_NORMAL: "정규",
     SHIP_EVENT: "이벤트",
 };
 const skillTypeMap: Record<string, string> = {
@@ -266,6 +275,7 @@ function getSkillIds(unit: UnitBaseRow | undefined) {
 }
 function createStats(statRow: UnitStatRow | undefined) {
     const stats = statRow?.m_StatData?.m_Stat;
+    const statsPerLevel = statRow?.m_StatData?.m_StatPerLevel;
     if (!stats) {
         return [];
     }
@@ -273,12 +283,16 @@ function createStats(statRow: UnitStatRow | undefined) {
         .filter((statKey) => typeof stats[statKey] === "number")
         .map((statKey) => ({
         label: statLabels[statKey] ?? statKey,
-        value: stats[statKey].toLocaleString("ko-KR"),
+        baseValue: stats[statKey],
+        perLevelValue: statsPerLevel?.[statKey] ?? 0,
     }));
 }
 function getLevelMap(levelRows: ShipLevelRow[]) {
     const levelMap = new Map<string, number>();
     for (const row of levelRows) {
+        if ((row.m_ShipLimitBreakGrade ?? 0) > 0) {
+            continue;
+        }
         levelMap.set(`${row.m_ShipRareGrade}:${row.m_ShipStarGrade}`, row.m_ShipMaxLevel ?? 0);
     }
     return levelMap;
@@ -310,6 +324,7 @@ function loadShipContext() {
     const limitBreakRows = readLocalJson<JsonTable<ShipLimitBreakRow>>("031_LUA_SHIP_LIMITBREAK_TEMPLET_a.json")?.data ?? [];
     const unitTextMap = createTextMap(readLocalJson<TextTable>("002_LUA_SI_UNIT_KOREA_l.json"));
     const skillTextMap = createTextMap(readLocalJson<TextTable>("022_LUA_SI_SHIP_SKILL_KOREA_f.json"));
+    const descriptionTextMap = createTextMap(readLocalJson<TextTable>("095_LUA_SI_DESC_KOREA_l.json"));
     return {
         buildRows,
         unitBaseById: new Map<string, UnitBaseRow>(unitBaseRows.map((row) => [row.m_UnitStrID, row])),
@@ -319,6 +334,7 @@ function loadShipContext() {
         limitBreakRows,
         unitTextMap,
         skillTextMap,
+        descriptionTextMap,
     };
 }
 function createShipDetail(baseShipId: string, context = loadShipContext()): ShipDetail | null {
@@ -346,6 +362,9 @@ function createShipDetail(baseShipId: string, context = loadShipContext()): Ship
         "함선";
     const name = getText(context.unitTextMap, lastUnit?.m_Name) ||
         formatFallbackName(baseShipId);
+    const shipVoiceAssetName = `AB_UI_UNIT_VOICE_${firstBuildRow.m_ShipName}`;
+    const description = (getText(context.descriptionTextMap, `SI_DESC_UNIT_GET_${firstBuildRow.m_ShipID}`) ||
+        getText(context.descriptionTextMap, `${shipVoiceAssetName}@${shipVoiceAssetName}_GET_01`)).trim();
     const skillStages = stages.map((stageRow) => {
         const unit = context.unitBaseById.get(stageRow.m_ShipName);
         const skills = getSkillIds(unit).map((skillId) => {
@@ -381,10 +400,11 @@ function createShipDetail(baseShipId: string, context = loadShipContext()): Ship
     const limitBreakLevels = context.limitBreakRows
         .filter((row) => row.ShipID === lastBuildRow.m_ShipID)
         .sort((a, b) => a.ShipLimitBreakGrade - b.ShipLimitBreakGrade)
-        .map((row) => row.ShipLimitBreakMaxLevel
-        ? `${row.ShipLimitBreakGrade}단계 ${row.ShipLimitBreakMaxLevel}레벨`
-        : "")
-        .filter(Boolean);
+        .map((row) => ({
+        grade: row.ShipLimitBreakGrade,
+        maxLevel: row.ShipLimitBreakMaxLevel ?? 0,
+    }))
+        .filter((level) => level.maxLevel > 0);
     return {
         id: baseShipId,
         href: deploymentUrl(`/ships/${baseShipId}`),
@@ -397,9 +417,11 @@ function createShipDetail(baseShipId: string, context = loadShipContext()): Ship
         stageCount: stages.length,
         imagePath: getShipImagePath(baseShipId, lastUnit?.m_FaceCardName),
         sortId: firstBuildRow.m_ShipID,
+        description,
         stages: displayStages,
         skillStages,
         stats: createStats(context.unitStatById.get(lastBuildRow.m_ShipName)),
+        maxLevel: context.levelMap.get(`${lastUnit?.m_NKM_UNIT_GRADE ?? ""}:${getShipStage(lastBuildRow.m_ShipName)}`) ?? 1,
         limitBreakLevels,
     };
 }

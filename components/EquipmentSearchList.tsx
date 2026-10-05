@@ -3,6 +3,7 @@ import { useMemo, useState } from "react";
 import Image from "@/components/DeploymentImage";
 import Link from "@/components/DeploymentLink";
 import SearchInput from "@/components/SearchInput";
+import ListResultCount from "@/components/ListResultCount";
 import type { EquipmentListItem } from "@/lib/equipment";
 type EquipmentSearchListProps = {
     equipment: EquipmentListItem[];
@@ -113,15 +114,14 @@ export default function EquipmentSearchList({ equipment, }: EquipmentSearchListP
           <SearchInput value={searchKeyword} onChange={(event) => setSearchKeyword(event.target.value)} ariaLabel="장비 검색" inputClassName="h-11 rounded border border-[#343844] bg-[#0b0d12] text-sm font-medium text-[#e5e7eb] outline-none transition placeholder:text-[#5b6270] focus:border-white focus:ring-2 focus:ring-[#9ca3af]/30"/>
         </label>
 
-        <div className="flex w-full flex-col gap-2 sm:w-40">
-          <span className="text-sm font-bold text-white">조건 필터</span>
-          <button type="button" onClick={() => setIsFilterOpen(true)} className="h-11 rounded border border-[#343844] bg-[#0b0d12] px-3 text-sm font-bold text-[#e5e7eb] transition hover:border-white hover:text-white focus:outline-none focus:ring-2 focus:ring-[#9ca3af]/30">
-            필터{activeFilterCount > 0 ? ` ${activeFilterCount}개` : ""}
-          </button>
-        </div>
-
-        <div className="shrink-0 pb-3 text-sm font-semibold text-white sm:ml-auto">
-          {filteredEquipment.length} / {equipment.length}
+        <div className="flex items-end gap-3 sm:shrink-0">
+          <div className="flex min-w-0 flex-1 flex-col gap-2 sm:w-40 sm:flex-none">
+            <span className="text-sm font-bold text-white">조건 필터</span>
+            <button type="button" onClick={() => setIsFilterOpen(true)} className="h-11 rounded border border-[#343844] bg-[#0b0d12] px-3 text-sm font-bold text-[#e5e7eb] transition hover:border-white hover:text-white focus:outline-none focus:ring-2 focus:ring-[#9ca3af]/30">
+              필터{activeFilterCount > 0 ? ` ${activeFilterCount}개` : ""}
+            </button>
+          </div>
+          <ListResultCount label="장비" count={filteredEquipment.length} total={equipment.length}/>
         </div>
       </div>
 

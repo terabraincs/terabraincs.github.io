@@ -4,6 +4,7 @@ import Image from "@/components/DeploymentImage";
 import CollectionAcquisitionList from "@/components/CollectionAcquisitionList";
 import CollectionSortButtons from "@/components/CollectionSortButtons";
 import SearchInput from "@/components/SearchInput";
+import ListResultCount from "@/components/ListResultCount";
 import type { CollectionEmblemItem } from "@/lib/collectionEmblems";
 type CollectionEmblemListProps = {
     emblems: CollectionEmblemItem[];
@@ -59,20 +60,18 @@ export default function CollectionEmblemList({ emblems, }: CollectionEmblemListP
         };
     }, [selectedEmblem]);
     return (<>
-      <section className="mt-8 border-y border-[#343844] bg-[#111318] px-4 py-5 sm:px-5">
-        <div className="flex flex-col gap-3 lg:flex-row lg:items-center">
-          <label className="flex min-w-0 flex-1 items-center gap-3 border border-[#4b5563] bg-[#0b0d12] px-4 py-3 focus-within:border-white">
-            <SearchInput value={keyword} onChange={(event) => setKeyword(event.target.value)} ariaLabel="엠블럼 검색" containerClassName="flex-1" inputClassName="bg-transparent text-sm text-[#e5e7eb] outline-none placeholder:text-[#565c6b]"/>
+      <section className="mt-8 border border-[#343844] bg-[#111318] p-4">
+        <div className="flex flex-col gap-3 lg:flex-row lg:items-end">
+          <label className="flex h-11 min-w-0 flex-1 items-center gap-3 border border-[#4b5563] bg-[#0b0d12] px-4 focus-within:border-white">
+            <SearchInput value={keyword} onChange={(event) => setKeyword(event.target.value)} ariaLabel="엠블럼 검색" containerClassName="h-full flex-1" inputClassName="h-full bg-transparent text-sm text-[#e5e7eb] outline-none placeholder:text-[#565c6b]"/>
           </label>
 
-          <CollectionSortButtons label="엠블럼" value={sortMode} onChange={setSortMode}/>
+          <div className="flex items-center justify-between gap-3 lg:justify-end">
+            <CollectionSortButtons label="엠블럼" value={sortMode} onChange={setSortMode}/>
+            <ListResultCount label="엠블럼" count={visibleEmblems.length} total={emblems.length}/>
+          </div>
         </div>
       </section>
-
-      <div className="mt-6 flex items-center justify-between border-b border-[#343844] pb-3 text-sm font-bold">
-        <span className="text-[#9ca3af]">검색 결과</span>
-        <span className="text-white">{visibleEmblems.length}개</span>
-      </div>
 
       {visibleEmblems.length > 0 ? (<div className="mt-5 grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6">
           {visibleEmblems.map((emblem) => (<button key={emblem.id} type="button" aria-haspopup="dialog" onClick={() => setSelectedEmblem(emblem)} className="group min-w-0 overflow-hidden border border-[#343844] bg-[#171a21] text-left transition hover:-translate-y-1 hover:border-white hover:bg-[#222631] focus:outline-none focus:ring-2 focus:ring-[#9ca3af]">

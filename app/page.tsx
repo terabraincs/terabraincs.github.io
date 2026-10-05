@@ -4,68 +4,62 @@ import SiteFooter from "@/components/SiteFooter";
 import SiteHeader from "@/components/SiteHeader";
 const hubCards = [
     {
-        title: "사원 정보",
+        title: "사원",
         href: deploymentUrl("/characters"),
-        badge: "EMPLOYEE",
-        description: "사원 등급, 클래스, 스킬 정보",
-        imagePath: deploymentUrl("/unit/unit_face/AB_UNIT_FACE_CARD_NKM_UNIT_CA_YOO_MI_NA.png"),
+        imagePath: deploymentUrl("/unit/unit_face/AB_UNIT_FACE_CARD_NKM_UNIT_SD_C_YOO_MI_NA.png"),
     },
     {
-        title: "장비 정보",
+        title: "장비",
         href: deploymentUrl("/equipment"),
-        badge: "EQUIPMENT",
-        description: "장비 세트, 옵션, 추천 장비",
         imagePath: deploymentUrl("/equipment/equip_image/AB_INVEN_ICON_IQI_EQUIP_COUNTER_WEAPON_T7_RELIC_A_SSR.png"),
     },
     {
-        title: "함선 정보",
+        title: "함선",
         href: deploymentUrl("/ships"),
-        badge: "SHIP",
-        description: "함선 스킬, 타입, 활용처",
-        imagePath: deploymentUrl("/ship/ship_ilust/AB_UNIT_FACE_CARD_NKM_SHIP_H_ENTERPRISE.png"),
+        imagePath: deploymentUrl("/ship/ship_ilust/AB_UNIT_FACE_CARD_NKM_SHIP_A_GLEIPNIR.png"),
     },
     {
-        title: "오퍼레이터 정보",
+        title: "오퍼레이터",
         href: deploymentUrl("/operators"),
-        badge: "OPERATOR",
-        description: "오퍼레이터 스킬과 보조기술",
-        imagePath: deploymentUrl("/operator/operator_face/AB_UNIT_FACE_CARD_OPR_KIMHANA.png"),
+        imagePath: deploymentUrl("/operator/operator_skill/OPR_LEE_SUYEON.png"),
     },
     {
         title: "수집 요소",
         href: deploymentUrl("/collection"),
-        badge: "COLLECTION",
-        description: "칭호와 꾸미기 수집 요소",
-        imagePath: deploymentUrl("/collection/title/USERTITLE_TEAMUP_SR_0001.png"),
-    },
-    {
-        title: "스토리 연대기",
-        href: deploymentUrl("/story"),
-        badge: "CHRONICLE",
-        description: "메인스트림과 서브스트림의 연결 지도",
-        imagePath: deploymentUrl("/story/map-buttons/SUB_THUMB_BIG_CROSSROAD.png"),
+        imagePath: deploymentUrl("/collection/emblem/AB_INVEN_ICON_IMI_ITEM_EMBLEM_BASIC_ANNIVERSARY_10.png"),
     },
     {
         title: "주크박스",
         href: deploymentUrl("/music"),
-        badge: "MUSIC",
-        description: "카운터사이드 수록 음악 감상",
         imagePath: deploymentUrl("/music/BGM_COVER_OST_1.png"),
+        imagePosition: "center 30%",
+    },
+    {
+        title: "스토리 뷰어",
+        href: deploymentUrl("/story"),
+        imagePath: deploymentUrl("/story/detail-thumbnails/BG_SUB_FAILURE.png"),
+        imagePosition: "center 30%",
     },
     {
         title: "Spine 뷰어",
         href: deploymentUrl("/spine-viewer"),
-        badge: "SPINE 3.7",
-        description: "카드 일러스트와 Spine 애니메이션 보기",
-        imagePath: deploymentUrl("/unit/unit_face/AB_UNIT_FACE_CARD_NKM_UNIT_C_YOO_MI_NA_RA.png"),
+        imagePath: deploymentUrl("/unit/unit_face/AB_UNIT_FACE_CARD_NKM_UNIT_CA_YOO_MI_NA.png"),
     },
     {
         title: "미니게임",
         href: deploymentUrl("/minigames"),
-        badge: "MINI GAME",
-        description: "인게임 미니게임 플레이",
         imagePath: deploymentUrl("/game-assets/match-ten/images/texture/UI_SINGLE_MATCHTEN_CUT_02.png"),
         overlayImagePath: deploymentUrl("/game-assets/match-ten/images/texture/UI_SINGLE_MATCHTEN_DECO_01.png"),
+    },
+];
+const backupLinks = [
+    {
+        title: "라운지 백업",
+        href: "https://lounge.counterside.kro.kr/",
+    },
+    {
+        title: "공식 홈페이지 백업",
+        href: "https://counterside.kro.kr/website/",
     },
 ];
 export default function Home() {
@@ -75,20 +69,24 @@ export default function Home() {
       <main className="flex-1">
         <section className="mx-auto w-full max-w-6xl px-4 py-12 sm:px-6 sm:py-16 lg:px-8">
           <div className="max-w-3xl">
-            <p className="text-sm font-semibold tracking-[0.28em] text-[#ff5a66]">
-              COUNTERSIDE WEB VIEWER
-            </p>
-            <h1 className="mt-4 text-4xl font-bold leading-tight text-white sm:text-5xl">
+            <h1 className="text-4xl font-bold leading-tight text-white sm:text-5xl">
               카운터사이드 웹뷰어
             </h1>
-            <p className="mt-5 max-w-2xl text-base leading-7 text-[#9ca3af] sm:text-lg">
-              카운터사이드의 사원, 장비, 함선, 오퍼레이터, 수집 요소와 콘텐츠
-              정보를 정리하는 웹사이트입니다.
+            <p className="mt-4 text-sm leading-6 text-[#9ca3af] sm:text-base">
+              이 웹페이지는 자료를 소유, 권리를 주장하지 않습니다. 모든 권리는
+              Studiobside Co., Ltd에게 있습니다
             </p>
           </div>
 
           <div className="mt-10 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {hubCards.map((card) => (<HubCard key={card.href} {...card}/>))}
+          </div>
+
+          <div className="mt-5 grid grid-cols-1 gap-5 sm:grid-cols-2">
+            {backupLinks.map((link) => (<a key={link.href} href={link.href} target="_blank" rel="noopener noreferrer" className="flex min-h-[88px] items-center justify-between gap-4 rounded-lg border border-[#343844] bg-[#171a21] p-5 text-xl font-bold text-white transition duration-200 hover:-translate-y-1 hover:border-white hover:shadow-[0_18px_50px_rgba(255,255,255,0.18)] focus:outline-none focus:ring-2 focus:ring-white">
+                <span>{link.title}</span>
+                <span aria-hidden="true">↗</span>
+              </a>))}
           </div>
         </section>
       </main>

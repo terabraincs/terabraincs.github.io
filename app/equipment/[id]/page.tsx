@@ -41,10 +41,7 @@ export default async function EquipmentDetailPage({ params, }: EquipmentDetailPa
           </Link>
 
           <header className="mt-5 border-b border-[#343844] pb-6">
-            <p className="text-sm font-semibold tracking-[0.28em] text-white">
-              EQUIPMENT DETAIL
-            </p>
-            <div className="mt-3 flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+            <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
               <h1 className="text-3xl font-black text-white sm:text-4xl">
                 {equipment.name}
               </h1>
@@ -70,6 +67,7 @@ export default async function EquipmentDetailPage({ params, }: EquipmentDetailPa
             <DetailSectionLink href="#equipment-options" label="보조 옵션"/>
             {equipment.potentialOptions.length > 0 ? (<DetailSectionLink href="#equipment-potential" label="잠재 옵션"/>) : null}
             <DetailSectionLink href="#equipment-set-options" label="세트 옵션"/>
+            {equipment.sameImageVariants.length > 0 ? (<DetailSectionLink href="#equipment-variants" label="다른 티어·희귀도"/>) : null}
           </nav>
 
           <div className="mt-8 grid gap-6 lg:grid-cols-[360px_minmax(0,1fr)]">
@@ -92,56 +90,37 @@ export default async function EquipmentDetailPage({ params, }: EquipmentDetailPa
                 </div>
               </section>
 
-              {equipment.privateUnits.length > 0 ||
-            equipment.sameImageVariants.length > 0 ? (<div className={`mt-8 grid gap-6 ${equipment.privateUnits.length > 0 &&
-                equipment.sameImageVariants.length > 0
-                ? "lg:grid-cols-2"
-                : ""}`}>
-                  {equipment.privateUnits.length > 0 ? (<section id="equipment-private-unit" className="min-w-0 scroll-mt-24">
-                      <SectionTitle title="전용 사원"/>
-                      <div className="mt-4 flex flex-wrap gap-2">
-                        {equipment.privateUnits.map((unit) => (<Link key={unit.id} href={unit.href} className="flex min-h-20 min-w-[220px] items-center overflow-hidden border border-[#343844] bg-[#171a21] text-sm font-black text-[#e5e7eb] transition hover:border-white hover:bg-[#1d2029] hover:text-white focus:outline-none focus:ring-2 focus:ring-[#9ca3af]">
-                            <span className="relative h-20 w-20 shrink-0 bg-[#0b0d12]">
-                              {unit.imagePath ? (<Image src={unit.imagePath} alt="" fill sizes="80px" className="object-contain"/>) : null}
+              <div className={`mt-8 grid gap-6 ${equipment.privateUnits.length > 0
+            ? "lg:grid-cols-2"
+            : ""}`}>
+                {equipment.privateUnits.length > 0 ? (<section id="equipment-private-unit" className="min-w-0 scroll-mt-24">
+                    <SectionTitle title="전용 사원"/>
+                    <div className="mt-4 flex flex-wrap gap-2">
+                      {equipment.privateUnits.map((unit) => (<Link key={unit.id} href={unit.href} className="flex min-h-20 min-w-[220px] items-center overflow-hidden border border-[#343844] bg-[#171a21] text-sm font-black text-[#e5e7eb] transition hover:border-white hover:bg-[#1d2029] hover:text-white focus:outline-none focus:ring-2 focus:ring-[#9ca3af]">
+                          <span className="relative h-20 w-20 shrink-0 bg-[#0b0d12]">
+                            {unit.imagePath ? (<Image src={unit.imagePath} alt="" fill sizes="80px" className="object-contain"/>) : null}
+                          </span>
+                          <span className="min-w-0 px-4 py-3">
+                            {unit.title ? (<span className="block truncate text-xs font-bold text-[#9ca3af]">
+                                {unit.title}
+                              </span>) : null}
+                            <span className="mt-1 block truncate">
+                              {unit.name}
                             </span>
-                            <span className="min-w-0 px-4 py-3">
-                              {unit.title ? (<span className="block truncate text-xs font-bold text-[#9ca3af]">
-                                  {unit.title}
-                                </span>) : null}
-                              <span className="mt-1 block truncate">
-                                {unit.name}
-                              </span>
-                            </span>
-                          </Link>))}
-                      </div>
-                    </section>) : null}
+                          </span>
+                        </Link>))}
+                    </div>
+                  </section>) : null}
 
-                  {equipment.sameImageVariants.length > 0 ? (<section id="equipment-variants" className="min-w-0 scroll-mt-24">
-                      <SectionTitle title="다른 티어·희귀도"/>
-                      <div className={`mt-4 grid gap-3 ${equipment.privateUnits.length === 0
-                    ? "sm:grid-cols-2"
-                    : ""}`}>
-                        {equipment.sameImageVariants.map((variant) => (<Link key={variant.id} href={variant.href} className="flex min-h-16 items-center justify-between gap-4 border border-[#343844] bg-[#171a21] px-4 py-3 transition hover:border-white hover:bg-[#1d2029] focus:outline-none focus:ring-2 focus:ring-[#9ca3af]">
-                            <span className="min-w-0 truncate text-sm font-black text-white">
-                              {variant.name}
-                            </span>
-                            <span className="flex shrink-0 items-center gap-2 text-sm font-black text-[#d1d5db]">
-                              <span>T{variant.tier}</span>
-                              <RarityIcon grade={variant.grade} size="sm"/>
-                            </span>
-                          </Link>))}
-                      </div>
-                    </section>) : null}
-                </div>) : null}
+                <section id="equipment-description" className="min-w-0 scroll-mt-24">
+                  <SectionTitle title="장비 설명"/>
+                  <p className="mt-4 border-l-4 border-white bg-[#171a21] px-4 py-4 whitespace-pre-line text-sm leading-7 text-[#c7cbd1]">
+                    {equipment.description}
+                  </p>
+                </section>
+              </div>
             </div>
           </div>
-
-          <section id="equipment-description" className="mt-10 scroll-mt-24">
-            <SectionTitle title="장비 설명"/>
-            <p className="mt-4 border-l-4 border-white bg-[#171a21] px-4 py-4 whitespace-pre-line text-sm leading-7 text-[#c7cbd1]">
-              {equipment.description}
-            </p>
-          </section>
 
           {equipment.seriesItems.length > 0 ? (<section id="equipment-series" className="mt-10 scroll-mt-24">
               <SectionTitle title="장비 세트"/>
@@ -205,6 +184,20 @@ export default async function EquipmentDetailPage({ params, }: EquipmentDetailPa
               </div>) : (<EmptyMessage text="적용 가능한 세트 옵션이 없습니다."/>)}
           </section>
 
+          {equipment.sameImageVariants.length > 0 ? (<section id="equipment-variants" className="mt-10 scroll-mt-24">
+              <SectionTitle title="다른 티어·희귀도"/>
+              <div className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+                {equipment.sameImageVariants.map((variant) => (<Link key={variant.id} href={variant.href} className="flex min-h-16 items-center justify-between gap-4 border border-[#343844] bg-[#171a21] px-4 py-3 transition hover:border-white hover:bg-[#1d2029] focus:outline-none focus:ring-2 focus:ring-[#9ca3af]">
+                    <span className="min-w-0 truncate text-sm font-black text-white">
+                      {variant.name}
+                    </span>
+                    <span className="flex shrink-0 items-center gap-2 text-sm font-black text-[#d1d5db]">
+                      <span>T{variant.tier}</span>
+                      <RarityIcon grade={variant.grade} size="sm"/>
+                    </span>
+                  </Link>))}
+              </div>
+            </section>) : null}
         </article>
       </main>
 

@@ -5,6 +5,7 @@ import Image from "@/components/DeploymentImage";
 import Link from "@/components/DeploymentLink";
 import { notFound } from "next/navigation";
 import ShipSkillPanel from "@/components/ShipSkillPanel";
+import ShipStatsPanel from "@/components/ShipStatsPanel";
 import RarityIcon from "@/components/RarityIcon";
 import SiteFooter from "@/components/SiteFooter";
 import SiteHeader from "@/components/SiteHeader";
@@ -42,17 +43,16 @@ export default async function ShipDetailPage({ params }: ShipDetailPageProps) {
           </Link>
 
           <header className="mt-5 border-b border-[#343844] pb-6">
-            <p className="text-sm font-semibold tracking-[0.28em] text-white">
-              SHIP DETAIL
-            </p>
-            <div className="mt-3 flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+            <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
               <div>
                 <h1 className="text-3xl font-black text-white sm:text-4xl">
                   {ship.name}
                 </h1>
               </div>
               <div className="flex flex-wrap gap-2">
-                <RarityIcon grade={ship.grade} size="lg"/>
+                <span className="inline-flex items-center rounded border border-[#343844] bg-[#171a21] px-3 py-2">
+                  <RarityIcon grade={ship.grade} size="md"/>
+                </span>
                 <span className="inline-flex items-center gap-2 rounded border border-[#343844] bg-[#171a21] px-3 py-2 text-sm font-bold text-[#e5e7eb]">
                   {ship.shipTypeIconPath ? (<Image src={ship.shipTypeIconPath} alt="" width={18} height={18} className="h-[18px] w-[18px] object-contain"/>) : null}
                   <span>{ship.title}</span>
@@ -61,7 +61,7 @@ export default async function ShipDetailPage({ params }: ShipDetailPageProps) {
             </div>
           </header>
 
-          <section className="mt-8 grid gap-6 lg:grid-cols-[minmax(0,420px)_1fr]">
+          <section className="mt-8 grid items-start gap-6 lg:grid-cols-[minmax(0,420px)_1fr]">
             <div className="overflow-hidden rounded-md border border-[#343844] bg-[#171a21]">
               <div className="relative flex aspect-[16/10] items-center justify-center bg-[#050608]">
                 {ship.imagePath ? (<Image src={ship.imagePath} alt="" fill sizes="(max-width: 1024px) 100vw, 420px" className="object-contain p-5" priority/>) : (<div className="text-xs font-bold tracking-[0.25em] text-[#565c6b]">
@@ -75,22 +75,17 @@ export default async function ShipDetailPage({ params }: ShipDetailPageProps) {
               </div>
             </div>
 
-            <div className="space-y-6">
-              <section className="rounded-md border border-[#343844] bg-[#171a21] p-5">
-                <SectionTitle title="작전 능력" note="1레벨 기준"/>
-                {ship.stats.length > 0 ? (<div className="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-3">
-                    {ship.stats.map((stat) => (<div key={stat.label} className="border border-[#343844] bg-[#0b0d12] p-3">
-                        <p className="text-xs font-bold text-[#9ca3af]">
-                          {stat.label}
-                        </p>
-                        <p className="mt-1 text-lg font-black text-white">
-                          {stat.value}
-                        </p>
-                      </div>))}
-                  </div>) : (<EmptyMessage text="능력치 데이터가 없습니다."/>)}
-              </section>
-            </div>
+            {ship.description ? (<section className="rounded-md border border-[#343844] bg-[#171a21] p-5">
+                <SectionTitle title="함선 소개"/>
+                <p className="mt-4 whitespace-pre-line break-words text-sm leading-7 text-[#d1d5db]">
+                  {ship.description}
+                </p>
+              </section>) : null}
           </section>
+
+          <div className="mt-8">
+            <ShipStatsPanel stats={ship.stats} stages={ship.stages} maxLevel={ship.maxLevel} limitBreakLevels={ship.limitBreakLevels}/>
+          </div>
 
           <section className="mt-8 rounded-md border border-[#343844] bg-[#171a21] p-5">
             <SectionTitle title="함선 스킬"/>
@@ -126,11 +121,4 @@ function SectionTitle({ title, note = "" }: {
           {note}
         </span>) : null}
     </h2>);
-}
-function EmptyMessage({ text }: {
-    text: string;
-}) {
-    return (<div className="mt-4 border border-[#343844] bg-[#0b0d12] px-4 py-8 text-center text-sm font-semibold text-[#9ca3af]">
-      {text}
-    </div>);
 }
