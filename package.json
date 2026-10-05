@@ -6,8 +6,10 @@
     "dev": "next dev --webpack",
     "build": "next build --webpack && node scripts/prepare-export.mjs",
     "start": "node scripts/serve.mjs",
-    "test": "node --experimental-strip-types --test tests/deployment.test.mjs",
-    "verify:export": "node scripts/verify-export.mjs"
+    "test": "node --experimental-strip-types --test tests/*.test.mjs",
+    "verify:export": "node scripts/verify-export.mjs",
+    "music:catalog": "node scripts/generate-music-catalog.mjs",
+    "music:verify": "node scripts/verify-music-metadata.mjs"
   },
   "dependencies": {
     "@pixi-spine/base": "^4.0.6",

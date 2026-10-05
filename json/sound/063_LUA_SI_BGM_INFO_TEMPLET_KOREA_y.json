@@ -1,0 +1,1318 @@
+{
+  "asset_name": "LUA_SI_BGM_INFO_TEMPLET_KOREA_y",
+  "root_name": "m_dicString",
+  "data": [
+    [
+      "SI_BGM_BATTLE_BOSS_01",
+      "UNIDENTIFIED CORRUPTED OBJECT"
+    ],
+    [
+      "SI_BGM_BATTLE_BOSS_EPIC_01",
+      "DESCENTION OF SEPHIRA"
+    ],
+    [
+      "SI_BGM_BATTLE_BOSS_EPIC_02",
+      "BROKEN FATE"
+    ],
+    [
+      "SI_BGM_BATTLE_NORMAL_01",
+      "OPERATION STATE ALPHA"
+    ],
+    [
+      "SI_BGM_BATTLE_NORMAL_02",
+      "FIRST SORTIE"
+    ],
+    [
+      "SI_BGM_CUTSCENE_FLASHBACK",
+      "REMINISCENCE"
+    ],
+    [
+      "SI_BGM_CUTSCENE_LOBBY_01",
+      "AFTERGLOW"
+    ],
+    [
+      "SI_BGM_CUTSCENE_TALK_01",
+      "ADC-GROUND ONE"
+    ],
+    [
+      "SI_BGM_CUTSCENE_UPROAR",
+      "IRONS ON FIRE"
+    ],
+    [
+      "SI_BGM_THEMA_COFFIN_FULL",
+      "COFFIN COMPANY"
+    ],
+    [
+      "SI_BGM_THEMA_FENRIN",
+      "FENRIR SQUAD"
+    ],
+    [
+      "SI_BGM_THEMA_REPLACER",
+      "REPLACER SYNDICATE"
+    ],
+    [
+      "SI_BGM_CUTSCENE_TRAGEDY",
+      "TRAGEDY"
+    ],
+    [
+      "SI_BGM_CUTSCENE_CONSPIRACY",
+      "CONSPIRACY REWINDED"
+    ],
+    [
+      "SI_BGM_CUTSCENE_HOPE",
+      "NEW HOPE"
+    ],
+    [
+      "SI_BGM_CUTSCENE_LONELY",
+      "LONELY STREET"
+    ],
+    [
+      "SI_BGM_CUTSCENE_TRAGEDY_HARD",
+      "UNTOLD TRAGEDY"
+    ],
+    [
+      "SI_BGM_THEMA_WOLFSBANE",
+      "WOLVESBANE"
+    ],
+    [
+      "SI_BGM_THEMA_ORCA",
+      "ORCA (Original Version)"
+    ],
+    [
+      "SI_BGM_THEMA_ORCA_SAD",
+      "ORCA (Nostalgia Mix)"
+    ],
+    [
+      "SI_BGM_BATTLE_NORMAL_03",
+      "BUBBLE DRIVE"
+    ],
+    [
+      "SI_BGM_THEMA_SOF_JOHN",
+      "CODE NAME - SMART GUY"
+    ],
+    [
+      "SI_BGM_BATTLE_COUNTERISDE_NORMAL_01",
+      "KILL THE SHADOW"
+    ],
+    [
+      "SI_BGM_THEMA_BOSS_KNIGHT",
+      "KNIGHT OF TERROR"
+    ],
+    [
+      "SI_BGM_THEMA_HERO",
+      "THE HERO"
+    ],
+    [
+      "SI_BGM_THEMA_ORCA_ARRANGE",
+      "ORCA (Rock Version)"
+    ],
+    [
+      "SI_BGM_UI_LOBBY",
+      "EARLY NIGHT"
+    ],
+    [
+      "SI_BGM_UI_LOGIN",
+      "ADMINISTRATION FAIL"
+    ],
+    [
+      "SI_BGM_BATTLE_VIRTUAL",
+      "TIME LIMIT"
+    ],
+    [
+      "SI_BGM_THEMA_BOSS_BISHOP",
+      "WRONG COLOR BISHOP"
+    ],
+    [
+      "SI_BGM_BATTLE_DESIGNPLAZA_NIGHT",
+      "NIGHTLESS"
+    ],
+    [
+      "SI_BGM_THEMA_SWAN_LAKE_WITHINTRO",
+      "SWAN LAKE"
+    ],
+    [
+      "SI_BGM_THMEA_SAD_01",
+      "ALWAYS BE WITH YOU"
+    ],
+    [
+      "SI_BGM_THMEA_SAD_02",
+      "FOREVER"
+    ],
+    [
+      "SI_BGM_UI_DIVE",
+      "UNKNOWN SIDE"
+    ],
+    [
+      "SI_BGM_THEMA_BOSS_QUEEN",
+      "LONG LIVE THE QUEEN"
+    ],
+    [
+      "SI_BGM_CUTSCENE_TALK_02",
+      "WATCH-00001"
+    ],
+    [
+      "SI_BGM_THEMA_BOSS_PAWN",
+      "MINORITY ATTACK"
+    ],
+    [
+      "SI_BGM_BATTLE_VIRTUAL_2",
+      "ENGAGE"
+    ],
+    [
+      "SI_BGM_THEMA_ALPHATRIX",
+      "INNOVATION READY"
+    ],
+    [
+      "SI_BGM_THEMA_PRYDWEN",
+      "NOBLESSE OBLIGE"
+    ],
+    [
+      "SI_BGM_THEMA_WHITERABBIT",
+      "ANIMAL RESQUE PARTY"
+    ],
+    [
+      "SI_BGM_THMEA_HRTBERRY",
+      "BERRY BERRY CUE!"
+    ],
+    [
+      "SI_BGM_CUTSCENE_TALK_03",
+      "PEACEFUL TIME"
+    ],
+    [
+      "SI_BGM_THEMA_POLICE_SWAT_4",
+      "POLICE SIREN"
+    ],
+    [
+      "SI_BGM_THEMA_BOSS_KING",
+      "THE KING'S CHOICE"
+    ],
+    [
+      "SI_BGM_THEMA_BOSS_SEO_YOON",
+      "ALTERGRESSIVE TYPE"
+    ],
+    [
+      "SI_BGM_CUTSCENE_LOGIN",
+      "ASSEMBLE"
+    ],
+    [
+      "SI_BGM_THEMA_CROSSROAD",
+      "OPERATION CROSSROAD"
+    ],
+    [
+      "SI_BGM_THEMA_SIXWING",
+      "SIX WINGS"
+    ],
+    [
+      "SI_BGM_THEMA_CHILD",
+      "MORNING SUNSHINE"
+    ],
+    [
+      "SI_BGM_THEMA_MEMORY",
+      "SHADOWS OF MEMORY"
+    ],
+    [
+      "SI_BGM_THEMA_MEMORY_02",
+      "SHADOWS OF MEMORY (MR)"
+    ],
+    [
+      "SI_BGM_BATTLE_NORMAL_04",
+      "ON A KNIFE'S EDGE"
+    ],
+    [
+      "SI_BGM_CUTSCENE_TALK_04",
+      "BEFORE THE RADIANCE"
+    ],
+    [
+      "SI_BGM_CUTSCENE_TALK_05",
+      "NEW DAY STEP"
+    ],
+    [
+      "SI_BGM_THEMA_ESPR",
+      "OLD FEAR(Calm Version)"
+    ],
+    [
+      "SI_BGM_THEMA_ESPR_02",
+      "OLD FEAR"
+    ],
+    [
+      "SI_BGM_BATTLE_COUNTERSIDE_ICELAND_NOAMB",
+      "DRAGON SLAYER"
+    ],
+    [
+      "SI_BGM_THEMA_SUMMER",
+      "LUCKY WAVE"
+    ],
+    [
+      "SI_BGM_BATTLE_SUMMER_01",
+      "HOLIDAY FEVER"
+    ],
+    [
+      "SI_BGM_BATTLE_BOSS_02",
+      "FORMIDABLE"
+    ],
+    [
+      "SI_BGM_THEMA_ADMIN",
+      "BLIZZARD OF STEEL"
+    ],
+    [
+      "SI_BGM_THEMA_SHADOW_PALACE",
+      "SHADOW PALACE"
+    ],
+    [
+      "SI_BGM_THEMA_CA_ADMIN_LEE_SUYEON",
+      "ACE OF WINGS"
+    ],
+    [
+      "SI_BGM_THEMA_SIGMA",
+      "SIGMA MARCH"
+    ],
+    [
+      "SI_BGM_THEMA_STREGA",
+      "WALPURGIS NIGHT"
+    ],
+    [
+      "SI_BGM_THEMA_CA_YUNA_02",
+      "SOLAR CODEX ON"
+    ],
+    [
+      "SI_BGM_THEMA_FLORA_MAID_SERVICE",
+      "GARDEN OF THE FLORA MANSION"
+    ],
+    [
+      "SI_BGM_THEMA_FLORA_MAID_SERVICE_02",
+      "GARDEN OF THE FLORA MANSION (Jazz Mix)"
+    ],
+    [
+      "SI_BGM_THEMA_XMAS",
+      "BANQUET NIGHT"
+    ],
+    [
+      "SI_BGM_THEMA_MILITIA",
+      "BURNING COLD NIGHT"
+    ],
+    [
+      "SI_BGM_THEMA_LIFE_BEAGINS_GONE",
+      "LIFE BEGINS AS GONE"
+    ],
+    [
+      "SI_BGM_THEMA_LIFE_BEAGINS_GONE_MR",
+      "LIFE BEGINS AS GONE (MR)"
+    ],
+    [
+      "SI_BGM_BATTLE_NORMAL_05",
+      "NEXT LEVEL"
+    ],
+    [
+      "SI_BGM_BATTLE_BOSS_03",
+      "BLINDFOLDED"
+    ],
+    [
+      "SI_BGM_BATTLE_NORMAL_06",
+      "DASH TO THE HORIZON"
+    ],
+    [
+      "SI_BGM_THEMA_ACADEMY",
+      "FAIR PLAY"
+    ],
+    [
+      "SI_BGM_THEMA_SCAVANGER",
+      "PIRATERIA"
+    ],
+    [
+      "SI_BGM_THEMA_SCAVANGER_02",
+      "PIRATERIA(Calm Version)"
+    ],
+    [
+      "SI_BGM_THEMA_SUMMER_02",
+      "COLORFUL COAST"
+    ],
+    [
+      "SI_BGM_THE_WAY_THE_DECISION",
+      "THE WAY OF THE DECISION"
+    ],
+    [
+      "SI_BGM_BATTLE_BOSS_04",
+      "FALSE SAVIOR"
+    ],
+    [
+      "SI_BGM_BATTLE_BOSS_04_HOLY",
+      "SAINTESS OF RESURRECTION"
+    ],
+    [
+      "SI_BGM_THEMA_HORIZON_02",
+      "DASH TO THE HORIZON (Cold Case Mix)"
+    ],
+    [
+      "SI_BGM_THEMA_SCAENA_01",
+      "ELYSIUM OVERTURE"
+    ],
+    [
+      "SI_BGM_THEMA_SCAENA_02",
+      "DANCE MACABRE"
+    ],
+    [
+      "SI_BGM_THEMA_NANAHARA_01",
+      "BLOODLINE"
+    ],
+    [
+      "SI_BGM_THEMA_NANAHARA_02",
+      "CHASING TOMORROW"
+    ],
+    [
+      "SI_BGM_CUTSCENE_TALK_06",
+      "UNDER THE SILENCE"
+    ],
+    [
+      "SI_BGM_THEMA_STORM",
+      "MAN OF STORM"
+    ],
+    [
+      "SI_BGM_UI_BASE_04",
+      "MORNING TABLE"
+    ],
+    [
+      "SI_BGM_THEMA_GREMORY",
+      "MADAME GREMORY"
+    ],
+    [
+      "SI_BGM_THEMA_CA_JIA_01",
+      "FAIRY OF SINGULARITY"
+    ],
+    [
+      "SI_BGM_THEMA_GREATSWORD_02",
+      "VALERY'S MELODY"
+    ],
+    [
+      "SI_BGM_HOUSE_OF_THE_RISING_SUN_01",
+      "HOUSE OF THE RISING SUN (Original Version)"
+    ],
+    [
+      "SI_BGM_HOUSE_OF_THE_RISING_SUN_01_MR",
+      "HOUSE OF THE RISING SUN (Original Version, MR)"
+    ],
+    [
+      "SI_BGM_HOUSE_OF_THE_RISING_SUN_02",
+      "HOUSE OF THE RISING SUN (Nostalgia Version)"
+    ],
+    [
+      "SI_BGM_HOUSE_OF_THE_RISING_SUN_02_MR",
+      "HOUSE OF THE RISING SUN (Nostalgia Version, MR)"
+    ],
+    [
+      "SI_BGM_OFFICE_COMMON_01",
+      "RETRO COOL"
+    ],
+    [
+      "SI_BGM_THEMA_MAESTRO_02",
+      "ELYSIUM REQUIEM"
+    ],
+    [
+      "SI_BGM_THEMA_SECURITY_AGENT",
+      "REVENANT"
+    ],
+    [
+      "SI_BGM_THEMA_MARIA",
+      "TASKFORCE ONE"
+    ],
+    [
+      "SI_BGM_THEMA_NIGHTMARE",
+      "NIGHTMARE"
+    ],
+    [
+      "SI_BGM_THEMA_CURIAN",
+      "HEART OF IRON"
+    ],
+    [
+      "SI_BGM_THEMA_CURIAN_02",
+      "PEACEFUL DAYS"
+    ],
+    [
+      "SI_BGM_THEMA_MILITIA_03",
+      "WIND OFF"
+    ],
+    [
+      "SI_BGM_THEMA_CA_SIGMA_01",
+      "FINAL PHASE"
+    ],
+    [
+      "SI_BGM_THEMA_CA_SIGMA_02",
+      "HAPPY ENDING STORY"
+    ],
+    [
+      "SI_BGM_COLLABO_2022_01",
+      "MIRACLE MAKER"
+    ],
+    [
+      "SI_BGM_THEMA_DIMENSIONTRIMMING",
+      "DIMENSION TRIMMING"
+    ],
+    [
+      "SI_BGM_THEMA_CA_REGINA",
+      "BIG FREEZE"
+    ],
+    [
+      "SI_BGM_COLLABO_2022_02",
+      "STREAMING THE WORLD"
+    ],
+    [
+      "SI_BGM_THEMA_GAMECIRCLE_01",
+      "CATCH THE STARLIGHT"
+    ],
+    [
+      "SI_BGM_THEMA_GAMECIRCLE_02",
+      "CATCH THE STARLIGHT (8-BIT RMX)"
+    ],
+    [
+      "SI_BGM_THEMA_CA_CHIFUYU_01",
+      "DESTINY NOWHERE"
+    ],
+    [
+      "SI_BGM_THEMA_CA_CHIFUYU_02",
+      "DESTINY GET FORWARD"
+    ],
+    [
+      "SI_BGM_THEMA_CS_AMBIENT",
+      "ALL THIS TIME"
+    ],
+    [
+      "SI_BGM_THEMA_CS_ORCHESTRA",
+      "ALL THIS TIME (Orchestra Version)"
+    ],
+    [
+      "SI_BGM_THEMA_SEASON2",
+      "REUNION"
+    ],
+    [
+      "SI_BGM_THEMA_CA_ROSARIA",
+      "VAE VICTIS"
+    ],
+    [
+      "SI_BGM_CUTSCENE_TALK_07",
+      "DAY BY DAY"
+    ],
+    [
+      "SI_BGM_THEMA_CA_LYUDMILA",
+      "BLIZZARD OF STEEL (KRESNIK MIX)"
+    ],
+    [
+      "SI_BGM_NEW_WORLD_INST",
+      "NEW WORLD (MR)"
+    ],
+    [
+      "SI_BGM_NEW_WORLD",
+      "NEW WORLD"
+    ],
+    [
+      "SI_BGM_THEMA_CA_DELTA_KYLE_AP_03",
+      "SEE BEYOND"
+    ],
+    [
+      "SI_BGM_THEMA_CA_DELTA_KYLE_AP",
+      "BREAKTHROUGH"
+    ],
+    [
+      "SI_BGM_THEMA_CA_DELTA_KYLE_AP_04",
+      "BREAKTHROUGH (MR)"
+    ],
+    [
+      "SI_BGM_THEMA_CIEL",
+      "BLOOD ON THE ROCK"
+    ],
+    [
+      "SI_BGM_THEMA_SEASON2_VOCAL",
+      "REUNION (Vocal Version)"
+    ],
+    [
+      "SI_BGM_THEMA_SECURITY_AGENT_02",
+      "CONFESSIO"
+    ],
+    [
+      "SI_BGM_UNBREAKABLE",
+      "UNBREAKABLE (Vocal Version)"
+    ],
+    [
+      "SI_BGM_UNBREAKABLE_INST",
+      "UNBREAKABLE"
+    ],
+    [
+      "SI_BGM_THEMA_SUMMER_03",
+      "ANCHORS AWEIGH"
+    ],
+    [
+      "SI_BGM_THEMA_ECCLESIA",
+      "LAST ELYSION"
+    ],
+    [
+      "SI_BGM_THEMA_PRYDWEN_02",
+      "NOBLESSE OBLIGE (Jingle Version)"
+    ],
+    [
+      "SI_BGM_THEMA_CA_EVE",
+      "CHILDREN OF JALDABAOTH"
+    ],
+    [
+      "SI_BGM_UI_SPORT_RACE_03",
+      "RUN, RUN, RUN!"
+    ],
+    [
+      "SI_BGM_THEMA_CA_DINO",
+      "SPIRIT SEEK"
+    ],
+    [
+      "SI_BGM_THEMA_CA_CAT",
+      "WALK IN THE FIRE"
+    ],
+    [
+      "SI_BGM_THEMA_CA_MAVKA",
+      "CHILD BECOME METAL"
+    ],
+    [
+      "SI_BGM_BATTLE_PVP_01",
+      "THROW DOWN THE GAUNTLET"
+    ],
+    [
+      "SI_BGM_THEMA_EXCUTE",
+      "EXECUTION OF THE TYRANT"
+    ],
+    [
+      "SI_BGM_THEMA_CA_HUNTRESS",
+      "FAIRY CALL"
+    ],
+    [
+      "SI_BGM_THEMA_CA_HUNTRESS_02",
+      "OLD WISH"
+    ],
+    [
+      "SI_BGM_THEMA_CA_SWAN",
+      "SWAN SONG"
+    ],
+    [
+      "SI_BGM_THEMA_CA_SURYA",
+      "PURIFY THE DARKNESS"
+    ],
+    [
+      "SI_BGM_THEMA_SA_COMMANDER",
+      "TWISTED MARCH"
+    ],
+    [
+      "SI_BGM_THEMA_SA_COMMANDER_02",
+      "OLD DIRGE"
+    ],
+    [
+      "SI_BGM_THEMA_CA_TWINTAIL",
+      "THE GOLDEN HERO!"
+    ],
+    [
+      "SI_BGM_COLLABO_2025",
+      "HEROIC GATHERING"
+    ],
+    [
+      "SI_BGM_CUTSCENE_TALK_08",
+      "LAZY AFTERNOON"
+    ],
+    [
+      "SI_BGM_THEMA_CA_BIRDCAGE",
+      "WILL TO BLOSSOM"
+    ],
+    [
+      "SI_BGM_THEMA_CA_BLUE",
+      "KILL THE MOONLIGHT"
+    ],
+    [
+      "SI_BGM_THEMA_CA_INTERN",
+      "ANGEL FALL"
+    ],
+    [
+      "SI_BGM_THEMA_CA_CHARLOTTE",
+      "LAST ACCOLADE"
+    ],
+    [
+      "SI_BGM_THEMA_CA_CLOUD",
+      "Chilseok"
+    ],
+    [
+      "SI_BGM_THEMA_CITY_CAMPAMENTO",
+      "TREASURE OF CAMPAMENTO"
+    ],
+    [
+      "SI_BGM_THEMA_CITY_LOTUS",
+      "BLOOMING"
+    ],
+    [
+      "SI_BGM_THEMA_CITY_CHAMBER",
+      "MELTED SNOW"
+    ],
+    [
+      "SI_BGM_THEMA_CA_KNIGHT",
+      "GLORY BENEATH THE LAKE"
+    ],
+    [
+      "SI_BGM_THEMA_CITY_FRONTBAY",
+      "THE VOYAGE"
+    ],
+    [
+      "SI_BGM_THEMA_CITY_CHARADE",
+      "BRINDISI"
+    ],
+    [
+      "SI_BGM_THEMA_FENRIR_CA_HILDE_PR",
+      "RETURN TO LIGHT"
+    ],
+    [
+      "SI_BGM_THEMA_CITY_G1",
+      "STILL FORWARD"
+    ],
+    [
+      "SI_BGM_THEMA_CA_ANAPILIS",
+      "ANAPILIS"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_BOSS_01",
+      "EP.1 1-4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_BOSS_EPIC_01",
+      "EP.8 3-3 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_BOSS_EPIC_02",
+      "EP6. 인터루드 #4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_NORMAL_01",
+      "EP.1 1-4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_NORMAL_02",
+      "EP.1 2-4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_CUTSCENE_FLASHBACK",
+      "EP.1 2-2 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_CUTSCENE_LOBBY_01",
+      "EP.1 1-4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_CUTSCENE_TALK_01",
+      "EP.1 1-4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_CUTSCENE_UPROAR",
+      "EP.1 1-4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_COFFIN_FULL",
+      "EP.1 1-4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_FENRIN",
+      "타입 : 지크프리트 힐데 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_REPLACER",
+      "EP.2 2-4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_CUTSCENE_TRAGEDY",
+      "EP.2 프롤로그 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_CUTSCENE_CONSPIRACY",
+      "세상에서 가장 맛있고 끔찍한 초콜릿 에필로그 #2 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_CUTSCENE_HOPE",
+      "EP.5 에필로그 #2 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_CUTSCENE_LONELY",
+      "배경 : 벚꽃놀이 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_CUTSCENE_TRAGEDY_HARD",
+      "EP.5 5-5 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_WOLFSBANE",
+      "타입 : 펜릴 유미나 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_ORCA",
+      "어떤 소녀와 용병의 이야기 어려움 1-2 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_ORCA_SAD",
+      "오르카 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_NORMAL_03",
+      "EP.2 프롤로그 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_SOF_JOHN",
+      "존 메이슨 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_COUNTERISDE_NORMAL_01",
+      "EP.7 인터루드 #2 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_BOSS_KNIGHT",
+      "리플레이서 나이트 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_HERO",
+      "익스퍼트 머셔너리 유미나 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_ORCA_ARRANGE",
+      "오르카 어려움 1-2 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_UI_LOBBY",
+      "EP.1 1-4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_UI_LOGIN",
+      "배경 : 이면세계 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_VIRTUAL",
+      "EP.1 1-4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_BOSS_BISHOP",
+      "리플레이서 비숍 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_DESIGNPLAZA_NIGHT",
+      "EP.4 3-1 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_SWAN_LAKE_WITHINTRO",
+      "오래된 공포 에필로그 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THMEA_SAD_01",
+      "EP.5 인터루드 #1 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THMEA_SAD_02",
+      "EP.7 4-1 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_UI_DIVE",
+      "EP.2 에필로그 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_BOSS_QUEEN",
+      "리플레이서 퀸 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_CUTSCENE_TALK_02",
+      "EP.1 1-4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_BOSS_PAWN",
+      "EP.6 2-3 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_VIRTUAL_2",
+      "EP.1 1-4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_ALPHATRIX",
+      "신지아 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_PRYDWEN",
+      "엘리자베스 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_WHITERABBIT",
+      "양하림 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THMEA_HRTBERRY",
+      "가은 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_CUTSCENE_TALK_03",
+      "배경 : 스트레가 카페 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_POLICE_SWAT_4",
+      "강소영 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_BOSS_KING",
+      "리플레이서 킹 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_BOSS_SEO_YOON",
+      "얼터그레시브 서윤 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_CUTSCENE_LOGIN",
+      "EP.1 1-4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CROSSROAD",
+      "카린 웡 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_SIXWING",
+      "육익 나유빈 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CHILD",
+      "아인&츠바이 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_MEMORY",
+      "EP.5 5-6 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_MEMORY_02",
+      "EP.5 5-6 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_NORMAL_04",
+      "EP.8 2-2 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_CUTSCENE_TALK_04",
+      "EP6. 1-4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_CUTSCENE_TALK_05",
+      "당신이 모르는 소원 어려움 1-1 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_ESPR",
+      "배경 : ESPR 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_ESPR_02",
+      "오래된 공포 에필로그 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_COUNTERSIDE_ICELAND_NOAMB",
+      "타입 : 지크프리트 힐데 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_SUMMER",
+      "배경 : 해변 (낮), 배경 : 호텔 (낮), 배경 : 호텔 (밤), 배경 : 호텔 (저녁) 모두 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_SUMMER_01",
+      "부사장의 휴일 3-6 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_BOSS_02",
+      "EP6. 1-4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_ADMIN",
+      "류드밀라 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_SHADOW_PALACE",
+      "EP.5 에필로그 #2"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_ADMIN_LEE_SUYEON",
+      "에이스 오브 윙즈 이수연 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_SIGMA",
+      "시그마 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_STREGA",
+      "배경 : 할로윈 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_YUNA_02",
+      "솔라 코덱스 유나 스프링필드 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_FLORA_MAID_SERVICE",
+      "베로니카 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_FLORA_MAID_SERVICE_02",
+      "배경 : 버려진 저택 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_XMAS",
+      "배경 : 크리스마스 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_MILITIA",
+      "배경 : 뒷골목 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_LIFE_BEAGINS_GONE",
+      "EP.1 1-4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_LIFE_BEAGINS_GONE_MR",
+      "EP.1 1-4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_NORMAL_05",
+      "EP.6 1-1 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_BOSS_03",
+      "EP6.4-3 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_NORMAL_06",
+      "대시 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_ACADEMY",
+      "배경 : 청춘의 출발점 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_SCAVANGER",
+      "기계수집가 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_SCAVANGER_02",
+      "에이펙스 프레데터 이볼브 원 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_SUMMER_02",
+      "배경 : 사파이어 파라다이스 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THE_WAY_THE_DECISION",
+      "아라한 주시윤 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_BOSS_04",
+      "루크레시아 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_BOSS_04_HOLY",
+      "루크레시아 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_HORIZON_02",
+      "콜드 케이스 호라이즌 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_SCAENA_01",
+      "셰나 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_SCAENA_02",
+      "셰나 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_NANAHARA_01",
+      "배경 : 만월의 천수각 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_NANAHARA_02",
+      "해를 부르는 궤적 어려움 1-1 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_CUTSCENE_TALK_06",
+      "EP.8 1-1 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_STORM",
+      "스톰 브링거 제이크 워커 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_UI_BASE_04",
+      "EP.1 1-4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_GREMORY",
+      "그레모리 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_JIA_01",
+      "싱귤러리티 신지아 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_GREATSWORD_02",
+      "알렉스 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_HOUSE_OF_THE_RISING_SUN_01",
+      "EP7. 에필로그 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_HOUSE_OF_THE_RISING_SUN_01_MR",
+      "이수연 : 상냥한 솔리스트 스킨 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_HOUSE_OF_THE_RISING_SUN_02",
+      "EP7. 에필로그 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_HOUSE_OF_THE_RISING_SUN_02_MR",
+      "이수연 : 상냥한 솔리스트 스킨 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_OFFICE_COMMON_01",
+      "BGM 모듈 : RETRO COOL 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_MAESTRO_02",
+      "엘리시움 필하모닉 마에스트로 네퀴티아 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_SECURITY_AGENT",
+      "레버넌트 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_MARIA",
+      "가르강튀아 마리아 안토노프 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_NIGHTMARE",
+      "루루 나이트메어 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CURIAN",
+      "철의 기수 큐리안 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CURIAN_02",
+      "배경 : 국경지대 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_MILITIA_03",
+      "EP.9.5 4-1 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_SIGMA_01",
+      "파이널 페이즈 시그마 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_SIGMA_02",
+      "배경 : 헤이븐 랜드 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_COLLABO_2022_01",
+      "EP1. 에필로그 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_DIMENSIONTRIMMING",
+      "EP8. 에필로그 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_REGINA",
+      "종신 학회장 레지나 맥크레디 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_COLLABO_2022_02",
+      "EP1. 에필로그 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_GAMECIRCLE_01",
+      "배경 : 서브컬처 연구회실 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_GAMECIRCLE_02",
+      "히든 챌린저 김철수 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_CHIFUYU_01",
+      "역신베기 나나하라 치후유 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_CHIFUYU_02",
+      "배경 : 나나하라 봉인역 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CS_AMBIENT",
+      "배경 : 그라운드 원 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CS_ORCHESTRA",
+      "EP.10 에필로그 #2 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_SEASON2",
+      "EP.10 4-4 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_ROSARIA",
+      "아스모데우스 로자리아 르 프리데 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_CUTSCENE_TALK_07",
+      "관리 종료 에필로그 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_LYUDMILA",
+      "크레스니크 류드밀라 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_NEW_WORLD_INST",
+      "배경 : 가식 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_NEW_WORLD",
+      "펠리세트, 라이카 모두 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_DELTA_KYLE_AP_03",
+      "데드 엔드 로드 어려움 1-1 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_DELTA_KYLE_AP",
+      "미네르바 카린 웡 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CIEL",
+      "시엘 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_SECURITY_AGENT_02",
+      "굿바이 타나베린 어려움 1-1 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_UNBREAKABLE",
+      "크리스티나 브레히트, 마에스트로 네퀴티아 모두 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_UNBREAKABLE_INST",
+      "크리스티나 브레히트 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_SUMMER_03",
+      "어밴던 쉽 어려움 1-1 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_ECCLESIA",
+      "위대한 정적 에클레시아 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_PRYDWEN_02",
+      "버넷 네버 다이 어려움 1-1 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_EVE",
+      "이브 마이트너 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_UI_SPORT_RACE_03",
+      "플래시백 씬 : 징조 I 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_DINO",
+      "셰퍼드&러처 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_CAT",
+      "앨리스 브레이드우드 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_MAVKA",
+      "코스트로마 마브카 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_BATTLE_PVP_01",
+      "EP.5 에필로그 #2 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_EXCUTE",
+      "EP.5 에필로그 #2 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_HUNTRESS",
+      "어벤저 모드레드 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_HUNTRESS_02",
+      "어벤저 어려움 1-1 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_SWAN",
+      "스완송 어려움 1-1 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_SURYA",
+      "아디트야 수리야 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_SA_COMMANDER",
+      "붉은 마녀 펠릭스 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_SA_COMMANDER_02",
+      "기억화원 어려움 1-1 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_TWINTAIL",
+      "카운터즈 레거시 어려움 1-1 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_BIRDCAGE",
+      "겨울 방학 어려움 1-1 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_BLUE",
+      "월광 어려움 1-1 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_INTERN",
+      "세피라의 화신 노엘 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_CHARLOTTE",
+      "구원의 성좌 에스테로사 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_CLOUD",
+      "아뢰야식 정점 연화 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CITY_CAMPAMENTO",
+      "황금향의 유산 에필로그 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CITY_LOTUS",
+      "진흙 속에서 피는 꽃 에필로그 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CITY_CHAMBER",
+      "재귀정렬 에필로그 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_KNIGHT",
+      "호수의 기사 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CITY_FRONTBAY",
+      "표류 에필로그 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CITY_CHARADE",
+      "라 트라비아타 에필로그 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_FENRIR_CA_HILDE_PR",
+      "프레이야 힐데 획득"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CITY_G1",
+      "되찾을 것들 에필로그 클리어"
+    ],
+    [
+      "SI_BGM_UNLOCK_THEMA_CA_ANAPILIS",
+      "아나필리스 획득"
+    ]
+  ]
+}

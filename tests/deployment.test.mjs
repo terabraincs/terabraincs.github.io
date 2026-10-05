@@ -23,10 +23,12 @@ test('minigames navigation reaches its project root and detail routes',()=>{
   assert.deepEqual(siteLink(deploymentUrl('/equipment/ITEM')),{href:'/equipment/ITEM',external:false});
 });
 test('unpublished feature buttons retain their destinations',()=>{
-  for(const route of ['/characters','/story','/music','/spine-viewer'])assert.deepEqual(siteLink(route),{href:route,external:false});
+  for(const route of ['/characters','/story','/spine-viewer'])assert.deepEqual(siteLink(route),{href:route,external:false});
 });
 test('Main preview assets do not overlap the minigames project route',()=>{
   const url=deploymentUrl('/game-assets/match-ten/images/preview.png');
   assert.equal(url,BASE_PATH+'/game-assets/match-ten/images/preview.png');
   assert.ok(!url.startsWith('/minigames/'));
 });
+
+test('jukebox is an owned Main route',()=>{assert.deepEqual(siteLink('/music/'),{href:'/music/',external:false});});
