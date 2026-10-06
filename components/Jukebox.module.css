@@ -340,19 +340,13 @@
   min-width: 0;
 }
 
-.nowPlaying p {
-  color: #8192b0;
-  font-size: 12px;
-  font-weight: 800;
-  letter-spacing: 0.08em;
-}
-
 .nowPlaying h2 {
-  margin-top: 5px;
+  margin: 0;
   overflow: hidden;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 28px;
   font-weight: 800;
+  line-height: 1.35;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
@@ -526,7 +520,7 @@
   }
 
   .nowPlaying h2 {
-    font-size: 17px;
+    font-size: 24px;
   }
 
   .volumeControl {
@@ -659,13 +653,8 @@
     grid-area: track;
   }
 
-  .nowPlaying p {
-    font-size: 10px;
-  }
-
   .nowPlaying h2 {
-    margin-top: 2px;
-    font-size: 15px;
+    font-size: 20px;
   }
 
   .nowPlaying span {

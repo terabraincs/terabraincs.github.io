@@ -14,6 +14,8 @@ function argument(name){const index=args.indexOf(name);return index<0?undefined:
 const audioDirectory=argument('--audio-dir');
 assert.ok(audioDirectory,'Provide --audio-dir with the converted Ogg directory');
 const repositoryDirectory=argument('--repositories-dir');
+const musicRepositoryDirectory=argument('--repository-dir')??(repositoryDirectory?path.join(path.resolve(repositoryDirectory),'CS_Music'):undefined);
+const musicBaseUrl='https://raw.githubusercontent.com/terabraincs/CS_Music/main/audio';
 process.chdir(app);
 process.env.COUNTERSIDE_BGM_DIR=path.resolve(audioDirectory);
 process.env.COUNTERSIDE_ASSET_ROOT=path.join(app,'.tmp/no-source-asset-fallback');
@@ -43,23 +45,20 @@ const tracks=source.loadMusicTracks().map(track=>{
   assert.ok(sourceFile);
   const bytes=fs.readFileSync(sourceFile);
   const group=track.isRegistered?'registered':'unregistered';
-  const repository='CS_music_'+group;
-  groups[group].push({name:filename,bytes:bytes.length,sha256:createHash('sha256').update(bytes).digest('hex'),duration:track.duration});
-  if(repositoryDirectory){
-    const target=path.join(path.resolve(repositoryDirectory),repository,'site/audio',filename);
+  groups[group].push({name:filename,bytes:bytes.length,sha256:createHash('sha256').update(bytes).digest('hex'),duration:track.duration,isRegistered:track.isRegistered});
+  if(musicRepositoryDirectory){
+    const target=path.join(path.resolve(musicRepositoryDirectory),'audio',filename);
     fs.mkdirSync(path.dirname(target),{recursive:true});fs.copyFileSync(sourceFile,target);
   }
-  return {...track,audioPath:`https://counterside.kro.kr/${repository}/audio/${encodeURIComponent(filename)}`};
+  return {...track,audioPath:`${musicBaseUrl}/${encodeURIComponent(filename)}`};
 });
 const allFiles=Object.values(groups).flat();
 assert.equal(new Set(allFiles.map(file=>file.name.toLowerCase())).size,tracks.length,'Overlapping audio groups');
 assert.equal(tracks.length,fs.readdirSync(process.env.COUNTERSIDE_BGM_DIR).filter(file=>/\.ogg$/i.test(file)).length,'Unassigned converted audio');
 fs.mkdirSync(path.join(app,'data'),{recursive:true});
 fs.writeFileSync(path.join(app,'data/music-tracks.json'),JSON.stringify({format:1,durationSource:'Ogg Opus final granule minus pre-skip at 48000 Hz',tracks},null,2)+'\n','utf8');
-for(const [group,files] of Object.entries(groups)){
-  const repository='CS_music_'+group;
-  const bytes=files.reduce((total,file)=>total+file.bytes,0);
-  assert.ok(bytes<1_000_000_000);
-  if(repositoryDirectory)fs.writeFileSync(path.join(path.resolve(repositoryDirectory),repository,'site/catalog.json'),JSON.stringify({format:1,repository,bytes,files},null,2)+'\n','utf8');
-  console.log(JSON.stringify({repository,tracks:files.length,bytes}));
-}
+const repository='terabraincs/CS_Music';
+const bytes=allFiles.reduce((total,file)=>total+file.bytes,0);
+assert.ok(allFiles.every(file=>file.bytes<100*1024*1024),'Regular Git file exceeds 100 MiB');
+if(musicRepositoryDirectory)fs.writeFileSync(path.join(path.resolve(musicRepositoryDirectory),'catalog.json'),JSON.stringify({format:2,repository,audioBaseUrl:musicBaseUrl,bytes,files:allFiles},null,2)+'\n','utf8');
+console.log(JSON.stringify({repository,tracks:allFiles.length,registered:groups.registered.length,unregistered:groups.unregistered.length,bytes,pages:false}));

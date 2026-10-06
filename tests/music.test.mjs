@@ -4,7 +4,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 const catalog=JSON.parse(fs.readFileSync(new URL('../data/music-tracks.json',import.meta.url),'utf8'));
 
-test('all converted tracks are present once and routed to the correct audio repository',()=>{
+test('all converted tracks are present once and use the unified Raw audio repository',()=>{
   assert.equal(catalog.tracks.length,278);
   assert.equal(catalog.tracks.filter(track=>track.isRegistered).length,166);
   assert.equal(catalog.tracks.filter(track=>!track.isRegistered).length,112);
@@ -12,8 +12,8 @@ test('all converted tracks are present once and routed to the correct audio repo
   assert.equal(new Set(catalog.tracks.map(track=>track.audioPath.toLowerCase())).size,278);
   for(const track of catalog.tracks){
     const url=new URL(track.audioPath);
-    assert.equal(url.origin,'https://counterside.kro.kr');
-    assert.ok(url.pathname.startsWith(`/CS_music_${track.isRegistered?'registered':'unregistered'}/audio/`));
+    assert.equal(url.origin,'https://raw.githubusercontent.com');
+    assert.ok(url.pathname.startsWith('/terabraincs/CS_Music/main/audio/'));
     assert.match(path.posix.basename(url.pathname),/^[A-Za-z0-9_]+\.ogg$/);
     assert.equal(track.isLocked,false);
     assert.ok(Number.isFinite(track.duration)&&track.duration>0);

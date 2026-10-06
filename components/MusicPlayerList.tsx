@@ -434,7 +434,6 @@ export default function MusicPlayerList({ tracks }: MusicPlayerListProps) {
 
           <div className={styles.playerBody}>
             <div className={styles.nowPlaying}>
-              <p>NOW PLAYING</p>
               <h2>{activeTrack?.title ?? "선택된 음악 없음"}</h2>
               <span>{activeTrack?.unlockText ?? ""}</span>
             </div>
