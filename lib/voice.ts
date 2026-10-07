@@ -1,6 +1,8 @@
 import fs from "node:fs";
 import path from "node:path";
 import { createSoundAssetUrl } from "@/lib/staticAssets";
+import operatorCatalog from "@/data/operator-voice-assets.json";
+const operatorVoicePaths = new Set(operatorCatalog.paths);
 export type VoiceCategory = "unit" | "operator";
 export type VoiceLanguage = "ko" | "ja";
 function isVoiceCategory(value: string): value is VoiceCategory {
@@ -32,9 +34,13 @@ export function createVoiceAudioPath(category: VoiceCategory, bundleId: string, 
     const suffix = language === "ja" ? "vjpn" : "vkor";
     const bundleDirectory = `${bundleId.replace(/\.(?:vkor|vjpn)$/i, "").toLowerCase()}.${suffix}`;
     const fileName = `${soundId}.ogg`;
+    const voiceDirectory = category === "unit" ? "unit_voice" : "operator_voice";
+    const remotePath = `${voiceDirectory}/${bundleDirectory}/${fileName}`;
+    if (category === "operator" && operatorVoicePaths.has(remotePath)) {
+        return `${operatorCatalog.baseUrl}/${remotePath.split('/').map(encodeURIComponent).join('/')}`;
+    }
     if (!getVoiceFilePath(category, bundleDirectory, fileName)) {
         return "";
     }
-    const voiceDirectory = category === "unit" ? "unit_voice" : "operator_voice";
     return createSoundAssetUrl("voice", voiceDirectory, bundleDirectory, fileName);
 }

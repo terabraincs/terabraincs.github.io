@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
 const catalog=JSON.parse(fs.readFileSync(new URL('../data/music-tracks.json',import.meta.url),'utf8'));
+const imagePaths=new Set(JSON.parse(fs.readFileSync(new URL('../data/main-image-assets.json',import.meta.url),'utf8')).paths);
 
 test('all converted tracks are present once and use the unified Raw audio repository',()=>{
   assert.equal(catalog.tracks.length,278);
@@ -18,7 +19,7 @@ test('all converted tracks are present once and use the unified Raw audio reposi
     assert.equal(track.isLocked,false);
     assert.ok(Number.isFinite(track.duration)&&track.duration>0);
     assert.ok(Math.abs(track.duration*48000-Math.round(track.duration*48000))<0.00001);
-    assert.ok(fs.existsSync(new URL('../public'+track.coverPath,import.meta.url)));
+    assert.ok(imagePaths.has(track.coverPath),'Album cover is absent from Asset_main');
   }
 });
 

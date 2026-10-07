@@ -5,7 +5,7 @@
   overflow: hidden;
   grid-template-rows: minmax(650px, 1fr) 250px;
   background-color: #050a18;
-  background-image: url("/music/AB_UI_BGM_BG.png");
+  background-image: url("https://raw.githubusercontent.com/terabraincs/Asset_main/main/music/AB_UI_BGM_BG.png");
   background-position: center;
   background-size: 100% 100%;
   color: #f4f7ff;
@@ -52,7 +52,7 @@
   height: 520px;
   align-items: center;
   justify-content: center;
-  background-image: url("/music/AB_UI_BRM_ALBUM_BG.png");
+  background-image: url("https://raw.githubusercontent.com/terabraincs/Asset_main/main/music/AB_UI_BRM_ALBUM_BG.png");
   background-position: center;
   background-size: 100% 100%;
   filter: drop-shadow(0 18px 34px rgba(0, 0, 0, 0.42));
@@ -156,7 +156,7 @@
 }
 
 .trackList::-webkit-scrollbar-track {
-  background: rgba(2, 6, 16, 0.7) url("/music/AB_UI_BRM_SCROLL_BG.png") repeat-y;
+  background: rgba(2, 6, 16, 0.7) url("https://raw.githubusercontent.com/terabraincs/Asset_main/main/music/AB_UI_BRM_SCROLL_BG.png") repeat-y;
 }
 
 .trackList::-webkit-scrollbar-thumb {

@@ -1,3 +1,4 @@
+import { publicFileExists } from "@/lib/publicAssets";
 import { deploymentUrl } from "@/lib/deployment";
 import fs from "node:fs";
 import path from "node:path";
@@ -57,7 +58,7 @@ const roleMap: Record<string, string> = {
 };
 let cachedTrophyData: CollectionTrophyData | null = null;
 function readJson<T>(filePath: string) {
-    if (!fs.existsSync(filePath)) {
+    if (!publicFileExists(filePath)) {
         return null;
     }
     try {
@@ -133,7 +134,7 @@ function getTrophyImagePath(faceCardName: string | undefined) {
         return "";
     }
     const fileName = `${path.basename(faceCardName)}.png`;
-    if (!fs.existsSync(path.join(trophyImageDirectory, fileName))) {
+    if (!publicFileExists(path.join(trophyImageDirectory, fileName))) {
         return "";
     }
     return deploymentUrl(`/collection/trophy/face_cards/${fileName}`);

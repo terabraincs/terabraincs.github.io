@@ -1,3 +1,4 @@
+import { publicFileExists } from "@/lib/publicAssets";
 import { deploymentUrl } from "@/lib/deployment";
 import fs from "node:fs";
 import path from "node:path";
@@ -176,7 +177,7 @@ function readLocalJson<T>(fileName: string) {
         path.join(process.cwd(), "json", fileName),
         path.join(process.cwd(), "json", "KR", fileName),
     ];
-    const filePath = filePaths.find((candidatePath) => fs.existsSync(candidatePath));
+    const filePath = filePaths.find((candidatePath) => publicFileExists(candidatePath));
     if (!filePath) {
         return null;
     }
@@ -238,7 +239,7 @@ function getPublicImagePath(folderName: string, fileBaseName?: string) {
         ? fileBaseName
         : `${fileBaseName}.png`;
     const filePath = path.join(process.cwd(), "public", "ship", folderName, fileName);
-    if (!fs.existsSync(filePath)) {
+    if (!publicFileExists(filePath)) {
         return "";
     }
     return deploymentUrl(`/ship/${folderName}/${fileName}`);
@@ -249,7 +250,7 @@ function getShipTypeIconPath(shipStyleType?: string) {
         return "";
     }
     const filePath = path.join(process.cwd(), "public", "ship", "ship_type", fileName);
-    if (!fs.existsSync(filePath)) {
+    if (!publicFileExists(filePath)) {
         return "";
     }
     return deploymentUrl(`/ship/ship_type/${fileName}`);

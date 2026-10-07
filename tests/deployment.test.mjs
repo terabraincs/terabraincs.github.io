@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {BASE_PATH,MAIN_BASE_PATH,MINIGAMES_BASE_PATH,deploymentUrl,deploymentData,siteLink} from '../lib/deployment.ts';
+import {loadTypeScript} from './load-typescript.mjs';
+const {BASE_PATH,MAIN_BASE_PATH,MINIGAMES_BASE_PATH,deploymentUrl,deploymentData,siteLink}=loadTypeScript('lib/deployment.ts');
 test('asset paths remain local and idempotent',()=>{
   const url=deploymentUrl('/game-assets/cafe-strega/image.png');
   assert.equal(url,BASE_PATH+'/game-assets/cafe-strega/image.png');

@@ -1,3 +1,4 @@
+import { publicFileExists } from "@/lib/publicAssets";
 import { deploymentUrl } from "@/lib/deployment";
 import fs from "node:fs";
 import path from "node:path";
@@ -210,7 +211,7 @@ function readLocalJson<T>(fileName: string) {
         path.join(process.cwd(), "json", fileName),
         path.join(process.cwd(), "json", "KR", fileName),
     ];
-    const filePath = filePaths.find((candidatePath) => fs.existsSync(candidatePath));
+    const filePath = filePaths.find((candidatePath) => publicFileExists(candidatePath));
     if (!filePath) {
         return null;
     }
@@ -278,7 +279,7 @@ function getImagePath(folderName: OperatorImageFolder, fileBaseName?: string) {
             localPath: path.join(process.cwd(), "public", "operator", legacyImageFolderMap[folderName], fileName),
         },
     ];
-    const matchedFilePath = filePaths.find(({ localPath }) => fs.existsSync(localPath));
+    const matchedFilePath = filePaths.find(({ localPath }) => publicFileExists(localPath));
     return matchedFilePath?.publicPath ?? "";
 }
 function getNumber(value: unknown) {

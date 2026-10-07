@@ -1,3 +1,4 @@
+import { publicFileExists } from "@/lib/publicAssets";
 import { deploymentUrl } from "@/lib/deployment";
 import fs from "node:fs";
 import path from "node:path";
@@ -194,7 +195,7 @@ function readLocalJson<T>(fileName: string) {
         path.join(process.cwd(), "json", fileName),
         path.join(process.cwd(), "json", "KR", fileName),
     ];
-    const filePath = filePaths.find((candidatePath) => fs.existsSync(candidatePath));
+    const filePath = filePaths.find((candidatePath) => publicFileExists(candidatePath));
     if (!filePath) {
         return null;
     }
@@ -266,7 +267,7 @@ function getEquipmentImagePath(iconName?: string) {
     ];
     for (const fileName of candidates) {
         const filePath = path.join(process.cwd(), "public", "equipment", "equip_image", fileName);
-        if (fs.existsSync(filePath)) {
+        if (publicFileExists(filePath)) {
             return deploymentUrl(`/equipment/equip_image/${fileName}`);
         }
     }
@@ -275,7 +276,7 @@ function getEquipmentImagePath(iconName?: string) {
 function getEquipmentBackgroundImagePath(grade: string) {
     const fileName = `AB_INVEN_ICON_FRAME_${grade}.png`;
     const filePath = path.join(process.cwd(), "public", "equipment", "equip_background", fileName);
-    return fs.existsSync(filePath)
+    return publicFileExists(filePath)
         ? deploymentUrl(`/equipment/equip_background/${fileName}`) : "";
 }
 function getSetIconPath(iconName?: string) {
@@ -284,12 +285,12 @@ function getSetIconPath(iconName?: string) {
     }
     const fileName = `${iconName}.png`;
     const filePath = path.join(process.cwd(), "public", "equipment", "equip_set", fileName);
-    return fs.existsSync(filePath) ? deploymentUrl(`/equipment/equip_set/${fileName}`) : "";
+    return publicFileExists(filePath) ? deploymentUrl(`/equipment/equip_set/${fileName}`) : "";
 }
 function getUnitIconImagePath(unitStrId: string) {
     const fileName = `AB_INVEN_ICON_${unitStrId}.png`;
     const filePath = path.join(process.cwd(), "public", "unit", "unit_icon", fileName);
-    return fs.existsSync(filePath) ? deploymentUrl(`/unit/unit_icon/${fileName}`) : "";
+    return publicFileExists(filePath) ? deploymentUrl(`/unit/unit_icon/${fileName}`) : "";
 }
 function getVisibleEquipmentRows(equipmentTextMap: Map<string, string>) {
     const rows = readLocalJson<JsonTable<EquipmentRow>>("002_LUA_ITEM_EQUIP_TEMPLET_g.json")?.data ?? [];

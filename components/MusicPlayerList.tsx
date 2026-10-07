@@ -1,6 +1,6 @@
 "use client";
 
-import Image from "next/image";
+import Image from "@/components/DeploymentImage";
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { MusicTrack } from "@/lib/music";
 import styles from "./Jukebox.module.css";
