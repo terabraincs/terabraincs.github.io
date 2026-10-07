@@ -1,0 +1,174 @@
+
+EVENT_SD_ACADEMY_C_TWINTAIL.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TRAIL
+  rotate: false
+  xy: 130, 336
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 317, 199
+  size: 73, 102
+  orig: 73, 102
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 428, 167
+  size: 30, 75
+  orig: 30, 75
+  offset: 0, 0
+  index: -1
+body_left_arm2
+  rotate: true
+  xy: 428, 246
+  size: 30, 76
+  orig: 30, 76
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 357, 24
+  size: 28, 78
+  orig: 28, 78
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 428, 278
+  size: 29, 80
+  orig: 29, 80
+  offset: 0, 0
+  index: -1
+body_right_arm2
+  rotate: true
+  xy: 304, 104
+  size: 29, 80
+  orig: 29, 80
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 428, 309
+  size: 37, 82
+  orig: 37, 82
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 104, 106
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 317, 135
+  size: 109, 62
+  orig: 109, 62
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 387, 28
+  size: 105, 63
+  orig: 105, 63
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 317, 274
+  size: 109, 72
+  orig: 109, 72
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 297, 2
+  size: 100, 58
+  orig: 100, 58
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 193, 99
+  size: 94, 67
+  orig: 94, 67
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 191, 30
+  size: 104, 67
+  orig: 104, 67
+  offset: 0, 0
+  index: -1
+fx_booster
+  rotate: false
+  xy: 104, 19
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+hair_ac
+  rotate: false
+  xy: 421, 199
+  size: 72, 45
+  orig: 72, 45
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 306, 384
+  size: 187, 126
+  orig: 187, 126
+  offset: 0, 0
+  index: -1
+hair_left_back
+  rotate: false
+  xy: 2, 13
+  size: 100, 253
+  orig: 100, 253
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: false
+  xy: 280, 197
+  size: 35, 137
+  orig: 35, 137
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: false
+  xy: 2, 268
+  size: 126, 242
+  orig: 126, 242
+  offset: 0, 0
+  index: -1
+hair_right_side_2
+  rotate: false
+  xy: 262, 104
+  size: 40, 89
+  orig: 40, 89
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 130, 195
+  size: 148, 139
+  orig: 148, 139
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: true
+  xy: 306, 348
+  size: 34, 184
+  orig: 34, 184
+  offset: 0, 0
+  index: -1

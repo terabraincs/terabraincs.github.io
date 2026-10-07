@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "nodes": {
+    "UI_SINGLE_POPUP_SWORDTRAINING_REWARD/Content/INFO/SCORE_TEXT": {
+      "fontSize": 46,
+      "advances": {
+        "0": 24,
+        "1": 15,
+        "2": 22,
+        "3": 23,
+        "4": 25,
+        "5": 23,
+        "6": 24,
+        "7": 19,
+        "8": 25,
+        "9": 24,
+        ",": 9
+      }
+    }
+  },
+  "evidence": [
+    {
+      "capture": "../.codex-temp/sword-native-probe/captures/ui-reward-003/reward-0/reference.json",
+      "sha256": "3bcadc8180c82f087b1e029b536f7ba159e0d3a7ede2c7669b81cd672a5d5dec",
+      "text": "0",
+      "preferredWidth": 24,
+      "fontName": "Rajdhani-SemiBold"
+    },
+    {
+      "capture": "../.codex-temp/sword-native-probe/captures/ui-reward-003/reward-25/reference.json",
+      "sha256": "b2a010dd8162f8994ef41f7d87bc48da78f30c2c04e57787abcfcbf5f84db7b0",
+      "text": "25",
+      "preferredWidth": 45,
+      "fontName": "Rajdhani-SemiBold"
+    },
+    {
+      "capture": "../.codex-temp/sword-native-probe/captures/ui-reward-003/reward-100/reference.json",
+      "sha256": "d7fd41469204856fe2544267faeb4d21dd0a6f55b9bf4aee47e21ed50feebccd",
+      "text": "100",
+      "preferredWidth": 63,
+      "fontName": "Rajdhani-SemiBold"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+METHOD System.Void NKC.UI.NKCUISlot::OpenItemBox(NKC.UI.NKCUISlot/SlotData,System.Boolean)
+  0000: ldarg.1      
+  0001: brtrue.s     IL_0004: ldarg.1
+  0003: ret          
+  0004: ldarg.1      
+  0005: ldfld        NKC.UI.NKCUISlot/eSlotMode NKC.UI.NKCUISlot/SlotData::eType
+  000A: stloc.1      
+  000B: ldloc.1      
+  000C: switch       IL_004A, IL_0039, IL_005B, IL_005B, IL_0063, IL_006E, IL_0039, IL_0039, IL_004A, IL_004A
+  0039: call         NKC.UI.NKCPopupItemBox NKC.UI.NKCPopupItemBox::get_Instance()
+  003E: ldc.i4.0     
+  003F: ldarg.1      
+  0040: ldnull       
+  0041: ldc.i4.0     
+  0042: ldc.i4.0     
+  0043: ldc.i4.1     
+  0044: callvirt     System.Void NKC.UI.NKCPopupItemBox::Open(NKC.UI.NKCPopupItemBox/eMode,NKC.UI.NKCUISlot/SlotData,NKC.UI.NKCPopupItemBox/OnButton,System.Boolean,System.Boolean,System.Boolean)
+  0049: ret          
+  004A: call         NKC.UI.NKCPopupItemBox NKC.UI.NKCPopupItemBox::get_Instance()
+  004F: ldc.i4.0     
+  0050: ldarg.1      
+  0051: ldnull       
+  0052: ldc.i4.0     
+  0053: ldc.i4.0     
+  0054: ldc.i4.1     
+  0055: callvirt     System.Void NKC.UI.NKCPopupItemBox::Open(NKC.UI.NKCPopupItemBox/eMode,NKC.UI.NKCUISlot/SlotData,NKC.UI.NKCPopupItemBox/OnButton,System.Boolean,System.Boolean,System.Boolean)
+  005A: ret          
+  005B: ldarg.0      
+  005C: ldarg.1      
+  005D: call         System.Void NKC.UI.NKCUISlot::OpenEquipBox(NKC.UI.NKCUISlot/SlotData)
+  0062: ret          
+  0063: ldstr        Skin Popup under construction
+  0068: call         System.Void UnityEngine.Debug::LogWarning(System.Object)
+  006D: ret          
+  006E: ldarg.0      
+  006F: ldfld        NKC.UI.NKCUISlot/SlotData NKC.UI.NKCUISlot::m_SlotData
+  0074: ldfld        System.Int32 NKC.UI.NKCUISlot/SlotData::ID
+  0079: call         NKM.NKMItemMoldTemplet NKM.NKMItemManager::GetItemMoldTempletByID(System.Int32)
+  007E: stloc.0      
+  007F: ldloc.0      
+  0080: brfalse.s    IL_00CF: ret
+  0082: ldloc.0      
+  0083: callvirt     System.Boolean NKM.NKMItemMoldTemplet::get_IsEquipMold()
+  0088: brfalse.s    IL_00CF: ret
+  008A: ldsfld       System.Collections.Generic.Dictionary`2<System.Int32,System.Collections.Generic.Dictionary`2<NKM.Templet.NKM_REWARD_TYPE,System.Collections.Generic.List`1<System.Int32>>> NKM.NKMItemManager::m_dicRandomMoldBox
+  008F: ldloc.0      
+  0090: ldfld        System.Int32 NKM.NKMItemMoldTemplet::m_RewardGroupID
+  0095: callvirt     System.Boolean System.Collections.Generic.Dictionary`2<System.Int32,System.Collections.Generic.Dictionary`2<NKM.Templet.NKM_REWARD_TYPE,System.Collections.Generic.List`1<System.Int32>>>::ContainsKey(System.Int32)
+  009A: brfalse.s    IL_00CF: ret
+  009C: ldsfld       System.Collections.Generic.Dictionary`2<System.Int32,System.Collections.Generic.Dictionary`2<NKM.Templet.NKM_REWARD_TYPE,System.Collections.Generic.List`1<System.Int32>>> NKM.NKMItemManager::m_dicRandomMoldBox
+  00A1: ldloc.0      
+  00A2: ldfld        System.Int32 NKM.NKMItemMoldTemplet::m_RewardGroupID
+  00A7: callvirt     System.Collections.Generic.Dictionary`2<NKM.Templet.NKM_REWARD_TYPE,System.Collections.Generic.List`1<System.Int32>> System.Collections.Generic.Dictionary`2<System.Int32,System.Collections.Generic.Dictionary`2<NKM.Templet.NKM_REWARD_TYPE,System.Collections.Generic.List`1<System.Int32>>>::get_Item(System.Int32)
+  00AC: stloc.2      
+  00AD: ldloc.2      
+  00AE: brfalse.s    IL_00CF: ret
+  00B0: ldloc.2      
+  00B1: callvirt     System.Int32 System.Collections.Generic.Dictionary`2<NKM.Templet.NKM_REWARD_TYPE,System.Collections.Generic.List`1<System.Int32>>::get_Count()
+  00B6: ldc.i4.0     
+  00B7: ble.s        IL_00CF: ret
+  00B9: call         NKC.UI.NKCUISlotListViewer NKC.UI.NKCUISlotListViewer::GetNewInstance()
+  00BE: ldloc.2      
+  00BF: ldloc.0      
+  00C0: callvirt     System.String NKM.NKMItemMoldTemplet::GetItemName()
+  00C5: call         System.String NKC.NKCUtilString::get_GET_STRING_FORGE_CRAFT_MOLD_DESC()
+  00CA: callvirt     System.Void NKC.UI.NKCUISlotListViewer::OpenEquipMoldRewardList(System.Collections.Generic.Dictionary`2<NKM.Templet.NKM_REWARD_TYPE,System.Collections.Generic.List`1<System.Int32>>,System.String,System.String)
+  00CF: ret          

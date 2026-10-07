@@ -1,0 +1,1762 @@
+{
+  "schemaVersion": 1,
+  "evidence": {
+    "capture": "C:\\Users\\redbu\\Documents\\GitHub\\CounterSideWebpage\\.codex-temp\\sword-native-probe\\captures\\cafe-v2-display-description-003\\ui",
+    "sourceFields": {
+      "m_rtPanel": "NKM_UI_POPUP_TOOLTIP_Panel",
+      "m_rtParent": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg",
+      "m_rtDeco": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_deco"
+    },
+    "method": "Original native RectTransform getters after repeated original panel-height/deco-pos/deco-size copies and native LayoutRebuild converge; no visual estimates.",
+    "references": [
+      {
+        "itemId": 704,
+        "path": "C:\\Users\\redbu\\Documents\\GitHub\\CounterSideWebpage\\.codex-temp\\sword-native-probe\\captures\\cafe-v2-display-description-003\\ui\\tooltip-704\\reference.json",
+        "sha256": "c3920374cb3a96e1e5adb09806fc4dd1c1f9201e6a7a0f7d839fe294841691dc"
+      },
+      {
+        "itemId": 705,
+        "path": "C:\\Users\\redbu\\Documents\\GitHub\\CounterSideWebpage\\.codex-temp\\sword-native-probe\\captures\\cafe-v2-display-description-003\\ui\\tooltip-705\\reference.json",
+        "sha256": "e887464a7dbafab4cc43ee4b16ef8170ea65d3a31a5a257e5715a856f3dc1533"
+      },
+      {
+        "itemId": 706,
+        "path": "C:\\Users\\redbu\\Documents\\GitHub\\CounterSideWebpage\\.codex-temp\\sword-native-probe\\captures\\cafe-v2-display-description-003\\ui\\tooltip-706\\reference.json",
+        "sha256": "13e837a6ca2336edc8f51a739dbf983e8653510cb0e75a1549952768b428aa7e"
+      },
+      {
+        "itemId": 31098,
+        "path": "C:\\Users\\redbu\\Documents\\GitHub\\CounterSideWebpage\\.codex-temp\\sword-native-probe\\captures\\cafe-v2-display-description-003\\ui\\tooltip-31098\\reference.json",
+        "sha256": "440c9807c77e5762194f27a738cb73196c1ecc5b200281236cb57de36a1c008a"
+      },
+      {
+        "itemId": 31099,
+        "path": "C:\\Users\\redbu\\Documents\\GitHub\\CounterSideWebpage\\.codex-temp\\sword-native-probe\\captures\\cafe-v2-display-description-003\\ui\\tooltip-31099\\reference.json",
+        "sha256": "f39605feaac9e0a3ca95ec777c455c5572d0ca812f48ea401e3aa1fe92087201"
+      },
+      {
+        "itemId": 31100,
+        "path": "C:\\Users\\redbu\\Documents\\GitHub\\CounterSideWebpage\\.codex-temp\\sword-native-probe\\captures\\cafe-v2-display-description-003\\ui\\tooltip-31100\\reference.json",
+        "sha256": "b49007950d4efb3fa2b1299b1c38f9dcb118bb832fcfcdad6f5116da6625347e"
+      },
+      {
+        "itemId": 31101,
+        "path": "C:\\Users\\redbu\\Documents\\GitHub\\CounterSideWebpage\\.codex-temp\\sword-native-probe\\captures\\cafe-v2-display-description-003\\ui\\tooltip-31101\\reference.json",
+        "sha256": "a7acbda8d67c9d4fab9a7cad8d513bbfd3ce8d0048889f11d24e51ac4dd5cc92"
+      },
+      {
+        "itemId": 31102,
+        "path": "C:\\Users\\redbu\\Documents\\GitHub\\CounterSideWebpage\\.codex-temp\\sword-native-probe\\captures\\cafe-v2-display-description-003\\ui\\tooltip-31102\\reference.json",
+        "sha256": "7ea2859e4380943b70b02456126a9bbecf9a47ba6d9f84785fadf0c377466ad3"
+      },
+      {
+        "itemId": 31103,
+        "path": "C:\\Users\\redbu\\Documents\\GitHub\\CounterSideWebpage\\.codex-temp\\sword-native-probe\\captures\\cafe-v2-display-description-003\\ui\\tooltip-31103\\reference.json",
+        "sha256": "6033c518533650e5f603b8498bd3b1ecd5c5959ad5c64e2bca3f81323366f976"
+      }
+    ]
+  },
+  "items": {
+    "704": {
+      "panelHeight": 420.410034,
+      "panel": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel",
+        "rect": [
+          -250,
+          -210.205017,
+          500,
+          420.410034
+        ],
+        "sizeDelta": [
+          500,
+          420.410034
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "anchoredPosition": [
+          0,
+          0
+        ],
+        "localPosition": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "parent": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg",
+        "rect": [
+          -270.205017,
+          -420.410034,
+          540.410034,
+          420.410034
+        ],
+        "sizeDelta": [
+          40.4100342,
+          0
+        ],
+        "pivot": [
+          0.5,
+          1
+        ],
+        "anchoredPosition": [
+          0,
+          3.459961
+        ],
+        "localPosition": [
+          0,
+          213.664978,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "deco": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_deco",
+        "rect": [
+          -270.205017,
+          -420.410034,
+          540.410034,
+          420.410034
+        ],
+        "sizeDelta": [
+          40.4100342,
+          0
+        ],
+        "pivot": [
+          0.5,
+          1
+        ],
+        "anchoredPosition": [
+          0,
+          3.459961
+        ],
+        "localPosition": [
+          0,
+          213.664978,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "item": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg/NKM_UI_POPUP_TOOLTIP_ITEM",
+        "rect": [
+          0,
+          0,
+          450.41,
+          0
+        ],
+        "sizeDelta": [
+          450.41,
+          0
+        ],
+        "pivot": [
+          0,
+          0.5
+        ],
+        "anchoredPosition": [
+          50,
+          -53
+        ],
+        "localPosition": [
+          -220.205017,
+          -53,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "description": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg/NKM_UI_POPUP_TOOLTIP_TEXT",
+        "rect": [
+          -200,
+          -63.705,
+          400,
+          127.41
+        ],
+        "sizeDelta": [
+          400,
+          127.41
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "anchoredPosition": [
+          250,
+          -276.705017
+        ],
+        "localPosition": [
+          -20.2050171,
+          -276.705017,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "rectCopyIterations": 3
+    },
+    "705": {
+      "panelHeight": 420.410034,
+      "panel": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel",
+        "rect": [
+          -250,
+          -210.205017,
+          500,
+          420.410034
+        ],
+        "sizeDelta": [
+          500,
+          420.410034
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "anchoredPosition": [
+          0,
+          0
+        ],
+        "localPosition": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "parent": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg",
+        "rect": [
+          -270.205017,
+          -420.410034,
+          540.410034,
+          420.410034
+        ],
+        "sizeDelta": [
+          40.4100342,
+          0
+        ],
+        "pivot": [
+          0.5,
+          1
+        ],
+        "anchoredPosition": [
+          0,
+          3.459961
+        ],
+        "localPosition": [
+          0,
+          213.664978,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "deco": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_deco",
+        "rect": [
+          -270.205017,
+          -420.410034,
+          540.410034,
+          420.410034
+        ],
+        "sizeDelta": [
+          40.4100342,
+          0
+        ],
+        "pivot": [
+          0.5,
+          1
+        ],
+        "anchoredPosition": [
+          0,
+          3.459961
+        ],
+        "localPosition": [
+          0,
+          213.664978,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "item": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg/NKM_UI_POPUP_TOOLTIP_ITEM",
+        "rect": [
+          0,
+          0,
+          450.41,
+          0
+        ],
+        "sizeDelta": [
+          450.41,
+          0
+        ],
+        "pivot": [
+          0,
+          0.5
+        ],
+        "anchoredPosition": [
+          50,
+          -53
+        ],
+        "localPosition": [
+          -220.205017,
+          -53,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "description": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg/NKM_UI_POPUP_TOOLTIP_TEXT",
+        "rect": [
+          -200,
+          -63.705,
+          400,
+          127.41
+        ],
+        "sizeDelta": [
+          400,
+          127.41
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "anchoredPosition": [
+          250,
+          -276.705017
+        ],
+        "localPosition": [
+          -20.2050171,
+          -276.705017,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "rectCopyIterations": 3
+    },
+    "706": {
+      "panelHeight": 420.410034,
+      "panel": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel",
+        "rect": [
+          -250,
+          -210.205017,
+          500,
+          420.410034
+        ],
+        "sizeDelta": [
+          500,
+          420.410034
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "anchoredPosition": [
+          0,
+          0
+        ],
+        "localPosition": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "parent": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg",
+        "rect": [
+          -270.205017,
+          -420.410034,
+          540.410034,
+          420.410034
+        ],
+        "sizeDelta": [
+          40.4100342,
+          0
+        ],
+        "pivot": [
+          0.5,
+          1
+        ],
+        "anchoredPosition": [
+          0,
+          3.459961
+        ],
+        "localPosition": [
+          0,
+          213.664978,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "deco": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_deco",
+        "rect": [
+          -270.205017,
+          -420.410034,
+          540.410034,
+          420.410034
+        ],
+        "sizeDelta": [
+          40.4100342,
+          0
+        ],
+        "pivot": [
+          0.5,
+          1
+        ],
+        "anchoredPosition": [
+          0,
+          3.459961
+        ],
+        "localPosition": [
+          0,
+          213.664978,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "item": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg/NKM_UI_POPUP_TOOLTIP_ITEM",
+        "rect": [
+          0,
+          0,
+          450.41,
+          0
+        ],
+        "sizeDelta": [
+          450.41,
+          0
+        ],
+        "pivot": [
+          0,
+          0.5
+        ],
+        "anchoredPosition": [
+          50,
+          -53
+        ],
+        "localPosition": [
+          -220.205017,
+          -53,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "description": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg/NKM_UI_POPUP_TOOLTIP_TEXT",
+        "rect": [
+          -200,
+          -63.705,
+          400,
+          127.41
+        ],
+        "sizeDelta": [
+          400,
+          127.41
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "anchoredPosition": [
+          250,
+          -276.705017
+        ],
+        "localPosition": [
+          -20.2050171,
+          -276.705017,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "rectCopyIterations": 3
+    },
+    "31098": {
+      "panelHeight": 454.210022,
+      "panel": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel",
+        "rect": [
+          -250,
+          -227.105011,
+          500,
+          454.210022
+        ],
+        "sizeDelta": [
+          500,
+          454.210022
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "anchoredPosition": [
+          0,
+          0
+        ],
+        "localPosition": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "parent": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg",
+        "rect": [
+          -270.205017,
+          -454.210022,
+          540.410034,
+          454.210022
+        ],
+        "sizeDelta": [
+          40.4100342,
+          0
+        ],
+        "pivot": [
+          0.5,
+          1
+        ],
+        "anchoredPosition": [
+          0,
+          3.459961
+        ],
+        "localPosition": [
+          0,
+          230.564972,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "deco": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_deco",
+        "rect": [
+          -270.205017,
+          -454.210022,
+          540.410034,
+          454.210022
+        ],
+        "sizeDelta": [
+          40.4100342,
+          0
+        ],
+        "pivot": [
+          0.5,
+          1
+        ],
+        "anchoredPosition": [
+          0,
+          3.459961
+        ],
+        "localPosition": [
+          0,
+          230.564972,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "item": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg/NKM_UI_POPUP_TOOLTIP_ITEM",
+        "rect": [
+          0,
+          0,
+          450.41,
+          0
+        ],
+        "sizeDelta": [
+          450.41,
+          0
+        ],
+        "pivot": [
+          0,
+          0.5
+        ],
+        "anchoredPosition": [
+          50,
+          -53
+        ],
+        "localPosition": [
+          -220.205017,
+          -53,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "description": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg/NKM_UI_POPUP_TOOLTIP_TEXT",
+        "rect": [
+          -200,
+          -80.605,
+          400,
+          161.21
+        ],
+        "sizeDelta": [
+          400,
+          161.21
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "anchoredPosition": [
+          250,
+          -293.605
+        ],
+        "localPosition": [
+          -20.2050171,
+          -293.605,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "rectCopyIterations": 3
+    },
+    "31099": {
+      "panelHeight": 454.210022,
+      "panel": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel",
+        "rect": [
+          -250,
+          -227.105011,
+          500,
+          454.210022
+        ],
+        "sizeDelta": [
+          500,
+          454.210022
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "anchoredPosition": [
+          0,
+          0
+        ],
+        "localPosition": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "parent": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg",
+        "rect": [
+          -270.205017,
+          -454.210022,
+          540.410034,
+          454.210022
+        ],
+        "sizeDelta": [
+          40.4100342,
+          0
+        ],
+        "pivot": [
+          0.5,
+          1
+        ],
+        "anchoredPosition": [
+          0,
+          3.459961
+        ],
+        "localPosition": [
+          0,
+          230.564972,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "deco": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_deco",
+        "rect": [
+          -270.205017,
+          -454.210022,
+          540.410034,
+          454.210022
+        ],
+        "sizeDelta": [
+          40.4100342,
+          0
+        ],
+        "pivot": [
+          0.5,
+          1
+        ],
+        "anchoredPosition": [
+          0,
+          3.459961
+        ],
+        "localPosition": [
+          0,
+          230.564972,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "item": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg/NKM_UI_POPUP_TOOLTIP_ITEM",
+        "rect": [
+          0,
+          0,
+          450.41,
+          0
+        ],
+        "sizeDelta": [
+          450.41,
+          0
+        ],
+        "pivot": [
+          0,
+          0.5
+        ],
+        "anchoredPosition": [
+          50,
+          -53
+        ],
+        "localPosition": [
+          -220.205017,
+          -53,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "description": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg/NKM_UI_POPUP_TOOLTIP_TEXT",
+        "rect": [
+          -200,
+          -80.605,
+          400,
+          161.21
+        ],
+        "sizeDelta": [
+          400,
+          161.21
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "anchoredPosition": [
+          250,
+          -293.605
+        ],
+        "localPosition": [
+          -20.2050171,
+          -293.605,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "rectCopyIterations": 3
+    },
+    "31100": {
+      "panelHeight": 454.210022,
+      "panel": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel",
+        "rect": [
+          -250,
+          -227.105011,
+          500,
+          454.210022
+        ],
+        "sizeDelta": [
+          500,
+          454.210022
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "anchoredPosition": [
+          0,
+          0
+        ],
+        "localPosition": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "parent": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg",
+        "rect": [
+          -270.205017,
+          -454.210022,
+          540.410034,
+          454.210022
+        ],
+        "sizeDelta": [
+          40.4100342,
+          0
+        ],
+        "pivot": [
+          0.5,
+          1
+        ],
+        "anchoredPosition": [
+          0,
+          3.459961
+        ],
+        "localPosition": [
+          0,
+          230.564972,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "deco": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_deco",
+        "rect": [
+          -270.205017,
+          -454.210022,
+          540.410034,
+          454.210022
+        ],
+        "sizeDelta": [
+          40.4100342,
+          0
+        ],
+        "pivot": [
+          0.5,
+          1
+        ],
+        "anchoredPosition": [
+          0,
+          3.459961
+        ],
+        "localPosition": [
+          0,
+          230.564972,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "item": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg/NKM_UI_POPUP_TOOLTIP_ITEM",
+        "rect": [
+          0,
+          0,
+          450.41,
+          0
+        ],
+        "sizeDelta": [
+          450.41,
+          0
+        ],
+        "pivot": [
+          0,
+          0.5
+        ],
+        "anchoredPosition": [
+          50,
+          -53
+        ],
+        "localPosition": [
+          -220.205017,
+          -53,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "description": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg/NKM_UI_POPUP_TOOLTIP_TEXT",
+        "rect": [
+          -200,
+          -80.605,
+          400,
+          161.21
+        ],
+        "sizeDelta": [
+          400,
+          161.21
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "anchoredPosition": [
+          250,
+          -293.605
+        ],
+        "localPosition": [
+          -20.2050171,
+          -293.605,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "rectCopyIterations": 3
+    },
+    "31101": {
+      "panelHeight": 488.01,
+      "panel": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel",
+        "rect": [
+          -250,
+          -244.005,
+          500,
+          488.01
+        ],
+        "sizeDelta": [
+          500,
+          488.01
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "anchoredPosition": [
+          0,
+          0
+        ],
+        "localPosition": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "parent": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg",
+        "rect": [
+          -270.205017,
+          -488.01,
+          540.410034,
+          488.01
+        ],
+        "sizeDelta": [
+          40.4100342,
+          0
+        ],
+        "pivot": [
+          0.5,
+          1
+        ],
+        "anchoredPosition": [
+          0,
+          3.459961
+        ],
+        "localPosition": [
+          0,
+          247.464966,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "deco": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_deco",
+        "rect": [
+          -270.205017,
+          -488.01,
+          540.410034,
+          488.01
+        ],
+        "sizeDelta": [
+          40.4100342,
+          0
+        ],
+        "pivot": [
+          0.5,
+          1
+        ],
+        "anchoredPosition": [
+          0,
+          3.459961
+        ],
+        "localPosition": [
+          0,
+          247.464966,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "item": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg/NKM_UI_POPUP_TOOLTIP_ITEM",
+        "rect": [
+          0,
+          0,
+          450.41,
+          0
+        ],
+        "sizeDelta": [
+          450.41,
+          0
+        ],
+        "pivot": [
+          0,
+          0.5
+        ],
+        "anchoredPosition": [
+          50,
+          -53
+        ],
+        "localPosition": [
+          -220.205017,
+          -53,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "description": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg/NKM_UI_POPUP_TOOLTIP_TEXT",
+        "rect": [
+          -200,
+          -97.505,
+          400,
+          195.01
+        ],
+        "sizeDelta": [
+          400,
+          195.01
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "anchoredPosition": [
+          250,
+          -310.505
+        ],
+        "localPosition": [
+          -20.2050171,
+          -310.505,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "rectCopyIterations": 3
+    },
+    "31102": {
+      "panelHeight": 454.210022,
+      "panel": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel",
+        "rect": [
+          -250,
+          -227.105011,
+          500,
+          454.210022
+        ],
+        "sizeDelta": [
+          500,
+          454.210022
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "anchoredPosition": [
+          0,
+          0
+        ],
+        "localPosition": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "parent": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg",
+        "rect": [
+          -270.205017,
+          -454.210022,
+          540.410034,
+          454.210022
+        ],
+        "sizeDelta": [
+          40.4100342,
+          0
+        ],
+        "pivot": [
+          0.5,
+          1
+        ],
+        "anchoredPosition": [
+          0,
+          3.459961
+        ],
+        "localPosition": [
+          0,
+          230.564972,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "deco": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_deco",
+        "rect": [
+          -270.205017,
+          -454.210022,
+          540.410034,
+          454.210022
+        ],
+        "sizeDelta": [
+          40.4100342,
+          0
+        ],
+        "pivot": [
+          0.5,
+          1
+        ],
+        "anchoredPosition": [
+          0,
+          3.459961
+        ],
+        "localPosition": [
+          0,
+          230.564972,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "item": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg/NKM_UI_POPUP_TOOLTIP_ITEM",
+        "rect": [
+          0,
+          0,
+          450.41,
+          0
+        ],
+        "sizeDelta": [
+          450.41,
+          0
+        ],
+        "pivot": [
+          0,
+          0.5
+        ],
+        "anchoredPosition": [
+          50,
+          -53
+        ],
+        "localPosition": [
+          -220.205017,
+          -53,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "description": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg/NKM_UI_POPUP_TOOLTIP_TEXT",
+        "rect": [
+          -200,
+          -80.605,
+          400,
+          161.21
+        ],
+        "sizeDelta": [
+          400,
+          161.21
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "anchoredPosition": [
+          250,
+          -293.605
+        ],
+        "localPosition": [
+          -20.2050171,
+          -293.605,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "rectCopyIterations": 3
+    },
+    "31103": {
+      "panelHeight": 454.210022,
+      "panel": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel",
+        "rect": [
+          -250,
+          -227.105011,
+          500,
+          454.210022
+        ],
+        "sizeDelta": [
+          500,
+          454.210022
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "anchoredPosition": [
+          0,
+          0
+        ],
+        "localPosition": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "parent": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg",
+        "rect": [
+          -270.205017,
+          -454.210022,
+          540.410034,
+          454.210022
+        ],
+        "sizeDelta": [
+          40.4100342,
+          0
+        ],
+        "pivot": [
+          0.5,
+          1
+        ],
+        "anchoredPosition": [
+          0,
+          3.459961
+        ],
+        "localPosition": [
+          0,
+          230.564972,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "deco": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_deco",
+        "rect": [
+          -270.205017,
+          -454.210022,
+          540.410034,
+          454.210022
+        ],
+        "sizeDelta": [
+          40.4100342,
+          0
+        ],
+        "pivot": [
+          0.5,
+          1
+        ],
+        "anchoredPosition": [
+          0,
+          3.459961
+        ],
+        "localPosition": [
+          0,
+          230.564972,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "item": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg/NKM_UI_POPUP_TOOLTIP_ITEM",
+        "rect": [
+          0,
+          0,
+          450.41,
+          0
+        ],
+        "sizeDelta": [
+          450.41,
+          0
+        ],
+        "pivot": [
+          0,
+          0.5
+        ],
+        "anchoredPosition": [
+          50,
+          -53
+        ],
+        "localPosition": [
+          -220.205017,
+          -53,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "description": {
+        "path": "NKM_UI_POPUP_TOOLTIP_Panel/NKM_UI_POPUP_TOOLTIP_bg/NKM_UI_POPUP_TOOLTIP_TEXT",
+        "rect": [
+          -200,
+          -80.605,
+          400,
+          161.21
+        ],
+        "sizeDelta": [
+          400,
+          161.21
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "anchoredPosition": [
+          250,
+          -293.605
+        ],
+        "localPosition": [
+          -20.2050171,
+          -293.605,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "rectCopyIterations": 3
+    }
+  }
+}

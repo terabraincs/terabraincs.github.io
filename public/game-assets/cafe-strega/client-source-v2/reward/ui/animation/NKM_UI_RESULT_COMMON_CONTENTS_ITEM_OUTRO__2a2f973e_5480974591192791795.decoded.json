@@ -1,0 +1,349 @@
+{
+  "name": "NKM_UI_RESULT_COMMON_CONTENTS_ITEM_OUTRO",
+  "sourceAssetId": "CAB-2a2f973e6513181f8e5e36c0a0024e72:5480974591192791795",
+  "sampleRate": 60.0,
+  "stopTime": 0.20000000298023224,
+  "loopTime": false,
+  "curves": [
+    {
+      "curveIndex": 0,
+      "bindingIndex": 0,
+      "binding": {
+        "path": 55925849,
+        "attribute": 538195251,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "MASK/LoopScroll/item",
+      "attribute": "m_AnchoredPosition.y",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 2.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            2.0
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 2.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            4499.998046875,
+            -749.9998168945312,
+            0.0,
+            2.0
+          ]
+        },
+        {
+          "time": 0.06666667014360428,
+          "value": 0.0,
+          "inSlope": -40.000003814697266,
+          "outSlope": -40.000003814697266,
+          "coeff": [
+            108281.265625,
+            -21506.251953125,
+            -40.000003814697266,
+            0.0
+          ]
+        },
+        {
+          "time": 0.20000000298023224,
+          "value": -131.0,
+          "inSlope": 0.00022888185048941523,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            -131.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 1,
+      "bindingIndex": 1,
+      "binding": {
+        "path": 55925849,
+        "attribute": 1574349066,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 225,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "MASK/LoopScroll/item",
+      "attribute": "m_Alpha",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 0.03333333507180214,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            843.7498168945312,
+            -168.74996948242188,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 0.1666666716337204,
+          "value": 0.0,
+          "inSlope": -1.788139229574881e-06,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 2,
+      "bindingIndex": 2,
+      "binding": {
+        "path": 55925849,
+        "attribute": 1460864421,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "MASK/LoopScroll/item",
+      "attribute": "m_AnchoredPosition.x",
+      "keys": [
+        {
+          "time": 0,
+          "value": 0.0
+        },
+        {
+          "time": 0.20000000298023224,
+          "value": 0.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 3,
+      "bindingIndex": 3,
+      "binding": {
+        "path": 0,
+        "attribute": 538195251,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "",
+      "attribute": "m_AnchoredPosition.y",
+      "keys": [
+        {
+          "time": 0,
+          "value": 0.0
+        },
+        {
+          "time": 0.20000000298023224,
+          "value": 0.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 4,
+      "bindingIndex": 4,
+      "binding": {
+        "path": 0,
+        "attribute": 38095219,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "",
+      "attribute": "m_SizeDelta.y",
+      "keys": [
+        {
+          "time": 0,
+          "value": 0.0
+        },
+        {
+          "time": 0.20000000298023224,
+          "value": 0.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    }
+  ],
+  "directFloatCurves": [],
+  "streamedFrames": [
+    {
+      "time": -3.4028234663852886e+38,
+      "keyList": [
+        {
+          "index": 0,
+          "value": 2.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            2.0
+          ]
+        },
+        {
+          "index": 1,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.0,
+      "keyList": [
+        {
+          "index": 0,
+          "value": 2.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            4499.998046875,
+            -749.9998168945312,
+            0.0,
+            2.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.03333333507180214,
+      "keyList": [
+        {
+          "index": 1,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            843.7498168945312,
+            -168.74996948242188,
+            0.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.06666667014360428,
+      "keyList": [
+        {
+          "index": 0,
+          "value": 0.0,
+          "inSlope": -40.000003814697266,
+          "outSlope": -40.000003814697266,
+          "coeff": [
+            108281.265625,
+            -21506.251953125,
+            -40.000003814697266,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.1666666716337204,
+      "keyList": [
+        {
+          "index": 1,
+          "value": 0.0,
+          "inSlope": -1.788139229574881e-06,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.20000000298023224,
+      "keyList": [
+        {
+          "index": 0,
+          "value": -131.0,
+          "inSlope": 0.00022888185048941523,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            -131.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": "Infinity",
+      "keyList": []
+    }
+  ],
+  "method": "AssetStudio.StreamedClip.ReadData + Unity genericBindings; exact CRC32 match against serialized prefab paths/fields. Transform typeID4 attributes1/2/3/4 expand xyz/xyzw channels."
+}

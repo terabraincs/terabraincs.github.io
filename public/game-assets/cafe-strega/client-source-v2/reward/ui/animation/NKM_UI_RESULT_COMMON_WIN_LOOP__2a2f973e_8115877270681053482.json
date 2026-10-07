@@ -1,0 +1,1537 @@
+{
+  "m_Name": "NKM_UI_RESULT_COMMON_WIN_LOOP",
+  "m_Legacy": false,
+  "m_Compressed": false,
+  "m_UseHighQualityCurve": true,
+  "m_RotationCurves": [],
+  "m_CompressedRotationCurves": [],
+  "m_EulerCurves": [],
+  "m_PositionCurves": [],
+  "m_ScaleCurves": [],
+  "m_FloatCurves": [],
+  "m_PPtrCurves": [],
+  "m_SampleRate": 60.0,
+  "m_WrapMode": 0,
+  "m_Bounds": {
+    "m_Center": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Extent": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "m_MuscleClipSize": 3352,
+  "m_MuscleClip": {
+    "m_DeltaPose": {
+      "m_RootX": {
+        "t": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "q": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "s": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "m_LookAtPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "m_LookAtWeight": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "m_GoalArray": [
+        {
+          "m_X": {
+            "t": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "q": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "s": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "m_WeightT": 0.0,
+          "m_WeightR": 0.0,
+          "m_HintT": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "m_HintWeightT": 0.0
+        },
+        {
+          "m_X": {
+            "t": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "q": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "s": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "m_WeightT": 0.0,
+          "m_WeightR": 0.0,
+          "m_HintT": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "m_HintWeightT": 0.0
+        },
+        {
+          "m_X": {
+            "t": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "q": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "s": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "m_WeightT": 0.0,
+          "m_WeightR": 0.0,
+          "m_HintT": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "m_HintWeightT": 0.0
+        },
+        {
+          "m_X": {
+            "t": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "q": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "s": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "m_WeightT": 0.0,
+          "m_WeightR": 0.0,
+          "m_HintT": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "m_HintWeightT": 0.0
+        }
+      ],
+      "m_LeftHandPose": {
+        "m_GrabX": {
+          "t": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "q": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "s": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        },
+        "m_DoFArray": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "m_Override": 0.0,
+        "m_CloseOpen": 0.0,
+        "m_InOut": 0.0,
+        "m_Grab": 0.0
+      },
+      "m_RightHandPose": {
+        "m_GrabX": {
+          "t": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "q": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "s": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        },
+        "m_DoFArray": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "m_Override": 0.0,
+        "m_CloseOpen": 0.0,
+        "m_InOut": 0.0,
+        "m_Grab": 0.0
+      },
+      "m_DoFArray": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "m_TDoFArray": [
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      ]
+    },
+    "m_StartX": {
+      "t": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "q": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "s": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    "m_StopX": {
+      "t": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "q": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "s": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    "m_LeftFootStartX": {
+      "t": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "q": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "s": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    "m_RightFootStartX": {
+      "t": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "q": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "s": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    "m_AverageSpeed": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Clip": {
+      "data": {
+        "m_StreamedClip": {
+          "data": [
+            4286578687,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1050319515,
+            0,
+            2,
+            0,
+            3154466134,
+            1025507329,
+            0,
+            0,
+            1,
+            1022218959,
+            3185603110,
+            0,
+            1050319515,
+            1075908881,
+            1,
+            1,
+            3167466388,
+            1036676519,
+            0,
+            1032884369,
+            1078774989,
+            1,
+            0,
+            1024432151,
+            3184774433,
+            0,
+            1040746633,
+            1084577109,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1050319515,
+            2139095040,
+            0
+          ],
+          "curveCount": 2,
+          "discreteCurveCount": 0
+        },
+        "m_DenseClip": {
+          "m_FrameCount": 312,
+          "m_CurveCount": 0,
+          "m_SampleRate": 60.0,
+          "m_BeginTime": 0.0,
+          "m_SampleArray": []
+        },
+        "m_ConstantClip": {
+          "data": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.658823549747467,
+            0.41960784792900085,
+            0.125490203499794,
+            0.41960784792900085,
+            0.501960813999176,
+            0.5686274766921997,
+            0.5686274766921997,
+            0.5686274766921997,
+            0.8666666746139526,
+            0.8392156958580017,
+            494.0,
+            0.3137255012989044,
+            1.0,
+            298.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            0.7372549176216125,
+            0.7372549176216125,
+            0.7372549176216125
+          ]
+        }
+      }
+    },
+    "m_StartTime": 0.0,
+    "m_StopTime": 5.166666507720947,
+    "m_OrientationOffsetY": 0.0,
+    "m_Level": 0.0,
+    "m_CycleOffset": 0.0,
+    "m_AverageAngularSpeed": 0.0,
+    "m_IndexArray": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "m_ValueArrayDelta": [
+      {
+        "m_Start": 0.0,
+        "m_Stop": 0.0
+      },
+      {
+        "m_Start": 0.3019607961177826,
+        "m_Stop": 0.3019607961177826
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 0.0,
+        "m_Stop": 0.0
+      },
+      {
+        "m_Start": 0.0,
+        "m_Stop": 0.0
+      },
+      {
+        "m_Start": 0.0,
+        "m_Stop": 0.0
+      },
+      {
+        "m_Start": 0.0,
+        "m_Stop": 0.0
+      },
+      {
+        "m_Start": 0.658823549747467,
+        "m_Stop": 0.658823549747467
+      },
+      {
+        "m_Start": 0.41960784792900085,
+        "m_Stop": 0.41960784792900085
+      },
+      {
+        "m_Start": 0.125490203499794,
+        "m_Stop": 0.125490203499794
+      },
+      {
+        "m_Start": 0.41960784792900085,
+        "m_Stop": 0.41960784792900085
+      },
+      {
+        "m_Start": 0.501960813999176,
+        "m_Stop": 0.501960813999176
+      },
+      {
+        "m_Start": 0.5686274766921997,
+        "m_Stop": 0.5686274766921997
+      },
+      {
+        "m_Start": 0.5686274766921997,
+        "m_Stop": 0.5686274766921997
+      },
+      {
+        "m_Start": 0.5686274766921997,
+        "m_Stop": 0.5686274766921997
+      },
+      {
+        "m_Start": 0.8666666746139526,
+        "m_Stop": 0.8666666746139526
+      },
+      {
+        "m_Start": 0.8392156958580017,
+        "m_Stop": 0.8392156958580017
+      },
+      {
+        "m_Start": 494.0,
+        "m_Stop": 494.0
+      },
+      {
+        "m_Start": 0.3137255012989044,
+        "m_Stop": 0.3137255012989044
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 298.0,
+        "m_Stop": 298.0
+      },
+      {
+        "m_Start": 0.0,
+        "m_Stop": 0.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 1.0,
+        "m_Stop": 1.0
+      },
+      {
+        "m_Start": 0.7372549176216125,
+        "m_Stop": 0.7372549176216125
+      },
+      {
+        "m_Start": 0.7372549176216125,
+        "m_Stop": 0.7372549176216125
+      },
+      {
+        "m_Start": 0.7372549176216125,
+        "m_Stop": 0.7372549176216125
+      }
+    ],
+    "m_ValueArrayReferencePose": [],
+    "m_Mirror": false,
+    "m_LoopTime": true,
+    "m_LoopBlend": false,
+    "m_LoopBlendOrientation": false,
+    "m_LoopBlendPositionY": false,
+    "m_LoopBlendPositionXZ": false,
+    "m_StartAtOrigin": true,
+    "m_KeepOriginalOrientation": false,
+    "m_KeepOriginalPositionY": true,
+    "m_KeepOriginalPositionXZ": false,
+    "m_HeightFromFeet": false
+  },
+  "m_ClipBindingConstant": {
+    "genericBindings": [
+      {
+        "path": 3498009611,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 3752563757,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 1532701827,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 3498009611,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 3605550581,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 832335284,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 4253437529,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 644708860,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 27555510,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 3348082470,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 1532701827,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 1212454188,
+        "attribute": 1460864421,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 1212454188,
+        "attribute": 538195251,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 1212454188,
+        "attribute": 1967290853,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 1212454188,
+        "attribute": 38095219,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 1212454188,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 337235895,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 2470955478,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 1096563608,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 3605550581,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 832335284,
+        "attribute": 2526845255,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 832335284,
+        "attribute": 4215373228,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 832335284,
+        "attribute": 2334886179,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 832335284,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 4253437529,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 1392624751,
+        "attribute": 1967290853,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 1392624751,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 644708860,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 1392624751,
+        "attribute": 38095219,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 3144924389,
+        "attribute": 1574349066,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 225,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 27555510,
+        "attribute": 2526845255,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 27555510,
+        "attribute": 4215373228,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 27555510,
+        "attribute": 2334886179,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 3605550581,
+        "attribute": 2526845255,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 3605550581,
+        "attribute": 4215373228,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      {
+        "path": 3605550581,
+        "attribute": 2334886179,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      }
+    ],
+    "pptrCurveMapping": []
+  },
+  "m_HasGenericRootTransform": false,
+  "m_HasMotionFloatCurves": false,
+  "m_Events": []
+}

@@ -1,0 +1,745 @@
+{
+  "schemaVersion": 2,
+  "source": "C:\\Users\\redbu\\Documents\\GitHub\\CS_asset\\tools\\CounterSide_decryption_tool-main\\1차 복호화\\Data\\StreamingAssets",
+  "actors": {
+    "evelyn": {
+      "bundle": "ab_unit_illust_nkm_unit_c_strega_evelyn_caffe.asset",
+      "model": "UNIT_ILLUST_C_STREGA_EVELYN_CAFFE",
+      "installedBundleSha256": "03b884b4ff6057066ce5a424d50aa603081b7233a0273bfae5853492f401b553",
+      "decryptedBundleSha256": "c5a1c819e7d446d00ae4dcde59ce3c3306dee4927c19e630f1a0654df4a86d98",
+      "version": "3.7.93",
+      "skeletonScale": 0.009999999776482582,
+      "defaultMix": 0.20000000298023224,
+      "mixes": {
+        "fromAnimation": [],
+        "toAnimation": [],
+        "duration": []
+      },
+      "graphic": {
+        "initialSkinName": "",
+        "initialFlipX": 0,
+        "initialFlipY": 0,
+        "startingAnimation": "IDLE",
+        "startingLoop": 1,
+        "timeScale": 1.0,
+        "freeze": 0,
+        "unscaledTime": 0,
+        "m_Material": {
+          "m_FileID": 1,
+          "m_PathID": 899772194980315881
+        },
+        "m_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "m_Maskable": 1,
+        "meshGenerator": {
+          "settings": {
+            "useClipping": 1,
+            "zSpacing": 0.0,
+            "pmaVertexColors": 1,
+            "tintBlack": 0,
+            "calculateTangents": 0,
+            "addNormals": 0,
+            "immutableTriangles": 0
+          }
+        }
+      },
+      "transforms": [
+        {
+          "pathId": "-8035638955682898934",
+          "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 2394295361290448673
+          },
+          "m_LocalRotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "m_LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "m_LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "m_Children": [],
+          "m_Father": {
+            "m_FileID": 0,
+            "m_PathID": -2307815564059304891
+          },
+          "m_AnchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchoredPosition": {
+            "x": -229.0,
+            "y": 252.0
+          },
+          "m_SizeDelta": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_Pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "pathId": "-4993338083900327589",
+          "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": -3528199698028662391
+          },
+          "m_LocalRotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "m_LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "m_LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "m_Children": [],
+          "m_Father": {
+            "m_FileID": 0,
+            "m_PathID": -2307815564059304891
+          },
+          "m_AnchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchoredPosition": {
+            "x": 37.0,
+            "y": 252.0
+          },
+          "m_SizeDelta": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_Pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "pathId": "-2307815564059304891",
+          "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 1501958703709800841
+          },
+          "m_LocalRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "m_LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 99.0
+          },
+          "m_LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "m_Children": [
+            {
+              "m_FileID": 0,
+              "m_PathID": -864946122190486654
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": -4993338083900327589
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": -8035638955682898934
+            }
+          ],
+          "m_Father": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_AnchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_AnchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "m_AnchoredPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_SizeDelta": {
+            "x": -2160.0,
+            "y": -1080.0
+          },
+          "m_Pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "pathId": "-864946122190486654",
+          "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": -7262010454136480295
+          },
+          "m_LocalRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "m_LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "m_LocalScale": {
+            "x": 0.28999999165534973,
+            "y": 0.28999999165534973,
+            "z": 1.0
+          },
+          "m_Children": [],
+          "m_Father": {
+            "m_FileID": 0,
+            "m_PathID": -2307815564059304891
+          },
+          "m_AnchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchoredPosition": {
+            "x": -53.0,
+            "y": 321.0
+          },
+          "m_SizeDelta": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_Pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ],
+      "animations": {
+        "BASE": 3.3333332538604736,
+        "DESPAIR": 3.3333332538604736,
+        "HATE": 3.3333332538604736,
+        "IDLE": 3.3333332538604736,
+        "LAUGH": 3.3333332538604736,
+        "NOANI": 1.0,
+        "PRIDE": 3.3333332538604736,
+        "SERIOUS": 3.3333332538604736,
+        "SURPRISE": 3.3333332538604736,
+        "TOUCH": 3.3333332538604736
+      },
+      "events": {},
+      "files": {
+        "UNIT_ILLUST_C_STREGA_EVELYN_CAFFE.atlas": "1b42819160c2b819010c7c8e97874503b71101e3911f6e633c3a922e93bbda67",
+        "UNIT_ILLUST_C_STREGA_EVELYN_CAFFE.json": "6b7a3ab6fed2ed717ca45ba2c5eed0d535777f7d13833e2d2b35501576a4c3cf",
+        "UNIT_ILLUST_C_STREGA_EVELYN_CAFFE.png": "73a1ed49a9109fe5d0105272be14d6405536c60fc59cd75ca0b512687af6cf81",
+        "UNIT_ILLUST_C_STREGA_EVELYN_CAFFE.skel": "d62bfae82c7348fb04cae69a9f4a007ac9cb931089fa107cb93d7580b8631e7c"
+      }
+    },
+    "yoo-na": {
+      "bundle": "ab_unit_illust_nkm_unit_c_strega_yoo_na_caffe.asset",
+      "model": "UNIT_ILLUST_C_STREGA_YOO_NA_CAFFE",
+      "installedBundleSha256": "4eb546b65ddeccd03d0a188569313f2f8792e536d07f1d7814bae59e52b34544",
+      "decryptedBundleSha256": "65f7e094d79b9fa14e60a7544660fcee0ca1b4930a7c56152508b9200d3ba888",
+      "version": "3.7.93",
+      "skeletonScale": 0.009999999776482582,
+      "defaultMix": 0.20000000298023224,
+      "mixes": {
+        "fromAnimation": [],
+        "toAnimation": [],
+        "duration": []
+      },
+      "graphic": {
+        "initialSkinName": "",
+        "initialFlipX": 0,
+        "initialFlipY": 0,
+        "startingAnimation": "IDLE",
+        "startingLoop": 1,
+        "timeScale": 1.0,
+        "freeze": 0,
+        "unscaledTime": 0,
+        "m_Material": {
+          "m_FileID": 2,
+          "m_PathID": 899772194980315881
+        },
+        "m_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "m_Maskable": 1,
+        "meshGenerator": {
+          "settings": {
+            "useClipping": 1,
+            "zSpacing": 0.0,
+            "pmaVertexColors": 1,
+            "tintBlack": 0,
+            "calculateTangents": 0,
+            "addNormals": 0,
+            "immutableTriangles": 0
+          }
+        }
+      },
+      "transforms": [
+        {
+          "pathId": "-3762033917870600573",
+          "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 7243933539164862500
+          },
+          "m_LocalRotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "m_LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "m_LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "m_Children": [],
+          "m_Father": {
+            "m_FileID": 0,
+            "m_PathID": 8586873702202715424
+          },
+          "m_AnchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchoredPosition": {
+            "x": 37.0,
+            "y": 252.0
+          },
+          "m_SizeDelta": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_Pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "pathId": "1866768471744859711",
+          "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 5514169615388551277
+          },
+          "m_LocalRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "m_LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "m_LocalScale": {
+            "x": 0.3753291964530945,
+            "y": 0.3753291964530945,
+            "z": 0.3753291964530945
+          },
+          "m_Children": [],
+          "m_Father": {
+            "m_FileID": 0,
+            "m_PathID": 8586873702202715424
+          },
+          "m_AnchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchoredPosition": {
+            "x": -99.0,
+            "y": 231.0
+          },
+          "m_SizeDelta": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_Pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "pathId": "4633653105014350062",
+          "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 840029856339465027
+          },
+          "m_LocalRotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "m_LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "m_LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "m_Children": [],
+          "m_Father": {
+            "m_FileID": 0,
+            "m_PathID": 8586873702202715424
+          },
+          "m_AnchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchoredPosition": {
+            "x": -229.0,
+            "y": 252.0
+          },
+          "m_SizeDelta": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_Pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "pathId": "8586873702202715424",
+          "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 4540036788916894470
+          },
+          "m_LocalRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "m_LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 99.0
+          },
+          "m_LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "m_Children": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 1866768471744859711
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": -3762033917870600573
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 4633653105014350062
+            }
+          ],
+          "m_Father": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_AnchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_AnchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "m_AnchoredPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_SizeDelta": {
+            "x": -2160.0,
+            "y": -1080.0
+          },
+          "m_Pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ],
+      "animations": {
+        "BASE": 1.0,
+        "DESPAIR": 3.3333332538604736,
+        "HATE": 3.3333332538604736,
+        "IDLE": 3.3333332538604736,
+        "LAUGH": 3.3333332538604736,
+        "NOANI": 1.0,
+        "PRIDE": 3.3333332538604736,
+        "SERIOUS": 3.3333332538604736,
+        "SURPRISE": 3.3333332538604736,
+        "TOUCH": 2.6666667461395264
+      },
+      "events": {},
+      "files": {
+        "UNIT_ILLUST_C_STREGA_YOO_NA_CAFFE.atlas": "4afbfc6f04511a012a568b9aae20166dc5973908103f0f428f27652579e3f9da",
+        "UNIT_ILLUST_C_STREGA_YOO_NA_CAFFE.json": "73097a74b688759248af04dafdd8032ab212cac6cae6c142d3b76453bebc6833",
+        "UNIT_ILLUST_C_STREGA_YOO_NA_CAFFE.png": "c14c5bcb20d6cfa591a9e377f18baaf725087e8351907233c7afedce5792aaac",
+        "UNIT_ILLUST_C_STREGA_YOO_NA_CAFFE.skel": "f1bebf89e9c9e30ab086a9dd496c5679afa6d945924da643fbe2b9eefd7f40c2"
+      }
+    },
+    "mission": {
+      "bundle": "ab_unit_sd_spine_nkm_unit_c_strega_yoo_na_caffe.asset",
+      "model": "UNIT_SD_C_STREGA_YOO_NA_CAFFE",
+      "installedBundleSha256": "95788912209fbc947d97ce6ac2e367f233d7582d9cf310f7b0bc5f5cd00a2c0a",
+      "decryptedBundleSha256": "57e31a539de6c1a4ea43211a3ca9f30994618129c72672d609e556a6a4142257",
+      "version": "3.7.93",
+      "skeletonScale": 0.009999999776482582,
+      "defaultMix": 0.20000000298023224,
+      "mixes": {
+        "fromAnimation": [],
+        "toAnimation": [],
+        "duration": []
+      },
+      "graphic": {
+        "initialSkinName": "default",
+        "initialFlipX": 0,
+        "initialFlipY": 0,
+        "startingAnimation": "",
+        "startingLoop": 1,
+        "timeScale": 1.0,
+        "freeze": 0,
+        "unscaledTime": 0,
+        "m_Material": {
+          "m_FileID": 2,
+          "m_PathID": 899772194980315881
+        },
+        "m_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "m_Maskable": 1,
+        "meshGenerator": {
+          "settings": {
+            "useClipping": 1,
+            "zSpacing": 0.0,
+            "pmaVertexColors": 1,
+            "tintBlack": 0,
+            "calculateTangents": 0,
+            "addNormals": 0,
+            "immutableTriangles": 0
+          }
+        }
+      },
+      "transforms": [
+        {
+          "pathId": "-2528992470409595227",
+          "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": -4998951057671504411
+          },
+          "m_LocalRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "m_LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "m_LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "m_Children": [
+            {
+              "m_FileID": 0,
+              "m_PathID": -906917119022980662
+            }
+          ],
+          "m_Father": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_AnchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchoredPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_SizeDelta": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "m_Pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "pathId": "-906917119022980662",
+          "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 4457038014979925037
+          },
+          "m_LocalRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "m_LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "m_LocalScale": {
+            "x": 0.44999998807907104,
+            "y": 0.44999998807907104,
+            "z": 0.44999998807907104
+          },
+          "m_Children": [],
+          "m_Father": {
+            "m_FileID": 0,
+            "m_PathID": -2528992470409595227
+          },
+          "m_AnchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_AnchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "m_AnchoredPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_SizeDelta": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_Pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ],
+      "animations": {
+        "ASTAND": 2.3333332538604736,
+        "ATTACK": 1.3333333730697632,
+        "DRAG": 2.0,
+        "IDLE": 2.3333332538604736,
+        "MINING": 4.666666507720947,
+        "OFC_CLAP": 0.4000000059604645,
+        "OFC_DANCE": 3.4666666984558105,
+        "OFC_DANCE2": 1.0333333015441895,
+        "OFC_DANCE3": 1.0333333015441895,
+        "OFC_DANCE4": 1.1333333253860474,
+        "OFC_DANCE5": 1.100000023841858,
+        "OFC_DANCE6": 0.8666666746139526,
+        "OFC_DANCE7": 0.5,
+        "OFC_FOOD_A_END": 0.6666666865348816,
+        "OFC_FOOD_A_LOOP": 2.6666667461395264,
+        "OFC_FOOD_A_START": 0.6666666865348816,
+        "OFC_FOOD_B_END": 0.6666666865348816,
+        "OFC_FOOD_B_LOOP": 3.3333332538604736,
+        "OFC_FOOD_B_START": 0.6666666865348816,
+        "OFC_LOOK": 3.3333332538604736,
+        "OFC_SIT_END": 0.6666666865348816,
+        "OFC_SIT_LOOP": 4.0,
+        "OFC_SIT_START": 0.6666666865348816,
+        "OFC_SLEEP_END": 0.6666666865348816,
+        "OFC_SLEEP_LOOP": 2.0,
+        "OFC_SLEEP_START": 0.6666666865348816,
+        "OFC_TALK_A": 2.6666667461395264,
+        "OFC_TALK_B": 1.7333333492279053,
+        "OFC_TALK_C": 3.0,
+        "OFC_TALK_D": 2.4666666984558105,
+        "OFC_TALK_E": 3.3333332538604736,
+        "RESERCH": 4.666666507720947,
+        "RUN": 0.5,
+        "TOUCH": 0.7666666507720947,
+        "WALK": 1.0,
+        "WIN": 3.0,
+        "WORKING": 9.333333015441895
+      },
+      "events": {},
+      "files": {
+        "UNIT_SD_C_STREGA_YOO_NA_CAFFE.atlas": "298c7bc345284b03aefa93ee142d711607fee76438e724d8946670f58465a842",
+        "UNIT_SD_C_STREGA_YOO_NA_CAFFE.json": "5337694ff4616136faf355d04fbd3e1a70b8231dfc0eb0a1048342e719799fa8",
+        "UNIT_SD_C_STREGA_YOO_NA_CAFFE.png": "b0c65c989f7cc774a7de5dbf107b28cd85774f9eca18b720a42d865aff3aeadd",
+        "UNIT_SD_C_STREGA_YOO_NA_CAFFE.skel": "667a9da157d6415b6507c3fbff93f94887babd3fc988645029ed617ad137ab5f"
+      }
+    }
+  }
+}

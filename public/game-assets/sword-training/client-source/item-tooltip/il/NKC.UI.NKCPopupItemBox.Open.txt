@@ -1,0 +1,147 @@
+METHOD System.Void NKC.UI.NKCPopupItemBox::Open(NKM.Shop.ShopItemTemplet,NKC.UI.NKCPopupItemBox/OnButton)
+  0000: ldarg.1      
+  0001: brtrue.s     IL_0006: ldarg.0
+  0003: ldc.i4.0     
+  0004: br.s         IL_0012: stloc.0
+  0006: ldarg.0      
+  0007: ldarg.1      
+  0008: ldfld        NKM.Templet.NKM_REWARD_TYPE NKM.Shop.ShopItemTemplet::m_ItemType
+  000D: call         System.Boolean NKC.UI.NKCPopupItemBox::IsCountVisible(NKM.Templet.NKM_REWARD_TYPE)
+  0012: stloc.0      
+  0013: ldarg.1      
+  0014: brtrue.s     IL_0019: ldarg.1
+  0016: ldc.i4.0     
+  0017: br.s         IL_0029: stloc.1
+  0019: ldarg.1      
+  001A: ldfld        System.Int32 NKM.Shop.ShopItemTemplet::m_ProductID
+  001F: call         NKM.NKMUserData NKC.NKCScenManager::CurrentUserData()
+  0024: call         System.Boolean NKC.NKCShopManager::IsFirstBuy(System.Int32,NKM.NKMUserData)
+  0029: stloc.1      
+  002A: ldarg.0      
+  002B: ldc.i4.3     
+  002C: ldarg.1      
+  002D: ldloc.1      
+  002E: call         NKC.UI.NKCUISlot/SlotData NKC.UI.NKCUISlot/SlotData::MakeShopItemData(NKM.Shop.ShopItemTemplet,System.Boolean)
+  0033: ldarg.2      
+  0034: ldc.i4.0     
+  0035: ldloc.0      
+  0036: ldc.i4.1     
+  0037: call         System.Void NKC.UI.NKCPopupItemBox::Open(NKC.UI.NKCPopupItemBox/eMode,NKC.UI.NKCUISlot/SlotData,NKC.UI.NKCPopupItemBox/OnButton,System.Boolean,System.Boolean,System.Boolean)
+  003C: call         NKC.UI.NKCPopupItemBox NKC.UI.NKCPopupItemBox::get_Instance()
+  0041: ldfld        UnityEngine.UI.Text NKC.UI.NKCPopupItemBox::m_lbItemDesc
+  0046: ldarg.1      
+  0047: callvirt     System.String NKM.Shop.ShopItemTemplet::GetItemDescPopup()
+  004C: ldloc.1      
+  004D: call         System.String NKC.NKCUtilString::GetShopDescriptionText(System.String,System.Boolean)
+  0052: callvirt     System.Void UnityEngine.UI.Text::set_text(System.String)
+  0057: ldarg.1      
+  0058: ldfld        System.Int32 NKM.Shop.ShopItemTemplet::m_PriceItemID
+  005D: brtrue.s     IL_0074: call NKM.NKMUserData NKC.NKCScenManager::CurrentUserData()
+  005F: call         NKC.UI.NKCPopupItemBox NKC.UI.NKCPopupItemBox::get_Instance()
+  0064: ldfld        NKC.UI.NKCUIPriceTag NKC.UI.NKCPopupItemBox::m_priceTag
+  0069: ldarg.1      
+  006A: ldc.i4.0     
+  006B: ldc.i4.0     
+  006C: callvirt     System.Boolean NKC.UI.NKCUIPriceTag::SetData(NKM.Shop.ShopItemTemplet,System.Boolean,System.Boolean)
+  0071: pop          
+  0072: br.s         IL_00A1: ldarg.0
+  0074: call         NKM.NKMUserData NKC.NKCScenManager::CurrentUserData()
+  0079: ldfld        NKM.NKMShopData NKM.NKMUserData::m_ShopData
+  007E: ldarg.1      
+  007F: ldc.i4.1     
+  0080: ldc.i4.0     
+  0081: callvirt     System.Int32 NKM.NKMShopData::GetRealPrice(NKM.Shop.ShopItemTemplet,System.Int32,System.Boolean)
+  0086: stloc.2      
+  0087: call         NKC.UI.NKCPopupItemBox NKC.UI.NKCPopupItemBox::get_Instance()
+  008C: ldfld        NKC.UI.NKCUIPriceTag NKC.UI.NKCPopupItemBox::m_priceTag
+  0091: ldarg.1      
+  0092: ldfld        System.Int32 NKM.Shop.ShopItemTemplet::m_PriceItemID
+  0097: ldloc.2      
+  0098: ldc.i4.0     
+  0099: ldc.i4.0     
+  009A: ldc.i4.1     
+  009B: callvirt     System.Boolean NKC.UI.NKCUIPriceTag::SetData(System.Int32,System.Int32,System.Boolean,System.Boolean,System.Boolean)
+  00A0: pop          
+  00A1: ldarg.0      
+  00A2: ldarg.1      
+  00A3: call         System.Void NKC.UI.NKCPopupItemBox::SetOldPrice(NKM.Shop.ShopItemTemplet)
+  00A8: ret          
+METHOD System.Void NKC.UI.NKCPopupItemBox::Open(NKM.NKMShopRandomListData,System.Boolean,NKC.UI.NKCPopupItemBox/OnButton)
+  0000: ldarg.1      
+  0001: brtrue.s     IL_0006: ldarg.0
+  0003: ldc.i4.0     
+  0004: br.s         IL_0012: stloc.0
+  0006: ldarg.0      
+  0007: ldarg.1      
+  0008: ldfld        NKM.Templet.NKM_REWARD_TYPE NKM.NKMShopRandomListData::itemType
+  000D: call         System.Boolean NKC.UI.NKCPopupItemBox::IsCountVisible(NKM.Templet.NKM_REWARD_TYPE)
+  0012: stloc.0      
+  0013: ldarg.0      
+  0014: ldc.i4.3     
+  0015: ldarg.1      
+  0016: call         NKC.UI.NKCUISlot/SlotData NKC.UI.NKCUISlot/SlotData::MakeShopItemData(NKM.NKMShopRandomListData)
+  001B: ldarg.3      
+  001C: ldc.i4.0     
+  001D: ldloc.0      
+  001E: ldarg.2      
+  001F: call         System.Void NKC.UI.NKCPopupItemBox::Open(NKC.UI.NKCPopupItemBox/eMode,NKC.UI.NKCUISlot/SlotData,NKC.UI.NKCPopupItemBox/OnButton,System.Boolean,System.Boolean,System.Boolean)
+  0024: ldarg.1      
+  0025: callvirt     System.Int32 NKM.NKMShopRandomListData::GetPrice()
+  002A: stloc.1      
+  002B: call         NKC.UI.NKCPopupItemBox NKC.UI.NKCPopupItemBox::get_Instance()
+  0030: ldfld        NKC.UI.NKCUIPriceTag NKC.UI.NKCPopupItemBox::m_priceTag
+  0035: ldarg.1      
+  0036: ldfld        System.Int32 NKM.NKMShopRandomListData::priceItemId
+  003B: ldloc.1      
+  003C: ldc.i4.0     
+  003D: ldc.i4.0     
+  003E: ldc.i4.1     
+  003F: callvirt     System.Boolean NKC.UI.NKCUIPriceTag::SetData(System.Int32,System.Int32,System.Boolean,System.Boolean,System.Boolean)
+  0044: pop          
+  0045: ldarg.0      
+  0046: ldarg.1      
+  0047: ldfld        System.Int32 NKM.NKMShopRandomListData::priceItemId
+  004C: ldloc.1      
+  004D: ldarg.1      
+  004E: ldfld        System.Int32 NKM.NKMShopRandomListData::price
+  0053: call         System.Void NKC.UI.NKCPopupItemBox::SetOldPrice(System.Int32,System.Int32,System.Int32)
+  0058: ret          
+METHOD System.Void NKC.UI.NKCPopupItemBox::Open(NKC.UI.NKCPopupItemBox/eMode,NKC.UI.NKCUISlot/SlotData,NKC.UI.NKCPopupItemBox/OnButton,System.Boolean,System.Boolean,System.Boolean)
+  0000: ldarg.2      
+  0001: brtrue.s     IL_0004: ldarg.2
+  0003: ret          
+  0004: ldarg.2      
+  0005: ldfld        NKC.UI.NKCUISlot/eSlotMode NKC.UI.NKCUISlot/SlotData::eType
+  000A: ldc.i4.s     9
+  000C: bne.un.s     IL_001C: ldarg.0
+  000E: ldarg.0      
+  000F: ldarg.2      
+  0010: ldarg.1      
+  0011: ldarg.s      bShowCount
+  0013: ldarg.s      showDropInfo
+  0015: call         System.Void NKC.UI.NKCPopupItemBox::EmoticonOpenProcess(NKC.UI.NKCUISlot/SlotData,NKC.UI.NKCPopupItemBox/eMode,System.Boolean,System.Boolean)
+  001A: br.s         IL_0028: ldarg.0
+  001C: ldarg.0      
+  001D: ldarg.2      
+  001E: ldarg.1      
+  001F: ldarg.s      bShowCount
+  0021: ldarg.s      showDropInfo
+  0023: call         System.Void NKC.UI.NKCPopupItemBox::NormalOpenProcess(NKC.UI.NKCUISlot/SlotData,NKC.UI.NKCPopupItemBox/eMode,System.Boolean,System.Boolean)
+  0028: ldarg.0      
+  0029: ldarg.1      
+  002A: ldarg.2      
+  002B: ldfld        System.Int64 NKC.UI.NKCUISlot/SlotData::Count
+  0030: ldarg.3      
+  0031: ldarg.s      singleOpenOnly
+  0033: call         System.Void NKC.UI.NKCPopupItemBox::SetButton(NKC.UI.NKCPopupItemBox/eMode,System.Int64,NKC.UI.NKCPopupItemBox/OnButton,System.Boolean)
+  0038: ldarg.1      
+  0039: ldarg.2      
+  003A: ldfld        System.Int32 NKC.UI.NKCUISlot/SlotData::ID
+  003F: ldarg.0      
+  0040: ldfld        NKC.NKCUIComStateButton NKC.UI.NKCPopupItemBox::m_btnAdOn
+  0045: ldarg.0      
+  0046: ldfld        NKC.NKCUIComStateButton NKC.UI.NKCPopupItemBox::m_btnAdOff
+  004B: ldarg.0      
+  004C: ldfld        UnityEngine.UI.Text NKC.UI.NKCPopupItemBox::m_lbAdLeftCount
+  0051: call         System.Void NKC.NKCAdManager::SetItemRewardAdButtonState(NKC.UI.NKCPopupItemBox/eMode,System.Int32,NKC.NKCUIComStateButton,NKC.NKCUIComStateButton,UnityEngine.UI.Text)
+  0056: ret          

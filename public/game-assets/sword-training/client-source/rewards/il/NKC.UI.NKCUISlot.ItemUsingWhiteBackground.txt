@@ -1,0 +1,16 @@
+METHOD System.Boolean NKC.UI.NKCUISlot::ItemUsingWhiteBackground(NKM.NKMItemMiscTemplet)
+  0000: ldarg.1      
+  0001: ldfld        NKM.NKM_ITEM_MISC_TYPE NKM.NKMItemMiscTemplet::m_ItemMiscType
+  0006: stloc.0      
+  0007: ldloc.0      
+  0008: ldc.i4.s     14
+  000A: sub          
+  000B: ldc.i4.1     
+  000C: ble.un.s     IL_0013: ldc.i4.1
+  000E: ldloc.0      
+  000F: ldc.i4.s     18
+  0011: bne.un.s     IL_0015: ldc.i4.0
+  0013: ldc.i4.1     
+  0014: ret          
+  0015: ldc.i4.0     
+  0016: ret          

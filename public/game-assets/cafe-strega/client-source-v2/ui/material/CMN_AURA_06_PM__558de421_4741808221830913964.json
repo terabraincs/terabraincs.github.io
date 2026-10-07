@@ -1,0 +1,575 @@
+{
+  "m_Name": "CMN_AURA_06_PM",
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": "-2466696322717258201"
+  },
+  "m_ValidKeywords": [],
+  "m_InvalidKeywords": [
+    "_DISSOLVE",
+    "_MAIN",
+    "_MAINDS",
+    "_MASK",
+    "_PREMULTIPLY"
+  ],
+  "m_LightmapFlags": 0,
+  "m_EnableInstancingVariants": true,
+  "m_DoubleSidedGI": false,
+  "m_CustomRenderQueue": -1,
+  "stringTagMap": [
+    [
+      "PreviewType",
+      "Plane"
+    ]
+  ],
+  "disabledShaderPasses": [],
+  "m_SavedProperties": {
+    "m_TexEnvs": [
+      [
+        "_Dissolve",
+        {
+          "m_Texture": {
+            "m_FileID": 2,
+            "m_PathID": "-3765828799483588169"
+          },
+          "m_Scale": {
+            "x": 0.5299999713897705,
+            "y": 6.690000057220459
+          },
+          "m_Offset": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        }
+      ],
+      [
+        "_MainDs",
+        {
+          "m_Texture": {
+            "m_FileID": 2,
+            "m_PathID": "-5217927347512941507"
+          },
+          "m_Scale": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "m_Offset": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        }
+      ],
+      [
+        "_MainTex",
+        {
+          "m_Texture": {
+            "m_FileID": 3,
+            "m_PathID": "4417315952314002920"
+          },
+          "m_Scale": {
+            "x": 2.9200000762939453,
+            "y": 1.4900000095367432
+          },
+          "m_Offset": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        }
+      ],
+      [
+        "_Mask",
+        {
+          "m_Texture": {
+            "m_FileID": 4,
+            "m_PathID": "7645100395140280370"
+          },
+          "m_Scale": {
+            "x": 3.0,
+            "y": 1.0
+          },
+          "m_Offset": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        }
+      ]
+    ],
+    "m_Ints": [],
+    "m_Floats": [
+      [
+        "_BlendFactor",
+        0.17499999701976776
+      ],
+      [
+        "_BumpScale",
+        1.0
+      ],
+      [
+        "_BypassFGO",
+        0.0
+      ],
+      [
+        "_ColorRampAmount",
+        0.0
+      ],
+      [
+        "_Cull",
+        0.0
+      ],
+      [
+        "_Cutoff",
+        0.5
+      ],
+      [
+        "_DetailNormalMapScale",
+        1.0
+      ],
+      [
+        "_DissolveAmount",
+        0.0
+      ],
+      [
+        "_DissolveAngle",
+        -90.0
+      ],
+      [
+        "_DissolveChannel",
+        0.0
+      ],
+      [
+        "_DissolveEdgeBlend",
+        0.0
+      ],
+      [
+        "_DissolveEdgeSize",
+        0.007400000002235174
+      ],
+      [
+        "_DissolvePivot",
+        0.0
+      ],
+      [
+        "_Dissolve_Scroll_X",
+        0.0
+      ],
+      [
+        "_Dissolve_Scroll_Y",
+        0.0
+      ],
+      [
+        "_DstBlend",
+        10.0
+      ],
+      [
+        "_EdgeOnly",
+        0.0
+      ],
+      [
+        "_EnableColorRamp",
+        0.0
+      ],
+      [
+        "_EnableDissolve",
+        1.0
+      ],
+      [
+        "_EnableMainDs",
+        1.0
+      ],
+      [
+        "_EnableMainTex",
+        1.0
+      ],
+      [
+        "_EnableMask",
+        1.0
+      ],
+      [
+        "_EnableMaskDs",
+        0.0
+      ],
+      [
+        "_EnableRim",
+        0.0
+      ],
+      [
+        "_EnableSubDs",
+        0.0
+      ],
+      [
+        "_EnableSubTex",
+        0.0
+      ],
+      [
+        "_GlossMapScale",
+        1.0
+      ],
+      [
+        "_Glossiness",
+        0.5
+      ],
+      [
+        "_GlossyReflections",
+        1.0
+      ],
+      [
+        "_InputBlack",
+        0.0
+      ],
+      [
+        "_InputWhite",
+        1.0
+      ],
+      [
+        "_Intensity",
+        4.0
+      ],
+      [
+        "_MainDsAmount",
+        1.0
+      ],
+      [
+        "_MainDsAngle",
+        0.0
+      ],
+      [
+        "_MainDsChannel",
+        0.0
+      ],
+      [
+        "_MainDsPivot",
+        0.0
+      ],
+      [
+        "_MainDsU",
+        0.07000000029802322
+      ],
+      [
+        "_MainDsV",
+        0.23000000417232513
+      ],
+      [
+        "_MainDs_Scroll_X",
+        0.0
+      ],
+      [
+        "_MainDs_Scroll_Y",
+        0.0
+      ],
+      [
+        "_MainTexAmount",
+        1.0
+      ],
+      [
+        "_MainTexAngle",
+        0.0
+      ],
+      [
+        "_MainTexChannel",
+        0.0
+      ],
+      [
+        "_MainTexPivot",
+        0.0
+      ],
+      [
+        "_MainTex_Scroll_X",
+        0.0
+      ],
+      [
+        "_MainTex_Scroll_Y",
+        0.0
+      ],
+      [
+        "_MaskAmount",
+        1.0
+      ],
+      [
+        "_MaskAngle",
+        0.0
+      ],
+      [
+        "_MaskChannel",
+        0.0
+      ],
+      [
+        "_MaskDsAmount",
+        0.0
+      ],
+      [
+        "_MaskDsAngle",
+        0.0
+      ],
+      [
+        "_MaskDsChannel",
+        0.0
+      ],
+      [
+        "_MaskDsPivot",
+        0.0
+      ],
+      [
+        "_MaskDsU",
+        0.0
+      ],
+      [
+        "_MaskDsV",
+        0.0
+      ],
+      [
+        "_MaskDs_Scroll_X",
+        0.0
+      ],
+      [
+        "_MaskDs_Scroll_Y",
+        0.0
+      ],
+      [
+        "_MaskHardness",
+        5.0
+      ],
+      [
+        "_MaskInner",
+        0.0
+      ],
+      [
+        "_MaskInverse",
+        0.0
+      ],
+      [
+        "_MaskOuter",
+        0.5
+      ],
+      [
+        "_MaskPivot",
+        0.0
+      ],
+      [
+        "_MaskRef",
+        1.0
+      ],
+      [
+        "_Mask_Scroll_X",
+        0.0
+      ],
+      [
+        "_Mask_Scroll_Y",
+        0.0
+      ],
+      [
+        "_Metallic",
+        0.0
+      ],
+      [
+        "_Mode",
+        2.0
+      ],
+      [
+        "_OcclusionStrength",
+        1.0
+      ],
+      [
+        "_Parallax",
+        0.019999999552965164
+      ],
+      [
+        "_Preview",
+        1.0
+      ],
+      [
+        "_RampOffset",
+        0.0
+      ],
+      [
+        "_RampRange",
+        1.0
+      ],
+      [
+        "_ReGrading",
+        0.0
+      ],
+      [
+        "_RimAmount",
+        0.0
+      ],
+      [
+        "_RimIntensity",
+        0.0
+      ],
+      [
+        "_RimLevel",
+        0.0
+      ],
+      [
+        "_RimPower",
+        0.0
+      ],
+      [
+        "_SmoothnessTextureChannel",
+        0.0
+      ],
+      [
+        "_SoftDissolve",
+        0.0
+      ],
+      [
+        "_SpecularHighlights",
+        1.0
+      ],
+      [
+        "_SrcBlend",
+        1.0
+      ],
+      [
+        "_SubBlendAlpha",
+        0.0
+      ],
+      [
+        "_SubDsAmount",
+        0.0
+      ],
+      [
+        "_SubDsAngle",
+        0.0
+      ],
+      [
+        "_SubDsChannel",
+        0.0
+      ],
+      [
+        "_SubDsPivot",
+        0.0
+      ],
+      [
+        "_SubDsU",
+        0.0
+      ],
+      [
+        "_SubDsV",
+        0.0
+      ],
+      [
+        "_SubTexAmount",
+        1.0
+      ],
+      [
+        "_SubTexAngle",
+        0.0
+      ],
+      [
+        "_SubTexChannel",
+        0.0
+      ],
+      [
+        "_SubTexPivot",
+        0.0
+      ],
+      [
+        "_Subblend",
+        2.0
+      ],
+      [
+        "_UVDissolve",
+        0.0
+      ],
+      [
+        "_UVMain",
+        0.0
+      ],
+      [
+        "_UVMainDs",
+        0.0
+      ],
+      [
+        "_UVMask",
+        0.0
+      ],
+      [
+        "_UVMaskDs",
+        0.0
+      ],
+      [
+        "_UVSec",
+        0.0
+      ],
+      [
+        "_UVSub",
+        0.0
+      ],
+      [
+        "_UVSubDs",
+        0.0
+      ],
+      [
+        "_ZWrite",
+        0.0
+      ]
+    ],
+    "m_Colors": [
+      [
+        "_Color",
+        {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      ],
+      [
+        "_DissolveEdgeColor",
+        {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      ],
+      [
+        "_EmissionColor",
+        {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      ],
+      [
+        "_MainTexColor",
+        {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      ],
+      [
+        "_RimColor",
+        {
+          "r": 0.5,
+          "g": 0.5,
+          "b": 0.5,
+          "a": 0.5
+        }
+      ],
+      [
+        "_SubTexColor",
+        {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      ],
+      [
+        "_TintColor",
+        {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      ]
+    ]
+  },
+  "m_BuildTextureStacks": []
+}

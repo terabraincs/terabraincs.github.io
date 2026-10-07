@@ -1,0 +1,4285 @@
+{
+  "name": "NKM_UI_RESULT_COMMON_CONTENTS_INTRO",
+  "sourceAssetId": "CAB-2a2f973e6513181f8e5e36c0a0024e72:-4552626241336963029",
+  "sampleRate": 60.0,
+  "stopTime": 1.5,
+  "loopTime": false,
+  "curves": [
+    {
+      "curveIndex": 0,
+      "bindingIndex": 0,
+      "binding": {
+        "path": 205054913,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Worldmap_Branch_EXP/line",
+      "attribute": "m_LocalScale.x",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 0.4000000059604645,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 0.5,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 0.6166666746139526,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 1,
+      "bindingIndex": 0,
+      "binding": {
+        "path": 205054913,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Worldmap_Branch_EXP/line",
+      "attribute": "m_LocalScale.y",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.4000000059604645,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -30.769268035888672,
+            23.076932907104492,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.5,
+          "value": 0.20000000298023224,
+          "inSlope": 3.692307710647583,
+          "outSlope": 3.692307710647583,
+          "coeff": [
+            -736.3084716796875,
+            113.02983093261719,
+            3.692307710647583,
+            0.20000000298023224
+          ]
+        },
+        {
+          "time": 0.6166666746139526,
+          "value": 1.0,
+          "inSlope": -1.0217938779533142e-06,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 2,
+      "bindingIndex": 0,
+      "binding": {
+        "path": 205054913,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Worldmap_Branch_EXP/line",
+      "attribute": "m_LocalScale.z",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 0.4000000059604645,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 0.5,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 0.6166666746139526,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 3,
+      "bindingIndex": 1,
+      "binding": {
+        "path": 4254058650,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Mission/line",
+      "attribute": "m_LocalScale.x",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 0.6000000238418579,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 0.699999988079071,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 0.8166666626930237,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 4,
+      "bindingIndex": 1,
+      "binding": {
+        "path": 4254058650,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Mission/line",
+      "attribute": "m_LocalScale.y",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.6000000238418579,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -30.769351959228516,
+            23.07695198059082,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.699999988079071,
+          "value": 0.20000000298023224,
+          "inSlope": 3.692307949066162,
+          "outSlope": 3.692308187484741,
+          "coeff": [
+            -736.3084716796875,
+            113.02981567382812,
+            3.692308187484741,
+            0.20000000298023224
+          ]
+        },
+        {
+          "time": 0.8166666626930237,
+          "value": 1.0,
+          "inSlope": -2.0435877559066284e-06,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 5,
+      "bindingIndex": 1,
+      "binding": {
+        "path": 4254058650,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Mission/line",
+      "attribute": "m_LocalScale.z",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 0.6000000238418579,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 0.699999988079071,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 0.8166666626930237,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 6,
+      "bindingIndex": 2,
+      "binding": {
+        "path": 2697740812,
+        "attribute": 538195251,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Unit_EXP/unit_layout",
+      "attribute": "m_AnchoredPosition.y",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": -227.8000030517578,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            -227.8000030517578
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": -227.8000030517578,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            -227.8000030517578
+          ]
+        },
+        {
+          "time": 0.46666666865348816,
+          "value": -227.8000030517578,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -0.009042244404554367,
+            0.0020345051307231188,
+            0.0,
+            -227.8000030517578
+          ]
+        },
+        {
+          "time": 0.6166666746139526,
+          "value": -227.79998779296875,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            -227.79998779296875
+          ]
+        },
+        {
+          "time": 0.6666666865348816,
+          "value": -227.79998779296875,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            -227.79998779296875
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 7,
+      "bindingIndex": 3,
+      "binding": {
+        "path": 2471948595,
+        "attribute": 1574349066,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 225,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Worldmap_Branch_EXP/title",
+      "attribute": "m_Alpha",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.25,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -196.63177490234375,
+            63.90532684326172,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.46666666865348816,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 8,
+      "bindingIndex": 4,
+      "binding": {
+        "path": 4142635127,
+        "attribute": 1574349066,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 225,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Unit_EXP/title",
+      "attribute": "m_Alpha",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.4833333194255829,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -157.43443298339844,
+            55.10205078125,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.7166666388511658,
+          "value": 1.0,
+          "inSlope": -2.043587983280304e-06,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 9,
+      "bindingIndex": 5,
+      "binding": {
+        "path": 1203095041,
+        "attribute": 1574349066,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 225,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Worldmap_Branch_EXP/Branch_EXP",
+      "attribute": "m_Alpha",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.44999998807907104,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -157.43438720703125,
+            55.10203552246094,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.6833333373069763,
+          "value": 1.0,
+          "inSlope": -1.0217938779533142e-06,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 10,
+      "bindingIndex": 6,
+      "binding": {
+        "path": 2697740812,
+        "attribute": 1574349066,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 225,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Unit_EXP/unit_layout",
+      "attribute": "m_Alpha",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.550000011920929,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.058364588767290115,
+          "coeff": [
+            0.0,
+            0.0,
+            0.058364588767290115,
+            0.0
+          ]
+        },
+        {
+          "time": 0.5666666626930237,
+          "value": 0.0009727422147989273,
+          "inSlope": 0.058364588767290115,
+          "outSlope": 0.21809525787830353,
+          "coeff": [
+            0.0,
+            0.0,
+            0.21809525787830353,
+            0.0009727422147989273
+          ]
+        },
+        {
+          "time": 0.5833333134651184,
+          "value": 0.004607659764587879,
+          "inSlope": 0.21809525787830353,
+          "outSlope": 0.3683459460735321,
+          "coeff": [
+            0.0,
+            3.3527437608427135e-06,
+            0.3683459460735321,
+            0.004607659764587879
+          ]
+        },
+        {
+          "time": 0.6000000238418579,
+          "value": 0.010746775195002556,
+          "inSlope": 0.3683459460735321,
+          "outSlope": 0.5161349773406982,
+          "coeff": [
+            0.0,
+            0.0,
+            0.5161349773406982,
+            0.010746775195002556
+          ]
+        },
+        {
+          "time": 0.6166666746139526,
+          "value": 0.01934901624917984,
+          "inSlope": 0.5161349773406982,
+          "outSlope": 0.6661834716796875,
+          "coeff": [
+            0.0,
+            -6.70553527015727e-06,
+            0.6661834716796875,
+            0.01934901624917984
+          ]
+        },
+        {
+          "time": 0.6333333253860474,
+          "value": 0.0304520633071661,
+          "inSlope": 0.6661834716796875,
+          "outSlope": 0.8223375678062439,
+          "coeff": [
+            0.0,
+            6.70553527015727e-06,
+            0.8223375678062439,
+            0.0304520633071661
+          ]
+        },
+        {
+          "time": 0.6499999761581421,
+          "value": 0.04415767639875412,
+          "inSlope": 0.8223375678062439,
+          "outSlope": 0.988224446773529,
+          "coeff": [
+            0.0,
+            0.0,
+            0.988224446773529,
+            0.04415767639875412
+          ]
+        },
+        {
+          "time": 0.6666666865348816,
+          "value": 0.06062812730669975,
+          "inSlope": 0.988224446773529,
+          "outSlope": 1.1677448749542236,
+          "coeff": [
+            0.0,
+            0.0,
+            1.1677448749542236,
+            0.06062812730669975
+          ]
+        },
+        {
+          "time": 0.6833333373069763,
+          "value": 0.08009052276611328,
+          "inSlope": 1.1677448749542236,
+          "outSlope": 1.3655318021774292,
+          "coeff": [
+            0.0,
+            0.0,
+            1.3655318021774292,
+            0.08009052276611328
+          ]
+        },
+        {
+          "time": 0.699999988079071,
+          "value": 0.10284936428070068,
+          "inSlope": 1.3655318021774292,
+          "outSlope": 1.5874669551849365,
+          "coeff": [
+            0.0,
+            0.0,
+            1.5874669551849365,
+            0.10284936428070068
+          ]
+        },
+        {
+          "time": 0.7166666388511658,
+          "value": 0.1293071210384369,
+          "inSlope": 1.5874669551849365,
+          "outSlope": 1.8414881229400635,
+          "coeff": [
+            0.0,
+            0.0,
+            1.8414881229400635,
+            0.1293071210384369
+          ]
+        },
+        {
+          "time": 0.7333333492279053,
+          "value": 0.15999867022037506,
+          "inSlope": 1.8414881229400635,
+          "outSlope": 2.1388463973999023,
+          "coeff": [
+            0.0,
+            0.0,
+            2.1388463973999023,
+            0.15999867022037506
+          ]
+        },
+        {
+          "time": 0.75,
+          "value": 0.19564607739448547,
+          "inSlope": 2.1388463973999023,
+          "outSlope": 2.496535539627075,
+          "coeff": [
+            0.0,
+            0.0,
+            2.496535539627075,
+            0.19564607739448547
+          ]
+        },
+        {
+          "time": 0.7666666507720947,
+          "value": 0.23725496232509613,
+          "inSlope": 2.496535539627075,
+          "outSlope": 2.941756010055542,
+          "coeff": [
+            0.0,
+            0.0,
+            2.941756010055542,
+            0.23725496232509613
+          ]
+        },
+        {
+          "time": 0.7833333611488342,
+          "value": 0.28628435730934143,
+          "inSlope": 2.941756010055542,
+          "outSlope": 3.5220067501068115,
+          "coeff": [
+            0.0,
+            0.0,
+            3.5220067501068115,
+            0.28628435730934143
+          ]
+        },
+        {
+          "time": 0.800000011920929,
+          "value": 0.34498441219329834,
+          "inSlope": 3.5220067501068115,
+          "outSlope": 4.330105304718018,
+          "coeff": [
+            0.0,
+            0.0,
+            4.330105304718018,
+            0.34498441219329834
+          ]
+        },
+        {
+          "time": 0.8166666626930237,
+          "value": 0.4171527624130249,
+          "inSlope": 4.330105304718018,
+          "outSlope": 5.5828447341918945,
+          "coeff": [
+            0.0,
+            0.0,
+            5.5828447341918945,
+            0.4171527624130249
+          ]
+        },
+        {
+          "time": 0.8333333134651184,
+          "value": 0.5102000832557678,
+          "inSlope": 5.5828447341918945,
+          "outSlope": 7.982558727264404,
+          "coeff": [
+            0.0,
+            0.0,
+            7.982558727264404,
+            0.5102000832557678
+          ]
+        },
+        {
+          "time": 0.8500000238418579,
+          "value": 0.6432430744171143,
+          "inSlope": 7.982558727264404,
+          "outSlope": 21.40543556213379,
+          "coeff": [
+            0.0,
+            0.0,
+            21.40543556213379,
+            0.6432430744171143
+          ]
+        },
+        {
+          "time": 0.8666666746139526,
+          "value": 1.0,
+          "inSlope": 21.40543556213379,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 11,
+      "bindingIndex": 7,
+      "binding": {
+        "path": 3013679521,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7978266203517415465"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Worldmap_Branch_EXP/Branch_EXP/Branch_EXP",
+      "attribute": "m_Color.a",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.7166666388511658,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -592.5921630859375,
+            133.33326721191406,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.8666666746139526,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 12,
+      "bindingIndex": 8,
+      "binding": {
+        "path": 1313610519,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7978266203517415465"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Worldmap_Branch_EXP/Branch_EXP/Branch_NAME",
+      "attribute": "m_Color.a",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.6833333373069763,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -1259.47509765625,
+            220.40814208984375,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.800000011920929,
+          "value": 1.0,
+          "inSlope": -2.0435877559066284e-06,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 13,
+      "bindingIndex": 9,
+      "binding": {
+        "path": 2697740812,
+        "attribute": 1460864421,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Unit_EXP/unit_layout",
+      "attribute": "m_AnchoredPosition.x",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 1835.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1835.0
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 1835.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1835.0
+          ]
+        },
+        {
+          "time": 0.46666666865348816,
+          "value": 1835.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            149185.171875,
+            -57133.33203125,
+            0.0,
+            1835.0
+          ]
+        },
+        {
+          "time": 0.6166666746139526,
+          "value": 1053.0,
+          "inSlope": -7069.99951171875,
+          "outSlope": -7069.99951171875,
+          "coeff": [
+            7283995.5,
+            -475599.8125,
+            -7069.99951171875,
+            1053.0
+          ]
+        },
+        {
+          "time": 0.6666666865348816,
+          "value": 421.0,
+          "inSlope": 0.0024414057843387127,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            421.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 14,
+      "bindingIndex": 10,
+      "binding": {
+        "path": 1203095041,
+        "attribute": 1460864421,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Worldmap_Branch_EXP/Branch_EXP",
+      "attribute": "m_AnchoredPosition.x",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 550.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            550.0
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 550.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            550.0
+          ]
+        },
+        {
+          "time": 0.25,
+          "value": 550.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            550.0
+          ]
+        },
+        {
+          "time": 0.4166666567325592,
+          "value": 550.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            58007.80078125,
+            -23203.12109375,
+            0.0,
+            550.0
+          ]
+        },
+        {
+          "time": 0.6833333373069763,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 15,
+      "bindingIndex": 11,
+      "binding": {
+        "path": 4142635127,
+        "attribute": 1460864421,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Unit_EXP/title",
+      "attribute": "m_AnchoredPosition.x",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 1926.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1926.0
+          ]
+        },
+        {
+          "time": 0.20000000298023224,
+          "value": 1926.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            304531.1875,
+            -75647.90625,
+            0.0,
+            1926.0
+          ]
+        },
+        {
+          "time": 0.3333333432674408,
+          "value": 1303.0,
+          "inSlope": -3931.111328125,
+          "outSlope": -3931.111328125,
+          "coeff": [
+            32976.25,
+            -9456.697265625,
+            -3931.111328125,
+            1303.0
+          ]
+        },
+        {
+          "time": 0.6499999761581421,
+          "value": 157.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            157.0
+          ]
+        },
+        {
+          "time": 0.699999988079071,
+          "value": 157.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            157.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 16,
+      "bindingIndex": 12,
+      "binding": {
+        "path": 2471948595,
+        "attribute": 1460864421,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Worldmap_Branch_EXP/title",
+      "attribute": "m_AnchoredPosition.x",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 474.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            474.0
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 474.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            474.0
+          ]
+        },
+        {
+          "time": 0.0833333358168602,
+          "value": 474.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            29853.91796875,
+            -14180.6103515625,
+            0.0,
+            474.0
+          ]
+        },
+        {
+          "time": 0.4000000059604645,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 17,
+      "bindingIndex": 13,
+      "binding": {
+        "path": 1065924561,
+        "attribute": 2086281974,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 1,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Unit_EXP/Unit_Sound",
+      "attribute": "m_IsActive",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.8666666746139526,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 1.5,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 18,
+      "bindingIndex": 14,
+      "binding": {
+        "path": 2564912889,
+        "attribute": 2086281974,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 1,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Unit_EXP/DUNGEON_RESULT_EXP",
+      "attribute": "m_IsActive",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.550000011920929,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 1.5,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 19,
+      "bindingIndex": 15,
+      "binding": {
+        "path": 3230318550,
+        "attribute": 1574349066,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 225,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Mission/Layoutgroup/Mission_List/BONUS",
+      "attribute": "m_Alpha",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 1.0833333730697632,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -27.648012161254883,
+            17.280004501342773,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 1.5,
+          "value": 1.0,
+          "inSlope": -5.722046694245364e-07,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 20,
+      "bindingIndex": 16,
+      "binding": {
+        "path": 2918033138,
+        "attribute": 1574349066,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 225,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Mission/Layoutgroup/Mission_List/Bronze",
+      "attribute": "m_Alpha",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.9666666388511658,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -1259.4730224609375,
+            220.40789794921875,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 1.0833333730697632,
+          "value": 1.0,
+          "inSlope": 2.0435866190382512e-06,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 21,
+      "bindingIndex": 17,
+      "binding": {
+        "path": 2918033138,
+        "attribute": 1460864421,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Mission/Layoutgroup/Mission_List/Bronze",
+      "attribute": "m_AnchoredPosition.x",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 133.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            133.0
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 133.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            133.0
+          ]
+        },
+        {
+          "time": 0.9666666388511658,
+          "value": 133.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            123428.3515625,
+            -21599.974609375,
+            0.0,
+            133.0
+          ]
+        },
+        {
+          "time": 1.0833333730697632,
+          "value": 35.0,
+          "inSlope": -0.00026157908723689616,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            35.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 22,
+      "bindingIndex": 18,
+      "binding": {
+        "path": 4001677968,
+        "attribute": 2086281974,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 1,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Mission/Layoutgroup/Mission_List/Bronze/Bronze_Sound",
+      "attribute": "m_IsActive",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 1.399999976158142,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 1.5,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 23,
+      "bindingIndex": 19,
+      "binding": {
+        "path": 3326540738,
+        "attribute": 1574349066,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 225,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Mission/Layoutgroup/Mission_List/Gold",
+      "attribute": "m_Alpha",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 1.25,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -1259.47509765625,
+            220.40814208984375,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 1.3666666746139526,
+          "value": 1.0,
+          "inSlope": -2.0435877559066284e-06,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 24,
+      "bindingIndex": 20,
+      "binding": {
+        "path": 3326540738,
+        "attribute": 1460864421,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Mission/Layoutgroup/Mission_List/Gold",
+      "attribute": "m_AnchoredPosition.x",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 133.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            133.0
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 133.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            133.0
+          ]
+        },
+        {
+          "time": 1.25,
+          "value": 133.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            123428.5234375,
+            -21599.9921875,
+            0.0,
+            133.0
+          ]
+        },
+        {
+          "time": 1.3666666746139526,
+          "value": 35.000030517578125,
+          "inSlope": 0.00026157923275604844,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            35.000030517578125
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 25,
+      "bindingIndex": 21,
+      "binding": {
+        "path": 2071933454,
+        "attribute": 2086281974,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 1,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Mission/Layoutgroup/Mission_List/Gold/Gold_Sound",
+      "attribute": "m_IsActive",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 1.2666666507720947,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 1.3666666746139526,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 26,
+      "bindingIndex": 22,
+      "binding": {
+        "path": 1012795168,
+        "attribute": 1574349066,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 225,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Mission/Layoutgroup/Mission_List/Silver",
+      "attribute": "m_Alpha",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 1.149999976158142,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -843.7501831054688,
+            168.75003051757812,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 1.2833333015441895,
+          "value": 1.0,
+          "inSlope": -1.7881394569485565e-06,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 27,
+      "bindingIndex": 23,
+      "binding": {
+        "path": 1012795168,
+        "attribute": 1460864421,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Mission/Layoutgroup/Mission_List/Silver",
+      "attribute": "m_AnchoredPosition.x",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 133.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            133.0
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 133.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            133.0
+          ]
+        },
+        {
+          "time": 1.149999976158142,
+          "value": 133.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            82687.4921875,
+            -16537.498046875,
+            0.0,
+            133.0
+          ]
+        },
+        {
+          "time": 1.2833333015441895,
+          "value": 35.000030517578125,
+          "inSlope": 0.00022888185048941523,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            35.000030517578125
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 28,
+      "bindingIndex": 24,
+      "binding": {
+        "path": 3452722734,
+        "attribute": 2086281974,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 1,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Mission/Layoutgroup/Mission_List/Silver/Silver_Sound",
+      "attribute": "m_IsActive",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 1.2666666507720947,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 1.4166666269302368,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 29,
+      "bindingIndex": 25,
+      "binding": {
+        "path": 2205186679,
+        "attribute": 1574349066,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 225,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Mission/Layoutgroup/Mission_List/title",
+      "attribute": "m_Alpha",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 0.8166666626930237,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -324.5679931640625,
+            89.25619506835938,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 30,
+      "bindingIndex": 26,
+      "binding": {
+        "path": 2205186679,
+        "attribute": 1460864421,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Mission/Layoutgroup/Mission_List/title",
+      "attribute": "m_AnchoredPosition.x",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 1093.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1093.0
+          ]
+        },
+        {
+          "time": 0.7666666507720947,
+          "value": 1093.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            474535.28125,
+            -94696.5703125,
+            0.0,
+            1093.0
+          ]
+        },
+        {
+          "time": 0.8500000238418579,
+          "value": 710.0,
+          "inSlope": -5896.6083984375,
+          "outSlope": -5896.6083984375,
+          "coeff": [
+            806430.25,
+            -91481.4453125,
+            -5896.6083984375,
+            710.0
+          ]
+        },
+        {
+          "time": 0.949999988079071,
+          "value": 11.954999923706055,
+          "inSlope": 0.0012207035906612873,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            11.954999923706055
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 31,
+      "bindingIndex": 27,
+      "binding": {
+        "path": 1203095041,
+        "attribute": 538195251,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Layout/Worldmap_Branch_EXP/Branch_EXP",
+      "attribute": "m_AnchoredPosition.y",
+      "keys": [
+        {
+          "time": 0,
+          "value": -68.0
+        },
+        {
+          "time": 1.5,
+          "value": -68.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    }
+  ],
+  "directFloatCurves": [],
+  "streamedFrames": [
+    {
+      "time": -3.4028234663852886e+38,
+      "keyList": [
+        {
+          "index": 0,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 1,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 2,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 3,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 4,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 5,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 6,
+          "value": -227.8000030517578,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            -227.8000030517578
+          ]
+        },
+        {
+          "index": 7,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 8,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 9,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 10,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 11,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 12,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 13,
+          "value": 1835.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1835.0
+          ]
+        },
+        {
+          "index": 14,
+          "value": 550.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            550.0
+          ]
+        },
+        {
+          "index": 15,
+          "value": 1926.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1926.0
+          ]
+        },
+        {
+          "index": 16,
+          "value": 474.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            474.0
+          ]
+        },
+        {
+          "index": 17,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 18,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 19,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 20,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 21,
+          "value": 133.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            133.0
+          ]
+        },
+        {
+          "index": 22,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 23,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 24,
+          "value": 133.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            133.0
+          ]
+        },
+        {
+          "index": 25,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 26,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 27,
+          "value": 133.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            133.0
+          ]
+        },
+        {
+          "index": 28,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 29,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 30,
+          "value": 1093.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1093.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.0,
+      "keyList": [
+        {
+          "index": 6,
+          "value": -227.8000030517578,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            -227.8000030517578
+          ]
+        },
+        {
+          "index": 13,
+          "value": 1835.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1835.0
+          ]
+        },
+        {
+          "index": 14,
+          "value": 550.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            550.0
+          ]
+        },
+        {
+          "index": 16,
+          "value": 474.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            474.0
+          ]
+        },
+        {
+          "index": 17,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 18,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 19,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 20,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 21,
+          "value": 133.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            133.0
+          ]
+        },
+        {
+          "index": 22,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 23,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 24,
+          "value": 133.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            133.0
+          ]
+        },
+        {
+          "index": 25,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 26,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 27,
+          "value": 133.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            133.0
+          ]
+        },
+        {
+          "index": 28,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.0833333358168602,
+      "keyList": [
+        {
+          "index": 16,
+          "value": 474.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            29853.91796875,
+            -14180.6103515625,
+            0.0,
+            474.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.20000000298023224,
+      "keyList": [
+        {
+          "index": 15,
+          "value": 1926.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            304531.1875,
+            -75647.90625,
+            0.0,
+            1926.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.25,
+      "keyList": [
+        {
+          "index": 7,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -196.63177490234375,
+            63.90532684326172,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 14,
+          "value": 550.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            550.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.3333333432674408,
+      "keyList": [
+        {
+          "index": 15,
+          "value": 1303.0,
+          "inSlope": -3931.111328125,
+          "outSlope": -3931.111328125,
+          "coeff": [
+            32976.25,
+            -9456.697265625,
+            -3931.111328125,
+            1303.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.4000000059604645,
+      "keyList": [
+        {
+          "index": 0,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 1,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -30.769268035888672,
+            23.076932907104492,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 2,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 16,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.4166666567325592,
+      "keyList": [
+        {
+          "index": 14,
+          "value": 550.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            58007.80078125,
+            -23203.12109375,
+            0.0,
+            550.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.44999998807907104,
+      "keyList": [
+        {
+          "index": 9,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -157.43438720703125,
+            55.10203552246094,
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.46666666865348816,
+      "keyList": [
+        {
+          "index": 6,
+          "value": -227.8000030517578,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -0.009042244404554367,
+            0.0020345051307231188,
+            0.0,
+            -227.8000030517578
+          ]
+        },
+        {
+          "index": 7,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 13,
+          "value": 1835.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            149185.171875,
+            -57133.33203125,
+            0.0,
+            1835.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.4833333194255829,
+      "keyList": [
+        {
+          "index": 8,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -157.43443298339844,
+            55.10205078125,
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.5,
+      "keyList": [
+        {
+          "index": 0,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 1,
+          "value": 0.20000000298023224,
+          "inSlope": 3.692307710647583,
+          "outSlope": 3.692307710647583,
+          "coeff": [
+            -736.3084716796875,
+            113.02983093261719,
+            3.692307710647583,
+            0.20000000298023224
+          ]
+        },
+        {
+          "index": 2,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.550000011920929,
+      "keyList": [
+        {
+          "index": 10,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.058364588767290115,
+          "coeff": [
+            0.0,
+            0.0,
+            0.058364588767290115,
+            0.0
+          ]
+        },
+        {
+          "index": 18,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.5666666626930237,
+      "keyList": [
+        {
+          "index": 10,
+          "value": 0.0009727422147989273,
+          "inSlope": 0.058364588767290115,
+          "outSlope": 0.21809525787830353,
+          "coeff": [
+            0.0,
+            0.0,
+            0.21809525787830353,
+            0.0009727422147989273
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.5833333134651184,
+      "keyList": [
+        {
+          "index": 10,
+          "value": 0.004607659764587879,
+          "inSlope": 0.21809525787830353,
+          "outSlope": 0.3683459460735321,
+          "coeff": [
+            0.0,
+            3.3527437608427135e-06,
+            0.3683459460735321,
+            0.004607659764587879
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.6000000238418579,
+      "keyList": [
+        {
+          "index": 3,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 4,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -30.769351959228516,
+            23.07695198059082,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 5,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 10,
+          "value": 0.010746775195002556,
+          "inSlope": 0.3683459460735321,
+          "outSlope": 0.5161349773406982,
+          "coeff": [
+            0.0,
+            0.0,
+            0.5161349773406982,
+            0.010746775195002556
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.6166666746139526,
+      "keyList": [
+        {
+          "index": 0,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 1,
+          "value": 1.0,
+          "inSlope": -1.0217938779533142e-06,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 2,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 6,
+          "value": -227.79998779296875,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            -227.79998779296875
+          ]
+        },
+        {
+          "index": 10,
+          "value": 0.01934901624917984,
+          "inSlope": 0.5161349773406982,
+          "outSlope": 0.6661834716796875,
+          "coeff": [
+            0.0,
+            -6.70553527015727e-06,
+            0.6661834716796875,
+            0.01934901624917984
+          ]
+        },
+        {
+          "index": 13,
+          "value": 1053.0,
+          "inSlope": -7069.99951171875,
+          "outSlope": -7069.99951171875,
+          "coeff": [
+            7283995.5,
+            -475599.8125,
+            -7069.99951171875,
+            1053.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.6333333253860474,
+      "keyList": [
+        {
+          "index": 10,
+          "value": 0.0304520633071661,
+          "inSlope": 0.6661834716796875,
+          "outSlope": 0.8223375678062439,
+          "coeff": [
+            0.0,
+            6.70553527015727e-06,
+            0.8223375678062439,
+            0.0304520633071661
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.6499999761581421,
+      "keyList": [
+        {
+          "index": 10,
+          "value": 0.04415767639875412,
+          "inSlope": 0.8223375678062439,
+          "outSlope": 0.988224446773529,
+          "coeff": [
+            0.0,
+            0.0,
+            0.988224446773529,
+            0.04415767639875412
+          ]
+        },
+        {
+          "index": 15,
+          "value": 157.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            157.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.6666666865348816,
+      "keyList": [
+        {
+          "index": 6,
+          "value": -227.79998779296875,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            -227.79998779296875
+          ]
+        },
+        {
+          "index": 10,
+          "value": 0.06062812730669975,
+          "inSlope": 0.988224446773529,
+          "outSlope": 1.1677448749542236,
+          "coeff": [
+            0.0,
+            0.0,
+            1.1677448749542236,
+            0.06062812730669975
+          ]
+        },
+        {
+          "index": 13,
+          "value": 421.0,
+          "inSlope": 0.0024414057843387127,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            421.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.6833333373069763,
+      "keyList": [
+        {
+          "index": 9,
+          "value": 1.0,
+          "inSlope": -1.0217938779533142e-06,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 10,
+          "value": 0.08009052276611328,
+          "inSlope": 1.1677448749542236,
+          "outSlope": 1.3655318021774292,
+          "coeff": [
+            0.0,
+            0.0,
+            1.3655318021774292,
+            0.08009052276611328
+          ]
+        },
+        {
+          "index": 12,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -1259.47509765625,
+            220.40814208984375,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 14,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.699999988079071,
+      "keyList": [
+        {
+          "index": 3,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 4,
+          "value": 0.20000000298023224,
+          "inSlope": 3.692307949066162,
+          "outSlope": 3.692308187484741,
+          "coeff": [
+            -736.3084716796875,
+            113.02981567382812,
+            3.692308187484741,
+            0.20000000298023224
+          ]
+        },
+        {
+          "index": 5,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 10,
+          "value": 0.10284936428070068,
+          "inSlope": 1.3655318021774292,
+          "outSlope": 1.5874669551849365,
+          "coeff": [
+            0.0,
+            0.0,
+            1.5874669551849365,
+            0.10284936428070068
+          ]
+        },
+        {
+          "index": 15,
+          "value": 157.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            157.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.7166666388511658,
+      "keyList": [
+        {
+          "index": 8,
+          "value": 1.0,
+          "inSlope": -2.043587983280304e-06,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 10,
+          "value": 0.1293071210384369,
+          "inSlope": 1.5874669551849365,
+          "outSlope": 1.8414881229400635,
+          "coeff": [
+            0.0,
+            0.0,
+            1.8414881229400635,
+            0.1293071210384369
+          ]
+        },
+        {
+          "index": 11,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -592.5921630859375,
+            133.33326721191406,
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.7333333492279053,
+      "keyList": [
+        {
+          "index": 10,
+          "value": 0.15999867022037506,
+          "inSlope": 1.8414881229400635,
+          "outSlope": 2.1388463973999023,
+          "coeff": [
+            0.0,
+            0.0,
+            2.1388463973999023,
+            0.15999867022037506
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.75,
+      "keyList": [
+        {
+          "index": 10,
+          "value": 0.19564607739448547,
+          "inSlope": 2.1388463973999023,
+          "outSlope": 2.496535539627075,
+          "coeff": [
+            0.0,
+            0.0,
+            2.496535539627075,
+            0.19564607739448547
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.7666666507720947,
+      "keyList": [
+        {
+          "index": 10,
+          "value": 0.23725496232509613,
+          "inSlope": 2.496535539627075,
+          "outSlope": 2.941756010055542,
+          "coeff": [
+            0.0,
+            0.0,
+            2.941756010055542,
+            0.23725496232509613
+          ]
+        },
+        {
+          "index": 30,
+          "value": 1093.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            474535.28125,
+            -94696.5703125,
+            0.0,
+            1093.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.7833333611488342,
+      "keyList": [
+        {
+          "index": 10,
+          "value": 0.28628435730934143,
+          "inSlope": 2.941756010055542,
+          "outSlope": 3.5220067501068115,
+          "coeff": [
+            0.0,
+            0.0,
+            3.5220067501068115,
+            0.28628435730934143
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.800000011920929,
+      "keyList": [
+        {
+          "index": 10,
+          "value": 0.34498441219329834,
+          "inSlope": 3.5220067501068115,
+          "outSlope": 4.330105304718018,
+          "coeff": [
+            0.0,
+            0.0,
+            4.330105304718018,
+            0.34498441219329834
+          ]
+        },
+        {
+          "index": 12,
+          "value": 1.0,
+          "inSlope": -2.0435877559066284e-06,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.8166666626930237,
+      "keyList": [
+        {
+          "index": 3,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 4,
+          "value": 1.0,
+          "inSlope": -2.0435877559066284e-06,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 5,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 10,
+          "value": 0.4171527624130249,
+          "inSlope": 4.330105304718018,
+          "outSlope": 5.5828447341918945,
+          "coeff": [
+            0.0,
+            0.0,
+            5.5828447341918945,
+            0.4171527624130249
+          ]
+        },
+        {
+          "index": 29,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -324.5679931640625,
+            89.25619506835938,
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.8333333134651184,
+      "keyList": [
+        {
+          "index": 10,
+          "value": 0.5102000832557678,
+          "inSlope": 5.5828447341918945,
+          "outSlope": 7.982558727264404,
+          "coeff": [
+            0.0,
+            0.0,
+            7.982558727264404,
+            0.5102000832557678
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.8500000238418579,
+      "keyList": [
+        {
+          "index": 10,
+          "value": 0.6432430744171143,
+          "inSlope": 7.982558727264404,
+          "outSlope": 21.40543556213379,
+          "coeff": [
+            0.0,
+            0.0,
+            21.40543556213379,
+            0.6432430744171143
+          ]
+        },
+        {
+          "index": 30,
+          "value": 710.0,
+          "inSlope": -5896.6083984375,
+          "outSlope": -5896.6083984375,
+          "coeff": [
+            806430.25,
+            -91481.4453125,
+            -5896.6083984375,
+            710.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.8666666746139526,
+      "keyList": [
+        {
+          "index": 10,
+          "value": 1.0,
+          "inSlope": 21.40543556213379,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 11,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 17,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.949999988079071,
+      "keyList": [
+        {
+          "index": 30,
+          "value": 11.954999923706055,
+          "inSlope": 0.0012207035906612873,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            11.954999923706055
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.9666666388511658,
+      "keyList": [
+        {
+          "index": 20,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -1259.4730224609375,
+            220.40789794921875,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 21,
+          "value": 133.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            123428.3515625,
+            -21599.974609375,
+            0.0,
+            133.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 1.0,
+      "keyList": [
+        {
+          "index": 29,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 1.0833333730697632,
+      "keyList": [
+        {
+          "index": 19,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -27.648012161254883,
+            17.280004501342773,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 20,
+          "value": 1.0,
+          "inSlope": 2.0435866190382512e-06,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 21,
+          "value": 35.0,
+          "inSlope": -0.00026157908723689616,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            35.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 1.149999976158142,
+      "keyList": [
+        {
+          "index": 26,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -843.7501831054688,
+            168.75003051757812,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 27,
+          "value": 133.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            82687.4921875,
+            -16537.498046875,
+            0.0,
+            133.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 1.25,
+      "keyList": [
+        {
+          "index": 23,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            -1259.47509765625,
+            220.40814208984375,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 24,
+          "value": 133.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            123428.5234375,
+            -21599.9921875,
+            0.0,
+            133.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 1.2666666507720947,
+      "keyList": [
+        {
+          "index": 25,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 28,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 1.2833333015441895,
+      "keyList": [
+        {
+          "index": 26,
+          "value": 1.0,
+          "inSlope": -1.7881394569485565e-06,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 27,
+          "value": 35.000030517578125,
+          "inSlope": 0.00022888185048941523,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            35.000030517578125
+          ]
+        }
+      ]
+    },
+    {
+      "time": 1.3666666746139526,
+      "keyList": [
+        {
+          "index": 23,
+          "value": 1.0,
+          "inSlope": -2.0435877559066284e-06,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 24,
+          "value": 35.000030517578125,
+          "inSlope": 0.00026157923275604844,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            35.000030517578125
+          ]
+        },
+        {
+          "index": 25,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 1.399999976158142,
+      "keyList": [
+        {
+          "index": 22,
+          "value": 1.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 1.4166666269302368,
+      "keyList": [
+        {
+          "index": 28,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 1.5,
+      "keyList": [
+        {
+          "index": 17,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 18,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "index": 19,
+          "value": 1.0,
+          "inSlope": -5.722046694245364e-07,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 22,
+          "value": 0.0,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": "Infinity",
+      "keyList": []
+    }
+  ],
+  "method": "AssetStudio.StreamedClip.ReadData + Unity genericBindings; exact CRC32 match against serialized prefab paths/fields. Transform typeID4 attributes1/2/3/4 expand xyz/xyzw channels."
+}

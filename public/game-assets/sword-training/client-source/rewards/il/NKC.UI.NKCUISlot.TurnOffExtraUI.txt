@@ -1,0 +1,111 @@
+METHOD System.Void NKC.UI.NKCUISlot::TurnOffExtraUI()
+  0000: ldarg.0      
+  0001: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objCompleteMark
+  0006: ldc.i4.0     
+  0007: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  000C: ldarg.0      
+  000D: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objFirstClear
+  0012: ldc.i4.0     
+  0013: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  0018: ldarg.0      
+  0019: ldfld        UnityEngine.UI.Text NKC.UI.NKCUISlot::m_lbItemAddCount
+  001E: ldc.i4.0     
+  001F: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.MonoBehaviour,System.Boolean)
+  0024: ldarg.0      
+  0025: ldfld        UnityEngine.UI.Text NKC.UI.NKCUISlot::m_lbAdditionalText
+  002A: ldc.i4.0     
+  002B: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.MonoBehaviour,System.Boolean)
+  0030: ldarg.0      
+  0031: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objTier
+  0036: ldc.i4.0     
+  0037: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  003C: ldarg.0      
+  003D: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgUpperRightIcon
+  0042: ldc.i4.0     
+  0043: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.MonoBehaviour,System.Boolean)
+  0048: ldarg.0      
+  0049: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_AB_ICON_SLOT_DISABLE
+  004E: ldc.i4.0     
+  004F: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  0054: ldarg.0      
+  0055: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_AB_ICON_SLOT_CLEARED
+  005A: ldc.i4.0     
+  005B: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  0060: ldarg.0      
+  0061: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_AB_ICON_SLOT_DENIED
+  0066: ldc.i4.0     
+  0067: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  006C: ldarg.0      
+  006D: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_AB_ICON_SLOT_INDUCE_ARROW
+  0072: ldc.i4.0     
+  0073: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  0078: ldarg.0      
+  0079: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_AB_ICON_SLOT_INDUCE_ARROW_RED
+  007E: ldc.i4.0     
+  007F: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  0084: ldarg.0      
+  0085: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objItemDetail
+  008A: ldc.i4.0     
+  008B: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  0090: ldarg.0      
+  0091: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objSeized
+  0096: ldc.i4.0     
+  0097: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  009C: ldarg.0      
+  009D: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objRewardFx
+  00A2: ldc.i4.0     
+  00A3: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  00A8: ldarg.0      
+  00A9: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objEventGet
+  00AE: ldc.i4.0     
+  00AF: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  00B4: ldarg.0      
+  00B5: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objHaveCount
+  00BA: ldc.i4.0     
+  00BB: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  00C0: ldarg.0      
+  00C1: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objTopNotice
+  00C6: ldc.i4.0     
+  00C7: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  00CC: ldarg.0      
+  00CD: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objStarRoot
+  00D2: ldc.i4.0     
+  00D3: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  00D8: ldarg.0      
+  00D9: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_AB_ICON_SLOT_EQUIP_SET_ICON
+  00DE: callvirt     UnityEngine.GameObject UnityEngine.Component::get_gameObject()
+  00E3: ldc.i4.0     
+  00E4: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  00E9: ldarg.0      
+  00EA: ldfld        UnityEngine.Animator NKC.UI.NKCUISlot::m_animAwakenFX
+  00EF: ldnull       
+  00F0: call         System.Void NKC.NKCUtil::SetAwakenFX(UnityEngine.Animator,NKM.Templet.NKMUnitTempletBase)
+  00F5: ldarg.0      
+  00F6: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objTier_7
+  00FB: ldc.i4.0     
+  00FC: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  0101: ldarg.0      
+  0102: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objRelic
+  0107: ldc.i4.0     
+  0108: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  010D: ldarg.0      
+  010E: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objSelected
+  0113: ldc.i4.0     
+  0114: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  0119: ldarg.0      
+  011A: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objTimeInterval
+  011F: ldc.i4.0     
+  0120: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  0125: ldarg.0      
+  0126: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objReactorFX
+  012B: ldc.i4.0     
+  012C: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  0131: ldarg.0      
+  0132: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objTacticMAX
+  0137: ldc.i4.0     
+  0138: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  013D: ldarg.0      
+  013E: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objOperToken
+  0143: ldc.i4.0     
+  0144: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  0149: ret          

@@ -1,0 +1,1950 @@
+{
+  "name": "NKM_UI_RESULT_COMMON_LOSE_LOOP",
+  "sourceAssetId": "CAB-2a2f973e6513181f8e5e36c0a0024e72:8398956334891659562",
+  "sampleRate": 60.0,
+  "stopTime": 2.2333333492279053,
+  "loopTime": true,
+  "curves": [
+    {
+      "curveIndex": 0,
+      "bindingIndex": 0,
+      "binding": {
+        "path": 1185072535,
+        "attribute": 2526845255,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_BIGFLASH 1",
+      "attribute": "m_Color.r",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.8201485872268677,
+            -0.881659746170044,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 0.7166666388511658,
+          "value": 0.849056601524353,
+          "inSlope": 4.158463795533862e-08,
+          "outSlope": 0.0,
+          "coeff": [
+            -0.008449339307844639,
+            0.06115910783410072,
+            0.0,
+            0.849056601524353
+          ]
+        },
+        {
+          "time": 1.4333332777023315,
+          "value": 0.8773584961891174,
+          "inSlope": 0.0746423602104187,
+          "outSlope": 0.0746423602104187,
+          "coeff": [
+            -0.3624395728111267,
+            0.38827604055404663,
+            0.0746423602104187,
+            0.8773584961891174
+          ]
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 1,
+      "bindingIndex": 1,
+      "binding": {
+        "path": 1185072535,
+        "attribute": 4215373228,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_BIGFLASH 1",
+      "attribute": "m_Color.g",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.03724617883563042,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.03724617883563042
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 0.03724617883563042,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.018659591674804688,
+            -0.02005906030535698,
+            0.0,
+            0.03724617883563042
+          ]
+        },
+        {
+          "time": 0.7166666388511658,
+          "value": 0.03381199389696121,
+          "inSlope": 1.299519936104332e-09,
+          "outSlope": 0.0,
+          "coeff": [
+            -0.016813313588500023,
+            0.01839575730264187,
+            0.0,
+            0.03381199389696121
+          ]
+        },
+        {
+          "time": 1.4333332777023315,
+          "value": 0.037071481347084045,
+          "inSlope": 0.00046074087731540203,
+          "outSlope": 0.00046074067358858883,
+          "coeff": [
+            3.7495272408705205e-05,
+            -0.0003329572209622711,
+            0.00046074067358858883,
+            0.037071481347084045
+          ]
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 0.03724617883563042,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.03724617883563042
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 2,
+      "bindingIndex": 2,
+      "binding": {
+        "path": 1185072535,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_BIGFLASH 1",
+      "attribute": "m_Color.a",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.19607843458652496,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.19607843458652496
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 0.19607843458652496,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            -1.2784667015075684,
+            1.443069338798523,
+            0.0,
+            0.19607843458652496
+          ]
+        },
+        {
+          "time": 0.7166666388511658,
+          "value": 0.46666666865348816,
+          "inSlope": 0.09849520772695541,
+          "outSlope": 0.09849531203508377,
+          "coeff": [
+            4.0482614593884136e-08,
+            -0.06871771067380905,
+            0.09849531203508377,
+            0.46666666865348816
+          ]
+        },
+        {
+          "time": 1.4333332777023315,
+          "value": 0.501960813999176,
+          "inSlope": 5.198079744417328e-09,
+          "outSlope": 0.0,
+          "coeff": [
+            1.1948528289794922,
+            -1.4338234663009644,
+            0.0,
+            0.501960813999176
+          ]
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 0.19607843458652496,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.19607843458652496
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 3,
+      "bindingIndex": 3,
+      "binding": {
+        "path": 832335284,
+        "attribute": 4215373228,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_LINE _COLOR",
+      "attribute": "m_Color.g",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 0.2766402065753937,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.2766402065753937
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 0.2766402065753937,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.5912674069404602,
+            -0.5025773048400879,
+            0.0,
+            0.2766402065753937
+          ]
+        },
+        {
+          "time": 0.5666666626930237,
+          "value": 0.22284582257270813,
+          "inSlope": 2.6296167021655492e-08,
+          "outSlope": 0.0,
+          "coeff": [
+            -0.19752973318099976,
+            0.24197392165660858,
+            0.0,
+            0.22284582257270813
+          ]
+        },
+        {
+          "time": 1.3833333253860474,
+          "value": 0.2766402065753937,
+          "inSlope": -1.8246320010462114e-08,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.2766402065753937
+          ]
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 0.2766402065753937,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.2766402065753937
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 4,
+      "bindingIndex": 4,
+      "binding": {
+        "path": 2470955478,
+        "attribute": 2086281974,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 1,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_BACK3",
+      "attribute": "m_IsActive",
+      "keys": [
+        {
+          "time": -3.4028234663852886e+38,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "source": "AssetStudio.StreamedClip.ReadData"
+    },
+    {
+      "curveIndex": 5,
+      "bindingIndex": 5,
+      "binding": {
+        "path": 1185072535,
+        "attribute": 4,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 4,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_BIGFLASH 1",
+      "attribute": "localEulerAnglesRaw.x",
+      "keys": [
+        {
+          "time": 0,
+          "value": 0.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 0.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 6,
+      "bindingIndex": 5,
+      "binding": {
+        "path": 1185072535,
+        "attribute": 4,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 4,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_BIGFLASH 1",
+      "attribute": "localEulerAnglesRaw.y",
+      "keys": [
+        {
+          "time": 0,
+          "value": 0.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 0.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 7,
+      "bindingIndex": 5,
+      "binding": {
+        "path": 1185072535,
+        "attribute": 4,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 4,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_BIGFLASH 1",
+      "attribute": "localEulerAnglesRaw.z",
+      "keys": [
+        {
+          "time": 0,
+          "value": 0.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 0.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 8,
+      "bindingIndex": 6,
+      "binding": {
+        "path": 1392624751,
+        "attribute": 4,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 4,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "ICON",
+      "attribute": "localEulerAnglesRaw.x",
+      "keys": [
+        {
+          "time": 0,
+          "value": 0.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 0.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 9,
+      "bindingIndex": 6,
+      "binding": {
+        "path": 1392624751,
+        "attribute": 4,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 4,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "ICON",
+      "attribute": "localEulerAnglesRaw.y",
+      "keys": [
+        {
+          "time": 0,
+          "value": 0.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 0.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 10,
+      "bindingIndex": 6,
+      "binding": {
+        "path": 1392624751,
+        "attribute": 4,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 4,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "ICON",
+      "attribute": "localEulerAnglesRaw.z",
+      "keys": [
+        {
+          "time": 0,
+          "value": 0.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 0.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 11,
+      "bindingIndex": 7,
+      "binding": {
+        "path": 1532701827,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "BACK",
+      "attribute": "m_LocalScale.x",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 12,
+      "bindingIndex": 7,
+      "binding": {
+        "path": 1532701827,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "BACK",
+      "attribute": "m_LocalScale.y",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 13,
+      "bindingIndex": 7,
+      "binding": {
+        "path": 1532701827,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "BACK",
+      "attribute": "m_LocalScale.z",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 14,
+      "bindingIndex": 8,
+      "binding": {
+        "path": 1185072535,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_BIGFLASH 1",
+      "attribute": "m_LocalScale.x",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 15,
+      "bindingIndex": 8,
+      "binding": {
+        "path": 1185072535,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_BIGFLASH 1",
+      "attribute": "m_LocalScale.y",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 16,
+      "bindingIndex": 8,
+      "binding": {
+        "path": 1185072535,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_BIGFLASH 1",
+      "attribute": "m_LocalScale.z",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 17,
+      "bindingIndex": 9,
+      "binding": {
+        "path": 832335284,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_LINE _COLOR",
+      "attribute": "m_LocalScale.x",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 18,
+      "bindingIndex": 9,
+      "binding": {
+        "path": 832335284,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_LINE _COLOR",
+      "attribute": "m_LocalScale.y",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 19,
+      "bindingIndex": 9,
+      "binding": {
+        "path": 832335284,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_LINE _COLOR",
+      "attribute": "m_LocalScale.z",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 20,
+      "bindingIndex": 10,
+      "binding": {
+        "path": 4253437529,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_LINE",
+      "attribute": "m_LocalScale.x",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 21,
+      "bindingIndex": 10,
+      "binding": {
+        "path": 4253437529,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_LINE",
+      "attribute": "m_LocalScale.y",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 22,
+      "bindingIndex": 10,
+      "binding": {
+        "path": 4253437529,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_LINE",
+      "attribute": "m_LocalScale.z",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 23,
+      "bindingIndex": 11,
+      "binding": {
+        "path": 3605550581,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_LINE _COLOR2",
+      "attribute": "m_LocalScale.x",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 24,
+      "bindingIndex": 11,
+      "binding": {
+        "path": 3605550581,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_LINE _COLOR2",
+      "attribute": "m_LocalScale.y",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 25,
+      "bindingIndex": 11,
+      "binding": {
+        "path": 3605550581,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_LINE _COLOR2",
+      "attribute": "m_LocalScale.z",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 26,
+      "bindingIndex": 12,
+      "binding": {
+        "path": 476072428,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "LOSE",
+      "attribute": "m_LocalScale.x",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 27,
+      "bindingIndex": 12,
+      "binding": {
+        "path": 476072428,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "LOSE",
+      "attribute": "m_LocalScale.y",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 28,
+      "bindingIndex": 12,
+      "binding": {
+        "path": 476072428,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "LOSE",
+      "attribute": "m_LocalScale.z",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 29,
+      "bindingIndex": 13,
+      "binding": {
+        "path": 872789379,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "LOSE_BATTLE_REPORT",
+      "attribute": "m_LocalScale.x",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 30,
+      "bindingIndex": 13,
+      "binding": {
+        "path": 872789379,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "LOSE_BATTLE_REPORT",
+      "attribute": "m_LocalScale.y",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 31,
+      "bindingIndex": 13,
+      "binding": {
+        "path": 872789379,
+        "attribute": 3,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 4,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "LOSE_BATTLE_REPORT",
+      "attribute": "m_LocalScale.z",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 32,
+      "bindingIndex": 14,
+      "binding": {
+        "path": 1532701827,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "BACK",
+      "attribute": "m_Color.a",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 33,
+      "bindingIndex": 15,
+      "binding": {
+        "path": 337235895,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_BACK 2",
+      "attribute": "m_Color.a",
+      "keys": [
+        {
+          "time": 0,
+          "value": 0.41960784792900085
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 0.41960784792900085
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 34,
+      "bindingIndex": 16,
+      "binding": {
+        "path": 2470955478,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_BACK3",
+      "attribute": "m_Color.a",
+      "keys": [
+        {
+          "time": 0,
+          "value": 0.1882352977991104
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 0.1882352977991104
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 35,
+      "bindingIndex": 17,
+      "binding": {
+        "path": 1096563608,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_BACK",
+      "attribute": "m_Color.a",
+      "keys": [
+        {
+          "time": 0,
+          "value": 0.41960784792900085
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 0.41960784792900085
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 36,
+      "bindingIndex": 18,
+      "binding": {
+        "path": 832335284,
+        "attribute": 2526845255,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_LINE _COLOR",
+      "attribute": "m_Color.r",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 37,
+      "bindingIndex": 19,
+      "binding": {
+        "path": 832335284,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_LINE _COLOR",
+      "attribute": "m_Color.a",
+      "keys": [
+        {
+          "time": 0,
+          "value": 0.239215686917305
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 0.239215686917305
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 38,
+      "bindingIndex": 20,
+      "binding": {
+        "path": 832335284,
+        "attribute": 2334886179,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_LINE _COLOR",
+      "attribute": "m_Color.b",
+      "keys": [
+        {
+          "time": 0,
+          "value": 0.13725489377975464
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 0.13725489377975464
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 39,
+      "bindingIndex": 21,
+      "binding": {
+        "path": 1185072535,
+        "attribute": 2334886179,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_BIGFLASH 1",
+      "attribute": "m_Color.b",
+      "keys": [
+        {
+          "time": 0,
+          "value": 0.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 0.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 40,
+      "bindingIndex": 22,
+      "binding": {
+        "path": 2470955478,
+        "attribute": 2526845255,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_BACK3",
+      "attribute": "m_Color.r",
+      "keys": [
+        {
+          "time": 0,
+          "value": 0.43529412150382996
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 0.43529412150382996
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 41,
+      "bindingIndex": 23,
+      "binding": {
+        "path": 2470955478,
+        "attribute": 4215373228,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_BACK3",
+      "attribute": "m_Color.g",
+      "keys": [
+        {
+          "time": 0,
+          "value": 0.1331687718629837
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 0.1331687718629837
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 42,
+      "bindingIndex": 24,
+      "binding": {
+        "path": 2470955478,
+        "attribute": 2334886179,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "GLOW_BACK3",
+      "attribute": "m_Color.b",
+      "keys": [
+        {
+          "time": 0,
+          "value": 0.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 0.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 43,
+      "bindingIndex": 25,
+      "binding": {
+        "path": 1212454188,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "Black",
+      "attribute": "m_Color.a",
+      "keys": [
+        {
+          "time": 0,
+          "value": 0.658823549747467
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 0.658823549747467
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 44,
+      "bindingIndex": 26,
+      "binding": {
+        "path": 1392624751,
+        "attribute": 1967290853,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 224,
+        "customType": 28,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "ICON",
+      "attribute": "m_SizeDelta.x",
+      "keys": [
+        {
+          "time": 0,
+          "value": 330.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 330.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 45,
+      "bindingIndex": 27,
+      "binding": {
+        "path": 476072428,
+        "attribute": 304273561,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "-7030229213176759517"
+        },
+        "typeID": 114,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": "LOSE",
+      "attribute": "m_Color.a",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    },
+    {
+      "curveIndex": 46,
+      "bindingIndex": 28,
+      "binding": {
+        "path": 3144924389,
+        "attribute": 1574349066,
+        "script": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "typeID": 225,
+        "customType": 0,
+        "isPPtrCurve": 0,
+        "isIntCurve": 0,
+        "isSerializeReferenceCurve": 0
+      },
+      "relativePath": null,
+      "attribute": "m_Alpha",
+      "keys": [
+        {
+          "time": 0,
+          "value": 1.0
+        },
+        {
+          "time": 2.2333333492279053,
+          "value": 1.0
+        }
+      ],
+      "source": "m_ConstantClip"
+    }
+  ],
+  "directFloatCurves": [],
+  "streamedFrames": [
+    {
+      "time": -3.4028234663852886e+38,
+      "keyList": [
+        {
+          "index": 0,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 1,
+          "value": 0.03724617883563042,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.03724617883563042
+          ]
+        },
+        {
+          "index": 2,
+          "value": 0.19607843458652496,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.19607843458652496
+          ]
+        },
+        {
+          "index": 3,
+          "value": 0.2766402065753937,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.2766402065753937
+          ]
+        },
+        {
+          "index": 4,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.0,
+      "keyList": [
+        {
+          "index": 0,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.8201485872268677,
+            -0.881659746170044,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 1,
+          "value": 0.03724617883563042,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.018659591674804688,
+            -0.02005906030535698,
+            0.0,
+            0.03724617883563042
+          ]
+        },
+        {
+          "index": 2,
+          "value": 0.19607843458652496,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            -1.2784667015075684,
+            1.443069338798523,
+            0.0,
+            0.19607843458652496
+          ]
+        },
+        {
+          "index": 3,
+          "value": 0.2766402065753937,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.5912674069404602,
+            -0.5025773048400879,
+            0.0,
+            0.2766402065753937
+          ]
+        },
+        {
+          "index": 4,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.5666666626930237,
+      "keyList": [
+        {
+          "index": 3,
+          "value": 0.22284582257270813,
+          "inSlope": 2.6296167021655492e-08,
+          "outSlope": 0.0,
+          "coeff": [
+            -0.19752973318099976,
+            0.24197392165660858,
+            0.0,
+            0.22284582257270813
+          ]
+        }
+      ]
+    },
+    {
+      "time": 0.7166666388511658,
+      "keyList": [
+        {
+          "index": 0,
+          "value": 0.849056601524353,
+          "inSlope": 4.158463795533862e-08,
+          "outSlope": 0.0,
+          "coeff": [
+            -0.008449339307844639,
+            0.06115910783410072,
+            0.0,
+            0.849056601524353
+          ]
+        },
+        {
+          "index": 1,
+          "value": 0.03381199389696121,
+          "inSlope": 1.299519936104332e-09,
+          "outSlope": 0.0,
+          "coeff": [
+            -0.016813313588500023,
+            0.01839575730264187,
+            0.0,
+            0.03381199389696121
+          ]
+        },
+        {
+          "index": 2,
+          "value": 0.46666666865348816,
+          "inSlope": 0.09849520772695541,
+          "outSlope": 0.09849531203508377,
+          "coeff": [
+            4.0482614593884136e-08,
+            -0.06871771067380905,
+            0.09849531203508377,
+            0.46666666865348816
+          ]
+        }
+      ]
+    },
+    {
+      "time": 1.3833333253860474,
+      "keyList": [
+        {
+          "index": 3,
+          "value": 0.2766402065753937,
+          "inSlope": -1.8246320010462114e-08,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.2766402065753937
+          ]
+        }
+      ]
+    },
+    {
+      "time": 1.4333332777023315,
+      "keyList": [
+        {
+          "index": 0,
+          "value": 0.8773584961891174,
+          "inSlope": 0.0746423602104187,
+          "outSlope": 0.0746423602104187,
+          "coeff": [
+            -0.3624395728111267,
+            0.38827604055404663,
+            0.0746423602104187,
+            0.8773584961891174
+          ]
+        },
+        {
+          "index": 1,
+          "value": 0.037071481347084045,
+          "inSlope": 0.00046074087731540203,
+          "outSlope": 0.00046074067358858883,
+          "coeff": [
+            3.7495272408705205e-05,
+            -0.0003329572209622711,
+            0.00046074067358858883,
+            0.037071481347084045
+          ]
+        },
+        {
+          "index": 2,
+          "value": 0.501960813999176,
+          "inSlope": 5.198079744417328e-09,
+          "outSlope": 0.0,
+          "coeff": [
+            1.1948528289794922,
+            -1.4338234663009644,
+            0.0,
+            0.501960813999176
+          ]
+        }
+      ]
+    },
+    {
+      "time": 2.2333333492279053,
+      "keyList": [
+        {
+          "index": 0,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "index": 1,
+          "value": 0.03724617883563042,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.03724617883563042
+          ]
+        },
+        {
+          "index": 2,
+          "value": 0.19607843458652496,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.19607843458652496
+          ]
+        },
+        {
+          "index": 3,
+          "value": 0.2766402065753937,
+          "inSlope": "Infinity",
+          "outSlope": 0.0,
+          "coeff": [
+            0.0,
+            0.0,
+            0.0,
+            0.2766402065753937
+          ]
+        }
+      ]
+    },
+    {
+      "time": "Infinity",
+      "keyList": []
+    }
+  ],
+  "method": "AssetStudio.StreamedClip.ReadData + Unity genericBindings; exact CRC32 match against serialized prefab paths/fields. Transform typeID4 attributes1/2/3/4 expand xyz/xyzw channels."
+}

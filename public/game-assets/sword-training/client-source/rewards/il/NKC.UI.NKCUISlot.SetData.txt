@@ -1,0 +1,130 @@
+METHOD System.Void NKC.UI.NKCUISlot::SetData(NKC.UI.NKCUISlot/SlotData,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  0000: ldarg.1      
+  0001: call         System.Boolean NKC.UI.NKCUISlot::WillShowCount(NKC.UI.NKCUISlot/SlotData)
+  0006: stloc.0      
+  0007: ldarg.3      
+  0008: brtrue.s     IL_0021: ldarg.0
+  000A: ldarg.0      
+  000B: ldarg.1      
+  000C: ldc.i4.0     
+  000D: ldloc.0      
+  000E: ldarg.2      
+  000F: ldarg.0      
+  0010: ldftn        System.Void NKC.UI.NKCUISlot::OpenItemBox(NKC.UI.NKCUISlot/SlotData,System.Boolean)
+  0016: newobj       System.Void NKC.UI.NKCUISlot/OnClick::.ctor(System.Object,System.IntPtr)
+  001B: call         System.Void NKC.UI.NKCUISlot::SetData(NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  0020: ret          
+  0021: ldarg.0      
+  0022: ldarg.1      
+  0023: ldc.i4.0     
+  0024: ldloc.0      
+  0025: ldarg.2      
+  0026: ldarg.3      
+  0027: call         System.Void NKC.UI.NKCUISlot::SetData(NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  002C: ret          
+METHOD System.Void NKC.UI.NKCUISlot::SetData(NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  0000: ldarg.1      
+  0001: ldfld        NKC.UI.NKCUISlot/eSlotMode NKC.UI.NKCUISlot/SlotData::eType
+  0006: stloc.0      
+  0007: ldloc.0      
+  0008: switch       IL_0042, IL_0066, IL_0078, IL_0087, IL_0096, IL_00A5, IL_00B4, IL_00E1, IL_0054, IL_00D2, IL_00F0, IL_00C3
+  003D: br           IL_00FD: ldarg.0
+  0042: ldarg.0      
+  0043: ldarg.1      
+  0044: ldarg.2      
+  0045: ldarg.3      
+  0046: ldarg.s      bEnableLayoutElement
+  0048: ldarg.s      onClick
+  004A: call         System.Void NKC.UI.NKCUISlot::SetUnitData(NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  004F: br           IL_00FD: ldarg.0
+  0054: ldarg.0      
+  0055: ldarg.1      
+  0056: ldarg.2      
+  0057: ldarg.3      
+  0058: ldarg.s      bEnableLayoutElement
+  005A: ldarg.s      onClick
+  005C: call         System.Void NKC.UI.NKCUISlot::SetUnitCountData(NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  0061: br           IL_00FD: ldarg.0
+  0066: ldarg.0      
+  0067: ldarg.1      
+  0068: ldarg.2      
+  0069: ldarg.3      
+  006A: ldarg.s      bEnableLayoutElement
+  006C: ldarg.s      onClick
+  006E: call         System.Void NKC.UI.NKCUISlot::SetMiscItemData(NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  0073: br           IL_00FD: ldarg.0
+  0078: ldarg.0      
+  0079: ldarg.1      
+  007A: ldarg.2      
+  007B: ldarg.3      
+  007C: ldarg.s      bEnableLayoutElement
+  007E: ldarg.s      onClick
+  0080: call         System.Void NKC.UI.NKCUISlot::SetEquipData(NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  0085: br.s         IL_00FD: ldarg.0
+  0087: ldarg.0      
+  0088: ldarg.1      
+  0089: ldarg.2      
+  008A: ldarg.3      
+  008B: ldarg.s      bEnableLayoutElement
+  008D: ldarg.s      onClick
+  008F: call         System.Void NKC.UI.NKCUISlot::SetEquipCountData(NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  0094: br.s         IL_00FD: ldarg.0
+  0096: ldarg.0      
+  0097: ldarg.1      
+  0098: ldarg.2      
+  0099: ldarg.3      
+  009A: ldarg.s      bEnableLayoutElement
+  009C: ldarg.s      onClick
+  009E: call         System.Void NKC.UI.NKCUISlot::SetSkinData(NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  00A3: br.s         IL_00FD: ldarg.0
+  00A5: ldarg.0      
+  00A6: ldarg.1      
+  00A7: ldarg.2      
+  00A8: ldarg.3      
+  00A9: ldarg.s      bEnableLayoutElement
+  00AB: ldarg.s      onClick
+  00AD: call         System.Void NKC.UI.NKCUISlot::SetMoldData(NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  00B2: br.s         IL_00FD: ldarg.0
+  00B4: ldarg.0      
+  00B5: ldarg.1      
+  00B6: ldarg.2      
+  00B7: ldarg.3      
+  00B8: ldarg.s      bEnableLayoutElement
+  00BA: ldarg.s      onClick
+  00BC: call         System.Void NKC.UI.NKCUISlot::SetDiveArtifactData(NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  00C1: br.s         IL_00FD: ldarg.0
+  00C3: ldarg.0      
+  00C4: ldarg.1      
+  00C5: ldarg.2      
+  00C6: ldarg.3      
+  00C7: ldarg.s      bEnableLayoutElement
+  00C9: ldarg.s      onClick
+  00CB: call         System.Void NKC.UI.NKCUISlot::SetExploreArtifactData(NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  00D0: br.s         IL_00FD: ldarg.0
+  00D2: ldarg.0      
+  00D3: ldarg.1      
+  00D4: ldarg.2      
+  00D5: ldarg.3      
+  00D6: ldarg.s      bEnableLayoutElement
+  00D8: ldarg.s      onClick
+  00DA: call         System.Void NKC.UI.NKCUISlot::SetEmoticonData(NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  00DF: br.s         IL_00FD: ldarg.0
+  00E1: ldarg.0      
+  00E2: ldarg.1      
+  00E3: ldarg.2      
+  00E4: ldarg.3      
+  00E5: ldarg.s      bEnableLayoutElement
+  00E7: ldarg.s      onClick
+  00E9: call         System.Void NKC.UI.NKCUISlot::SetBuffData(NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  00EE: br.s         IL_00FD: ldarg.0
+  00F0: ldarg.0      
+  00F1: ldarg.1      
+  00F2: ldarg.2      
+  00F3: ldarg.3      
+  00F4: ldarg.s      bEnableLayoutElement
+  00F6: ldarg.s      onClick
+  00F8: call         System.Void NKC.UI.NKCUISlot::SetGuildArtifactData(NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  00FD: ldarg.0      
+  00FE: ldc.i4.0     
+  00FF: stfld        System.Boolean NKC.UI.NKCUISlot::m_bEmpty
+  0104: ret          

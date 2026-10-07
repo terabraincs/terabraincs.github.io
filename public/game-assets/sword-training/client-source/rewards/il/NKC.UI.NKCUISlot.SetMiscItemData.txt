@@ -1,0 +1,301 @@
+METHOD System.Void NKC.UI.NKCUISlot::SetMiscItemData(NKM.NKMItemMiscData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  0000: ldarg.0      
+  0001: ldnull       
+  0002: ldarg.1      
+  0003: ldc.i4.0     
+  0004: call         NKC.UI.NKCUISlot/SlotData NKC.UI.NKCUISlot/SlotData::MakeMiscItemData(NKM.NKMItemMiscData,System.Int32)
+  0009: ldarg.2      
+  000A: ldarg.3      
+  000B: ldarg.s      bEnableLayoutElement
+  000D: ldarg.s      onClick
+  000F: ldc.i4.0     
+  0010: call         System.Void NKC.UI.NKCUISlot::SetMiscItemData(NKM.NKMUserData,NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick,System.Boolean)
+  0015: ret          
+METHOD System.Void NKC.UI.NKCUISlot::SetMiscItemData(System.Int32,System.Int64,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  0000: ldarg.0      
+  0001: ldnull       
+  0002: ldarg.1      
+  0003: ldarg.2      
+  0004: ldc.i4.0     
+  0005: call         NKC.UI.NKCUISlot/SlotData NKC.UI.NKCUISlot/SlotData::MakeMiscItemData(System.Int32,System.Int64,System.Int32)
+  000A: ldarg.3      
+  000B: ldarg.s      bShowCount
+  000D: ldarg.s      bEnableLayoutElement
+  000F: ldarg.s      onClick
+  0011: ldc.i4.0     
+  0012: call         System.Void NKC.UI.NKCUISlot::SetMiscItemData(NKM.NKMUserData,NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick,System.Boolean)
+  0017: ret          
+METHOD System.Void NKC.UI.NKCUISlot::SetMiscItemData(NKM.NKMUserData,NKM.NKMItemMiscData,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  0000: ldarg.0      
+  0001: ldarg.1      
+  0002: ldarg.2      
+  0003: ldc.i4.0     
+  0004: call         NKC.UI.NKCUISlot/SlotData NKC.UI.NKCUISlot/SlotData::MakeMiscItemData(NKM.NKMItemMiscData,System.Int32)
+  0009: ldarg.3      
+  000A: ldc.i4.1     
+  000B: ldarg.s      bEnableLayoutElement
+  000D: ldarg.s      onClick
+  000F: ldc.i4.0     
+  0010: call         System.Void NKC.UI.NKCUISlot::SetMiscItemData(NKM.NKMUserData,NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick,System.Boolean)
+  0015: ret          
+METHOD System.Void NKC.UI.NKCUISlot::SetMiscItemData(NKM.NKMUserData,System.Int32,System.Int64,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick,System.Boolean)
+  0000: ldarg.0      
+  0001: ldarg.1      
+  0002: ldarg.2      
+  0003: ldarg.3      
+  0004: ldc.i4.0     
+  0005: call         NKC.UI.NKCUISlot/SlotData NKC.UI.NKCUISlot/SlotData::MakeMiscItemData(System.Int32,System.Int64,System.Int32)
+  000A: ldarg.s      bShowName
+  000C: ldarg.s      bShowCount
+  000E: ldarg.s      bEnableLayoutElement
+  0010: ldarg.s      onClick
+  0012: ldarg.s      bHideUseCnt
+  0014: call         System.Void NKC.UI.NKCUISlot::SetMiscItemData(NKM.NKMUserData,NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick,System.Boolean)
+  0019: ret          
+METHOD System.Void NKC.UI.NKCUISlot::SetMiscItemData(NKM.NKMUserData,System.Int32,System.Int64,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick,System.Boolean)
+  0000: ldarg.0      
+  0001: ldarg.1      
+  0002: ldarg.2      
+  0003: ldarg.3      
+  0004: ldc.i4.0     
+  0005: call         NKC.UI.NKCUISlot/SlotData NKC.UI.NKCUISlot/SlotData::MakeMiscItemData(System.Int32,System.Int64,System.Int32)
+  000A: ldarg.s      bShowName
+  000C: ldarg.s      bShowCount
+  000E: ldarg.s      bEnableLayoutElement
+  0010: ldarg.s      onClick
+  0012: ldc.i4.0     
+  0013: call         System.Void NKC.UI.NKCUISlot::SetMiscItemData(NKM.NKMUserData,NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick,System.Boolean)
+  0018: ret          
+METHOD System.Void NKC.UI.NKCUISlot::SetMiscItemData(NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  0000: ldarg.0      
+  0001: ldnull       
+  0002: ldarg.1      
+  0003: ldarg.2      
+  0004: ldarg.3      
+  0005: ldarg.s      bEnableLayoutElement
+  0007: ldarg.s      onClick
+  0009: ldc.i4.0     
+  000A: call         System.Void NKC.UI.NKCUISlot::SetMiscItemData(NKM.NKMUserData,NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick,System.Boolean)
+  000F: ret          
+METHOD System.Void NKC.UI.NKCUISlot::SetMiscItemData(NKM.NKMUserData,NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick,System.Boolean)
+  0000: ldarg.2      
+  0001: ldfld        System.Int32 NKC.UI.NKCUISlot/SlotData::ID
+  0006: stloc.0      
+  0007: ldarg.2      
+  0008: ldfld        System.Int64 NKC.UI.NKCUISlot/SlotData::Count
+  000D: stloc.1      
+  000E: ldarg.0      
+  000F: ldc.i4.0     
+  0010: stfld        System.Boolean NKC.UI.NKCUISlot::m_bEmpty
+  0015: ldarg.0      
+  0016: callvirt     System.Void NKC.UI.NKCUISlot::TurnOffExtraUI()
+  001B: ldarg.0      
+  001C: ldarg.s      onClick
+  001E: stfld        NKC.UI.NKCUISlot/OnClick NKC.UI.NKCUISlot::dOnClick
+  0023: ldarg.0      
+  0024: ldarg.2      
+  0025: stfld        NKC.UI.NKCUISlot/SlotData NKC.UI.NKCUISlot::m_SlotData
+  002A: ldarg.0      
+  002B: ldfld        UnityEngine.UI.LayoutElement NKC.UI.NKCUISlot::m_layoutElement
+  0030: ldarg.s      bEnableLayoutElement
+  0032: callvirt     System.Void UnityEngine.Behaviour::set_enabled(System.Boolean)
+  0037: ldloc.0      
+  0038: call         NKM.NKMItemMiscTemplet NKM.NKMItemManager::GetItemMiscTempletByID(System.Int32)
+  003D: stloc.2      
+  003E: ldloc.2      
+  003F: brtrue.s     IL_0049: ldarg.3
+  0041: ldarg.0      
+  0042: ldnull       
+  0043: call         System.Void NKC.UI.NKCUISlot::SetEmpty(NKC.UI.NKCUISlot/OnClick)
+  0048: ret          
+  0049: ldarg.3      
+  004A: brfalse.s    IL_0067: ldarg.0
+  004C: ldarg.0      
+  004D: ldfld        UnityEngine.UI.Text NKC.UI.NKCUISlot::m_lbName
+  0052: ldc.i4.1     
+  0053: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.MonoBehaviour,System.Boolean)
+  0058: ldarg.0      
+  0059: ldloc.2      
+  005A: callvirt     System.String NKM.NKMItemMiscTemplet::GetItemName()
+  005F: ldc.i4.1     
+  0060: call         System.Void NKC.UI.NKCUISlot::SetName(System.String,System.Boolean)
+  0065: br.s         IL_0073: ldarg.1
+  0067: ldarg.0      
+  0068: ldfld        UnityEngine.UI.Text NKC.UI.NKCUISlot::m_lbName
+  006D: ldc.i4.0     
+  006E: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.MonoBehaviour,System.Boolean)
+  0073: ldarg.1      
+  0074: brfalse      IL_019A: ldloc.2
+  0079: ldarg.s      bShowCount
+  007B: brfalse      IL_0191: ldarg.0
+  0080: ldarg.0      
+  0081: ldc.i4.1     
+  0082: call         System.Void NKC.UI.NKCUISlot::SetActiveCount(System.Boolean)
+  0087: ldarg.1      
+  0088: ldfld        NKM.NKMInventoryData NKM.NKMUserData::m_InventoryData
+  008D: ldloc.0      
+  008E: callvirt     System.Int64 NKM.NKMInventoryData::GetCountMiscItem(System.Int32)
+  0093: stloc.s      V_4
+  0095: ldloc.0      
+  0096: call         NKM.NKMItemMiscTemplet NKM.NKMItemManager::GetItemMiscTempletByID(System.Int32)
+  009B: stloc.s      V_5
+  009D: ldloc.s      V_5
+  009F: brfalse      IL_01FC: ldarg.0
+  00A4: ldloc.s      V_5
+  00A6: ldfld        NKM.NKM_ITEM_MISC_TYPE NKM.NKMItemMiscTemplet::m_ItemMiscType
+  00AB: ldc.i4.3     
+  00AC: ceq          
+  00AE: stloc.s      V_6
+  00B0: ldarg.s      bHideUseCnt
+  00B2: brfalse.s    IL_00F9: ldloc.1
+  00B4: ldloc.s      V_4
+  00B6: ldloc.1      
+  00B7: blt.s        IL_00D9: ldarg.0
+  00B9: ldarg.0      
+  00BA: ldfld        UnityEngine.UI.Text NKC.UI.NKCUISlot::m_lbItemCount
+  00BF: ldstr        <color=#ffffff>{0}</color>
+  00C4: ldloc.1      
+  00C5: box          System.Int64
+  00CA: call         System.String System.String::Format(System.String,System.Object)
+  00CF: call         System.Void NKC.NKCUtil::SetLabelText(UnityEngine.UI.Text,System.String)
+  00D4: br           IL_01FC: ldarg.0
+  00D9: ldarg.0      
+  00DA: ldfld        UnityEngine.UI.Text NKC.UI.NKCUISlot::m_lbItemCount
+  00DF: ldstr        <color=#ff0000ff>{0}</color>
+  00E4: ldloc.1      
+  00E5: box          System.Int64
+  00EA: call         System.String System.String::Format(System.String,System.Object)
+  00EF: call         System.Void NKC.NKCUtil::SetLabelText(UnityEngine.UI.Text,System.String)
+  00F4: br           IL_01FC: ldarg.0
+  00F9: ldloc.1      
+  00FA: ldloc.s      V_4
+  00FC: bgt.s        IL_0149: ldloc.s V_6
+  00FE: ldloc.s      V_6
+  0100: brfalse.s    IL_0122: ldarg.0
+  0102: ldarg.0      
+  0103: ldfld        UnityEngine.UI.Text NKC.UI.NKCUISlot::m_lbItemCount
+  0108: ldstr        {0}
+  010D: ldloc.1      
+  010E: box          System.Int64
+  0113: call         System.String System.String::Format(System.String,System.Object)
+  0118: call         System.Void NKC.NKCUtil::SetLabelText(UnityEngine.UI.Text,System.String)
+  011D: br           IL_01FC: ldarg.0
+  0122: ldarg.0      
+  0123: ldfld        UnityEngine.UI.Text NKC.UI.NKCUISlot::m_lbItemCount
+  0128: ldstr        {0}/{1}
+  012D: ldloc.1      
+  012E: box          System.Int64
+  0133: ldloc.s      V_4
+  0135: box          System.Int64
+  013A: call         System.String System.String::Format(System.String,System.Object,System.Object)
+  013F: call         System.Void NKC.NKCUtil::SetLabelText(UnityEngine.UI.Text,System.String)
+  0144: br           IL_01FC: ldarg.0
+  0149: ldloc.s      V_6
+  014B: brfalse.s    IL_016D: ldarg.0
+  014D: ldarg.0      
+  014E: ldfld        UnityEngine.UI.Text NKC.UI.NKCUISlot::m_lbItemCount
+  0153: ldstr        <color=#ff0000ff>{0}</color>
+  0158: ldloc.1      
+  0159: box          System.Int64
+  015E: call         System.String System.String::Format(System.String,System.Object)
+  0163: call         System.Void NKC.NKCUtil::SetLabelText(UnityEngine.UI.Text,System.String)
+  0168: br           IL_01FC: ldarg.0
+  016D: ldarg.0      
+  016E: ldfld        UnityEngine.UI.Text NKC.UI.NKCUISlot::m_lbItemCount
+  0173: ldstr        {0}/<color=#ff0000ff>{1}</color>
+  0178: ldloc.1      
+  0179: box          System.Int64
+  017E: ldloc.s      V_4
+  0180: box          System.Int64
+  0185: call         System.String System.String::Format(System.String,System.Object,System.Object)
+  018A: call         System.Void NKC.NKCUtil::SetLabelText(UnityEngine.UI.Text,System.String)
+  018F: br.s         IL_01FC: ldarg.0
+  0191: ldarg.0      
+  0192: ldc.i4.0     
+  0193: call         System.Void NKC.UI.NKCUISlot::SetActiveCount(System.Boolean)
+  0198: br.s         IL_01FC: ldarg.0
+  019A: ldloc.2      
+  019B: ldfld        NKM.NKM_ITEM_MISC_TYPE NKM.NKMItemMiscTemplet::m_ItemMiscType
+  01A0: ldc.i4.5     
+  01A1: bne.un.s     IL_01CC: ldarg.s bShowCount
+  01A3: ldarg.0      
+  01A4: ldc.i4.0     
+  01A5: call         System.Void NKC.UI.NKCUISlot::SetActiveCount(System.Boolean)
+  01AA: ldarg.s      bShowCount
+  01AC: brfalse.s    IL_01FC: ldarg.0
+  01AE: ldloc.1      
+  01AF: ldc.i4.1     
+  01B0: conv.i8      
+  01B1: ble.s        IL_01FC: ldarg.0
+  01B3: ldarg.0      
+  01B4: call         System.String NKC.NKCUtilString::get_GET_STRING_RANK_ONE_PARAM()
+  01B9: ldloc.1      
+  01BA: box          System.Int64
+  01BF: call         System.String System.String::Format(System.String,System.Object)
+  01C4: ldc.i4.4     
+  01C5: call         System.Void NKC.UI.NKCUISlot::SetAdditionalText(System.String,UnityEngine.TextAnchor)
+  01CA: br.s         IL_01FC: ldarg.0
+  01CC: ldarg.s      bShowCount
+  01CE: brfalse.s    IL_01F5: ldarg.0
+  01D0: ldloc.1      
+  01D1: ldc.i4.1     
+  01D2: conv.i8      
+  01D3: ble.s        IL_01F5: ldarg.0
+  01D5: ldarg.0      
+  01D6: ldc.i4.1     
+  01D7: call         System.Void NKC.UI.NKCUISlot::SetActiveCount(System.Boolean)
+  01DC: ldarg.0      
+  01DD: ldfld        UnityEngine.UI.Text NKC.UI.NKCUISlot::m_lbItemCount
+  01E2: ldloca.s     V_1
+  01E4: ldstr        N0
+  01E9: call         System.String System.Int64::ToString(System.String)
+  01EE: call         System.Void NKC.NKCUtil::SetLabelText(UnityEngine.UI.Text,System.String)
+  01F3: br.s         IL_01FC: ldarg.0
+  01F5: ldarg.0      
+  01F6: ldc.i4.0     
+  01F7: call         System.Void NKC.UI.NKCUISlot::SetActiveCount(System.Boolean)
+  01FC: ldarg.0      
+  01FD: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgBG
+  0202: ldc.i4.1     
+  0203: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.MonoBehaviour,System.Boolean)
+  0208: ldarg.0      
+  0209: ldloc.2      
+  020A: call         System.Void NKC.UI.NKCUISlot::SetItemBackground(NKM.NKMItemMiscTemplet)
+  020F: ldarg.0      
+  0210: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objStarRoot
+  0215: ldc.i4.0     
+  0216: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  021B: ldarg.0      
+  021C: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgIcon
+  0221: ldc.i4.1     
+  0222: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.MonoBehaviour,System.Boolean)
+  0227: ldarg.0      
+  0228: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgIcon
+  022D: ldc.r4       1
+  0232: ldc.r4       1
+  0237: ldc.r4       1
+  023C: ldc.r4       1
+  0241: newobj       System.Void UnityEngine.Color::.ctor(System.Single,System.Single,System.Single,System.Single)
+  0246: callvirt     System.Void UnityEngine.UI.Graphic::set_color(UnityEngine.Color)
+  024B: ldloc.2      
+  024C: call         UnityEngine.Sprite NKC.NKCResourceUtility::GetOrLoadMiscItemIcon(NKM.NKMItemMiscTemplet)
+  0251: stloc.3      
+  0252: ldarg.0      
+  0253: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgIcon
+  0258: ldloc.3      
+  0259: callvirt     System.Void UnityEngine.UI.Image::set_sprite(UnityEngine.Sprite)
+  025E: ldloc.3      
+  025F: ldnull       
+  0260: call         System.Boolean UnityEngine.Object::op_Equality(UnityEngine.Object,UnityEngine.Object)
+  0265: brfalse.s    IL_027D: ldarg.0
+  0267: ldstr        Item iconSprite not found. itemMiscID : 
+  026C: ldloca.s     V_0
+  026E: call         System.String System.Int32::ToString()
+  0273: call         System.String System.String::Concat(System.String,System.String)
+  0278: call         System.Void UnityEngine.Debug::LogError(System.Object)
+  027D: ldarg.0      
+  027E: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objTimeInterval
+  0283: ldloc.2      
+  0284: callvirt     System.Boolean NKM.NKMItemMiscTemplet::get_IsTimeIntervalItem()
+  0289: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  028E: ret          

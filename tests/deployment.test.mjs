@@ -17,9 +17,9 @@ test('JSON URLs are rebased without changing gameplay values',()=>{
   assert.equal(mapped.children[0].audio,BASE_PATH+'/assets/sound/clip.ogg');
   assert.deepEqual(deploymentData(mapped),mapped);
 });
-test('minigames navigation reaches its project root and detail routes',()=>{
-  assert.deepEqual(siteLink('/minigames/'),{href:MINIGAMES_BASE_PATH+'/',external:true});
-  assert.deepEqual(siteLink('/minigames/cafe-strega/'),{href:MINIGAMES_BASE_PATH+'/cafe-strega/',external:true});
+test('minigames navigation stays inside the integrated Main site',()=>{
+  assert.deepEqual(siteLink('/minigames/'),{href:'/minigames/',external:false});
+  assert.deepEqual(siteLink('/minigames/cafe-strega/'),{href:'/minigames/cafe-strega/',external:false});
   assert.deepEqual(siteLink('/'),{href:'/',external:false});
   assert.deepEqual(siteLink(deploymentUrl('/equipment/ITEM')),{href:'/equipment/ITEM',external:false});
 });

@@ -1,0 +1,674 @@
+{
+  "schemaVersion": 1,
+  "source": "installed-client Unity bundles and Spine 3.7 binary",
+  "actors": {
+    "player": {
+      "bundle": "ab_unit_event_sd_academy_c_twintail.asset",
+      "model": "EVENT_SD_ACADEMY_C_TWINTAIL",
+      "installedBundleSha256": "11c8d2734366a848a8642d5cb177b71f4dd97e35ea967b27701911431a428d0d",
+      "decryptedBundleSha256": "b8c5f21f4e09b734908e521d3bf365abd00c7db8d667411d90bcad91826dcb50",
+      "version": "3.7.93",
+      "skeletonScale": 0.009999999776482582,
+      "defaultMix": 0.0,
+      "mixes": {
+        "fromAnimation": [],
+        "toAnimation": [],
+        "duration": []
+      },
+      "graphic": {
+        "initialSkinName": "default",
+        "initialFlipX": 0,
+        "initialFlipY": 0,
+        "startingAnimation": "",
+        "startingLoop": 1,
+        "timeScale": 1.0,
+        "freeze": 0,
+        "unscaledTime": 0,
+        "m_Material": {
+          "m_FileID": 2,
+          "m_PathID": 899772194980315881
+        },
+        "m_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "m_Maskable": 1,
+        "meshGenerator": {
+          "settings": {
+            "useClipping": 1,
+            "zSpacing": 0.0,
+            "pmaVertexColors": 1,
+            "tintBlack": 0,
+            "calculateTangents": 0,
+            "addNormals": 0,
+            "immutableTriangles": 0
+          }
+        }
+      },
+      "transforms": [
+        {
+          "pathId": -4766124693641804306,
+          "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": -7281443388998446544
+          },
+          "m_LocalRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "m_LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 99.0
+          },
+          "m_LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "m_Children": [
+            {
+              "m_FileID": 0,
+              "m_PathID": -3725501981292689525
+            }
+          ],
+          "m_Father": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_AnchorMin": {
+            "x": 0.5,
+            "y": 0.4528888761997223
+          },
+          "m_AnchorMax": {
+            "x": 0.5241624712944031,
+            "y": 0.5
+          },
+          "m_AnchoredPosition": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_SizeDelta": {
+            "x": 1.0,
+            "y": -1.0
+          },
+          "m_Pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "pathId": -3725501981292689525,
+          "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": -8707390092131343261
+          },
+          "m_LocalRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "m_LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "m_LocalScale": {
+            "x": 0.4429166316986084,
+            "y": 0.4429166316986084,
+            "z": 0.4429166316986084
+          },
+          "m_Children": [],
+          "m_Father": {
+            "m_FileID": 0,
+            "m_PathID": -4766124693641804306
+          },
+          "m_AnchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_AnchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "m_AnchoredPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_SizeDelta": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_Pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ],
+      "animations": {
+        "ATTACK": 1.0,
+        "DEATH1": 3.0,
+        "DEATH2": 3.0,
+        "IDLE": 2.3333332538604736,
+        "START": 2.5
+      },
+      "events": {},
+      "clippingSlots": [
+        "start_clip",
+        "TRAIL_clip"
+      ],
+      "files": {
+        "EVENT_SD_ACADEMY_C_TWINTAIL.atlas": "e0352238bcf4d9b1afa8db27ed525e5be23ebc7bcf27e783c8f85adcff015339",
+        "EVENT_SD_ACADEMY_C_TWINTAIL.json": "ae894d0a3d87643e540e832d1012f558006f00ea0b8bd493701c914b751022c3",
+        "EVENT_SD_ACADEMY_C_TWINTAIL.png": "0c2a47721a5d0cf8b93f81bbf8d0ddfedf09a75c4cb1dc42fd7e829ef45e33d6",
+        "EVENT_SD_ACADEMY_C_TWINTAIL.skel": "f5f3d827338fa0a16fe650210fd54d5add088f5b83573137c4f285d9e993e1a8"
+      }
+    },
+    "normal": {
+      "bundle": "ab_unit_event_monster_normal.asset",
+      "model": "EVENT_MONSTER_NORMAL",
+      "installedBundleSha256": "1422224d905adfc45dc6aa889f9ec3a32d355f3f7a8d5a39322eef42317b9626",
+      "decryptedBundleSha256": "f686fca885c572c0ec1a9dea10482da479cf34d211b9b46f452efa472fd2551f",
+      "version": "3.7.93",
+      "skeletonScale": 0.009999999776482582,
+      "defaultMix": 0.0,
+      "mixes": {
+        "fromAnimation": [],
+        "toAnimation": [],
+        "duration": []
+      },
+      "graphic": {
+        "initialSkinName": "default",
+        "initialFlipX": 0,
+        "initialFlipY": 0,
+        "startingAnimation": "",
+        "startingLoop": 1,
+        "timeScale": 1.0,
+        "freeze": 0,
+        "unscaledTime": 0,
+        "m_Material": {
+          "m_FileID": 1,
+          "m_PathID": 899772194980315881
+        },
+        "m_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "m_Maskable": 1,
+        "meshGenerator": {
+          "settings": {
+            "useClipping": 1,
+            "zSpacing": 0.0,
+            "pmaVertexColors": 1,
+            "tintBlack": 0,
+            "calculateTangents": 0,
+            "addNormals": 0,
+            "immutableTriangles": 0
+          }
+        }
+      },
+      "transforms": [
+        {
+          "pathId": -4587705310853800214,
+          "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 2526734202844401630
+          },
+          "m_LocalRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "m_LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 99.0
+          },
+          "m_LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "m_Children": [
+            {
+              "m_FileID": 0,
+              "m_PathID": -2740827745736063849
+            }
+          ],
+          "m_Father": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_AnchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchoredPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_SizeDelta": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "m_Pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "pathId": -2740827745736063849,
+          "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 5202387460547514144
+          },
+          "m_LocalRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "m_LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "m_LocalScale": {
+            "x": 0.21076631546020508,
+            "y": 0.21076631546020508,
+            "z": 0.21076631546020508
+          },
+          "m_Children": [],
+          "m_Father": {
+            "m_FileID": 0,
+            "m_PathID": -4587705310853800214
+          },
+          "m_AnchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_AnchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "m_AnchoredPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_SizeDelta": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_Pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ],
+      "animations": {
+        "ATTACK": 3.0,
+        "DEATH": 1.0,
+        "IDLE": 1.0,
+        "RUN": 1.0
+      },
+      "events": {
+        "SE_ACTIVE": {
+          "int": 0,
+          "float": 0.0,
+          "string": ""
+        }
+      },
+      "clippingSlots": [],
+      "files": {
+        "EVENT_MONSTER_NORMAL.atlas": "b91b8bd8b816b33fab444dba178b2e63d5e2aae70079dd49ed70649c471545e6",
+        "EVENT_MONSTER_NORMAL.json": "7508a52ea7d556cf262d0b86c630afccfffa083ed375c1e34ec76c087f1d65e4",
+        "EVENT_MONSTER_NORMAL.png": "29908052dc4ad959b0653b7394cfe51a70e7a429bb6eea8abc2f868cd09ca2a7",
+        "EVENT_MONSTER_NORMAL.skel": "5c659382ff1e0c8dfbca23e3fa4c8e87c87dbc018641294d2cfc412d3384c03f"
+      }
+    },
+    "yellow": {
+      "bundle": "ab_unit_event_monster_yellow.asset",
+      "model": "EVENT_MONSTER_YELLOW",
+      "installedBundleSha256": "7b0173b70f80bc7bf9ba0e10d5067a09c376dffd778b31f7197ac400540cdc8e",
+      "decryptedBundleSha256": "44ffb3ce5e76ee5db7889425fe823cd1224072cc74c3042d0cadc83747f4a9ef",
+      "version": "3.7.93",
+      "skeletonScale": 0.009999999776482582,
+      "defaultMix": 0.0,
+      "mixes": {
+        "fromAnimation": [],
+        "toAnimation": [],
+        "duration": []
+      },
+      "graphic": {
+        "initialSkinName": "default",
+        "initialFlipX": 0,
+        "initialFlipY": 0,
+        "startingAnimation": "",
+        "startingLoop": 1,
+        "timeScale": 1.0,
+        "freeze": 0,
+        "unscaledTime": 0,
+        "m_Material": {
+          "m_FileID": 2,
+          "m_PathID": 899772194980315881
+        },
+        "m_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "m_Maskable": 1,
+        "meshGenerator": {
+          "settings": {
+            "useClipping": 1,
+            "zSpacing": 0.0,
+            "pmaVertexColors": 1,
+            "tintBlack": 0,
+            "calculateTangents": 0,
+            "addNormals": 0,
+            "immutableTriangles": 0
+          }
+        }
+      },
+      "transforms": [
+        {
+          "pathId": -2343438943346562854,
+          "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": -704335695980181850
+          },
+          "m_LocalRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "m_LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "m_LocalScale": {
+            "x": 0.21076631546020508,
+            "y": 0.21076631546020508,
+            "z": 0.21076631546020508
+          },
+          "m_Children": [],
+          "m_Father": {
+            "m_FileID": 0,
+            "m_PathID": -418987456169091336
+          },
+          "m_AnchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_AnchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "m_AnchoredPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_SizeDelta": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_Pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "pathId": -418987456169091336,
+          "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": -2066996375605790605
+          },
+          "m_LocalRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "m_LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 99.0
+          },
+          "m_LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "m_Children": [
+            {
+              "m_FileID": 0,
+              "m_PathID": -2343438943346562854
+            }
+          ],
+          "m_Father": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_AnchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchoredPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_SizeDelta": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "m_Pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ],
+      "animations": {
+        "ATTACK": 3.0,
+        "DEATH": 1.0,
+        "IDLE": 1.0,
+        "RUN": 1.0
+      },
+      "events": {
+        "SE_ACTIVE": {
+          "int": 0,
+          "float": 0.0,
+          "string": ""
+        }
+      },
+      "clippingSlots": [],
+      "files": {
+        "EVENT_MONSTER_YELLOW.atlas": "4f077db2207203df578e94e58208376530b2a37289b370f274deac16fd20d0f1",
+        "EVENT_MONSTER_YELLOW.json": "e0665a66b585183370a525d120acc37e725f200af41c525441bc071f0e9e73b9",
+        "EVENT_MONSTER_YELLOW.png": "ce646f2c26abbae3281da0e43618a4dc55daee2f99ed9b1cfe1235b82b8b62d2",
+        "EVENT_MONSTER_YELLOW.skel": "0f59fae2e45480bb97b3063849a64cb0df11f6ad54fb811069507181b8fb6833"
+      }
+    },
+    "boss": {
+      "bundle": "ab_unit_event_monster_boss.asset",
+      "model": "EVENT_MONSTER_BOSS",
+      "installedBundleSha256": "f8ffde3fd547eed412526132d42ea1d2c9f786b76692f5334363fd8ffd968e22",
+      "decryptedBundleSha256": "bf9a2c17d174e446e6443e50e6e62f70f8e3e28c4e86e1e09a21e4684537b07b",
+      "version": "3.7.93",
+      "skeletonScale": 0.009999999776482582,
+      "defaultMix": 0.0,
+      "mixes": {
+        "fromAnimation": [],
+        "toAnimation": [],
+        "duration": []
+      },
+      "graphic": {
+        "initialSkinName": "default",
+        "initialFlipX": 0,
+        "initialFlipY": 0,
+        "startingAnimation": "",
+        "startingLoop": 1,
+        "timeScale": 1.0,
+        "freeze": 0,
+        "unscaledTime": 0,
+        "m_Material": {
+          "m_FileID": 1,
+          "m_PathID": 899772194980315881
+        },
+        "m_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "m_Maskable": 1,
+        "meshGenerator": {
+          "settings": {
+            "useClipping": 1,
+            "zSpacing": 0.0,
+            "pmaVertexColors": 1,
+            "tintBlack": 0,
+            "calculateTangents": 0,
+            "addNormals": 0,
+            "immutableTriangles": 0
+          }
+        }
+      },
+      "transforms": [
+        {
+          "pathId": -4075130882542039180,
+          "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": -4863652033382282871
+          },
+          "m_LocalRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "m_LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 99.0
+          },
+          "m_LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "m_Children": [
+            {
+              "m_FileID": 0,
+              "m_PathID": -920877721361948463
+            }
+          ],
+          "m_Father": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_AnchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "m_AnchoredPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_SizeDelta": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "m_Pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "pathId": -920877721361948463,
+          "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": -2709976887168637796
+          },
+          "m_LocalRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "m_LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "m_LocalScale": {
+            "x": 0.21076631546020508,
+            "y": 0.21076631546020508,
+            "z": 0.21076631546020508
+          },
+          "m_Children": [],
+          "m_Father": {
+            "m_FileID": 0,
+            "m_PathID": -4075130882542039180
+          },
+          "m_AnchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_AnchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "m_AnchoredPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_SizeDelta": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "m_Pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ],
+      "animations": {
+        "ATTACK": 1.0,
+        "DEATH": 1.0,
+        "IDLE": 1.0,
+        "RUN": 2.6666667461395264
+      },
+      "events": {},
+      "clippingSlots": [],
+      "files": {
+        "EVENT_MONSTER_BOSS.atlas": "b10218fcd67cab20decd9c277309455729a6e6c6d1e21046630ae8de473a7f46",
+        "EVENT_MONSTER_BOSS.json": "514e62c499e4f7a27b07dcf67ba582cd4f76cca09c1f955cd0e5b59091bf372a",
+        "EVENT_MONSTER_BOSS.png": "44a210a07da1f708d32cc461581abd7b3f9eae9dd96830944378e183d294dc66",
+        "EVENT_MONSTER_BOSS.skel": "4562931d7fd6e1b87278a7ac0c898c83f131c95fcc762aa320163065f8897761"
+      }
+    }
+  }
+}

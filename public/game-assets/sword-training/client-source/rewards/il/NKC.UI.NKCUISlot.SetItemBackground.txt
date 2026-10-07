@@ -1,0 +1,132 @@
+METHOD System.Void NKC.UI.NKCUISlot::SetItemBackground(NKM.NKMItemMiscTemplet)
+  0000: ldarg.1      
+  0001: brtrue.s     IL_0004: ldarg.1
+  0003: ret          
+  0004: ldarg.1      
+  0005: callvirt     System.Boolean NKM.NKMItemMiscTemplet::IsEmblem()
+  000A: brfalse.s    IL_001E: ldarg.0
+  000C: ldarg.0      
+  000D: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgBG
+  0012: ldarg.0      
+  0013: ldfld        UnityEngine.Sprite NKC.UI.NKCUISlot::m_spEmblem
+  0018: callvirt     System.Void UnityEngine.UI.Image::set_sprite(UnityEngine.Sprite)
+  001D: ret          
+  001E: ldarg.0      
+  001F: ldarg.1      
+  0020: call         System.Boolean NKC.UI.NKCUISlot::ItemUsingWhiteBackground(NKM.NKMItemMiscTemplet)
+  0025: stloc.0      
+  0026: ldarg.0      
+  0027: ldarg.1      
+  0028: ldfld        NKM.NKM_ITEM_GRADE NKM.NKMItemMiscTemplet::m_NKM_ITEM_GRADE
+  002D: ldloc.0      
+  002E: call         System.Void NKC.UI.NKCUISlot::SetItemBackground(NKM.NKM_ITEM_GRADE,System.Boolean)
+  0033: ret          
+METHOD System.Void NKC.UI.NKCUISlot::SetItemBackground(NKM.NKM_ITEM_GRADE,System.Boolean)
+  0000: ldarg.2      
+  0001: brfalse.s    IL_007F: ldarg.1
+  0003: ldarg.1      
+  0004: switch       IL_001B, IL_002D, IL_003F, IL_0051
+  0019: br.s         IL_0063: ldstr "Item BG undefined"
+  001B: ldarg.0      
+  001C: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgBG
+  0021: ldarg.0      
+  0022: ldfld        UnityEngine.Sprite NKC.UI.NKCUISlot::m_spBGWhiteRarityN
+  0027: callvirt     System.Void UnityEngine.UI.Image::set_sprite(UnityEngine.Sprite)
+  002C: ret          
+  002D: ldarg.0      
+  002E: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgBG
+  0033: ldarg.0      
+  0034: ldfld        UnityEngine.Sprite NKC.UI.NKCUISlot::m_spBGWhiteRarityR
+  0039: callvirt     System.Void UnityEngine.UI.Image::set_sprite(UnityEngine.Sprite)
+  003E: ret          
+  003F: ldarg.0      
+  0040: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgBG
+  0045: ldarg.0      
+  0046: ldfld        UnityEngine.Sprite NKC.UI.NKCUISlot::m_spBGWhiteRaritySR
+  004B: callvirt     System.Void UnityEngine.UI.Image::set_sprite(UnityEngine.Sprite)
+  0050: ret          
+  0051: ldarg.0      
+  0052: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgBG
+  0057: ldarg.0      
+  0058: ldfld        UnityEngine.Sprite NKC.UI.NKCUISlot::m_spBGWhiteRaritySSR
+  005D: callvirt     System.Void UnityEngine.UI.Image::set_sprite(UnityEngine.Sprite)
+  0062: ret          
+  0063: ldstr        Item BG undefined
+  0068: call         System.Void UnityEngine.Debug::LogError(System.Object)
+  006D: ldarg.0      
+  006E: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgBG
+  0073: ldarg.0      
+  0074: ldfld        UnityEngine.Sprite NKC.UI.NKCUISlot::m_spBGWhiteRarityN
+  0079: callvirt     System.Void UnityEngine.UI.Image::set_sprite(UnityEngine.Sprite)
+  007E: ret          
+  007F: ldarg.1      
+  0080: switch       IL_0097, IL_00A9, IL_00BB, IL_00CD
+  0095: br.s         IL_00DF: ldstr "Item BG undefined"
+  0097: ldarg.0      
+  0098: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgBG
+  009D: ldarg.0      
+  009E: ldfld        UnityEngine.Sprite NKC.UI.NKCUISlot::m_spBGRarityN
+  00A3: callvirt     System.Void UnityEngine.UI.Image::set_sprite(UnityEngine.Sprite)
+  00A8: ret          
+  00A9: ldarg.0      
+  00AA: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgBG
+  00AF: ldarg.0      
+  00B0: ldfld        UnityEngine.Sprite NKC.UI.NKCUISlot::m_spBGRarityR
+  00B5: callvirt     System.Void UnityEngine.UI.Image::set_sprite(UnityEngine.Sprite)
+  00BA: ret          
+  00BB: ldarg.0      
+  00BC: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgBG
+  00C1: ldarg.0      
+  00C2: ldfld        UnityEngine.Sprite NKC.UI.NKCUISlot::m_spBGRaritySR
+  00C7: callvirt     System.Void UnityEngine.UI.Image::set_sprite(UnityEngine.Sprite)
+  00CC: ret          
+  00CD: ldarg.0      
+  00CE: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgBG
+  00D3: ldarg.0      
+  00D4: ldfld        UnityEngine.Sprite NKC.UI.NKCUISlot::m_spBGRaritySSR
+  00D9: callvirt     System.Void UnityEngine.UI.Image::set_sprite(UnityEngine.Sprite)
+  00DE: ret          
+  00DF: ldstr        Item BG undefined
+  00E4: call         System.Void UnityEngine.Debug::LogError(System.Object)
+  00E9: ldarg.0      
+  00EA: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgBG
+  00EF: ldarg.0      
+  00F0: ldfld        UnityEngine.Sprite NKC.UI.NKCUISlot::m_spBGRarityN
+  00F5: callvirt     System.Void UnityEngine.UI.Image::set_sprite(UnityEngine.Sprite)
+  00FA: ret          
+METHOD System.Void NKC.UI.NKCUISlot::SetItemBackground(NKM.NKM_EMOTICON_GRADE)
+  0000: ldarg.1      
+  0001: switch       IL_0018, IL_002A, IL_003C, IL_004E
+  0016: br.s         IL_0060: ldstr "Item BG undefined"
+  0018: ldarg.0      
+  0019: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgBG
+  001E: ldarg.0      
+  001F: ldfld        UnityEngine.Sprite NKC.UI.NKCUISlot::m_spBGRarityN
+  0024: callvirt     System.Void UnityEngine.UI.Image::set_sprite(UnityEngine.Sprite)
+  0029: ret          
+  002A: ldarg.0      
+  002B: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgBG
+  0030: ldarg.0      
+  0031: ldfld        UnityEngine.Sprite NKC.UI.NKCUISlot::m_spBGRarityR
+  0036: callvirt     System.Void UnityEngine.UI.Image::set_sprite(UnityEngine.Sprite)
+  003B: ret          
+  003C: ldarg.0      
+  003D: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgBG
+  0042: ldarg.0      
+  0043: ldfld        UnityEngine.Sprite NKC.UI.NKCUISlot::m_spBGRaritySR
+  0048: callvirt     System.Void UnityEngine.UI.Image::set_sprite(UnityEngine.Sprite)
+  004D: ret          
+  004E: ldarg.0      
+  004F: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgBG
+  0054: ldarg.0      
+  0055: ldfld        UnityEngine.Sprite NKC.UI.NKCUISlot::m_spBGRaritySSR
+  005A: callvirt     System.Void UnityEngine.UI.Image::set_sprite(UnityEngine.Sprite)
+  005F: ret          
+  0060: ldstr        Item BG undefined
+  0065: call         System.Void UnityEngine.Debug::LogError(System.Object)
+  006A: ldarg.0      
+  006B: ldfld        UnityEngine.UI.Image NKC.UI.NKCUISlot::m_imgBG
+  0070: ldarg.0      
+  0071: ldfld        UnityEngine.Sprite NKC.UI.NKCUISlot::m_spBGRarityN
+  0076: callvirt     System.Void UnityEngine.UI.Image::set_sprite(UnityEngine.Sprite)
+  007B: ret          

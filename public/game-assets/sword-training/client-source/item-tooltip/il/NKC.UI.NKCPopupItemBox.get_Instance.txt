@@ -1,0 +1,18 @@
+METHOD NKC.UI.NKCPopupItemBox NKC.UI.NKCPopupItemBox::get_Instance()
+  0000: ldsfld       NKC.UI.NKCPopupItemBox NKC.UI.NKCPopupItemBox::m_Instance
+  0005: ldnull       
+  0006: call         System.Boolean UnityEngine.Object::op_Equality(UnityEngine.Object,UnityEngine.Object)
+  000B: brfalse.s    IL_003D: ldsfld NKC.UI.NKCPopupItemBox NKC.UI.NKCPopupItemBox::m_Instance
+  000D: ldstr        ab_ui_nkm_ui_popup_ok_cancel_box
+  0012: ldstr        NKM_UI_POPUP_ITEM_BOX
+  0017: ldc.i4.3     
+  0018: ldnull       
+  0019: ldftn        System.Void NKC.UI.NKCPopupItemBox::CleanupInstance()
+  001F: newobj       System.Void NKC.UI.NKCUIManager/LoadedUIData/OnCleanupInstance::.ctor(System.Object,System.IntPtr)
+  0024: call         NKC.UI.NKCUIManager/LoadedUIData NKC.UI.NKCUIManager::OpenNewInstance<NKC.UI.NKCPopupItemBox>(System.String,System.String,NKC.UI.NKCUIManager/eUIBaseRect,NKC.UI.NKCUIManager/LoadedUIData/OnCleanupInstance)
+  0029: callvirt     NKC.UI.NKCPopupItemBox NKC.UI.NKCUIManager/LoadedUIData::GetInstance<NKC.UI.NKCPopupItemBox>()
+  002E: stsfld       NKC.UI.NKCPopupItemBox NKC.UI.NKCPopupItemBox::m_Instance
+  0033: ldsfld       NKC.UI.NKCPopupItemBox NKC.UI.NKCPopupItemBox::m_Instance
+  0038: callvirt     System.Void NKC.UI.NKCPopupItemBox::InitUI()
+  003D: ldsfld       NKC.UI.NKCPopupItemBox NKC.UI.NKCPopupItemBox::m_Instance
+  0042: ret          

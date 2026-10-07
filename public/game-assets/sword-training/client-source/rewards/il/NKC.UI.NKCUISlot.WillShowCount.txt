@@ -1,0 +1,26 @@
+METHOD System.Boolean NKC.UI.NKCUISlot::WillShowCount(NKC.UI.NKCUISlot/SlotData)
+  0000: ldarg.0      
+  0001: ldfld        NKC.UI.NKCUISlot/eSlotMode NKC.UI.NKCUISlot/SlotData::eType
+  0006: stloc.0      
+  0007: ldloc.0      
+  0008: ldc.i4.1     
+  0009: sub          
+  000A: switch       IL_0027, IL_0042, IL_0027, IL_0042, IL_0029
+  0023: ldloc.0      
+  0024: ldc.i4.8     
+  0025: bne.un.s     IL_0042: ldc.i4.0
+  0027: ldc.i4.1     
+  0028: ret          
+  0029: ldarg.0      
+  002A: ldfld        System.Int32 NKC.UI.NKCUISlot/SlotData::ID
+  002F: call         NKM.NKMItemMoldTemplet NKM.NKMItemManager::GetItemMoldTempletByID(System.Int32)
+  0034: stloc.1      
+  0035: ldloc.1      
+  0036: brfalse.s    IL_0042: ldc.i4.0
+  0038: ldloc.1      
+  0039: ldfld        System.Boolean NKM.NKMItemMoldTemplet::m_bPermanent
+  003E: ldc.i4.0     
+  003F: ceq          
+  0041: ret          
+  0042: ldc.i4.0     
+  0043: ret          

@@ -1,0 +1,1200 @@
+{
+  "schemaVersion": 1,
+  "source": "C:\\Users\\redbu\\Documents\\GitHub\\CS_asset\\tools\\CounterSide_decryption_tool-main\\1차 복호화\\Data\\StreamingAssets",
+  "components": [
+    {
+      "path": "POPUP_UI_SINGLE_CAFE_MISSION_RESULT/Content/UNIT/AB_UNIT_SD_SPINE_NKM_UNIT_C_STREGA_YOO_NA_CAFFE/SPINE_SkeletonGraphic",
+      "type": "SkeletonGraphic",
+      "pathId": "-8455345694100066812",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": -568890566177875382
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": -6938409698251234290
+        },
+        "m_Name": "",
+        "m_Material": {
+          "m_FileID": 20,
+          "m_PathID": 899772194980315881
+        },
+        "m_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "m_RaycastTarget": 0,
+        "m_RaycastPadding": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "m_Maskable": 1,
+        "m_OnCullStateChanged": {
+          "m_PersistentCalls": {
+            "m_Calls": []
+          }
+        },
+        "skeletonDataAsset": {
+          "m_FileID": 21,
+          "m_PathID": 8000560162468028956
+        },
+        "initialSkinName": "default",
+        "initialFlipX": 0,
+        "initialFlipY": 0,
+        "startingAnimation": "RUN",
+        "startingLoop": 1,
+        "timeScale": 1.0,
+        "freeze": 0,
+        "unscaledTime": 0,
+        "meshGenerator": {
+          "settings": {
+            "useClipping": 1,
+            "zSpacing": 0.0,
+            "pmaVertexColors": 1,
+            "tintBlack": 0,
+            "calculateTangents": 0,
+            "addNormals": 0,
+            "immutableTriangles": 0
+          }
+        }
+      }
+    },
+    {
+      "path": "UI_SINGLE_CAFE/Content/PHASE - 2/COMPLETE_FX",
+      "type": "NKCComSoundPlayer",
+      "pathId": "-8102188779815036722",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": -6234952296193666130
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": -4202674689944242307
+        },
+        "m_Name": "",
+        "AssetName": "FX_UI_CONTRACT_SLOT_OPEN",
+        "Volume": 1.0,
+        "PlayOnEnable": 0,
+        "Delay": 0.0,
+        "PlayStartPos": 0.0,
+        "Loop": 0,
+        "StopOnDisable": 0
+      }
+    },
+    {
+      "path": "UI_SINGLE_CAFE/Content/PHASE - 2/DRINK_Result/FX/OFF_FX",
+      "type": "NKCComSoundPlayer",
+      "pathId": "-5181120026843417343",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": -8867567881345132525
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": -4202674689944242307
+        },
+        "m_Name": "",
+        "AssetName": "FX_UI_CAFE_STREGA_DRINK_OFF",
+        "Volume": 1.0,
+        "PlayOnEnable": 1,
+        "Delay": 0.0,
+        "PlayStartPos": 0.0,
+        "Loop": 0,
+        "StopOnDisable": 0
+      }
+    },
+    {
+      "path": "UI_SINGLE_CAFE/Content/PHASE - 2/DRINK_Result/FX/ON_FX",
+      "type": "NKCComSoundPlayer",
+      "pathId": "-4792379081931464574",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 7947949965298347265
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": -4202674689944242307
+        },
+        "m_Name": "",
+        "AssetName": "FX_UI_CAFE_STREGA_DRINK_ON",
+        "Volume": 1.0,
+        "PlayOnEnable": 1,
+        "Delay": 0.10000000149011612,
+        "PlayStartPos": 0.0,
+        "Loop": 0,
+        "StopOnDisable": 0
+      }
+    },
+    {
+      "path": "POPUP_UI_SINGLE_CAFE_MISSION/POPUP_SINGLE_CAFE_MISSION_RESULT/Content/UNIT/AB_UNIT_SD_SPINE_NKM_UNIT_C_STREGA_YOO_NA_CAFFE/SPINE_SkeletonGraphic",
+      "type": "SkeletonGraphic",
+      "pathId": "-3087851391823105895",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 8571675457199533463
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": -6938409698251234290
+        },
+        "m_Name": "",
+        "m_Material": {
+          "m_FileID": 20,
+          "m_PathID": 899772194980315881
+        },
+        "m_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "m_RaycastTarget": 0,
+        "m_RaycastPadding": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "m_Maskable": 1,
+        "m_OnCullStateChanged": {
+          "m_PersistentCalls": {
+            "m_Calls": []
+          }
+        },
+        "skeletonDataAsset": {
+          "m_FileID": 21,
+          "m_PathID": 8000560162468028956
+        },
+        "initialSkinName": "default",
+        "initialFlipX": 0,
+        "initialFlipY": 0,
+        "startingAnimation": "RUN",
+        "startingLoop": 1,
+        "timeScale": 1.0,
+        "freeze": 0,
+        "unscaledTime": 0,
+        "meshGenerator": {
+          "settings": {
+            "useClipping": 1,
+            "zSpacing": 0.0,
+            "pmaVertexColors": 1,
+            "tintBlack": 0,
+            "calculateTangents": 0,
+            "addNormals": 0,
+            "immutableTriangles": 0
+          }
+        }
+      }
+    },
+    {
+      "path": "POPUP_UI_SINGLE_CAFE_MISSION/POPUP_SINGLE_CAFE_MISSION_RESULT/Content/UNIT",
+      "type": "NKCUIComPrefabLoader",
+      "pathId": "-2630282343537605089",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": -2363999464667400396
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": 7299408166755457218
+        },
+        "m_Name": "",
+        "m_BundleName": "ab_unit_sd_spine_nkm_unit_c_strega_yoo_na_caffe",
+        "m_AssetName": "AB_UNIT_SD_SPINE_NKM_UNIT_C_STREGA_YOO_NA_CAFFE",
+        "Position": {
+          "x": 0.0,
+          "y": -112.0,
+          "z": 0.0
+        },
+        "Scale": {
+          "x": 3.0,
+          "y": 3.0,
+          "z": 1.0
+        },
+        "m_targetObj": {
+          "m_FileID": 0,
+          "m_PathID": -8490924502134643887
+        },
+        "m_bUseTwoPassTransparency": 0
+      }
+    },
+    {
+      "path": "UI_SINGLE_CAFE/Content/PHASE - 1/#IllustRoot",
+      "type": "NKCUINPCSpineIllust",
+      "pathId": "-1714234729172864059",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": -9085396661354036558
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": -5895450014193618625
+        },
+        "m_Name": "",
+        "m_spUnitIllust": {
+          "m_FileID": 0,
+          "m_PathID": -741209305958046481
+        },
+        "m_bUseTouch": 1,
+        "m_bResetOnEnable": 1
+      }
+    },
+    {
+      "path": "UI_SINGLE_CAFE/Content/PHASE - 2/DRINK_Result/FX/ON_FX",
+      "type": "NKCComSoundPlayer",
+      "pathId": "-1032098469020667214",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 7947949965298347265
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": -4202674689944242307
+        },
+        "m_Name": "",
+        "AssetName": "FX_UI_CAFE_STREGA_DRINK_MAGIC",
+        "Volume": 1.0,
+        "PlayOnEnable": 1,
+        "Delay": 0.10000000149011612,
+        "PlayStartPos": 0.0,
+        "Loop": 0,
+        "StopOnDisable": 0
+      }
+    },
+    {
+      "path": "UI_SINGLE_CAFE/Content/PHASE - 1/#IllustRoot/AB_UNIT_ILLUST_NKM_UNIT_C_STREGA_EVELYN_CAFFE/SPINE_SkeletonGraphic",
+      "type": "SkeletonGraphic",
+      "pathId": "-741209305958046481",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 9211963317061225772
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": -6938409698251234290
+        },
+        "m_Name": "",
+        "m_Material": {
+          "m_FileID": 20,
+          "m_PathID": 899772194980315881
+        },
+        "m_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "m_RaycastTarget": 0,
+        "m_RaycastPadding": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "m_Maskable": 1,
+        "m_OnCullStateChanged": {
+          "m_PersistentCalls": {
+            "m_Calls": []
+          }
+        },
+        "skeletonDataAsset": {
+          "m_FileID": 31,
+          "m_PathID": -8663576525855674117
+        },
+        "initialSkinName": "",
+        "initialFlipX": 0,
+        "initialFlipY": 0,
+        "startingAnimation": "IDLE",
+        "startingLoop": 1,
+        "timeScale": 1.0,
+        "freeze": 0,
+        "unscaledTime": 0,
+        "meshGenerator": {
+          "settings": {
+            "useClipping": 1,
+            "zSpacing": 0.0,
+            "pmaVertexColors": 1,
+            "tintBlack": 0,
+            "calculateTangents": 0,
+            "addNormals": 0,
+            "immutableTriangles": 0
+          }
+        }
+      }
+    },
+    {
+      "path": "POPUP_UI_SINGLE_CAFE_MISSION_RESULT/Content/UNIT",
+      "type": "NKCUINPCSpineIllust",
+      "pathId": "-107936382097418498",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": -8716659502498117070
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": -5895450014193618625
+        },
+        "m_Name": "",
+        "m_spUnitIllust": {
+          "m_FileID": 0,
+          "m_PathID": -8455345694100066812
+        },
+        "m_bUseTouch": 1,
+        "m_bResetOnEnable": 0
+      }
+    },
+    {
+      "path": "UI_SINGLE_CAFE_RESULT",
+      "type": "NKCComSoundPlayer",
+      "pathId": "1004673832918783739",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 6364060574607822059
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": -4202674689944242307
+        },
+        "m_Name": "",
+        "AssetName": "FX_CUTSCEN_SHAKING_COCK_02",
+        "Volume": 1.0,
+        "PlayOnEnable": 0,
+        "Delay": 0.0,
+        "PlayStartPos": 0.0,
+        "Loop": 0,
+        "StopOnDisable": 0
+      }
+    },
+    {
+      "path": "UI_SINGLE_CAFE/Content/PHASE - 1",
+      "type": "NKCUIEventBarPhaseEntry",
+      "pathId": "1407864451573138463",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 2445501425761477033
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": 1850392528922447981
+        },
+        "m_Name": "",
+        "m_EventBarCocktailSlotArray": [
+          {
+            "m_FileID": 0,
+            "m_PathID": -718318544991627009
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 5706679441147272285
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 8947480625300485957
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": -8767681441309167372
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 247412949348922179
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": -4316987758202544411
+          }
+        ],
+        "m_npcSpineIllust": {
+          "m_FileID": 0,
+          "m_PathID": -1714234729172864059
+        },
+        "m_objBarLock": {
+          "m_FileID": 0,
+          "m_PathID": -2943542822441149889
+        },
+        "m_objLaughFx": {
+          "m_FileID": 0,
+          "m_PathID": 3644273154006587414
+        },
+        "m_scrollRect": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_csbtnMomoErrand": {
+          "m_FileID": 0,
+          "m_PathID": -4426501869422606161
+        },
+        "m_objErrandRedDot": {
+          "m_FileID": 0,
+          "m_PathID": 7176481902264975108
+        },
+        "m_showScriptTime": 5.0,
+        "m_unitID": 1093,
+        "m_skinID": 109331,
+        "m_eventBarBubble": {
+          "m_FileID": 0,
+          "m_PathID": -6235151267851553063
+        },
+        "m_aniScript": {
+          "m_FileID": 0,
+          "m_PathID": 9101904112298939303
+        },
+        "m_scriptCanvasGroup": {
+          "m_FileID": 0,
+          "m_PathID": -8843682456602757707
+        },
+        "m_objScriptRoot": {
+          "m_FileID": 0,
+          "m_PathID": 3372074470130474373
+        },
+        "m_objScriptType1": {
+          "m_FileID": 0,
+          "m_PathID": 6933879361599129858
+        },
+        "m_objScriptType2": {
+          "m_FileID": 0,
+          "m_PathID": 357965581804341703
+        },
+        "m_lbUnitName": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_lbType1Msg": {
+          "m_FileID": 0,
+          "m_PathID": -1778852572364634240
+        },
+        "m_lbType2Msg": {
+          "m_FileID": 0,
+          "m_PathID": -5843064008623849313
+        },
+        "m_csbtnGive": {
+          "m_FileID": 0,
+          "m_PathID": 4527949357644636739
+        },
+        "m_csbtnStay": {
+          "m_FileID": 0,
+          "m_PathID": -976665541851448224
+        },
+        "m_csbtnScriptPanel": {
+          "m_FileID": 0,
+          "m_PathID": -45889796058710479
+        },
+        "m_errandRewardMissionTabId": 9992,
+        "m_cocktailRewardMissionGroupId": 999201,
+        "m_Request": "SI_PF_EVENT_CAFE_STREGA_EVELYN_REQUEST",
+        "m_GiveDesc": "SI_PF_EVENT_CAFE_STREGA_EVELYN_GIVE_DESC",
+        "m_GiveEnd": "SI_PF_EVENT_CAFE_STREGA_EVELYN_GIVE_END",
+        "m_GiveCancel": "SI_PF_EVENT_CAFE_STREGA_EVELYN_GIVE_CANCEL_DESC",
+        "m_SelectCocktail": "SI_PF_EVENT_CAFE_STREGA_EVELYN_GIVE_SELECT_DESC",
+        "m_WrongCocktail": "SI_PF_EVENT_CAFE_STREGA_EVELYN_GIVE_REJECT_DESC",
+        "m_NeedMoreCocktail": "SI_PF_EVENT_CAFE_STREGA_EVELYN_GIVE_REJECT_AMOUNT_DESC"
+      }
+    },
+    {
+      "path": "POPUP_UI_SINGLE_CAFE_MISSION_RESULT",
+      "type": "NKCComSoundPlayer",
+      "pathId": "2564573804093867023",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 1020025836095063933
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": -4202674689944242307
+        },
+        "m_Name": "",
+        "AssetName": "FX_COMBAT_ALL_CARTOON_04",
+        "Volume": 1.0,
+        "PlayOnEnable": 1,
+        "Delay": 0.0,
+        "PlayStartPos": 0.0,
+        "Loop": 0,
+        "StopOnDisable": 0
+      }
+    },
+    {
+      "path": "POPUP_UI_SINGLE_CAFE_MISSION/POPUP_SINGLE_CAFE_MISSION_RESULT",
+      "type": "NKCComSoundPlayer",
+      "pathId": "2986059259418492918",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": -5419817443151784362
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": -4202674689944242307
+        },
+        "m_Name": "",
+        "AssetName": "FX_COMBAT_ALL_CARTOON_04",
+        "Volume": 1.0,
+        "PlayOnEnable": 1,
+        "Delay": 0.0,
+        "PlayStartPos": 0.0,
+        "Loop": 0,
+        "StopOnDisable": 0
+      }
+    },
+    {
+      "path": "POPUP_UI_SINGLE_CAFE_MISSION_RESULT/Content/UNIT",
+      "type": "NKCUIComPrefabLoader",
+      "pathId": "3900769704804583983",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": -8716659502498117070
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": 7299408166755457218
+        },
+        "m_Name": "",
+        "m_BundleName": "ab_unit_sd_spine_nkm_unit_c_strega_yoo_na_caffe",
+        "m_AssetName": "AB_UNIT_SD_SPINE_NKM_UNIT_C_STREGA_YOO_NA_CAFFE",
+        "Position": {
+          "x": 0.0,
+          "y": -112.0,
+          "z": 0.0
+        },
+        "Scale": {
+          "x": 3.0,
+          "y": 3.0,
+          "z": 1.0
+        },
+        "m_targetObj": {
+          "m_FileID": 0,
+          "m_PathID": 3415898964267211549
+        },
+        "m_bUseTwoPassTransparency": 0
+      }
+    },
+    {
+      "path": "UI_SINGLE_CAFE/Content/PHASE - 2/#IllustRoot",
+      "type": "NKCUINPCSpineIllust",
+      "pathId": "4199136848631749444",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 8848528010573971291
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": -5895450014193618625
+        },
+        "m_Name": "",
+        "m_spUnitIllust": {
+          "m_FileID": 0,
+          "m_PathID": 4334837474192064128
+        },
+        "m_bUseTouch": 1,
+        "m_bResetOnEnable": 1
+      }
+    },
+    {
+      "path": "UI_SINGLE_CAFE/Content/PHASE - 2/#IllustRoot/AB_UNIT_ILLUST_NKM_UNIT_C_STREGA_YOO_NA_CAFFE/SPINE_SkeletonGraphic",
+      "type": "SkeletonGraphic",
+      "pathId": "4334837474192064128",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 5194545934210077104
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": -6938409698251234290
+        },
+        "m_Name": "",
+        "m_Material": {
+          "m_FileID": 20,
+          "m_PathID": 899772194980315881
+        },
+        "m_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "m_RaycastTarget": 0,
+        "m_RaycastPadding": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "m_Maskable": 1,
+        "m_OnCullStateChanged": {
+          "m_PersistentCalls": {
+            "m_Calls": []
+          }
+        },
+        "skeletonDataAsset": {
+          "m_FileID": 35,
+          "m_PathID": -2491894498091400927
+        },
+        "initialSkinName": "",
+        "initialFlipX": 0,
+        "initialFlipY": 0,
+        "startingAnimation": "IDLE",
+        "startingLoop": 1,
+        "timeScale": 1.0,
+        "freeze": 0,
+        "unscaledTime": 0,
+        "meshGenerator": {
+          "settings": {
+            "useClipping": 1,
+            "zSpacing": 0.0,
+            "pmaVertexColors": 1,
+            "tintBlack": 0,
+            "calculateTangents": 0,
+            "addNormals": 0,
+            "immutableTriangles": 0
+          }
+        }
+      }
+    },
+    {
+      "path": "UI_SINGLE_CAFE/Content/SINGLE_CAFE_RESULT",
+      "type": "NKCComSoundPlayer",
+      "pathId": "4571806553694049300",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 4390624615224777846
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": -4202674689944242307
+        },
+        "m_Name": "",
+        "AssetName": "FX_CUTSCEN_SHAKING_COCK_02",
+        "Volume": 1.0,
+        "PlayOnEnable": 0,
+        "Delay": 0.0,
+        "PlayStartPos": 0.0,
+        "Loop": 0,
+        "StopOnDisable": 0
+      }
+    },
+    {
+      "path": "UI_SINGLE_CAFE/Content/PHASE - 2/#IllustRoot",
+      "type": "NKCUIComPrefabLoader",
+      "pathId": "4690518929361299371",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 8848528010573971291
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": 7299408166755457218
+        },
+        "m_Name": "",
+        "m_BundleName": "AB_UNIT_ILLUST_NKM_UNIT_C_STREGA_YOO_NA_CAFFE",
+        "m_AssetName": "AB_UNIT_ILLUST_NKM_UNIT_C_STREGA_YOO_NA_CAFFE",
+        "Position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "m_targetObj": {
+          "m_FileID": 0,
+          "m_PathID": 8121767542068788041
+        },
+        "m_bUseTwoPassTransparency": 1
+      }
+    },
+    {
+      "path": "UI_SINGLE_CAFE/Content/SINGLE_CAFE_RESULT",
+      "type": "NKCUIEventBarResult",
+      "pathId": "5506458313859977344",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 4390624615224777846
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": 5425349689079357736
+        },
+        "m_Name": "",
+        "m_animator": {
+          "m_FileID": 0,
+          "m_PathID": -5887936553119415768
+        },
+        "m_canvasGroup": {
+          "m_FileID": 0,
+          "m_PathID": 4421240800230765863
+        },
+        "m_objShake": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_objStir": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_soundPlayer": {
+          "m_FileID": 0,
+          "m_PathID": 4571806553694049300
+        },
+        "m_fRewardPopupTimer": 3.0,
+        "m_unitID": 0,
+        "m_scale": 0.0,
+        "m_shakeSDRoot": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_stirSDRoot": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "shakeAniName": "",
+        "stirAniName": "",
+        "m_lbTitle": {
+          "m_FileID": 0,
+          "m_PathID": 8149528402489413763
+        },
+        "m_lbDesc": {
+          "m_FileID": 0,
+          "m_PathID": 2271437457293612774
+        },
+        "m_CharacterImage": {
+          "m_FileID": 0,
+          "m_PathID": -8787232802591205178
+        },
+        "m_CafeCharacter": [
+          {
+            "m_FileID": 10,
+            "m_PathID": 3390009803294541639
+          },
+          {
+            "m_FileID": 10,
+            "m_PathID": -578016466655874013
+          },
+          {
+            "m_FileID": 10,
+            "m_PathID": 6863788567631943925
+          },
+          {
+            "m_FileID": 10,
+            "m_PathID": 4530304155185901039
+          },
+          {
+            "m_FileID": 10,
+            "m_PathID": 5569480401324773748
+          },
+          {
+            "m_FileID": 10,
+            "m_PathID": 1812461016279422004
+          }
+        ],
+        "m_TitleKey": [
+          "SI_PF_EVENT_CAFE_STREGA_NEXT_PHASE_BUTTON_1",
+          "SI_PF_EVENT_CAFE_STREGA_NEXT_PHASE_BUTTON_2",
+          "SI_PF_EVENT_CAFE_STREGA_NEXT_PHASE_BUTTON_3",
+          "SI_PF_EVENT_CAFE_STREGA_NEXT_PHASE_BUTTON_4",
+          "SI_PF_EVENT_CAFE_STREGA_NEXT_PHASE_BUTTON_5",
+          "SI_PF_EVENT_CAFE_STREGA_NEXT_PHASE_BUTTON_6"
+        ],
+        "m_DescKey": [
+          "SI_PF_EVENT_CAFE_STREGA_RESULT_1",
+          "SI_PF_EVENT_CAFE_STREGA_RESULT_2",
+          "SI_PF_EVENT_CAFE_STREGA_RESULT_3",
+          "SI_PF_EVENT_CAFE_STREGA_RESULT_4",
+          "SI_PF_EVENT_CAFE_STREGA_RESULT_5",
+          "SI_PF_EVENT_CAFE_STREGA_RESULT_6"
+        ]
+      }
+    },
+    {
+      "path": "UI_SINGLE_CAFE/Content/PHASE - 1/#IllustRoot",
+      "type": "NKCUIComPrefabLoader",
+      "pathId": "5538393604340849779",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": -9085396661354036558
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": 7299408166755457218
+        },
+        "m_Name": "",
+        "m_BundleName": "ab_unit_illust_nkm_unit_c_strega_evelyn_caffe",
+        "m_AssetName": "AB_UNIT_ILLUST_NKM_UNIT_C_STREGA_EVELYN_CAFFE",
+        "Position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "m_targetObj": {
+          "m_FileID": 0,
+          "m_PathID": 5199530341028352302
+        },
+        "m_bUseTwoPassTransparency": 1
+      }
+    },
+    {
+      "path": "UI_SINGLE_CAFE/Content/PHASE - 2",
+      "type": "NKCUIEventBarPhaseCreate",
+      "pathId": "5572011160069098578",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": -5257456471141513209
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": -6774365471181543066
+        },
+        "m_Name": "",
+        "m_eventBarCreateMenu": {
+          "m_FileID": 0,
+          "m_PathID": -370542298471114698
+        },
+        "m_spriteCocktailNone": {
+          "m_FileID": 5,
+          "m_PathID": -2370696482056537206
+        },
+        "m_imgCocktailResult": {
+          "m_FileID": 0,
+          "m_PathID": -2119940156924958175
+        },
+        "m_csbtnCockTailResult": {
+          "m_FileID": 0,
+          "m_PathID": 6991223300897323459
+        },
+        "m_objCocktailFx": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_aniCocktailFx": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_objCreateFx": {
+          "m_FileID": 0,
+          "m_PathID": -6234952296193666130
+        },
+        "m_CreateFxSoundPlayer": {
+          "m_FileID": 0,
+          "m_PathID": -8102188779815036722
+        },
+        "m_objMenuSelectOnFx": {
+          "m_FileID": 0,
+          "m_PathID": 7947949965298347265
+        },
+        "m_objMenuSelectOffFx": {
+          "m_FileID": 0,
+          "m_PathID": -8867567881345132525
+        },
+        "m_spineRoot": {
+          "m_FileID": 0,
+          "m_PathID": -2663594987792708468
+        },
+        "m_npcSpineIllust": {
+          "m_FileID": 0,
+          "m_PathID": 4199136848631749444
+        },
+        "m_bartenderID": 1090,
+        "m_introVoice": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_todayCocktailVoice": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_createVoice": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_aniScript": {
+          "m_FileID": 0,
+          "m_PathID": 6943536767394364377
+        },
+        "m_scriptCanvasGroup": {
+          "m_FileID": 0,
+          "m_PathID": -5577891307079612434
+        },
+        "m_objScriptRoot": {
+          "m_FileID": 0,
+          "m_PathID": -3655485296708554269
+        },
+        "m_lbUnitName": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_lbScriptMsg": {
+          "m_FileID": 0,
+          "m_PathID": -7409351860178007183
+        },
+        "m_showScriptTime": 5.0,
+        "m_csbtnScriptPanel": {
+          "m_FileID": 0,
+          "m_PathID": 3870306326128840609
+        },
+        "m_BartenderHello": "SI_PF_EVENT_CAFE_STREGA_YUNA_MAKING_HELLO",
+        "m_BartenderReject": "SI_PF_EVENT_CAFE_STREGA_YUNA_MAKING_REJECT"
+      }
+    },
+    {
+      "path": "UI_SINGLE_CAFE_RESULT",
+      "type": "NKCUIEventBarResult",
+      "pathId": "7491769023047331543",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 6364060574607822059
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": 5425349689079357736
+        },
+        "m_Name": "",
+        "m_animator": {
+          "m_FileID": 0,
+          "m_PathID": -2808499078160004808
+        },
+        "m_canvasGroup": {
+          "m_FileID": 0,
+          "m_PathID": 2480444300811905444
+        },
+        "m_objShake": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_objStir": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_soundPlayer": {
+          "m_FileID": 0,
+          "m_PathID": 1004673832918783739
+        },
+        "m_fRewardPopupTimer": 3.0,
+        "m_unitID": 0,
+        "m_scale": 0.0,
+        "m_shakeSDRoot": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_stirSDRoot": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "shakeAniName": "",
+        "stirAniName": "",
+        "m_lbTitle": {
+          "m_FileID": 0,
+          "m_PathID": 8894104577502852568
+        },
+        "m_lbDesc": {
+          "m_FileID": 0,
+          "m_PathID": -8811938459342794078
+        },
+        "m_CharacterImage": {
+          "m_FileID": 0,
+          "m_PathID": -1258913166643333962
+        },
+        "m_CafeCharacter": [
+          {
+            "m_FileID": 10,
+            "m_PathID": 3390009803294541639
+          },
+          {
+            "m_FileID": 10,
+            "m_PathID": -578016466655874013
+          },
+          {
+            "m_FileID": 10,
+            "m_PathID": 6863788567631943925
+          },
+          {
+            "m_FileID": 10,
+            "m_PathID": 4530304155185901039
+          },
+          {
+            "m_FileID": 10,
+            "m_PathID": 5569480401324773748
+          },
+          {
+            "m_FileID": 10,
+            "m_PathID": 1812461016279422004
+          }
+        ],
+        "m_TitleKey": [
+          "SI_PF_EVENT_CAFE_STREGA_NEXT_PHASE_BUTTON_1",
+          "SI_PF_EVENT_CAFE_STREGA_NEXT_PHASE_BUTTON_2",
+          "SI_PF_EVENT_CAFE_STREGA_NEXT_PHASE_BUTTON_3",
+          "SI_PF_EVENT_CAFE_STREGA_NEXT_PHASE_BUTTON_4",
+          "SI_PF_EVENT_CAFE_STREGA_NEXT_PHASE_BUTTON_5",
+          "SI_PF_EVENT_CAFE_STREGA_NEXT_PHASE_BUTTON_6"
+        ],
+        "m_DescKey": [
+          "SI_PF_EVENT_CAFE_STREGA_RESULT_1",
+          "SI_PF_EVENT_CAFE_STREGA_RESULT_2",
+          "SI_PF_EVENT_CAFE_STREGA_RESULT_3",
+          "SI_PF_EVENT_CAFE_STREGA_RESULT_4",
+          "SI_PF_EVENT_CAFE_STREGA_RESULT_5",
+          "SI_PF_EVENT_CAFE_STREGA_RESULT_6"
+        ]
+      }
+    },
+    {
+      "path": "POPUP_UI_SINGLE_CAFE_MISSION/POPUP_SINGLE_CAFE_MISSION_RESULT/Content/UNIT",
+      "type": "NKCUINPCSpineIllust",
+      "pathId": "8520402726519283821",
+      "value": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": -2363999464667400396
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 0,
+          "m_PathID": -5895450014193618625
+        },
+        "m_Name": "",
+        "m_spUnitIllust": {
+          "m_FileID": 0,
+          "m_PathID": -3087851391823105895
+        },
+        "m_bUseTouch": 1,
+        "m_bResetOnEnable": 0
+      }
+    }
+  ],
+  "animationEvents": [
+    {
+      "name": "SINGLE_CAFE_SCRIPT_OUTRO",
+      "pathId": "-7055780758293988897",
+      "events": []
+    },
+    {
+      "name": "POPUP_SINGLE_CAFE_REWARD_IDLE",
+      "pathId": "-6888939233440654372",
+      "events": []
+    },
+    {
+      "name": "POPUP_SINGLE_CAFE_RESULT_INTRO",
+      "pathId": "-6416636712269253494",
+      "events": []
+    },
+    {
+      "name": "POPUP_SINGLE_CAFE_MISSION_INTRO",
+      "pathId": "-4771936344730467579",
+      "events": []
+    },
+    {
+      "name": "SINGLE_CAFE_INTRO",
+      "pathId": "-4668126234298737331",
+      "events": []
+    },
+    {
+      "name": "POPUP_SINGLE_CAFE_REWARD_INTRO",
+      "pathId": "-4284582631802482268",
+      "events": []
+    },
+    {
+      "name": "SINGLE_CAFE_SCRIPT_INTRO",
+      "pathId": "-4237550462201686793",
+      "events": []
+    },
+    {
+      "name": "SINGLE_CAFE_SCRIPT_IDLE",
+      "pathId": "-2452730849307590241",
+      "events": []
+    },
+    {
+      "name": "SINGLE_CAFE_01_IDLE",
+      "pathId": "-2206147094940467207",
+      "events": []
+    },
+    {
+      "name": "SINGLE_CAFE_LAUGH_FX",
+      "pathId": "-1533292552356966483",
+      "events": []
+    },
+    {
+      "name": "POPUP_SINGLE_CAFE_MISSION_RESULT_INTRO",
+      "pathId": "2378908726927634745",
+      "events": []
+    },
+    {
+      "name": "SINGLE_CAFE_ORDER_IDLE",
+      "pathId": "3844376063077608672",
+      "events": []
+    },
+    {
+      "name": "SINGLE_CAFE_STEP_02to01",
+      "pathId": "4327569796047725042",
+      "events": []
+    },
+    {
+      "name": "POPUP_SINGLE_CAFE_REWARD_OUTRO",
+      "pathId": "5535566635350714209",
+      "events": []
+    },
+    {
+      "name": "SINGLE_CAFE_STEP_01to02",
+      "pathId": "7114278288891709748",
+      "events": []
+    },
+    {
+      "name": "SINGLE_CAFE_02_IDLE",
+      "pathId": "8919379672787576400",
+      "events": []
+    }
+  ]
+}

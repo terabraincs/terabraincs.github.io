@@ -1,0 +1,11 @@
+{
+  "name": "NKM_UI_RESULT_COMMON_CONTENTS_NOANI",
+  "sourceAssetId": "CAB-2a2f973e6513181f8e5e36c0a0024e72:-5057349482677049531",
+  "sampleRate": 60.0,
+  "stopTime": 1.0,
+  "loopTime": false,
+  "curves": [],
+  "directFloatCurves": [],
+  "streamedFrames": [],
+  "method": "AssetStudio.StreamedClip.ReadData + Unity genericBindings; exact CRC32 match against serialized prefab paths/fields. Transform typeID4 attributes1/2/3/4 expand xyz/xyzw channels."
+}

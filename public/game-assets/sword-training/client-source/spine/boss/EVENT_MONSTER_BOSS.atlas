@@ -1,0 +1,125 @@
+
+EVENT_MONSTER_BOSS.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common_shadow
+  rotate: false
+  xy: 452, 158
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+front_body_1
+  rotate: true
+  xy: 531, 65
+  size: 444, 153
+  orig: 444, 153
+  offset: 0, 0
+  index: -1
+front_fore_foot_1
+  rotate: true
+  xy: 356, 22
+  size: 200, 94
+  orig: 200, 94
+  offset: 0, 0
+  index: -1
+front_fore_foot_2
+  rotate: true
+  xy: 78, 13
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+front_fore_leg_1
+  rotate: true
+  xy: 686, 11
+  size: 177, 188
+  orig: 177, 188
+  offset: 0, 0
+  index: -1
+front_fore_r_upleg_1
+  rotate: false
+  xy: 161, 12
+  size: 136, 75
+  orig: 136, 75
+  offset: 0, 0
+  index: -1
+front_fore_upleg_1
+  rotate: true
+  xy: 936, 198
+  size: 115, 78
+  orig: 115, 78
+  offset: 0, 0
+  index: -1
+front_haed_eye
+  rotate: false
+  xy: 299, 43
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+front_haed_nasa1
+  rotate: false
+  xy: 452, 94
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+front_head_1
+  rotate: true
+  xy: 686, 190
+  size: 319, 248
+  orig: 319, 248
+  offset: 0, 0
+  index: -1
+front_head_1_roll1
+  rotate: true
+  xy: 876, 2
+  size: 32, 66
+  orig: 32, 66
+  offset: 0, 0
+  index: -1
+front_head_2
+  rotate: false
+  xy: 2, 224
+  size: 527, 285
+  orig: 527, 285
+  offset: 0, 0
+  index: -1
+front_head_2_bbul
+  rotate: true
+  xy: 876, 36
+  size: 152, 120
+  orig: 152, 120
+  offset: 0, 0
+  index: -1
+front_rear_foot_1
+  rotate: true
+  xy: 936, 315
+  size: 194, 83
+  orig: 194, 83
+  offset: 0, 0
+  index: -1
+front_rear_foot_2
+  rotate: true
+  xy: 2, 9
+  size: 64, 74
+  orig: 64, 74
+  offset: 0, 0
+  index: -1
+front_rear_leg_1
+  rotate: true
+  xy: 2, 75
+  size: 147, 157
+  orig: 147, 157
+  offset: 0, 0
+  index: -1
+front_rear_upleg_1
+  rotate: true
+  xy: 161, 89
+  size: 133, 193
+  orig: 133, 193
+  offset: 0, 0
+  index: -1

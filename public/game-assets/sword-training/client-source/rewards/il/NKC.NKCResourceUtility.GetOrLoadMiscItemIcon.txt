@@ -1,0 +1,18 @@
+METHOD UnityEngine.Sprite NKC.NKCResourceUtility::GetOrLoadMiscItemIcon(NKM.NKMItemMiscTemplet)
+  0000: ldarg.0      
+  0001: brtrue.s     IL_0005: ldarg.0
+  0003: ldnull       
+  0004: ret          
+  0005: ldarg.0      
+  0006: call         System.String NKC.NKCResourceUtility::GetMiscItemIconBundleName(NKM.NKMItemMiscTemplet)
+  000B: ldarg.0      
+  000C: ldfld        System.String NKM.NKMItemMiscTemplet::m_ItemMiscIconName
+  0011: ldstr        AB_INVEN_
+  0016: call         NKM.NKMAssetName NKM.NKMAssetName::ParseBundleName(System.String,System.String,System.String)
+  001B: call         UnityEngine.Sprite NKC.NKCResourceUtility::GetOrLoadAssetResource<UnityEngine.Sprite>(NKM.NKMAssetName)
+  0020: ret          
+METHOD UnityEngine.Sprite NKC.NKCResourceUtility::GetOrLoadMiscItemIcon(System.Int32)
+  0000: ldarg.0      
+  0001: call         NKM.NKMItemMiscTemplet NKM.NKMItemManager::GetItemMiscTempletByID(System.Int32)
+  0006: call         UnityEngine.Sprite NKC.NKCResourceUtility::GetOrLoadMiscItemIcon(NKM.NKMItemMiscTemplet)
+  000B: ret          

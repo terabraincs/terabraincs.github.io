@@ -1,0 +1,36 @@
+METHOD System.Void NKC.UI.NKCPopupItemBox::NormalOpenProcess(NKC.UI.NKCUISlot/SlotData,NKC.UI.NKCPopupItemBox/eMode,System.Boolean,System.Boolean)
+  0000: ldarg.0      
+  0001: ldfld        UnityEngine.GameObject NKC.UI.NKCPopupItemBox::m_objEmoticonComment
+  0006: ldc.i4.0     
+  0007: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  000C: ldarg.0      
+  000D: ldfld        UnityEngine.GameObject NKC.UI.NKCPopupItemBox::m_objEmoticonSD
+  0012: ldc.i4.0     
+  0013: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  0018: ldarg.0      
+  0019: ldfld        UnityEngine.GameObject NKC.UI.NKCPopupItemBox::m_objNormalIcons
+  001E: ldc.i4.1     
+  001F: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  0024: ldarg.0      
+  0025: ldfld        NKC.UI.NKCUISlot NKC.UI.NKCPopupItemBox::m_NKCUIItemSlot
+  002A: ldarg.1      
+  002B: ldc.i4.0     
+  002C: ldarg.3      
+  002D: ldc.i4.0     
+  002E: ldnull       
+  002F: callvirt     System.Void NKC.UI.NKCUISlot::SetData(NKC.UI.NKCUISlot/SlotData,System.Boolean,System.Boolean,System.Boolean,NKC.UI.NKCUISlot/OnClick)
+  0034: ldarg.0      
+  0035: ldfld        NKC.UI.NKCUISlot NKC.UI.NKCPopupItemBox::m_NKCUIItemSlot
+  003A: ldc.i4.3     
+  003B: newarr       NKC.UI.NKCUISlot/SlotClickType
+  0040: dup          
+  0041: ldtoken      <PrivateImplementationDetails>/__StaticArrayInitTypeSize=12 <PrivateImplementationDetails>::81E5EC0B76146B12D14B7E9F6A2999DAEACD2D8873F87CD6F3E42A5AAA477C0D
+  0046: call         System.Void System.Runtime.CompilerServices.RuntimeHelpers::InitializeArray(System.Array,System.RuntimeFieldHandle)
+  004B: callvirt     System.Void NKC.UI.NKCUISlot::SetOnClickAction(NKC.UI.NKCUISlot/SlotClickType[])
+  0050: ldarg.0      
+  0051: ldarg.1      
+  0052: ldarg.2      
+  0053: ldarg.3      
+  0054: ldarg.s      showDropInfo
+  0056: call         System.Void NKC.UI.NKCPopupItemBox::CommonOpenProcess(NKC.UI.NKCUISlot/SlotData,NKC.UI.NKCPopupItemBox/eMode,System.Boolean,System.Boolean)
+  005B: ret          

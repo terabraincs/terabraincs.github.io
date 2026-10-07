@@ -1,0 +1,30 @@
+METHOD System.String NKC.NKCResourceUtility::GetMiscItemIconBundleName(NKM.NKMItemMiscTemplet)
+  0000: ldarg.0      
+  0001: brtrue.s     IL_0009: ldarg.0
+  0003: ldstr        AB_INVEN_ICON_ITEM_MISC
+  0008: ret          
+  0009: ldarg.0      
+  000A: ldfld        NKM.NKM_ITEM_MISC_TYPE NKM.NKMItemMiscTemplet::m_ItemMiscType
+  000F: stloc.0      
+  0010: ldloc.0      
+  0011: ldc.i4.4     
+  0012: sub          
+  0013: ldc.i4.1     
+  0014: ble.un.s     IL_0039: ldstr "AB_INVEN_ICON_EMBLEM"
+  0016: ldloc.0      
+  0017: ldc.i4.s     13
+  0019: sub          
+  001A: switch       IL_003F, IL_0045, IL_004B, IL_0057, IL_0057, IL_0051
+  0037: br.s         IL_0057: ldstr "AB_INVEN_ICON_ITEM_MISC"
+  0039: ldstr        AB_INVEN_ICON_EMBLEM
+  003E: ret          
+  003F: ldstr        AB_INVEN_ICON_UNIT_PIECE
+  0044: ret          
+  0045: ldstr        AB_INVEN_ICON_BG
+  004A: ret          
+  004B: ldstr        AB_INVEN_ICON_BORDER
+  0050: ret          
+  0051: ldstr        AB_INVEN_ICON_FNC
+  0056: ret          
+  0057: ldstr        AB_INVEN_ICON_ITEM_MISC
+  005C: ret          

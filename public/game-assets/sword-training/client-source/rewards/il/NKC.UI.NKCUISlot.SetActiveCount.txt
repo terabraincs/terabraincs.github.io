@@ -1,0 +1,10 @@
+METHOD System.Void NKC.UI.NKCUISlot::SetActiveCount(System.Boolean)
+  0000: ldarg.0      
+  0001: ldfld        UnityEngine.UI.Text NKC.UI.NKCUISlot::m_lbItemCount
+  0006: ldarg.1      
+  0007: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.MonoBehaviour,System.Boolean)
+  000C: ldarg.0      
+  000D: ldfld        UnityEngine.GameObject NKC.UI.NKCUISlot::m_objItemCount
+  0012: ldarg.1      
+  0013: call         System.Void NKC.NKCUtil::SetGameobjectActive(UnityEngine.GameObject,System.Boolean)
+  0018: ret          

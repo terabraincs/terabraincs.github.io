@@ -1,0 +1,14 @@
+{
+  "asset_name": "LUA_SI_MATCH_TEN_TEMPLET_KOREA_x",
+  "root_name": "m_dicString",
+  "data": [
+    [
+      "SI_PF_MATCH_TEN_BANNER_TITLE_DUMMY",
+      "탕비실 침공작전 규칙"
+    ],
+    [
+      "SI_PF_MATCH_TEN_BANNER_DESC_DUMMY",
+      "<b><color=#ffd34c>[탕비실 침공작전 규칙]</color></b>\n\n- 터치 & 드래그로 사각형 영역을 선택하세요.\n- 선택한 숫자의 합이 <b>10</b>이 되면, 유미나가 간식을 획득합니다.\n- 간식 1개를 획득할 때마다 1점이 추가됩니다.\n- 제한 시간 안에 간식을 최대한 많이 획득해 고득점을 노려보세요.\n- 제한 시간 내 모든 간식을 획득하면, 남은 시간이 기록됩니다."
+    ]
+  ]
+}

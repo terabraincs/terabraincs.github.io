@@ -1,0 +1,294 @@
+{
+  "name": "NKM_UI_WARFARE_RESULT_BG",
+  "sourceAssetId": "CAB-2a2f973e6513181f8e5e36c0a0024e72:8248344084322396928",
+  "sampleRate": 60.0,
+  "stopTime": 1.0,
+  "loopTime": false,
+  "curves": [],
+  "directFloatCurves": [
+    {
+      "curve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 447.0,
+            "inSlope": 0.0,
+            "outSlope": -44.400001525878906,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 20.0,
+            "value": -441.0,
+            "inSlope": -44.400001525878906,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "attribute": "m_AnchoredPosition.x",
+      "path": "",
+      "classID": 224,
+      "script": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "flags": 16
+    },
+    {
+      "curve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": -235.0,
+            "inSlope": 0.0,
+            "outSlope": 23.549999237060547,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 20.0,
+            "value": 236.0,
+            "inSlope": 23.549999237060547,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "attribute": "m_AnchoredPosition.y",
+      "path": "",
+      "classID": 224,
+      "script": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "flags": 16
+    },
+    {
+      "curve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 0.8166666626930237,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 19.200000762939453,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 20.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "attribute": "m_Color.a",
+      "path": "",
+      "classID": 114,
+      "script": {
+        "m_FileID": 0,
+        "m_PathID": "-8471220842657547617"
+      },
+      "flags": 16
+    },
+    {
+      "curve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 0.8166666626930237,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 19.200000762939453,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 20.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "attribute": "m_Color.r",
+      "path": "",
+      "classID": 114,
+      "script": {
+        "m_FileID": 0,
+        "m_PathID": "-8471220842657547617"
+      },
+      "flags": 16
+    },
+    {
+      "curve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 0.8166666626930237,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 19.200000762939453,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 20.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "attribute": "m_Color.g",
+      "path": "",
+      "classID": 114,
+      "script": {
+        "m_FileID": 0,
+        "m_PathID": "-8471220842657547617"
+      },
+      "flags": 16
+    },
+    {
+      "curve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 0.8166666626930237,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 19.200000762939453,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 20.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "attribute": "m_Color.b",
+      "path": "",
+      "classID": 114,
+      "script": {
+        "m_FileID": 0,
+        "m_PathID": "-8471220842657547617"
+      },
+      "flags": 16
+    }
+  ],
+  "streamedFrames": [],
+  "method": "AssetStudio.StreamedClip.ReadData + Unity genericBindings; exact CRC32 match against serialized prefab paths/fields. Transform typeID4 attributes1/2/3/4 expand xyz/xyzw channels."
+}

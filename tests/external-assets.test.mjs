@@ -10,7 +10,7 @@ const {publicFileExists}=loadTypeScript('lib/publicAssets.ts');
 const {createVoiceAudioPath}=loadTypeScript('lib/voice.ts');
 
 test('migrated images resolve to Raw even when no image is present in the Pages repository',()=>{
-  assert.equal(imageCatalog.paths.length,3723);
+  assert.equal(imageCatalog.paths.length,5283);
   for(const asset of imageCatalog.paths){
     const expected=imageCatalog.baseUrl+asset.split('/').map(encodeURIComponent).join('/');
     assert.equal(deploymentUrl(asset),expected,asset);

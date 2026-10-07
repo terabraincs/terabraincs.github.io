@@ -5,28 +5,32 @@ const base=process.env.NEXT_PUBLIC_BASE_PATH??'';const main=JSON.parse(fs.readFi
 const all=[];function walk(d){for(const e of fs.readdirSync(d,{withFileTypes:true})){const p=path.join(d,e.name);if(e.isDirectory())walk(p);else all.push(p);}}walk('out');
 const bytes=all.reduce((n,p)=>n+fs.statSync(p).size,0);assert.ok(bytes<1_000_000_000,'GitHub Pages output exceeds 1 GB');
 for(const feature of ['characters','story','spine-viewer'])assert.ok(!fs.existsSync('out/'+feature+'/index.html'),'Excluded feature exported: '+feature);
-for(const route of main?['','music','equipment','ships','operators','collection','collection/titles','collection/frames','collection/emblems','collection/trophies']:['','minigames','minigames/match-ten','minigames/cafe-strega','minigames/sword-training'])assert.ok(fs.existsSync('out/'+route+'/index.html'),'Missing route '+route);
+for(const route of ['','music','equipment','ships','operators','collection','collection/titles','collection/frames','collection/emblems','collection/trophies','minigames','minigames/match-ten','minigames/cafe-strega','minigames/sword-training'])assert.ok(fs.existsSync('out/'+route+'/index.html'),'Missing route '+route);
 const missing=new Set();let urls=0;
 const imageCatalog=JSON.parse(fs.readFileSync('data/main-image-assets.json','utf8'));
 const imagePaths=new Set(imageCatalog.paths);
+const minigameCatalog=JSON.parse(fs.readFileSync('data/minigame-assets.json','utf8'));
+const mediaPaths=new Set(minigameCatalog.paths);
 const operatorCatalog=JSON.parse(fs.readFileSync('data/operator-voice-assets.json','utf8'));
 const operatorPaths=new Set(operatorCatalog.paths);
 let externalImages=0,externalOperatorVoices=0;
 function check(url){
-  if(url.startsWith(imageCatalog.baseUrl+'/')){const rel=decodeURI(new URL(url).pathname.split('/').slice(4).join('/'));assert.ok(imagePaths.has('/'+rel),'Missing Asset_main image '+url);externalImages++;return;}
+  if(url.startsWith(imageCatalog.baseUrl+'/')){const rel=decodeURI(new URL(url).pathname.split('/').slice(4).join('/'));assert.ok(imagePaths.has('/'+rel)||mediaPaths.has('/'+rel),'Missing Asset_main media '+url);externalImages++;return;}
   if(url.startsWith(operatorCatalog.baseUrl+'/operator_voice/')){const rel=decodeURI(new URL(url).pathname.split('/').slice(4).join('/'));assert.ok(operatorPaths.has(rel),'Missing CS_Voice operator audio '+url);externalOperatorVoices++;return;}
   if(!url.startsWith(base+'/'))return;const rel=decodeURIComponent(url.slice(base.length+1).split(/[?#]/)[0]);if(!rel||!path.extname(rel)||rel.endsWith('.html'))return;urls++;if(!fs.existsSync(path.join('out',rel)))missing.add(url);
 }
 for(const file of all.filter(f=>f.endsWith('.html'))){const text=fs.readFileSync(file,'utf8');for(const m of text.matchAll(/(?:src|href)="([^"]+)"/g))check(m[1].replaceAll('&amp;','&'));for(const m of text.replaceAll('&quot;','"').matchAll(/url\((?:["']?)([^)'"\s]+)/g))check(m[1]);}
 for(const file of all.filter(f=>f.endsWith('.css'))){const text=fs.readFileSync(file,'utf8');for(const m of text.matchAll(/url\((?:["']?)([^)'"\s]+)/g))check(m[1]);}
-if(!main){for(const file of all.filter(f=>f.endsWith('.json')&&f.includes('minigames'))){const parsed=JSON.parse(fs.readFileSync(file,'utf8'));function visit(v){if(typeof v==='string')check(v);else if(v&&typeof v==='object')for(const c of Object.values(v))visit(c);}visit(parsed);}}
+for(const file of all.filter(f=>f.endsWith('.json')&&f.includes('game-assets'))){const parsed=JSON.parse(fs.readFileSync(file,'utf8'));function visit(v){if(typeof v==='string')check(v);else if(v&&typeof v==='object')for(const c of Object.values(v))visit(c);}visit(parsed);}
 assert.deepEqual([...missing],[],'Missing exported asset references');
 if(main){
   const home=fs.readFileSync('out/index.html','utf8');
   for(const label of ['사원','장비','함선','오퍼레이터','수집 요소','스토리 뷰어','주크박스','Spine 뷰어','미니게임','공식 홈페이지 백업','라운지 백업'])assert.ok(home.includes(label),'Missing hub button: '+label);
   for(const route of ['characters','equipment','ships','operators','collection','story','music','spine-viewer','minigames'])assert.ok(home.includes('href="/'+route),'Missing hub destination: '+route);
   assert.ok(home.includes('https://counterside.kro.kr/website/'),'Website backup link');
-  assert.ok(!fs.existsSync('out/minigames'),'Main assets overlap the minigames project route');
+  const minigames=fs.readFileSync('out/minigames/index.html','utf8');
+  for(const route of ['cafe-strega','match-ten','sword-training'])assert.ok(minigames.includes('href="/minigames/'+route),'Missing integrated game link');
+  const fonts=all.filter(file=>file.endsWith('.ttf')&&fs.statSync(file).size>0);assert.equal(fonts.length,2,'Duplicate font copies remain');
   const operator=all.find(p=>p.split(path.sep).length===4&&p.split(path.sep)[1]==='operators'&&p.endsWith('index.html'));
   assert.ok(fs.readFileSync(operator,'utf8').includes('https://raw.githubusercontent.com/terabraincs/CS_Voice/main/operator_voice/'),'External operator audio is absent');
   assert.ok(!all.some(file=>/\.(?:png|webp|jpe?g|gif|svg|ico|avif|ogg|wav)$/i.test(file)),'Migrated images/audio remain in Pages output');

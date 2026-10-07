@@ -1,0 +1,1019 @@
+{
+  "schemaVersion": 1,
+  "eventId": 6002,
+  "event": {
+    "m_EventID": 6002,
+    "m_EventType": "BAR",
+    "m_Visible": false,
+    "m_Enable": true,
+    "m_OrderList": 8000,
+    "m_LobbyBannerImage": "AB_UI_NKM_UI_EVENT_MINI_CAFE_STREGA",
+    "m_LobbyBannerType": "BASIC",
+    "m_LobbyBannerText": "SI_EVENT_TAB_TYPE_EVENT_SPECIAL",
+    "m_EventTabImage": "AB_UI_NKM_UI_EVENT_MINI_CAFE_STREGA",
+    "m_EventTabDesc": "SI_EVENT_TAB_DESC_CAFE_STREGA",
+    "m_EventHelpDesc": "SI_EVENT_HELP_DESC_SAMPLE",
+    "m_EventBannerPrefabName": "EVENT_CAFE_STREGA",
+    "m_ResourceTypeID_1": 1,
+    "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+    "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA"
+  },
+  "collection": {
+    "EventID": 7,
+    "OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+    "DateStrID": "DATE_EVENT_CAFE_STREGA",
+    "EventBannerStrID": "THUMB_EVENT_EVENTMERGE_2022_01",
+    "EventBannerTitleStrID": "LOBBY_TITLE__01",
+    "EventPrefabID": "ui_single_cafe@UI_SINGLE_CAFE",
+    "BgmAssetID": "CUTSCENE_TALK_03",
+    "BgmVolume": 100,
+    "m_Option": "EventTabID = 6002;"
+  },
+  "missionTab": {
+    "id": 9992,
+    "rows": [
+      {
+        "m_MissionID": 999201,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9992,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999601,
+        "m_ResetInterval": "NONE",
+        "m_MissionTitle": "SI_MISSION_DESC_ACHIEVE_2020_CHUSEOK_DAILY_LOGIN",
+        "m_MissionDesc": "SI_MISSION_DESC_ACHIEVE_2020_CHUSEOK_DAILY_LOGIN",
+        "m_Times": 1,
+        "m_MissionCond": "LOGIN_DAYS",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 704,
+        "m_RewardValue_1": 5,
+        "m_RewardType_2": "RT_MISC",
+        "m_RewardID_2": 705,
+        "m_RewardValue_2": 5,
+        "m_RewardType_3": "RT_MISC",
+        "m_RewardID_3": 706,
+        "m_RewardValue_3": 5
+      },
+      {
+        "m_MissionID": 999202,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9992,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999602,
+        "m_ResetInterval": "DAILY",
+        "m_MissionTitle": "SI_MISSION_DESC_ACHIEVE_PROJECT_OC_WORLD@@60",
+        "m_MissionDesc": "SI_MISSION_DESC_ACHIEVE_PROJECT_OC_WORLD@@60",
+        "m_ShortCutType": "SHORTCUT_WORLDMAP_MISSION",
+        "m_Times": 60,
+        "m_MissionCond": "WORLDMAP_MISSION_TOTAL_TIME",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 704,
+        "m_RewardValue_1": 15,
+        "m_RewardType_2": "RT_MISC",
+        "m_RewardID_2": 703,
+        "m_RewardValue_2": 5
+      },
+      {
+        "m_MissionID": 999203,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9992,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999603,
+        "m_ResetInterval": "DAILY",
+        "m_MissionTitle": "SI_MISSION_DESC_USER_LEVEL_CLEAR_DAILY@@2",
+        "m_MissionDesc": "SI_MISSION_DESC_USER_LEVEL_CLEAR_DAILY@@2",
+        "m_ShortCutType": "SHORTCUT_OPERATION",
+        "m_ShortCut": "EC_DAILY",
+        "m_Times": 2,
+        "m_MissionCond": "DAILY_DUNGEON_PLAY",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 705,
+        "m_RewardValue_1": 15,
+        "m_RewardType_2": "RT_MISC",
+        "m_RewardID_2": 703,
+        "m_RewardValue_2": 5
+      },
+      {
+        "m_MissionID": 999204,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9992,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999604,
+        "m_ResetInterval": "DAILY",
+        "m_MissionTitle": "SI_MISSION_DESC_USER_LEVEL_ETERNIUM@@20000",
+        "m_MissionDesc": "SI_MISSION_DESC_USER_LEVEL_ETERNIUM@@20000",
+        "m_ShortCutType": "SHORTCUT_MAINSTREAM",
+        "m_Times": 20000,
+        "m_MissionCond": "USE_ETERNIUM",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 706,
+        "m_RewardValue_1": 15,
+        "m_RewardType_2": "RT_MISC",
+        "m_RewardID_2": 703,
+        "m_RewardValue_2": 5
+      },
+      {
+        "m_MissionID": 999205,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9992,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999605,
+        "m_ResetInterval": "DAILY",
+        "m_MissionTitle": "SI_MISSION_TITLE_NEW_EVENT_PASS_DAILY_WEEK01_D01",
+        "m_MissionDesc": "SI_MISSION_TITLE_NEW_EVENT_PASS_DAILY_WEEK01_D01",
+        "m_ShortCutType": "SHORTCUT_OFFICE",
+        "m_ShortCut": "Forge",
+        "m_Times": 1,
+        "m_MissionCond": "EQUIP_MAKE",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 704,
+        "m_RewardValue_1": 15,
+        "m_RewardType_2": "RT_MISC",
+        "m_RewardID_2": 703,
+        "m_RewardValue_2": 5
+      },
+      {
+        "m_MissionID": 999206,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9992,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999606,
+        "m_ResetInterval": "DAILY",
+        "m_MissionTitle": "SI_MISSION_DESC_ACHIEVE_NIGHTMARE_ES_GP@@150",
+        "m_MissionDesc": "SI_MISSION_DESC_ACHIEVE_NIGHTMARE_ES_GP@@150",
+        "m_ShortCutType": "SHORTCUT_PVP_MAIN",
+        "m_Times": 150,
+        "m_MissionCond": "COLLECT_RESOURCE",
+        "m_MissionValue": "5",
+        "m_MissionValue1": "5",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 705,
+        "m_RewardValue_1": 15,
+        "m_RewardType_2": "RT_MISC",
+        "m_RewardID_2": 703,
+        "m_RewardValue_2": 5
+      },
+      {
+        "m_MissionID": 999207,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9992,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999607,
+        "m_ResetInterval": "DAILY",
+        "m_MissionTitle": "SI_MISSION_DESC_ACHIEVE_FAM_05_0211@@1",
+        "m_MissionDesc": "SI_MISSION_DESC_ACHIEVE_FAM_05_0211@@1",
+        "m_ShortCutType": "SHORTCUT_OFFICE",
+        "m_ShortCut": "Room",
+        "m_Times": 1,
+        "m_MissionCond": "USE_RESOURCE",
+        "m_MissionValue": "37",
+        "m_MissionValue1": "37",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 706,
+        "m_RewardValue_1": 15,
+        "m_RewardType_2": "RT_MISC",
+        "m_RewardID_2": 703,
+        "m_RewardValue_2": 5
+      }
+    ]
+  },
+  "missionGroup": {
+    "id": 999201,
+    "rows": [
+      {
+        "m_MissionID": 999301,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9993,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999201,
+        "m_ResetInterval": "NONE",
+        "m_MissionTitle": "SI_MISSION_TITLE_CAFE_DRINKS@@30",
+        "m_MissionDesc": "SI_PF_EVENT_CAFE_STREGA_STEP@@1",
+        "m_Times": 30,
+        "m_MissionCond": "COLLECT_RESOURCE",
+        "m_MissionValue": "703",
+        "m_MissionValue1": "703",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 1035,
+        "m_RewardValue_1": 5
+      },
+      {
+        "m_MissionID": 999302,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9993,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999201,
+        "m_ResetInterval": "NONE",
+        "m_MissionTitle": "SI_MISSION_TITLE_CAFE_DRINKS@@60",
+        "m_MissionDesc": "SI_PF_EVENT_CAFE_STREGA_STEP@@2",
+        "m_MissionRequire": 999301,
+        "m_Times": 60,
+        "m_MissionCond": "COLLECT_RESOURCE",
+        "m_MissionValue": "703",
+        "m_MissionValue1": "703",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 1035,
+        "m_RewardValue_1": 5
+      },
+      {
+        "m_MissionID": 999303,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9993,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999201,
+        "m_ResetInterval": "NONE",
+        "m_MissionTitle": "SI_MISSION_TITLE_CAFE_DRINKS@@90",
+        "m_MissionDesc": "SI_PF_EVENT_CAFE_STREGA_STEP@@3",
+        "m_MissionRequire": 999302,
+        "m_Times": 90,
+        "m_MissionCond": "COLLECT_RESOURCE",
+        "m_MissionValue": "703",
+        "m_MissionValue1": "703",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 1035,
+        "m_RewardValue_1": 5
+      },
+      {
+        "m_MissionID": 999304,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9993,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999201,
+        "m_ResetInterval": "NONE",
+        "m_MissionTitle": "SI_MISSION_TITLE_CAFE_DRINKS@@120",
+        "m_MissionDesc": "SI_PF_EVENT_CAFE_STREGA_STEP@@4",
+        "m_MissionRequire": 999303,
+        "m_Times": 120,
+        "m_MissionCond": "COLLECT_RESOURCE",
+        "m_MissionValue": "703",
+        "m_MissionValue1": "703",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 1035,
+        "m_RewardValue_1": 5
+      },
+      {
+        "m_MissionID": 999305,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9993,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999201,
+        "m_ResetInterval": "NONE",
+        "m_MissionTitle": "SI_MISSION_TITLE_CAFE_DRINKS@@150",
+        "m_MissionDesc": "SI_PF_EVENT_CAFE_STREGA_STEP@@5",
+        "m_MissionRequire": 999304,
+        "m_Times": 150,
+        "m_MissionCond": "COLLECT_RESOURCE",
+        "m_MissionValue": "703",
+        "m_MissionValue1": "703",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 1035,
+        "m_RewardValue_1": 10
+      },
+      {
+        "m_MissionID": 999306,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9993,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999201,
+        "m_ResetInterval": "NONE",
+        "m_MissionTitle": "SI_MISSION_TITLE_CAFE_DRINKS@@180",
+        "m_MissionDesc": "SI_PF_EVENT_CAFE_STREGA_STEP@@6",
+        "m_MissionRequire": 999305,
+        "m_Times": 180,
+        "m_MissionCond": "COLLECT_RESOURCE",
+        "m_MissionValue": "703",
+        "m_MissionValue1": "703",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 1035,
+        "m_RewardValue_1": 10
+      },
+      {
+        "m_MissionID": 999307,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9993,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999201,
+        "m_ResetInterval": "NONE",
+        "m_MissionTitle": "SI_MISSION_TITLE_CAFE_DRINKS@@210",
+        "m_MissionDesc": "SI_PF_EVENT_CAFE_STREGA_STEP@@7",
+        "m_MissionRequire": 999306,
+        "m_Times": 210,
+        "m_MissionCond": "COLLECT_RESOURCE",
+        "m_MissionValue": "703",
+        "m_MissionValue1": "703",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 1035,
+        "m_RewardValue_1": 10
+      },
+      {
+        "m_MissionID": 999308,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9993,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999201,
+        "m_ResetInterval": "NONE",
+        "m_MissionTitle": "SI_MISSION_TITLE_CAFE_DRINKS@@240",
+        "m_MissionDesc": "SI_PF_EVENT_CAFE_STREGA_STEP@@8",
+        "m_MissionRequire": 999307,
+        "m_Times": 240,
+        "m_MissionCond": "COLLECT_RESOURCE",
+        "m_MissionValue": "703",
+        "m_MissionValue1": "703",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 1035,
+        "m_RewardValue_1": 10
+      },
+      {
+        "m_MissionID": 999309,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9993,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999201,
+        "m_ResetInterval": "NONE",
+        "m_MissionTitle": "SI_MISSION_TITLE_CAFE_DRINKS@@270",
+        "m_MissionDesc": "SI_PF_EVENT_CAFE_STREGA_STEP@@9",
+        "m_MissionRequire": 999308,
+        "m_Times": 270,
+        "m_MissionCond": "COLLECT_RESOURCE",
+        "m_MissionValue": "703",
+        "m_MissionValue1": "703",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 1035,
+        "m_RewardValue_1": 20
+      },
+      {
+        "m_MissionID": 999310,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9993,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999201,
+        "m_ResetInterval": "NONE",
+        "m_MissionTitle": "SI_MISSION_TITLE_CAFE_DRINKS@@300",
+        "m_MissionDesc": "SI_PF_EVENT_CAFE_STREGA_STEP@@10",
+        "m_MissionRequire": 999309,
+        "m_Times": 300,
+        "m_MissionCond": "COLLECT_RESOURCE",
+        "m_MissionValue": "703",
+        "m_MissionValue1": "703",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 1035,
+        "m_RewardValue_1": 20
+      },
+      {
+        "m_MissionID": 999311,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9993,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999201,
+        "m_ResetInterval": "NONE",
+        "m_MissionTitle": "SI_MISSION_TITLE_CAFE_DRINKS@@330",
+        "m_MissionDesc": "SI_PF_EVENT_CAFE_STREGA_STEP@@11",
+        "m_MissionRequire": 999310,
+        "m_Times": 330,
+        "m_MissionCond": "COLLECT_RESOURCE",
+        "m_MissionValue": "703",
+        "m_MissionValue1": "703",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 1,
+        "m_RewardValue_1": 200000
+      },
+      {
+        "m_MissionID": 999312,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9993,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999201,
+        "m_ResetInterval": "NONE",
+        "m_MissionTitle": "SI_MISSION_TITLE_CAFE_DRINKS@@360",
+        "m_MissionDesc": "SI_PF_EVENT_CAFE_STREGA_STEP@@12",
+        "m_MissionRequire": 999311,
+        "m_Times": 360,
+        "m_MissionCond": "COLLECT_RESOURCE",
+        "m_MissionValue": "703",
+        "m_MissionValue1": "703",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 1,
+        "m_RewardValue_1": 200000
+      },
+      {
+        "m_MissionID": 999313,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9993,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999201,
+        "m_ResetInterval": "NONE",
+        "m_MissionTitle": "SI_MISSION_TITLE_CAFE_DRINKS@@390",
+        "m_MissionDesc": "SI_PF_EVENT_CAFE_STREGA_STEP@@13",
+        "m_MissionRequire": 999312,
+        "m_Times": 390,
+        "m_MissionCond": "COLLECT_RESOURCE",
+        "m_MissionValue": "703",
+        "m_MissionValue1": "703",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 1,
+        "m_RewardValue_1": 200000
+      },
+      {
+        "m_MissionID": 999314,
+        "m_OpenTag": "TAG_GLOBAL_EVENT_CAFE_STREGA",
+        "m_DateStrID": "DATE_EVENT_CAFE_STREGA",
+        "m_MissionTab": "TAB_EVENT",
+        "m_MissionTabId": 9993,
+        "m_MissionIcon": "EVENT_ICON_ADMIN",
+        "m_MissionCounterGroupID": 999201,
+        "m_ResetInterval": "NONE",
+        "m_MissionTitle": "SI_MISSION_TITLE_CAFE_DRINKS@@420",
+        "m_MissionDesc": "SI_PF_EVENT_CAFE_STREGA_STEP@@14",
+        "m_MissionRequire": 999313,
+        "m_Times": 420,
+        "m_MissionCond": "COLLECT_RESOURCE",
+        "m_MissionValue": "703",
+        "m_MissionValue1": "703",
+        "m_RewardType_1": "RT_MISC",
+        "m_RewardID_1": 1,
+        "m_RewardValue_1": 200000
+      }
+    ]
+  },
+  "ingredientIds": [
+    704,
+    705,
+    706
+  ],
+  "recipes": [
+    {
+      "itemId": 31098,
+      "technique": "shake",
+      "materials": [
+        {
+          "itemId": 704,
+          "count": 2
+        },
+        {
+          "itemId": 705,
+          "count": 2
+        }
+      ],
+      "delivery": {
+        "limit": "Day",
+        "limitCount": 1,
+        "count": 5,
+        "rewardItemId": 1016,
+        "rewardCount": 5
+      }
+    },
+    {
+      "itemId": 31099,
+      "technique": "shake",
+      "materials": [
+        {
+          "itemId": 705,
+          "count": 2
+        },
+        {
+          "itemId": 706,
+          "count": 2
+        }
+      ],
+      "delivery": {
+        "limit": "Day",
+        "limitCount": 1,
+        "count": 5,
+        "rewardItemId": 1035,
+        "rewardCount": 10
+      }
+    },
+    {
+      "itemId": 31100,
+      "technique": "shake",
+      "materials": [
+        {
+          "itemId": 706,
+          "count": 2
+        },
+        {
+          "itemId": 704,
+          "count": 2
+        }
+      ],
+      "delivery": {
+        "limit": "Day",
+        "limitCount": 1,
+        "count": 5,
+        "rewardItemId": 1033,
+        "rewardCount": 275
+      }
+    },
+    {
+      "itemId": 31101,
+      "technique": "stir",
+      "materials": [
+        {
+          "itemId": 704,
+          "count": 2
+        },
+        {
+          "itemId": 705,
+          "count": 2
+        }
+      ],
+      "delivery": {
+        "limit": "Day",
+        "limitCount": 1,
+        "count": 5,
+        "rewardItemId": 1019,
+        "rewardCount": 110
+      }
+    },
+    {
+      "itemId": 31102,
+      "technique": "stir",
+      "materials": [
+        {
+          "itemId": 705,
+          "count": 2
+        },
+        {
+          "itemId": 706,
+          "count": 2
+        }
+      ],
+      "delivery": {
+        "limit": "Day",
+        "limitCount": 1,
+        "count": 5,
+        "rewardItemId": 1013,
+        "rewardCount": 220
+      }
+    },
+    {
+      "itemId": 31103,
+      "technique": "stir",
+      "materials": [
+        {
+          "itemId": 706,
+          "count": 2
+        },
+        {
+          "itemId": 704,
+          "count": 2
+        }
+      ],
+      "delivery": {
+        "limit": "Day",
+        "limitCount": 1,
+        "count": 5,
+        "rewardItemId": 1033,
+        "rewardCount": 275
+      }
+    }
+  ],
+  "items": {
+    "1": {
+      "itemId": 1,
+      "name": "크레딧",
+      "description": "관리국이 통제하는 무국경 화폐.\n사원, 함선, 장비의 획득과 성장 등에 사용됩니다.",
+      "nameKey": "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RESOURCE_CREDIT",
+      "descriptionKey": "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RESOURCE_CREDIT",
+      "iconName": "ICON_ITEM_MISC_RESOURCE_CREDIT",
+      "type": "IMT_RESOURCE",
+      "grade": "NIG_N",
+      "dateStrId": null
+    },
+    "703": {
+      "itemId": 703,
+      "name": "스트레가 쿠폰 도장",
+      "description": "도장을 모으면 다양한 보상으로 교환할 수 있다.\n행사 인터뷰에서 스트레가를 다시 찾아오게 하는 마법이 걸려있냐는 질문을 받자 라우라는 딴청을 피웠다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+      "nameKey": "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RESOURCE_EVENT_CAFE_STREGA",
+      "descriptionKey": "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RESOURCE_EVENT_CAFE_STREGA",
+      "iconName": "ICON_ITEM_MISC_EVENT_CAFE_STREGA",
+      "type": "IMT_RESOURCE",
+      "grade": "NIG_N",
+      "dateStrId": "DATE_COMMON_SHOP_EVENT_CAFE_STREGA"
+    },
+    "704": {
+      "itemId": 704,
+      "name": "설탕 연꽃",
+      "description": "디저트 연못에서 자라는 마법 수생식물.\n설탕으로 동물을 끌어들이며, 씨앗에서는 초콜릿 맛이 난다고 한다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+      "nameKey": "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RESOURCE_EVENT_CAFE_STREGA_1",
+      "descriptionKey": "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RESOURCE_EVENT_CAFE_STREGA_1",
+      "iconName": "ICON_ITEM_MISC_EVENT_CAFE_STREGA_1",
+      "type": "IMT_RESOURCE",
+      "grade": "NIG_N",
+      "dateStrId": "DATE_COMMON_SHOP_EVENT_CAFE_STREGA"
+    },
+    "705": {
+      "itemId": 705,
+      "name": "풍작 이파리",
+      "description": "마녀들이 풍작을 기원하는 나무에서 채취한 어린 잎.\n가공 방식에 따라 다채롭고 깊은 맛이 우러난다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+      "nameKey": "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RESOURCE_EVENT_CAFE_STREGA_2",
+      "descriptionKey": "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RESOURCE_EVENT_CAFE_STREGA_2",
+      "iconName": "ICON_ITEM_MISC_EVENT_CAFE_STREGA_2",
+      "type": "IMT_RESOURCE",
+      "grade": "NIG_N",
+      "dateStrId": "DATE_COMMON_SHOP_EVENT_CAFE_STREGA"
+    },
+    "706": {
+      "itemId": 706,
+      "name": "무지개 씨앗",
+      "description": "에블린이 다른 세계에서 공수한 요술 씨앗.\n소원과 함께 물에 담그면 원하는 수용성 과일로 변한다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+      "nameKey": "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RESOURCE_EVENT_CAFE_STREGA_3",
+      "descriptionKey": "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RESOURCE_EVENT_CAFE_STREGA_3",
+      "iconName": "ICON_ITEM_MISC_EVENT_CAFE_STREGA_3",
+      "type": "IMT_RESOURCE",
+      "grade": "NIG_N",
+      "dateStrId": "DATE_COMMON_SHOP_EVENT_CAFE_STREGA"
+    },
+    "1013": {
+      "itemId": 1013,
+      "name": "튜닝 바이너리",
+      "description": "장비 튜닝에 필요한 데이터셋.\n제조사는 하이 테크놀러지의 집합체라고 주장합니다.",
+      "nameKey": "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_TUNING_MATERIAL",
+      "descriptionKey": "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_TUNING_MATERIAL",
+      "iconName": "ICON_IMI_ITEM_MISC_TUNING_MATERIAL",
+      "type": "IMT_MISC",
+      "grade": "NIG_SR",
+      "dateStrId": null
+    },
+    "1016": {
+      "itemId": 1016,
+      "name": "융합핵",
+      "description": "클래스와 무관하게 모든 사원의 한계융합에 쓰이는 활성인자.\n새로운 힘에 눈을 뜨게 해 줍니다.",
+      "nameKey": "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_LIMITBREAK_AWAKEN",
+      "descriptionKey": "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_LIMITBREAK_AWAKEN",
+      "iconName": "ICON_IMI_ITEM_MISC_LIMITBREAK_AWAKEN",
+      "type": "IMT_MISC",
+      "grade": "NIG_SSR",
+      "dateStrId": null
+    },
+    "1019": {
+      "itemId": 1019,
+      "name": "기밀 훈련 자료",
+      "description": "고급 기술 훈련을 진행하기 위해 필요한 기밀 자료.\n국가 정보기관이 취합한 정보로 만든다는 설이 있습니다.",
+      "nameKey": "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_UNIT_SKILL_TRAING_2",
+      "descriptionKey": "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_UNIT_SKILL_TRAING_2",
+      "iconName": "ICON_IMI_ITEM_MISC_UNIT_SKILL_TRAING_2",
+      "type": "IMT_MISC",
+      "grade": "NIG_SR",
+      "dateStrId": null
+    },
+    "1033": {
+      "itemId": 1033,
+      "name": "특별 역량 평가서",
+      "description": "연봉협상 대상자에게 부여할 역량 평가서.\n태스크포스 관리법에 따라 역량 평가에 대한 정당한 임금을 지급해야 한다.\n대상자에게 대량의 경험치와 애사심을 부여한다.",
+      "nameKey": "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_UNIT_NEGOTIATE_DOC_3",
+      "descriptionKey": "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_UNIT_NEGOTIATE_DOC_3",
+      "iconName": "ICON_IMI_ITEM_MISC_UNIT_NEGOTIATE_DOC_3",
+      "type": "IMT_MISC",
+      "grade": "NIG_SR",
+      "dateStrId": null
+    },
+    "1035": {
+      "itemId": 1035,
+      "name": "세트 바이너리",
+      "description": "장비 세트 옵션 변경에 필요한 데이터셋.\n제조사는 하이 테크놀러지의 집합체라고 주장합니다.",
+      "nameKey": "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_SET_MATERIAL",
+      "descriptionKey": "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_SET_MATERIAL",
+      "iconName": "ICON_IMI_ITEM_MISC_SET_MATERIAL",
+      "type": "IMT_MISC",
+      "grade": "NIG_SSR",
+      "dateStrId": null
+    },
+    "31098": {
+      "itemId": 31098,
+      "name": "매지컬 민트 초코 프라페",
+      "description": "유나가 가장 좋아하는 메뉴.\n유나는 이걸 싫어하는 사람은 세상에 없다며 굳게 믿고 있다.\n일정 확률로 역량 평가서 종류 중 하나를 획득합니다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+      "nameKey": "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_1",
+      "descriptionKey": "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_1",
+      "iconName": "ICON_IMI_ITEM_MISC_RANDOMBOX_CAFE_STREGA_1",
+      "type": "IMT_RANDOMBOX",
+      "grade": "NIG_SSR",
+      "dateStrId": "DATE_COMMON_SHOP_EVENT_CAFE_STREGA"
+    },
+    "31099": {
+      "itemId": 31099,
+      "name": "펌킨 나이트 스튜",
+      "description": "잉그리드가 가장 좋아하는 메뉴.\n한 잔만 마셔도 든든해져서 기운이 난다.\n일정 확률로 적성핵 혹은 특수적성핵을 획득합니다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+      "nameKey": "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_2",
+      "descriptionKey": "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_2",
+      "iconName": "ICON_IMI_ITEM_MISC_RANDOMBOX_CAFE_STREGA_2",
+      "type": "IMT_RANDOMBOX",
+      "grade": "NIG_SSR",
+      "dateStrId": "DATE_COMMON_SHOP_EVENT_CAFE_STREGA"
+    },
+    "31100": {
+      "itemId": 31100,
+      "name": "프리미엄 뱀파이어 스무디",
+      "description": "뱀파이어 손님들이 좋아하는 메뉴.\n수상할 정도로 붉은 액체에선 상큼한 베리향이 난다.\n일정 확률로 적성핵 혹은 특수적성핵을 획득합니다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+      "nameKey": "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_3",
+      "descriptionKey": "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_3",
+      "iconName": "ICON_IMI_ITEM_MISC_RANDOMBOX_CAFE_STREGA_3",
+      "type": "IMT_RANDOMBOX",
+      "grade": "NIG_SSR",
+      "dateStrId": "DATE_COMMON_SHOP_EVENT_CAFE_STREGA"
+    },
+    "31101": {
+      "itemId": 31101,
+      "name": "스페셜 오렌지 비앙코",
+      "description": "에블린의 비법이 반영된 특제 카페라떼.\n새콤한 오렌지가 커피에 풍미를 더한다.\n일정 확률로 적성핵 혹은 특수적성핵을 획득합니다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+      "nameKey": "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_4",
+      "descriptionKey": "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_4",
+      "iconName": "ICON_IMI_ITEM_MISC_RANDOMBOX_CAFE_STREGA_4",
+      "type": "IMT_RANDOMBOX",
+      "grade": "NIG_SSR",
+      "dateStrId": "DATE_COMMON_SHOP_EVENT_CAFE_STREGA"
+    },
+    "31102": {
+      "itemId": 31102,
+      "name": "허니문 루트비어 플로트",
+      "description": "바닐라 아이스크림을 얹은 탄산음료.\n구름처럼 부드러운 거품은 신혼 생활처럼 달콤하다.\n일정 확률로 정예 장비 소재 혹은 고급 장비 소재를 획득합니다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+      "nameKey": "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_5",
+      "descriptionKey": "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_5",
+      "iconName": "ICON_IMI_ITEM_MISC_RANDOMBOX_CAFE_STREGA_5",
+      "type": "IMT_RANDOMBOX",
+      "grade": "NIG_SSR",
+      "dateStrId": "DATE_COMMON_SHOP_EVENT_CAFE_STREGA"
+    },
+    "31103": {
+      "itemId": 31103,
+      "name": "미라클 시트러스 티",
+      "description": "투명한 차에 상큼해지는 시트러스의 마법을 첨가한 메뉴.\n플루토는 왠지 싫어하는 것 같다.\n일정 확률로 특별 함선 설계 도면 혹은 함종 소재 교환권을 획득합니다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+      "nameKey": "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_6",
+      "descriptionKey": "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_6",
+      "iconName": "ICON_IMI_ITEM_MISC_RANDOMBOX_CAFE_STREGA_6",
+      "type": "IMT_RANDOMBOX",
+      "grade": "NIG_SSR",
+      "dateStrId": "DATE_COMMON_SHOP_EVENT_CAFE_STREGA"
+    }
+  },
+  "strings": {
+    "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RESOURCE_CREDIT": "크레딧",
+    "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RESOURCE_EVENT_CAFE_STREGA": "스트레가 쿠폰 도장",
+    "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RESOURCE_EVENT_CAFE_STREGA_1": "설탕 연꽃",
+    "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RESOURCE_EVENT_CAFE_STREGA_2": "풍작 이파리",
+    "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RESOURCE_EVENT_CAFE_STREGA_3": "무지개 씨앗",
+    "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_TUNING_MATERIAL": "튜닝 바이너리",
+    "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_LIMITBREAK_AWAKEN": "융합핵",
+    "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_UNIT_SKILL_TRAING_2": "기밀 훈련 자료",
+    "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_UNIT_NEGOTIATE_DOC_3": "특별 역량 평가서",
+    "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_SET_MATERIAL": "세트 바이너리",
+    "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_1": "매지컬 민트 초코 프라페",
+    "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_2": "펌킨 나이트 스튜",
+    "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_3": "프리미엄 뱀파이어 스무디",
+    "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_4": "스페셜 오렌지 비앙코",
+    "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_5": "허니문 루트비어 플로트",
+    "SI_ITEM_MISC_NAME_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_6": "미라클 시트러스 티",
+    "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RESOURCE_CREDIT": "관리국이 통제하는 무국경 화폐.\n사원, 함선, 장비의 획득과 성장 등에 사용됩니다.",
+    "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RESOURCE_EVENT_CAFE_STREGA": "도장을 모으면 다양한 보상으로 교환할 수 있다.\n행사 인터뷰에서 스트레가를 다시 찾아오게 하는 마법이 걸려있냐는 질문을 받자 라우라는 딴청을 피웠다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+    "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RESOURCE_EVENT_CAFE_STREGA_1": "디저트 연못에서 자라는 마법 수생식물.\n설탕으로 동물을 끌어들이며, 씨앗에서는 초콜릿 맛이 난다고 한다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+    "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RESOURCE_EVENT_CAFE_STREGA_2": "마녀들이 풍작을 기원하는 나무에서 채취한 어린 잎.\n가공 방식에 따라 다채롭고 깊은 맛이 우러난다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+    "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RESOURCE_EVENT_CAFE_STREGA_3": "에블린이 다른 세계에서 공수한 요술 씨앗.\n소원과 함께 물에 담그면 원하는 수용성 과일로 변한다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+    "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_TUNING_MATERIAL": "장비 튜닝에 필요한 데이터셋.\n제조사는 하이 테크놀러지의 집합체라고 주장합니다.",
+    "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_LIMITBREAK_AWAKEN": "클래스와 무관하게 모든 사원의 한계융합에 쓰이는 활성인자.\n새로운 힘에 눈을 뜨게 해 줍니다.",
+    "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_UNIT_SKILL_TRAING_2": "고급 기술 훈련을 진행하기 위해 필요한 기밀 자료.\n국가 정보기관이 취합한 정보로 만든다는 설이 있습니다.",
+    "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_UNIT_NEGOTIATE_DOC_3": "연봉협상 대상자에게 부여할 역량 평가서.\n태스크포스 관리법에 따라 역량 평가에 대한 정당한 임금을 지급해야 한다.\n대상자에게 대량의 경험치와 애사심을 부여한다.",
+    "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_SET_MATERIAL": "장비 세트 옵션 변경에 필요한 데이터셋.\n제조사는 하이 테크놀러지의 집합체라고 주장합니다.",
+    "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_1": "유나가 가장 좋아하는 메뉴.\n유나는 이걸 싫어하는 사람은 세상에 없다며 굳게 믿고 있다.\n일정 확률로 역량 평가서 종류 중 하나를 획득합니다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+    "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_2": "잉그리드가 가장 좋아하는 메뉴.\n한 잔만 마셔도 든든해져서 기운이 난다.\n일정 확률로 적성핵 혹은 특수적성핵을 획득합니다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+    "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_3": "뱀파이어 손님들이 좋아하는 메뉴.\n수상할 정도로 붉은 액체에선 상큼한 베리향이 난다.\n일정 확률로 적성핵 혹은 특수적성핵을 획득합니다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+    "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_4": "에블린의 비법이 반영된 특제 카페라떼.\n새콤한 오렌지가 커피에 풍미를 더한다.\n일정 확률로 적성핵 혹은 특수적성핵을 획득합니다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+    "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_5": "바닐라 아이스크림을 얹은 탄산음료.\n구름처럼 부드러운 거품은 신혼 생활처럼 달콤하다.\n일정 확률로 정예 장비 소재 혹은 고급 장비 소재를 획득합니다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+    "SI_ITEM_MISC_DESC_IMI_ITEM_MISC_RANDOM_CAFE_STREGA_6": "투명한 차에 상큼해지는 시트러스의 마법을 첨가한 메뉴.\n플루토는 왠지 싫어하는 것 같다.\n일정 확률로 특별 함선 설계 도면 혹은 함종 소재 교환권을 획득합니다.\n해당 아이템은 이벤트 종료 이후 삭제됩니다.",
+    "SI_MISSION_TITLE_NEW_EVENT_PASS_DAILY_WEEK01_D01": "장비 제작 1회",
+    "SI_MISSION_DESC_ACHIEVE_2020_CHUSEOK_DAILY_LOGIN": "이벤트 기간 중 접속",
+    "SI_MISSION_DESC_ACHIEVE_PROJECT_OC_WORLD": "월드맵 파견 누적 {0}분",
+    "SI_MISSION_DESC_USER_LEVEL_CLEAR_DAILY": "모의 작전 {0}회 클리어",
+    "SI_MISSION_DESC_USER_LEVEL_ETERNIUM": "이터니움 {0}개 소모",
+    "SI_MISSION_DESC_ACHIEVE_NIGHTMARE_ES_GP": "건틀렛에서 건틀렛 포인트 {0}개 획득",
+    "SI_MISSION_DESC_ACHIEVE_FAM_05_0211": "회식을 통한 코핀 컴퍼니 법인 카드 {0}개 소모",
+    "SI_MISSION_TITLE_CAFE_DRINKS": "스트레가 쿠폰 도장 {0}개 획득",
+    "SI_PF_EVENT_CAFE_STREGA_STEP": "보상 <color=#A62121>{0}단계</color>",
+    "SI_DP_SLOT_MODE_TYPE_STRING_UNIT": "유닛",
+    "SI_DP_SLOT_MODE_TYPE_STRING_MOLD": "금형",
+    "SI_DP_SLOT_MODE_TYPE_STRING_EQUIP": "장비",
+    "SI_DP_SLOT_MODE_TYPE_STRING_SKIN": "스킨",
+    "SI_DP_CONFIRM": "확인",
+    "SI_DP_ITEM_COUNT_ONE_PARAM": "보유 수 : {0}",
+    "SI_DP_TOOLTIP_QUANTITY_ONE_PARAM": "보유 : {0:N0}",
+    "SI_DP_COOLTIME_ONE_PARAM": "쿨타임:{0}초",
+    "SI_DP_SHOP": "상점",
+    "SI_DP_SHOP_PURCHASE": "구매",
+    "SI_DP_MISSION_RESET_INTERVAL_DAILY": "일일",
+    "SI_DP_MISSION_RESET_INTERVAL_WEEKLY": "매주",
+    "SI_DP_MISSION_RESET_INTERVAL_MONTHLY": "매월",
+    "SI_DP_MISC_TYPE_STRING_IMT_RANDOMBOX": "비품",
+    "SI_DP_MISC_TYPE_STRING_IMT_RESOURCE": "자원",
+    "SI_TC_COST": "필요 코스트: {0} (+{1})",
+    "SI_DP_MISC_TYPE_STRING_IMT_INTERIOR": "인테리어",
+    "SI_DP_INTERIOR_COUNT_TWO_PARAM": "배치 가능 : {0} / {1}",
+    "SI_DP_DROP_INFO": "획득처",
+    "SI_DP_AD_START_BUTTON": "FREE",
+    "SI_DP_AD_LIMIT_OVER": "재고 소진",
+    "SI_PF_REQUIRED": "부족",
+    "SI_PF_COMMON_CANCEL": "취 소",
+    "SI_PF_MISSION_COMPLETE_ALL": "일괄 완료",
+    "SI_PF_MISSION_MOVE": "이 동",
+    "SI_PF_MISSION_COMPLETE": "완 료",
+    "SI_PF_MISSION_COMPLETE_ENG": "COMPLETE",
+    "SI_PF_COMMON_CLOSE": "닫기",
+    "SI_PF_RESULT_TOUCHTOCONTINUE_ENG": "TOUCH TO CONTINUE",
+    "SI_PF_INVENICON_BONUS": "보너스 +10%",
+    "SI_PF_INVENICON_DENIED_ENG": "DENIED",
+    "SI_PF_EMOTICON_CHANGE_BUTTON": "변경",
+    "SI_ICON_SLOT_SEIZED": "압 류",
+    "SI_CONTRACT_RESET_TIME": "오전 4시 초기화",
+    "SI_PF_SHOP_RESET_TIME": "상품 입고까지",
+    "SI_PF_POPUP_MISC_USE_COUNT_SLOT_MAX_TEXT": "MAX",
+    "SI_PF_EVENT_MISSION_COMPLETE_TEXT": "미션 완료",
+    "SI_PF_ICON_SLOT_TOP_NOTICE_TEXT": "즉시 획득",
+    "SI_PF_RESULT_COMMON_REFUND_TITLE_TEXT": "REFUND",
+    "SI_PF_RESULT_COMMON_REFUND_INFO_TEXT": "입장 비용 일부를 반환 받았습니다.",
+    "SI_PF_FIERCE": "격전지원",
+    "SI_PF_EVENT_GREMORY_BAR_BARTENDER_MAKING_CANCEL": "다시 선택",
+    "SI_PF_EVENT_GREMORY_BAR_BARTENDER_MAKING_START": "부탁한다",
+    "SI_PF_EVENT_GREMORY_BAR_NEXT_STEP": "다음으로",
+    "SI_PF_EVENT_GREMORY_BAR_PREVIOUS_PHASE_BUTTON": "돌아가기",
+    "SI_PF_EVENT_GREMORY_BAR_MENU_TECHNIQUE": "기법 선택",
+    "SI_PF_EVENT_GREMORY_BAR_MENU_CRAFT": "제조 수량",
+    "SI_PF_EVENT_GREMORY_BAR_MENU_COST": "소모 재료",
+    "SI_PF_EVENT_CAFE_STREGA_NEXT_PHASE_BUTTON": "음료 제조",
+    "SI_PF_EVENT_CAFE_STREGA_NEXT_PHASE_BUTTON_1": "마법의 묘약",
+    "SI_PF_EVENT_CAFE_STREGA_NEXT_PHASE_BUTTON_2": "신속 정확!",
+    "SI_PF_EVENT_CAFE_STREGA_NEXT_PHASE_BUTTON_3": "맛있어져라!",
+    "SI_PF_EVENT_CAFE_STREGA_NEXT_PHASE_BUTTON_4": "보는 즐거움",
+    "SI_PF_EVENT_CAFE_STREGA_NEXT_PHASE_BUTTON_5": "얼어붙어라!",
+    "SI_PF_EVENT_CAFE_STREGA_NEXT_PHASE_BUTTON_6": "음머머 음머",
+    "SI_PF_EVENT_CAFE_STREGA_RESULT_1": "여기에 이 한 방울만 넣으면…",
+    "SI_PF_EVENT_CAFE_STREGA_RESULT_2": "주문한 메뉴? 이미 네 뒤에 있다구…!",
+    "SI_PF_EVENT_CAFE_STREGA_RESULT_3": "이건 내가 만든 거야! 민트?! 조금은 들어갔을 지도...?",
+    "SI_PF_EVENT_CAFE_STREGA_RESULT_4": "잠시만요. 귀여운 데코레이션은 빼놓을 수 없죠.",
+    "SI_PF_EVENT_CAFE_STREGA_RESULT_5": "아이스 주문은 맥크레디 제빙에 맡겨주세요.",
+    "SI_PF_EVENT_CAFE_STREGA_RESULT_6": "저희 델타 밀크는 1등급 원유만을 사용합니다",
+    "SI_PF_EVENT_CAFE_STREGA_COUPON_RESULT_TITLE": "쿠폰 보상",
+    "SI_PF_EVENT_CAFE_STREGA_COUPON_RESULT_DESC": "유나가 서빙하러 가는 중…",
+    "SI_PF_EVENT_CAFE_STREGA_MENU_SPELL": "마법주문 외우기",
+    "SI_PF_EVENT_CAFE_STREGA_MENU_DRAW": "마법진 그리기",
+    "SI_PF_EVENT_CAFE_STREGA_MENU_INGREDIENT": "음료 재료",
+    "SI_PF_EVENT_CAFE_STREGA_MENU_COUNT_TEXT": "<color=#215750>{0}</color>/{1}",
+    "SI_PF_EVENT_CAFE_STREGA_EVELYN_GIVE_SELECT_DESC": "주문은 <color=#215750>{0}</color>네. 그럼 <color=#215750>{1}</color>잔만 부탁할게?",
+    "SI_PF_EVENT_CAFE_STREGA_EVELYN_REQUEST": "<color=#215750>{0}</color>로 주문이 접수됐어.",
+    "SI_PF_EVENT_CAFE_STREGA_EVELYN_GIVE_DESC": "주문받은 메뉴는 이게 맞을까?",
+    "SI_PF_EVENT_CAFE_STREGA_EVELYN_GIVE_CANCEL_DESC": "다른 메뉴로 바꿀 거야? 얼마든지.",
+    "SI_PF_EVENT_CAFE_STREGA_EVELYN_GIVE_END": "오늘 영업은 여기까지야, 내일도 꼭 찾아와야 해?",
+    "SI_PF_EVENT_CAFE_STREGA_EVELYN_GIVE_REJECT_DESC": "주문받은 메뉴랑 다르지 않아?",
+    "SI_PF_EVENT_CAFE_STREGA_EVELYN_GIVE_REJECT_AMOUNT_DESC": "<color=#215750>{0}</color>잔을 주문받았는데, 한번 확인해줄래?",
+    "SI_PF_EVENT_CAFE_STREGA_YUNA_MAKING_HELLO": "어서오세요. 뭘로 주문하시겠어요?",
+    "SI_PF_EVENT_CAFE_STREGA_YUNA_MAKING_CAST": "기법: 마법주문 외우기\n음료: {0}",
+    "SI_PF_EVENT_CAFE_STREGA_YUNA_MAKING_DRAW": "기법: 마법진 그리기\n음료: {0}",
+    "SI_PF_EVENT_CAFE_STREGA_YUNA_MAKING_REJECT": "으앗, 재료가 부족하네요. 어디 빠뜨렸나?",
+    "SI_PF_EVENT_GREMORY_BAR_REWARD_TEXT": "제조 결과",
+    "SI_PF_EVENT_GREMORY_BAR_CLOSE_1": "금일 영업 종료",
+    "SI_PF_EVENT_GREMORY_BAR_MOMO_REWARD_LIST_TITLE": "전체 보상 목록",
+    "SI_PF_EVENT_GREMORY_BAR_MOMO_REWARD_LIST": "전체 보상 보기",
+    "SI_PF_EVENT_GREMORY_BAR_MOMO_ERRAND": "심부름 가기",
+    "SI_PF_EVENT_GREMORY_BAR_MOMO_REWARD_SLOT_COMPLETE": "획득 완료"
+  },
+  "sourcePolicy": "Recipes and Cafe mission rows match StreamingAssets and Assetbundles original extracted tables. Korean string overrides use Assetbundles after StreamingAssets.",
+  "unresolvedRuntimeState": [
+    "DailyCocktailItemID comes from EVENT_BAR_DAILY_INFO_NOT, not a client selection algorithm.",
+    "Account inventory, mission progression, and reward responses are server-owned."
+  ],
+  "userOverrides": {
+    "initialIngredientCount": 30,
+    "completedMomoIngredientAddition": 30,
+    "persistInventory": true,
+    "persistCreatedDrinks": true,
+    "persistDeliveryState": true,
+    "dailyOrderPolicy": {
+      "recoveredFromClient": false,
+      "timezone": "Asia/Seoul",
+      "mondayToSaturday": "recipe-index-0-to-5",
+      "sunday": "stable-week-ordinal-mod-6"
+    }
+  },
+  "sourceFiles": [
+    {
+      "path": "tools/CounterSide_decryption_tool-main/2차 복호화(TextAsset)/JSON/Assetbundles_ab_script/073_LUA_EVENT_BAR_TEMPLET_h.json",
+      "sha256": "c89b9063922f4addc32d31155ef7814e7d1dbf7b6bb109391776d862c06c6041"
+    },
+    {
+      "path": "tools/CounterSide_decryption_tool-main/2차 복호화(TextAsset)/JSON/Data_StreamingAssets_ab_script/023_LUA_EVENT_BAR_TEMPLET_h.json",
+      "sha256": "c89b9063922f4addc32d31155ef7814e7d1dbf7b6bb109391776d862c06c6041"
+    },
+    {
+      "path": "tools/CounterSide_decryption_tool-main/2차 복호화(TextAsset)/JSON/Assetbundles_ab_script/045_LUA_MISSION_TEMPLET_j.json",
+      "sha256": "1b5c5db05abc931ae211cd462346c4ec9ddc384d24ca4432fac5f46a5583f55d"
+    },
+    {
+      "path": "tools/CounterSide_decryption_tool-main/2차 복호화(TextAsset)/JSON/Data_StreamingAssets_ab_script/001_LUA_MISSION_TEMPLET_j.json",
+      "sha256": "a4677712b08071cee0602db355cd1775814f268c19f44aabefe3c32549a5750b"
+    },
+    {
+      "path": "tools/CounterSide_decryption_tool-main/2차 복호화(TextAsset)/JSON/Assetbundles_ab_script_item_templet/012_LUA_ITEM_MISC_TEMPLET_h.json",
+      "sha256": "728a37d30d11ade2adceb2bce25c25334a5e26e3c9c38a8c0cd60b39cd085ef0"
+    },
+    {
+      "path": "tools/CounterSide_decryption_tool-main/2차 복호화(TextAsset)/JSON/Assetbundles_ab_script/021_LUA_EVENT_TAB_TEMPLET_h.json",
+      "sha256": "7590d443385b053ce5c91aede7b7a12e7059ca408dfa60f50b7a678b16705baf"
+    },
+    {
+      "path": "tools/CounterSide_decryption_tool-main/2차 복호화(TextAsset)/JSON/Assetbundles_ab_script/158_LUA_EVENT_COLLECTION_INDEX_TEMPLET_t.json",
+      "sha256": "1957a4930119df64778823922eb98a256a39571bfc52a801d1f45a1cabc66bec"
+    },
+    {
+      "path": "dump/StreamingAssets/ui_single_cafe.asset_export/CAB-1a3ce28802c21a44aa0fd2ddd4c4df28/NKCComTMPUIText.txt",
+      "sha256": "496764b1a624ee7881880bb8e34b92484f9b6a3e3b53b9d492fa2e6b0a4c3c79"
+    },
+    {
+      "path": "dump/StreamingAssets/ui_single_cafe.asset_export/CAB-1a3ce28802c21a44aa0fd2ddd4c4df28/NKCUIComStringChanger.txt",
+      "sha256": "7d2fcb0594c06fbfe5fb5f4a9f8c38d709a95751130de5e7240540d62e272b92"
+    },
+    {
+      "path": "dump/StreamingAssets/ui_single_cafe.asset_export/CAB-1a3ce28802c21a44aa0fd2ddd4c4df28/NKCUIEventBarCreateMenu.txt",
+      "sha256": "ed436e9627aa83d6d27fb4074f50fb5588eb9dab3ca9f856e4eabba3d64d8e08"
+    },
+    {
+      "path": "dump/StreamingAssets/ui_single_cafe.asset_export/CAB-1a3ce28802c21a44aa0fd2ddd4c4df28/NKCUIEventBarPhaseCreate.txt",
+      "sha256": "0becafc548355945a85f7be3ae30923e0b78de27c4e2a3b7e2861de8424c94cd"
+    },
+    {
+      "path": "dump/StreamingAssets/ui_single_cafe.asset_export/CAB-1a3ce28802c21a44aa0fd2ddd4c4df28/NKCUIEventBarPhaseEntry.txt",
+      "sha256": "a2fe2e3ee96fc5a984030020942129aac3aaa8a78697e3adfaa45047c32c6fea"
+    },
+    {
+      "path": "dump/StreamingAssets/ui_single_cafe.asset_export/CAB-1a3ce28802c21a44aa0fd2ddd4c4df28/NKCUIEventBarResult.txt",
+      "sha256": "0d213841f4c3b4693ddf2a3641617dc438955cfaaea956ec89ba66634b6fecea"
+    },
+    {
+      "path": "tools/CounterSide_decryption_tool-main/2차 복호화(TextAsset)/JSON/Data_StreamingAssets_ab_script_string_table/033_LUA_SI_ITEM_TEMPLET_KOREA_a.json",
+      "sha256": "423d2f9472c25068a17e04079912932c56bf2c54a08e09ccd991d2acec365cad"
+    },
+    {
+      "path": "tools/CounterSide_decryption_tool-main/2차 복호화(TextAsset)/JSON/Data_StreamingAssets_ab_script_string_table/074_LUA_SI_MISSION_TEMPLET_KOREA_z.json",
+      "sha256": "629a3e823bfdeea1564704d6aeab2b30d46c276ab806afa2a9dbe774b771cfc8"
+    },
+    {
+      "path": "tools/CounterSide_decryption_tool-main/2차 복호화(TextAsset)/JSON/Data_StreamingAssets_ab_script_string_table/092_LUA_SI_DYNAMIC_PREFAB_KOREA_a.json",
+      "sha256": "f39e09df01ccb8d2db910b6d754ad2564db32158f6cac828dcaabecf75aa060a"
+    },
+    {
+      "path": "tools/CounterSide_decryption_tool-main/2차 복호화(TextAsset)/JSON/Data_StreamingAssets_ab_script_string_table/098_LUA_SI_LOBBY_KOREA_k.json",
+      "sha256": "2854756dd4b888e75122114fdf28614266c90203edb41202306d09c61da7b84b"
+    },
+    {
+      "path": "tools/CounterSide_decryption_tool-main/2차 복호화(TextAsset)/JSON/Assetbundles_ab_script_string_table/018_LUA_SI_DYNAMIC_PREFAB_KOREA_a.json",
+      "sha256": "f39e09df01ccb8d2db910b6d754ad2564db32158f6cac828dcaabecf75aa060a"
+    },
+    {
+      "path": "tools/CounterSide_decryption_tool-main/2차 복호화(TextAsset)/JSON/Assetbundles_ab_script_string_table/047_LUA_SI_MISSION_TEMPLET_KOREA_z.json",
+      "sha256": "004f44c7cad701c263a77f00483f62ffb0568c5c87dcb9aea348d85bf908f85a"
+    },
+    {
+      "path": "tools/CounterSide_decryption_tool-main/2차 복호화(TextAsset)/JSON/Assetbundles_ab_script_string_table/053_LUA_SI_ITEM_TEMPLET_KOREA_a.json",
+      "sha256": "b81350bc56ae59c2820af22d28e4bb697ac790498dee8edb3cd2f3600fe95419"
+    },
+    {
+      "path": "tools/CounterSide_decryption_tool-main/2차 복호화(TextAsset)/JSON/Assetbundles_ab_script_string_table/081_LUA_SI_LOBBY_KOREA_k.json",
+      "sha256": "2854756dd4b888e75122114fdf28614266c90203edb41202306d09c61da7b84b"
+    }
+  ]
+}

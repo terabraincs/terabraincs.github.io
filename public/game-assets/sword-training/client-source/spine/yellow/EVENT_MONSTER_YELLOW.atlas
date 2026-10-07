@@ -1,0 +1,97 @@
+
+EVENT_MONSTER_YELLOW.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front_body_1
+  rotate: false
+  xy: 110, 76
+  size: 112, 108
+  orig: 112, 108
+  offset: 0, 0
+  index: -1
+front_body_2
+  rotate: true
+  xy: 110, 2
+  size: 72, 88
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+front_head_1
+  rotate: false
+  xy: 2, 186
+  size: 263, 320
+  orig: 263, 320
+  offset: 0, 0
+  index: -1
+front_left_arm_1
+  rotate: true
+  xy: 267, 173
+  size: 130, 149
+  orig: 130, 149
+  offset: 0, 0
+  index: -1
+front_left_arm_2
+  rotate: true
+  xy: 267, 305
+  size: 201, 241
+  orig: 201, 241
+  offset: 0, 0
+  index: -1
+front_left_leg_1
+  rotate: true
+  xy: 2, 114
+  size: 70, 105
+  orig: 70, 105
+  offset: 0, 0
+  index: -1
+front_left_leg_2
+  rotate: true
+  xy: 418, 192
+  size: 111, 86
+  orig: 111, 86
+  offset: 0, 0
+  index: -1
+front_right_arm_1
+  rotate: false
+  xy: 418, 82
+  size: 85, 108
+  orig: 85, 108
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: true
+  xy: 363, 5
+  size: 75, 67
+  orig: 75, 67
+  offset: 0, 0
+  index: -1
+front_right_arm_3
+  rotate: true
+  xy: 432, 21
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+front_right_leg_1
+  rotate: false
+  xy: 2, 4
+  size: 106, 76
+  orig: 106, 76
+  offset: 0, 0
+  index: -1
+front_right_leg_2
+  rotate: true
+  xy: 224, 27
+  size: 53, 137
+  orig: 53, 137
+  offset: 0, 0
+  index: -1
+fx_shadow
+  rotate: false
+  xy: 224, 117
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1

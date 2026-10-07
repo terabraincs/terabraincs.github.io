@@ -1,0 +1,1061 @@
+@font-face {
+  font-family: "MatchTen Main";
+  src: url("/game-assets/common/fonts/MainFont.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MatchTen Number";
+  src: url("/game-assets/common/fonts/Rajdhani-SemiBold.ttf")
+    format("truetype");
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+
+.stage {
+  position: relative;
+  flex: 1;
+  width: 100%;
+  min-width: 0;
+  min-height: calc(100dvh - 82px);
+  overflow: clip;
+  background: #080a0f;
+  color: #fff;
+  font-family: "MatchTen Main", sans-serif;
+}
+
+.clientCanvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: clip;
+  background: #111528;
+  transform-origin: 0 0;
+  user-select: none;
+}
+
+.clientRect {
+  min-width: 0;
+  min-height: 0;
+}
+
+.matchtenRoot {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 1920px;
+  height: 1080px;
+  overflow: visible;
+  transform: translate(-50%, -50%);
+}
+
+.introRoot {
+  z-index: 60;
+  overflow: visible;
+  pointer-events: auto;
+}
+
+.introCutFrame,
+.introCutInner,
+.introCutFive {
+  overflow: visible;
+  pointer-events: none;
+}
+
+.introCutInner {
+  z-index: 1;
+  overflow: hidden;
+}
+
+.introRaycastArea {
+  z-index: 70;
+  background: transparent;
+  pointer-events: auto;
+}
+
+.popupRoot {
+  position: absolute;
+  inset: 0;
+  z-index: 80;
+  overflow: visible;
+}
+
+.outerLoopBackground {
+  position: absolute;
+  background-image: url("https://raw.githubusercontent.com/terabraincs/Asset_main/main/game-assets/match-ten/client-exact/texture/UI_SINGLE_MATCHTEN_BG_02.png");
+  background-repeat: repeat;
+  background-size: 20% 33.333333%;
+  animation: uvFlow 5s linear infinite;
+}
+
+.outerGradient {
+  background: rgb(15.9545 25.921 91.4151 / 0.141176477);
+  mix-blend-mode: plus-lighter;
+  -webkit-mask-image: url("https://raw.githubusercontent.com/terabraincs/Asset_main/main/game-assets/match-ten/client-common/AB_UI_EVENT_MD_GRADIENT.png");
+  -webkit-mask-position: center;
+  -webkit-mask-size: 100% 100%;
+  mask-image: url("https://raw.githubusercontent.com/terabraincs/Asset_main/main/game-assets/match-ten/client-common/AB_UI_EVENT_MD_GRADIENT.png");
+  mask-position: center;
+  mask-size: 100% 100%;
+}
+
+.slicedFill {
+  position: absolute;
+  inset: 0;
+  box-sizing: border-box;
+  border: 0;
+  pointer-events: none;
+}
+
+.slicedBackground {
+  z-index: 0;
+}
+
+.clientButton {
+  position: absolute;
+  z-index: 5;
+  display: block;
+  overflow: visible;
+  border: 0;
+  background: transparent;
+  padding: 0;
+  color: inherit;
+  font: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  touch-action: manipulation;
+  transition: scale 100ms cubic-bezier(0.333333, 1, 0.666667, 1);
+}
+
+.clientButton:active {
+  scale: 0.9;
+}
+
+.clientButton:disabled {
+  cursor: default;
+}
+
+.clientButton:focus-visible {
+  outline: 3px solid rgba(255, 211, 76, 0.9);
+  outline-offset: 2px;
+}
+
+.lobbyPage,
+.gamePage {
+  opacity: 1;
+}
+
+.lobbyTransitionOut {
+  pointer-events: none;
+  animation:
+    lobbyPageOutVisual 333.333343ms linear 100ms both,
+    lobbyPageOutActive 333.333343ms linear 100ms both;
+}
+
+.gameTransitionIn {
+  pointer-events: none;
+  animation:
+    gamePageInMove 333.333343ms linear 100ms both,
+    gamePageInFade 333.333343ms linear 100ms both,
+    gamePageInActive 333.333343ms linear 100ms both;
+}
+
+.lobbyTransitionIn {
+  pointer-events: none;
+  animation:
+    lobbyPageInVisual 333.333343ms linear both,
+    lobbyPageInActive 333.333343ms linear both;
+}
+
+.gameTransitionOut {
+  pointer-events: none;
+  animation:
+    gamePageOutMove 333.333343ms linear both,
+    gamePageOutFade 333.333343ms linear both,
+    gamePageOutActive 333.333343ms linear both;
+}
+
+.lobbyDecoOne {
+  animation: lobbyDecoOne 1s linear infinite alternate;
+}
+
+.lobbyDecoTwo {
+  animation: lobbyDecoTwo 1s linear 500ms infinite alternate;
+}
+
+.startButtonImage {
+  animation: startButtonPulse 1s linear infinite alternate;
+}
+
+.recordPanel {
+  pointer-events: none;
+}
+
+.recordShadow {
+  background: transparent;
+}
+
+.recordBackground {
+  background: transparent;
+}
+
+.recordBackground > * {
+  z-index: 1;
+}
+
+.recordShadow > .slicedFill,
+.recordBackground > .slicedFill,
+.rewardScoreBackground > .slicedFill {
+  z-index: 0;
+}
+
+.recordInset {
+  background: transparent;
+}
+
+.recordLine {
+  background: #424452;
+}
+
+.recordValue,
+.recordNumber {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.recordNumber {
+  color: rgb(195 220 255);
+  font-family: "MatchTen Number", sans-serif;
+  font-size: 60px;
+  font-weight: 600;
+  line-height: 1;
+  text-align: center;
+}
+
+.menuText,
+.resultButtonText,
+.rerollButtonText {
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-family: "MatchTen Main", sans-serif;
+  font-size: 46px;
+  font-weight: 500;
+  line-height: 1;
+  text-align: center;
+}
+
+.startArrowOne,
+.startArrowTwo {
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+}
+
+.startArrowOne {
+  animation-name: startArrowOneFade;
+}
+
+.startArrowTwo {
+  animation-name: startArrowTwoFade;
+}
+
+.startArrowTwo {
+  animation-delay: 200ms;
+}
+
+.gameInputRoot {
+  position: absolute;
+  touch-action: none;
+}
+
+.statTitle,
+.resultStatTitle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  color: rgb(167 177 208);
+  font-family: "MatchTen Main", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.statTitle > span,
+.resultStatTitle > span {
+  position: relative;
+  z-index: 1;
+}
+
+.statNumber {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  color: rgb(255 185 45);
+  font-family: "MatchTen Number", sans-serif;
+  font-size: 86px;
+  font-weight: 600;
+  letter-spacing: -4px;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.timeWarning {
+  color: #f12f36;
+}
+
+.boardBackdrop {
+  background: transparent;
+}
+
+.board {
+  z-index: 3;
+  display: grid;
+  box-sizing: border-box;
+  grid-template-columns: repeat(20, 62px);
+  grid-template-rows: repeat(8, 62px);
+  column-gap: 23px;
+  row-gap: 15px;
+  place-content: center;
+  padding: 0 0 22px;
+  overflow: visible;
+  touch-action: none;
+}
+
+.cell {
+  position: relative;
+  width: 62px;
+  height: 62px;
+  overflow: visible;
+}
+
+.inactiveCell {
+  visibility: hidden;
+}
+
+.cellCanvas {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 1;
+  width: 64px;
+  height: 64px;
+  opacity: 1;
+  transform: translate(-50%, -50%);
+  transform-origin: 50% 50%;
+}
+
+.cellNormal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 62px;
+  height: 62px;
+  transform: translate(-50%, -50%);
+}
+
+.snackImage {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 68px;
+  height: 68px;
+  transform: translate(-50%, -50%);
+}
+
+.numberImage {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 2;
+  width: 55px;
+  height: 55px;
+  transform: translate(-50%, -50%);
+}
+
+.selectedCell {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 4;
+  width: 78px;
+  height: 78px;
+  box-sizing: border-box;
+  transform: translate(-50%, -50%);
+  mix-blend-mode: plus-lighter;
+}
+
+.selectedCellHidden {
+  visibility: hidden;
+}
+
+.cellRemoved {
+  opacity: 0;
+  transform: translate(-50%, calc(-50% + 8px));
+}
+
+.cellClearing {
+  animation: cellClear 416.666657ms linear both;
+}
+
+.selectionBox {
+  position: absolute;
+  z-index: 20;
+  min-width: 0;
+  min-height: 0;
+  pointer-events: none;
+}
+
+.selectionBox > span {
+  filter: brightness(0.2);
+  mix-blend-mode: plus-lighter;
+}
+
+.countdown {
+  z-index: 30;
+  pointer-events: none;
+}
+
+.countdownBlind {
+  background: transparent;
+}
+
+.countdownIcon {
+  z-index: 2;
+  transform-origin: 50% 50% !important;
+}
+
+.rerollOverlay {
+  z-index: 40;
+}
+
+.rerollShade {
+  background: transparent;
+}
+
+.rerollInfo {
+  color: #fff;
+}
+
+.rerollInfoTint {
+  background: transparent;
+}
+
+.rerollTextOne,
+.rerollTextTwo {
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-family: "MatchTen Main", sans-serif;
+  font-weight: 500;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.rerollTextOne {
+  color: #13141c;
+  font-size: 40px;
+}
+
+.rerollTextTwo {
+  color: #1d4589;
+  font-size: 30px;
+}
+
+.rerollButtonText {
+  font-size: 36px;
+}
+
+.resultShadow {
+  background-image: url("https://raw.githubusercontent.com/terabraincs/Asset_main/main/game-assets/match-ten/client-exact/tinted/UI_SINGLE_MATCHTEN_BOX_RESULT_SHADOW.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.ruleShade {
+  background: rgb(0 0 0 / 0.9019607843137255);
+  -webkit-mask-image: linear-gradient(
+    to top,
+    rgb(255 255 255 / 0.9490196078431372) 0,
+    rgb(255 255 255 / 0.9490196078431372) 0.5px,
+    #fff 1.5px,
+    #fff 10.56779707px,
+    rgb(255 255 255 / 0.9490196078431372) 15.61299518px,
+    rgb(255 255 255 / 0.9490196078431372) 1070.5px,
+    #fff 1071.5px,
+    #fff 1078.5px,
+    rgb(255 255 255 / 0.9490196078431372) 1079.5px,
+    rgb(255 255 255 / 0.9490196078431372) 1080px
+  );
+  -webkit-mask-position: center;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+}
+
+.rewardShade {
+  background-image: url("https://raw.githubusercontent.com/terabraincs/Asset_main/main/game-assets/match-ten/client-exact/tinted/NKM_UI_POPUP_BOX_REWARD_SHADOW.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.resultCharacter {
+  animation:
+    resultCharacterScale 2s linear infinite alternate,
+    resultCharacterRotate 2s linear infinite alternate;
+}
+
+.resultInfo {
+  display: flex;
+  box-sizing: content-box;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 0 50px;
+  background: transparent;
+  white-space: nowrap;
+}
+
+.resultInfo > * {
+  position: relative;
+  z-index: 1;
+}
+
+.resultInfo > .slicedFill {
+  position: absolute;
+  z-index: 0;
+}
+
+.resultUserName,
+.resultUserUid {
+  display: block;
+  height: 60px;
+  line-height: 60px;
+}
+
+.resultUserName {
+  color: #fff;
+  font-family: "MatchTen Main", sans-serif;
+  font-size: 36px;
+  font-weight: 500;
+}
+
+.resultUserUid {
+  color: rgb(78 194 243);
+  font-family: "MatchTen Number", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+}
+
+.resultStatTitle {
+  justify-content: flex-start;
+  gap: 12px;
+  color: rgb(167 177 208);
+  font-size: 36px;
+}
+
+.resultNumberLayout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.resultNumber {
+  display: flex;
+  height: 90px;
+  flex: 0 0 90px;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-family: "MatchTen Number", sans-serif;
+  font-size: 86px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 1;
+  text-align: center;
+}
+
+.resultScoreNumber {
+  width: 390.731812px;
+}
+
+.resultTimeNumber {
+  width: 432px;
+}
+
+.newRecord {
+  position: relative;
+  width: 100px;
+  height: 30px;
+  flex: 0 0 30px;
+}
+
+.newRecordText {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: visible;
+  color: #ffd229;
+  font-family: "MatchTen Main", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.newRecordAdditive {
+  mix-blend-mode: plus-lighter;
+  pointer-events: none;
+}
+
+.ruleScroll {
+  overflow: hidden;
+}
+
+.ruleBackground {
+  background: transparent;
+}
+
+.ruleViewport {
+  overflow-x: hidden;
+  overflow-y: auto;
+  scrollbar-width: none;
+}
+
+.ruleViewport::-webkit-scrollbar {
+  display: none;
+}
+
+.ruleContent {
+  display: flex;
+  box-sizing: border-box;
+  min-height: 100%;
+  padding: 18px;
+}
+
+.ruleText {
+  width: 100%;
+  margin: 0;
+  color: #fff;
+  font-family: "MatchTen Main", sans-serif;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.ruleHeading {
+  color: #ffd34c;
+  font-weight: 700;
+}
+
+.ruleBold {
+  font-weight: 700;
+}
+
+.rewardScoreBackground {
+  background: transparent;
+}
+
+.rewardScore {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(199 215 251);
+  font-family: "MatchTen Number", sans-serif;
+  font-size: 100px;
+  font-weight: 700;
+  line-height: 1;
+  text-shadow:
+    3px -3px rgb(0 0 0 / 0.674509824),
+    -3px -3px rgb(0 0 0 / 0.674509824),
+    3px 3px rgb(0 0 0 / 0.674509824),
+    -3px 3px rgb(0 0 0 / 0.674509824);
+}
+
+.rewardScroll {
+  overflow: hidden;
+}
+
+.rewardScrollBackground {
+  background: transparent;
+}
+
+.rewardViewport {
+  box-sizing: border-box;
+  overflow-x: hidden;
+  overflow-y: auto;
+  scrollbar-width: none;
+}
+
+.rewardViewport::-webkit-scrollbar {
+  display: none;
+}
+
+.rewardList {
+  display: flex;
+  box-sizing: border-box;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 0;
+}
+
+.rewardSlot {
+  position: relative;
+  width: 1050px;
+  height: 140px;
+  flex: 0 0 140px;
+  color: #fff;
+}
+
+.rewardDescription {
+  position: absolute;
+  top: 50%;
+  left: 31.4107px;
+  width: 469.1029px;
+  height: 95.6px;
+  display: flex;
+  align-items: center;
+  transform: translateY(-50%);
+  font-family: "MatchTen Main", sans-serif;
+  font-size: 36px;
+  font-weight: 500;
+}
+
+.rewardPopup {
+  transform-origin: 50% 50%;
+  animation: rewardPopupOpen 300ms linear both;
+}
+
+.rewardDecoOne {
+  animation: rewardDecoOne 1s linear infinite alternate;
+}
+
+.rewardDecoTwo {
+  animation: rewardDecoTwo 1s linear 400ms infinite alternate;
+}
+
+.rewardDecoThree {
+  animation: rewardDecoThree 1s linear 800ms infinite alternate;
+}
+
+.disabledButtonImage {
+  filter: brightness(0.33018869);
+}
+
+.rewardAllText {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(70 70 70);
+  font-family: "MatchTen Main", sans-serif;
+  font-size: 46px;
+  font-weight: 500;
+}
+
+.srOnly {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+}
+
+@keyframes rewardPopupOpen {
+  0% { opacity: 0; scale: 1.1; }
+  5.555556% { opacity: 0.055556; scale: 1.089197531; }
+  11.111111% { opacity: 0.111111; scale: 1.079012346; }
+  16.666667% { opacity: 0.166667; scale: 1.069444444; }
+  22.222222% { opacity: 0.222222; scale: 1.060493827; }
+  27.777778% { opacity: 0.277778; scale: 1.052160494; }
+  33.333333% { opacity: 0.333333; scale: 1.044444444; }
+  38.888889% { opacity: 0.388889; scale: 1.037345679; }
+  44.444444% { opacity: 0.444444; scale: 1.030864198; }
+  50% { opacity: 0.5; scale: 1.025; }
+  55.555556% { opacity: 0.555556; scale: 1.019753086; }
+  61.111111% { opacity: 0.611111; scale: 1.015123457; }
+  66.666667% { opacity: 0.666667; scale: 1.011111111; }
+  72.222222% { opacity: 0.722222; scale: 1.007716049; }
+  77.777778% { opacity: 0.777778; scale: 1.004938272; }
+  83.333333% { opacity: 0.833333; scale: 1.002777778; }
+  88.888889% { opacity: 0.888889; scale: 1.001234568; }
+  94.444444% { opacity: 0.944444; scale: 1.000308642; }
+  100% { opacity: 1; scale: 1; }
+}
+
+@keyframes rewardDecoOne {
+  from { translate: 0 0; }
+  to { translate: -8px 6px; }
+}
+
+@keyframes rewardDecoTwo {
+  from { translate: 0 0; }
+  to { translate: -2.5px 6.8px; }
+}
+
+@keyframes rewardDecoThree {
+  from { translate: 0 0; }
+  to { translate: -11.600006px -3.099998px; }
+}
+
+@keyframes uvFlow {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: -25% 50%;
+  }
+}
+
+@keyframes lobbyPageOutVisual {
+  0% {
+    opacity: 1;
+    translate: 0 0;
+    animation-timing-function: cubic-bezier(0.333333, 0, 0.666667, 1);
+  }
+
+  50% {
+    opacity: 0;
+    translate: -852.28px 0;
+  }
+
+  100% {
+    opacity: 0;
+    translate: -852.28px 0;
+  }
+}
+
+@keyframes lobbyPageOutActive {
+  0%,
+  49.999% {
+    visibility: visible;
+  }
+
+  50%,
+  100% {
+    visibility: hidden;
+  }
+}
+
+@keyframes gamePageInMove {
+  0% {
+    translate: 861px 0;
+    animation-timing-function: cubic-bezier(0.333333, 0, 0.666667, 1);
+  }
+
+  100% {
+    translate: 0 0;
+  }
+}
+
+@keyframes gamePageInFade {
+  0%,
+  50% {
+    opacity: 0;
+  }
+
+  50% {
+    animation-timing-function: cubic-bezier(0.333333, 0, 0.666667, 1);
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes gamePageInActive {
+  0%,
+  54.999% {
+    visibility: hidden;
+  }
+
+  55%,
+  100% {
+    visibility: visible;
+  }
+}
+
+@keyframes gamePageOutMove {
+  0% {
+    translate: 0 0;
+    animation-timing-function: cubic-bezier(0.333333, 0, 0.666667, 1);
+  }
+
+  100% {
+    translate: 861px 0;
+  }
+}
+
+@keyframes gamePageOutFade {
+  0% {
+    opacity: 1;
+    animation-timing-function: cubic-bezier(0.333333, 0, 0.666667, 1);
+  }
+
+  50%,
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes gamePageOutActive {
+  0%,
+  49.999% {
+    visibility: visible;
+  }
+
+  50%,
+  100% {
+    visibility: hidden;
+  }
+}
+
+@keyframes lobbyPageInVisual {
+  0%,
+  50% {
+    opacity: 0;
+    translate: -852.28px 0;
+  }
+
+  50% {
+    animation-timing-function: cubic-bezier(0.333333, 0, 0.666667, 1);
+  }
+
+  100% {
+    opacity: 1;
+    translate: 0 0;
+  }
+}
+
+@keyframes lobbyPageInActive {
+  0%,
+  54.999% {
+    visibility: hidden;
+  }
+
+  55%,
+  100% {
+    visibility: visible;
+  }
+}
+
+@keyframes startArrowOneFade {
+  0% {
+    opacity: 1;
+    animation-timing-function: cubic-bezier(
+      0.333333,
+      0.333333,
+      0.666667,
+      0.821991
+    );
+  }
+  69.946343% {
+    opacity: 0.003001;
+    animation-timing-function: linear;
+  }
+  99.841309%,
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes startArrowTwoFade {
+  0% {
+    opacity: 1;
+    animation-timing-function: linear;
+  }
+  68.547398% {
+    opacity: 0.007006;
+    animation-timing-function: linear;
+  }
+  100% {
+    opacity: 0.006736;
+  }
+}
+
+@keyframes lobbyDecoOne {
+  from {
+    rotate: 0deg;
+  }
+  to {
+    rotate: -0.4deg;
+  }
+}
+
+@keyframes lobbyDecoTwo {
+  from {
+    translate: 0 0;
+  }
+  to {
+    translate: 0 6px;
+  }
+}
+
+@keyframes startButtonPulse {
+  from {
+    scale: 1;
+  }
+  to {
+    scale: 1.02;
+  }
+}
+
+@keyframes cellClear {
+  0% {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+    animation-timing-function: cubic-bezier(0.333333, 0, 0.666667, 1);
+  }
+  20% {
+    opacity: 1;
+    transform: translate(-50%, calc(-50% - 10px)) scale(1.1);
+    animation-timing-function: cubic-bezier(0.333333, 0, 0.666667, 1);
+  }
+  40% {
+    opacity: 1;
+    animation-timing-function: cubic-bezier(0.333333, 0, 0.666667, 1);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(-50%, calc(-50% + 8px)) scale(1);
+  }
+}
+
+@keyframes resultCharacterScale {
+  from {
+    scale: 1;
+  }
+  to {
+    scale: 1.025;
+  }
+}
+
+@keyframes resultCharacterRotate {
+  from {
+    rotate: 0deg;
+  }
+  to {
+    rotate: 2deg;
+  }
+}
